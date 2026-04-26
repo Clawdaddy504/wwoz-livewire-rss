@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 26 Apr 2026 20:03:50 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Apr 2026 23:24:55 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Lobelia Jazz Band — 21st Amendment</title>
@@ -162,16 +162,16 @@
 <pubDate>Sun, 26 Apr 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>ABTrio — Breezy's Courtyard Bar at Gasa Gasa (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1336771</link>
-<guid isPermaLink="false">9b40c3c7664bd4cdae456ff693ebf9a82fabb2b0</guid>
+<title>ABtrio — Breezy's Courtyard Bar at Gasa Gasa (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1323256</link>
+<guid isPermaLink="false">f7dcb1f383bc6445fb7f0bdf5758b6c54c32efc7</guid>
 <description>Venue: Breezy's Courtyard Bar at Gasa Gasa (OUTDOORS) | Date: Sunday, April 26 | Time: 7:00pm</description>
 <pubDate>Sun, 26 Apr 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>ABtrio — Breezy's Courtyard Bar at Gasa Gasa (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1323256</link>
-<guid isPermaLink="false">f7dcb1f383bc6445fb7f0bdf5758b6c54c32efc7</guid>
+<title>ABTrio — Breezy's Courtyard Bar at Gasa Gasa (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1336771</link>
+<guid isPermaLink="false">9b40c3c7664bd4cdae456ff693ebf9a82fabb2b0</guid>
 <description>Venue: Breezy's Courtyard Bar at Gasa Gasa (OUTDOORS) | Date: Sunday, April 26 | Time: 7:00pm</description>
 <pubDate>Sun, 26 Apr 2026 19:00:00 +0000</pubDate>
 </item>
