@@ -24,14 +24,14 @@ jobs:
         run: |
           python generate_feed.py --out docs/feed.xml
 
-      - name: Commit updated feed
+      - name: Commit updated artifacts
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/feed.xml
+          git add docs/feed.xml docs/events.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update feed"
+            git commit -m "Update feed + events JSON"
             git push
           fi

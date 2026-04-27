@@ -4,11 +4,13 @@ from __future__ import annotations
 import argparse
 import hashlib
 import html
+import json
 import re
-from dataclasses import dataclass
+from dataclasses import asdict, dataclass
 from datetime import UTC, datetime
 from email.utils import format_datetime
 from html.parser import HTMLParser
+from pathlib import Path
 from urllib.parse import urljoin
 from urllib.request import Request, urlopen
 
@@ -185,6 +187,21 @@ def item_guid(event: EventItem) -> str:
     return hashlib.sha1(f"{event.event_url}|{event.venue}|{event.time_text}".encode()).hexdigest()
 
 
+def event_to_json(event: EventItem) -> dict:
+    return {
+        "id": item_guid(event),
+        "source": "wwoz",
+        "title": event.title,
+        "venue": event.venue,
+        "venue_url": event.venue_url,
+        "event_url": event.event_url,
+        "date_text": event.day_text,
+        "time_text": event.time_text,
+        "start": event.dt.isoformat() if event.dt else None,
+        "description": f"Venue: {event.venue} | Date: {event.day_text} | Time: {event.time_text}",
+    }
+
+
 def build_rss(source_url: str, items: list[EventItem]) -> str:
     now = format_datetime(datetime.now(UTC))
     parts = [
@@ -214,6 +231,19 @@ def build_rss(source_url: str, items: list[EventItem]) -> str:
     return "\n".join(parts) + "\n"
 
 
+def write_json(out_path: str, source_url: str, items: list[EventItem]) -> str:
+    json_path = str(Path(out_path).with_name("events.json"))
+    payload = {
+        "source": "wwoz",
+        "source_url": source_url,
+        "generated_at": datetime.now(UTC).isoformat(),
+        "count": len(items),
+        "events": [event_to_json(event) for event in items],
+    }
+    Path(json_path).write_text(json.dumps(payload, indent=2), encoding="utf-8")
+    return json_path
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description="Convert WWOZ Livewire Music Calendar page to RSS")
     ap.add_argument("--url", default=DEFAULT_URL)
@@ -228,7 +258,9 @@ def main() -> int:
     rss = build_rss(args.url, parser.events)
     with open(args.out, "w", encoding="utf-8") as f:
         f.write(rss)
+    json_path = write_json(args.out, args.url, parser.events)
     print(f"Wrote {len(parser.events)} items to {args.out}")
+    print(f"Wrote {len(parser.events)} items to {json_path}")
     return 0
 
 
