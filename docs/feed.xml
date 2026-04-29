@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 29 Apr 2026 07:53:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Apr 2026 16:05:59 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dr. Sick — 21st Amendment</title>
@@ -253,6 +253,13 @@
 <pubDate>Wed, 29 Apr 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Benefit for Little Freddie King ft. Shoo-In Blues, Sally Baby's Silver Dollars, Treme Brass Band &amp; More! — d.b.a.</title>
+<link>https://www.wwoz.org/events/1336941</link>
+<guid isPermaLink="false">2bd04d367e1c3ac2532b870a4b0ca086278efd30</guid>
+<description>Venue: d.b.a. | Date: Wednesday, April 29 | Time: 2:00pm</description>
+<pubDate>Wed, 29 Apr 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Pat Casey Presents: Get It How Ya' Livin' — d.b.a.</title>
 <link>https://www.wwoz.org/events/1327686</link>
 <guid isPermaLink="false">222190c3938fb46b20655d65b26e5620bc65b2ff</guid>
@@ -288,7 +295,7 @@
 <pubDate>Wed, 29 Apr 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Drop Inn Jam Session Hosted by DC Paul — Dew Drop Inn Hotel &amp; Lounge</title>
+<title>The Drop Inn Jam Session ft. Chris Thomas King — Dew Drop Inn Hotel &amp; Lounge</title>
 <link>https://www.wwoz.org/events/1317476</link>
 <guid isPermaLink="false">728d7f1c70e64b828c087e51769d4287b1bb5ae9</guid>
 <description>Venue: Dew Drop Inn Hotel &amp; Lounge | Date: Wednesday, April 29 | Time: 8:00pm</description>

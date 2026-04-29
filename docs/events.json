@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-04-29T07:53:14.016881+00:00",
-  "count": 100,
+  "generated_at": "2026-04-29T16:05:59.476745+00:00",
+  "count": 101,
   "events": [
     {
       "id": "e210050dd3e1a5bba28234f6e17a1ce4ff8dec88",
@@ -425,6 +425,18 @@
       "description": "Venue: Constantinople Stage (OUTDOORS) | Date: Wednesday, April 29 | Time: 6:00pm"
     },
     {
+      "id": "2bd04d367e1c3ac2532b870a4b0ca086278efd30",
+      "source": "wwoz",
+      "title": "Benefit for Little Freddie King ft. Shoo-In Blues, Sally Baby's Silver Dollars, Treme Brass Band & More!",
+      "venue": "d.b.a.",
+      "venue_url": "https://www.wwoz.org/organizations/dba",
+      "event_url": "https://www.wwoz.org/events/1336941",
+      "date_text": "Wednesday, April 29",
+      "time_text": "2:00pm",
+      "start": "2026-04-29T14:00:00+00:00",
+      "description": "Venue: d.b.a. | Date: Wednesday, April 29 | Time: 2:00pm"
+    },
+    {
       "id": "222190c3938fb46b20655d65b26e5620bc65b2ff",
       "source": "wwoz",
       "title": "Pat Casey Presents: Get It How Ya' Livin'",
@@ -487,7 +499,7 @@
     {
       "id": "728d7f1c70e64b828c087e51769d4287b1bb5ae9",
       "source": "wwoz",
-      "title": "The Drop Inn Jam Session Hosted by DC Paul",
+      "title": "The Drop Inn Jam Session ft. Chris Thomas King",
       "venue": "Dew Drop Inn Hotel & Lounge",
       "venue_url": "https://www.wwoz.org/organizations/dew-drop-inn-hotel-lounge",
       "event_url": "https://www.wwoz.org/events/1317476",
