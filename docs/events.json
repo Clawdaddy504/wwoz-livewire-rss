@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-04-29T16:05:59.476745+00:00",
-  "count": 101,
+  "generated_at": "2026-04-29T21:45:38.466189+00:00",
+  "count": 102,
   "events": [
     {
       "id": "e210050dd3e1a5bba28234f6e17a1ce4ff8dec88",
@@ -449,21 +449,9 @@
       "description": "Venue: d.b.a. | Date: Wednesday, April 29 | Time: 10:00pm"
     },
     {
-      "id": "6870b821929578904e3af4ac3cfe25424a6f6821",
-      "source": "wwoz",
-      "title": "(2am) A Coomes Brother's Production : The Dope Spot",
-      "venue": "d.b.a.",
-      "venue_url": "https://www.wwoz.org/organizations/dba",
-      "event_url": "https://www.wwoz.org/events/1327721",
-      "date_text": "Wednesday, April 29",
-      "time_text": "11:45pm",
-      "start": "2026-04-29T23:45:00+00:00",
-      "description": "Venue: d.b.a. | Date: Wednesday, April 29 | Time: 11:45pm"
-    },
-    {
       "id": "111b80f12f58f26773f30d0d671fdf6a4e58786d",
       "source": "wwoz",
-      "title": "(1:30am) Roosevelt Collier Jimi Meets Funk",
+      "title": "(2am) Roosevelt Collier Jimi Meets Funk",
       "venue": "d.b.a.",
       "venue_url": "https://www.wwoz.org/organizations/dba",
       "event_url": "https://www.wwoz.org/events/1327726",
@@ -603,6 +591,18 @@
       "time_text": "8:00pm",
       "start": "2026-04-29T20:00:00+00:00",
       "description": "Venue: Howlin' Wolf | Date: Wednesday, April 29 | Time: 8:00pm"
+    },
+    {
+      "id": "e8d7299f1b4d46d98e54827423183842e4e38cf6",
+      "source": "wwoz",
+      "title": "Jockey Jord with Lily & Chance Johnson",
+      "venue": "Howlin' Wolf - The Den",
+      "venue_url": "https://www.wwoz.org/organizations/howlin-wolf-den",
+      "event_url": "https://www.wwoz.org/events/1337976",
+      "date_text": "Wednesday, April 29",
+      "time_text": "9:00pm",
+      "start": "2026-04-29T21:00:00+00:00",
+      "description": "Venue: Howlin' Wolf - The Den | Date: Wednesday, April 29 | Time: 9:00pm"
     },
     {
       "id": "86e3f7be97f1f59319047b9b9611c5f1c714a4b1",
@@ -1047,6 +1047,18 @@
       "time_text": "9:30pm",
       "start": "2026-04-29T21:30:00+00:00",
       "description": "Venue: Snug Harbor | Date: Wednesday, April 29 | Time: 9:30pm"
+    },
+    {
+      "id": "8e47353bdda9785e0eb99a836110f8b69ae8ded2",
+      "source": "wwoz",
+      "title": "DJ T-Roy + \u00ccF\u00c9 with DJ O + Tristan Dufrene",
+      "venue": "Special Venue",
+      "venue_url": "https://www.wwoz.org/organizations/special-venue",
+      "event_url": "https://www.wwoz.org/events/1337331",
+      "date_text": "Wednesday, April 29",
+      "time_text": "7:00pm",
+      "start": "2026-04-29T19:00:00+00:00",
+      "description": "Venue: Special Venue | Date: Wednesday, April 29 | Time: 7:00pm"
     },
     {
       "id": "c76d6d6af4be1aa3dc49e9a0a10bb8d9973811b8",

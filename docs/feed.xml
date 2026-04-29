@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 29 Apr 2026 16:05:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Apr 2026 21:45:38 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dr. Sick — 21st Amendment</title>
@@ -267,14 +267,7 @@
 <pubDate>Wed, 29 Apr 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>(2am) A Coomes Brother's Production : The Dope Spot — d.b.a.</title>
-<link>https://www.wwoz.org/events/1327721</link>
-<guid isPermaLink="false">6870b821929578904e3af4ac3cfe25424a6f6821</guid>
-<description>Venue: d.b.a. | Date: Wednesday, April 29 | Time: 11:45pm</description>
-<pubDate>Wed, 29 Apr 2026 23:45:00 +0000</pubDate>
-</item>
-<item>
-<title>(1:30am) Roosevelt Collier Jimi Meets Funk — d.b.a.</title>
+<title>(2am) Roosevelt Collier Jimi Meets Funk — d.b.a.</title>
 <link>https://www.wwoz.org/events/1327726</link>
 <guid isPermaLink="false">111b80f12f58f26773f30d0d671fdf6a4e58786d</guid>
 <description>Venue: d.b.a. | Date: Wednesday, April 29 | Time: 11:45pm</description>
@@ -356,6 +349,13 @@
 <guid isPermaLink="false">9ab870e02a70bedfb2ddc7f76e7c7a8fcab64206</guid>
 <description>Venue: Howlin' Wolf | Date: Wednesday, April 29 | Time: 8:00pm</description>
 <pubDate>Wed, 29 Apr 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jockey Jord with Lily &amp; Chance Johnson — Howlin' Wolf - The Den</title>
+<link>https://www.wwoz.org/events/1337976</link>
+<guid isPermaLink="false">e8d7299f1b4d46d98e54827423183842e4e38cf6</guid>
+<description>Venue: Howlin' Wolf - The Den | Date: Wednesday, April 29 | Time: 9:00pm</description>
+<pubDate>Wed, 29 Apr 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Monty Banks — Irene's</title>
@@ -615,6 +615,13 @@
 <guid isPermaLink="false">94ef0605fba0757f4f39fdc454e6b429535adf14</guid>
 <description>Venue: Snug Harbor | Date: Wednesday, April 29 | Time: 9:30pm</description>
 <pubDate>Wed, 29 Apr 2026 21:30:00 +0000</pubDate>
+</item>
+<item>
+<title>DJ T-Roy + ÌFÉ with DJ O + Tristan Dufrene — Special Venue</title>
+<link>https://www.wwoz.org/events/1337331</link>
+<guid isPermaLink="false">8e47353bdda9785e0eb99a836110f8b69ae8ded2</guid>
+<description>Venue: Special Venue | Date: Wednesday, April 29 | Time: 7:00pm</description>
+<pubDate>Wed, 29 Apr 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Chris Christy Band — Spotted Cat</title>
