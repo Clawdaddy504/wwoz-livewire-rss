@@ -5,833 +5,875 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 02 May 2026 00:08:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 02 May 2026 07:09:57 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
-<title>COUCHES presents: Marcus Machado &amp; Friends play Hendrix &amp; P-Funk — 3 One One 6</title>
-<link>https://www.wwoz.org/events/1335786</link>
-<guid isPermaLink="false">b37d615fe0c832b05ea54a465b2176f068051168</guid>
-<description>Venue: 3 One One 6 | Date: Friday, May 1 | Time: 10:30pm</description>
-<pubDate>Fri, 01 May 2026 22:30:00 +0000</pubDate>
+<title>Andy Forest — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1337931</link>
+<guid isPermaLink="false">46dd135585f8af06d85f60e0efa4bec1cb2f67e7</guid>
+<description>Venue: 21st Amendment | Date: Saturday, May 2 | Time: 3:00pm</description>
+<pubDate>Sat, 02 May 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Big Joe Kennedy Duo — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1337921</link>
-<guid isPermaLink="false">fa1c93afcc198014c5d5c2d8ba3897b04545454c</guid>
-<description>Venue: 21st Amendment | Date: Friday, May 1 | Time: 3:00pm</description>
-<pubDate>Fri, 01 May 2026 15:00:00 +0000</pubDate>
+<title>The Jelly Roll Stompers — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1337936</link>
+<guid isPermaLink="false">07ca9ec076dceb488ef5947553d865cc849abdc0</guid>
+<description>Venue: 21st Amendment | Date: Saturday, May 2 | Time: 8:00pm</description>
+<pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dr. Sick &amp; The Late Greats — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1337926</link>
-<guid isPermaLink="false">999b688cef53b9fd2df03a11ca3feb1c5393a33a</guid>
-<description>Venue: 21st Amendment | Date: Friday, May 1 | Time: 8:00pm</description>
-<pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
+<title>Anne Elise &amp; The Swamp Circus — 30/90</title>
+<link>https://www.wwoz.org/events/1332926</link>
+<guid isPermaLink="false">913af7a797e3a4f39948b024c07516c8754a0c03</guid>
+<description>Venue: 30/90 | Date: Saturday, May 2 | Time: 2:00pm</description>
+<pubDate>Sat, 02 May 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Personal Space — 30/90</title>
-<link>https://www.wwoz.org/events/1332756</link>
-<guid isPermaLink="false">46f8230b7979b6136fd2a986b4c1afcd7155580f</guid>
-<description>Venue: 30/90 | Date: Friday, May 1 | Time: 2:00pm</description>
-<pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
+<title>KreweDeBauchery — 30/90</title>
+<link>https://www.wwoz.org/events/1332931</link>
+<guid isPermaLink="false">688026f8937cdd7cd03277fcd409b2f4b487e16c</guid>
+<description>Venue: 30/90 | Date: Saturday, May 2 | Time: 5:00pm</description>
+<pubDate>Sat, 02 May 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Decaturadio — 30/90</title>
-<link>https://www.wwoz.org/events/1332761</link>
-<guid isPermaLink="false">0dc06256588ff89c675f2d02c972eb5d356db0cf</guid>
-<description>Venue: 30/90 | Date: Friday, May 1 | Time: 5:00pm</description>
-<pubDate>Fri, 01 May 2026 17:00:00 +0000</pubDate>
+<title>Sporty's Brass Band — 30/90</title>
+<link>https://www.wwoz.org/events/1332936</link>
+<guid isPermaLink="false">072af56c73f3264e4040f35754bf0a26c463af82</guid>
+<description>Venue: 30/90 | Date: Saturday, May 2 | Time: 8:00pm</description>
+<pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Half Shell Boogie — 30/90</title>
-<link>https://www.wwoz.org/events/1332766</link>
-<guid isPermaLink="false">b3a838a366404038796767c6617530b591cfdd35</guid>
-<description>Venue: 30/90 | Date: Friday, May 1 | Time: 8:00pm</description>
-<pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
+<title>Deltaphonic — 30/90</title>
+<link>https://www.wwoz.org/events/1332941</link>
+<guid isPermaLink="false">694483b4ed4b4a112043f2d3e71b380064e14612</guid>
+<description>Venue: 30/90 | Date: Saturday, May 2 | Time: 11:00pm</description>
+<pubDate>Sat, 02 May 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Night To Forget — 30/90</title>
-<link>https://www.wwoz.org/events/1332916</link>
-<guid isPermaLink="false">b72061e98784fcf28147b9a170848e374d621475</guid>
-<description>Venue: 30/90 | Date: Friday, May 1 | Time: 11:00pm</description>
-<pubDate>Fri, 01 May 2026 23:00:00 +0000</pubDate>
+<title>The New Orleans High Society Hour ft. Vocals &amp; Burlesque by Angie Z &amp; Friends — AllWays Lounge</title>
+<link>https://www.wwoz.org/events/1335006</link>
+<guid isPermaLink="false">20839261c4507c3706b59d6035e93d4050c7d516</guid>
+<description>Venue: AllWays Lounge | Date: Saturday, May 2 | Time: 8:00pm</description>
+<pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Brian Richburg, Sam Fribush &amp; Xavier Lynn — Avenue Pub</title>
-<link>https://www.wwoz.org/events/1335936</link>
-<guid isPermaLink="false">563d5d03f2effb61a6cdcc1fffcbd3afa9f34273</guid>
-<description>Venue: Avenue Pub | Date: Friday, May 1 | Time: 10:00pm</description>
-<pubDate>Fri, 01 May 2026 22:00:00 +0000</pubDate>
+<title>Harlot's Hush ft. The Slick Skillet Serenaders + Burlesque — AllWays Lounge</title>
+<link>https://www.wwoz.org/events/1334991</link>
+<guid isPermaLink="false">34d6443469c57453a9596729cfae9c9aa449afd3</guid>
+<description>Venue: AllWays Lounge | Date: Saturday, May 2 | Time: 10:30pm</description>
+<pubDate>Sat, 02 May 2026 22:30:00 +0000</pubDate>
 </item>
 <item>
-<title>David Sigler — Bacchanal (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1336836</link>
-<guid isPermaLink="false">b1748726e2f4dbae68a1dbefa19429cd49af6197</guid>
-<description>Venue: Bacchanal (OUTDOORS) | Date: Friday, May 1 | Time: 1:00pm</description>
-<pubDate>Fri, 01 May 2026 13:00:00 +0000</pubDate>
+<title>Kevin Scott, Nir Felder, Sam Fribush &amp; Mark Radabaugh — Avenue Pub</title>
+<link>https://www.wwoz.org/events/1335941</link>
+<guid isPermaLink="false">6da533969f828dce4e97a64d6e2a148580a9a79d</guid>
+<description>Venue: Avenue Pub | Date: Saturday, May 2 | Time: 10:00pm</description>
+<pubDate>Sat, 02 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Willie Green III — Bacchanal (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1336841</link>
-<guid isPermaLink="false">9d029304d72116e8459b293ec9cbc78f425898fe</guid>
-<description>Venue: Bacchanal (OUTDOORS) | Date: Friday, May 1 | Time: 7:00pm</description>
-<pubDate>Fri, 01 May 2026 19:00:00 +0000</pubDate>
+<title>Miles Berry — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1336846</link>
+<guid isPermaLink="false">bf29c32a37072127467cb785f1cb8be2198ec21b</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Saturday, May 2 | Time: 1:00pm</description>
+<pubDate>Sat, 02 May 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>New Orleans Rug Cutters — Bamboula's</title>
-<link>https://www.wwoz.org/events/1337836</link>
-<guid isPermaLink="false">335bfeecf02d71855658b033bf354b1ef0b8eac1</guid>
-<description>Venue: Bamboula's | Date: Friday, May 1 | Time: 11:00am</description>
-<pubDate>Fri, 01 May 2026 11:00:00 +0000</pubDate>
+<title>Pete Olynciw — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1336851</link>
+<guid isPermaLink="false">0e7b53ca171666da3885997fd2c5cc4db291b6b7</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Saturday, May 2 | Time: 7:00pm</description>
+<pubDate>Sat, 02 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Felipe Antonio Quarteto — Bamboula's</title>
-<link>https://www.wwoz.org/events/1337841</link>
-<guid isPermaLink="false">d4ad8b66cfbc1b81f5a8f5af29c084f3bb265ef4</guid>
-<description>Venue: Bamboula's | Date: Friday, May 1 | Time: 2:15pm</description>
-<pubDate>Fri, 01 May 2026 14:15:00 +0000</pubDate>
+<title>Aaron Levinson &amp; Friends — Bamboula's</title>
+<link>https://www.wwoz.org/events/1337856</link>
+<guid isPermaLink="false">ef78ddf9ab4e86c238b23a8c3ecbe30a5243ded6</guid>
+<description>Venue: Bamboula's | Date: Saturday, May 2 | Time: 11:00am</description>
+<pubDate>Sat, 02 May 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Les Getrex &amp; Creole Cookin' — Bamboula's</title>
-<link>https://www.wwoz.org/events/1337846</link>
-<guid isPermaLink="false">2e806c50909deb72ac3d69500ef17b71dd2e7710</guid>
-<description>Venue: Bamboula's | Date: Friday, May 1 | Time: 6:30pm</description>
-<pubDate>Fri, 01 May 2026 18:30:00 +0000</pubDate>
+<title>James McClaskey &amp; The Rhythm Band — Bamboula's</title>
+<link>https://www.wwoz.org/events/1337861</link>
+<guid isPermaLink="false">2ca90c09d2c840bd1279b2f708ebd8951c8259c8</guid>
+<description>Venue: Bamboula's | Date: Saturday, May 2 | Time: 2:15pm</description>
+<pubDate>Sat, 02 May 2026 14:15:00 +0000</pubDate>
 </item>
 <item>
-<title>Bettis + 3rd Degree Brass Band — Bamboula's</title>
-<link>https://www.wwoz.org/events/1337851</link>
-<guid isPermaLink="false">48ed7ecef215fd37e4617594305001995006b8df</guid>
-<description>Venue: Bamboula's | Date: Friday, May 1 | Time: 10:00pm</description>
-<pubDate>Fri, 01 May 2026 22:00:00 +0000</pubDate>
+<title>Johnny Mastro Blues — Bamboula's</title>
+<link>https://www.wwoz.org/events/1325766</link>
+<guid isPermaLink="false">ca42af85b1800149821aadb6819d41e48a94089e</guid>
+<description>Venue: Bamboula's | Date: Saturday, May 2 | Time: 6:30pm</description>
+<pubDate>Sat, 02 May 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Hotel Burgundy + My Beloved — Banks Street Bar</title>
-<link>https://www.wwoz.org/events/1335026</link>
-<guid isPermaLink="false">273110916d6338ba2a3cda9828d0bdae47585526</guid>
-<description>Venue: Banks Street Bar | Date: Friday, May 1 | Time: 8:00pm</description>
-<pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
+<title>Paggy Prine &amp; Southern Soul — Bamboula's</title>
+<link>https://www.wwoz.org/events/1337866</link>
+<guid isPermaLink="false">c9f528e42701f2582bee1017e261b959a11e4505</guid>
+<description>Venue: Bamboula's | Date: Saturday, May 2 | Time: 10:00pm</description>
+<pubDate>Sat, 02 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>T Marie Trio — Bar Redux</title>
-<link>https://www.wwoz.org/events/1322106</link>
-<guid isPermaLink="false">3a55579a83974e1adf55a580dc45a113ecaa03b5</guid>
-<description>Venue: Bar Redux | Date: Friday, May 1 | Time: 9:00pm</description>
-<pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
+<title>Strange Roux + Whisper Party! — Banks Street Bar</title>
+<link>https://www.wwoz.org/events/1335016</link>
+<guid isPermaLink="false">b2429d16570b63bdfcdaaa67d6801e3cb151a5d0</guid>
+<description>Venue: Banks Street Bar | Date: Saturday, May 2 | Time: 9:00pm</description>
+<pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Oh Yeah! ft. Peter Harris, Ed Perkins, Wes "Warmdaddy" Anderson &amp; More! — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1317086</link>
-<guid isPermaLink="false">a4f7c68ab91c5a0e1b64f6d3fb7319f5ad7ae9cb</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Friday, May 1 | Time: 8:00pm</description>
-<pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
+<title>New Orleans Noise Fest '26 ft. Zeena Knife, ladybugpopstar, Shitload &amp; More! — Batture Riviera (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1334381</link>
+<guid isPermaLink="false">b888b962a50cc268dd9f60e1caa265a49aeacccc</guid>
+<description>Venue: Batture Riviera (OUTDOORS) | Date: Saturday, May 2 | Time: 5:00pm</description>
+<pubDate>Sat, 02 May 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Oh Yeah! ft. Peter Harris, Ed Perkins, Wes "Warmdaddy" Anderson &amp; More! — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1317081</link>
-<guid isPermaLink="false">381be6e192574a206cf19576508cc42ab5a4bc57</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Friday, May 1 | Time: 10:00pm</description>
-<pubDate>Fri, 01 May 2026 22:00:00 +0000</pubDate>
+<title>Solid Harmony ft. Peter Harris, Yolanda Robinson &amp; Jolynda "Kiki" Chapman &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1315011</link>
+<guid isPermaLink="false">4655576827b18052b619d24b69ef559e9575f0cc</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Saturday, May 2 | Time: 8:00pm</description>
+<pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Joel Savoy's Cajun Merry Go Round ft. The Holiday Playgirls, Jesse Lege, Kelli Jones &amp; More! — BJ's Lounge</title>
-<link>https://www.wwoz.org/events/1330606</link>
-<guid isPermaLink="false">ff3a8fdd34c38d97d9ac13ce24a5db0aad092838</guid>
-<description>Venue: BJ's Lounge | Date: Friday, May 1 | Time: 9:00pm</description>
-<pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
+<title>Solid Harmony ft. Peter Harris, Yolanda Robinson &amp; Jolynda "Kiki" Chapman &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1315016</link>
+<guid isPermaLink="false">03d1563f7754b449dcf2d699e7395527c88e5b9f</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Saturday, May 2 | Time: 10:00pm</description>
+<pubDate>Sat, 02 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Kermit Ruffins &amp; The BBQ Swingers — Blue Nile</title>
-<link>https://www.wwoz.org/events/1325201</link>
-<guid isPermaLink="false">440124e3db782afa4356c3ffcb726cdc4c0fc99e</guid>
-<description>Venue: Blue Nile | Date: Friday, May 1 | Time: 10:30pm</description>
-<pubDate>Fri, 01 May 2026 22:30:00 +0000</pubDate>
+<title>Shitty Stones + CC Adcock &amp; The Lafayette Marquis — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1330611</link>
+<guid isPermaLink="false">231f2b37ccdebae9c4e93fe6621113be371b75ef</guid>
+<description>Venue: BJ's Lounge | Date: Saturday, May 2 | Time: 9:00pm</description>
+<pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>(1am) lespecial with Special Guest Mike Dillon — Blue Nile</title>
-<link>https://www.wwoz.org/events/1325206</link>
-<guid isPermaLink="false">d9aa94994e24e4f9be6d423f814024a9a36b06f1</guid>
-<description>Venue: Blue Nile | Date: Friday, May 1 | Time: 11:45pm</description>
-<pubDate>Fri, 01 May 2026 23:45:00 +0000</pubDate>
+<title>Big Sam's Funky Nation — Blue Nile</title>
+<link>https://www.wwoz.org/events/1325211</link>
+<guid isPermaLink="false">96661195504f0b08fd8212e6bb1c6f46d6973385</guid>
+<description>Venue: Blue Nile | Date: Saturday, May 2 | Time: 10:30pm</description>
+<pubDate>Sat, 02 May 2026 22:30:00 +0000</pubDate>
 </item>
 <item>
-<title>WBeez ft. Wil Blades, Will Bernard &amp; Otis McDonald — Blue Nile - Balcony Room</title>
-<link>https://www.wwoz.org/events/1333811</link>
-<guid isPermaLink="false">d32ddc23db788d9c4406653c261f679a1dbd2a72</guid>
-<description>Venue: Blue Nile - Balcony Room | Date: Friday, May 1 | Time: 11:00pm</description>
-<pubDate>Fri, 01 May 2026 23:00:00 +0000</pubDate>
+<title>(1am) MonoNeon — Blue Nile</title>
+<link>https://www.wwoz.org/events/1325216</link>
+<guid isPermaLink="false">6b548c39d00d289212990171c9755d83cb382994</guid>
+<description>Venue: Blue Nile | Date: Saturday, May 2 | Time: 11:45pm</description>
+<pubDate>Sat, 02 May 2026 23:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Josh Benitez Band — BMC</title>
-<link>https://www.wwoz.org/events/1337711</link>
-<guid isPermaLink="false">8eaaf576024007b93ca9f884ef478e63bbef2b5d</guid>
-<description>Venue: BMC | Date: Friday, May 1 | Time: 3:00pm</description>
-<pubDate>Fri, 01 May 2026 15:00:00 +0000</pubDate>
+<title>Afrobeat NOLA — Blue Nile - Balcony Room</title>
+<link>https://www.wwoz.org/events/1327941</link>
+<guid isPermaLink="false">582216955ad18d61588a731ac2a2d99ec7ba32e9</guid>
+<description>Venue: Blue Nile - Balcony Room | Date: Saturday, May 2 | Time: 10:00pm</description>
+<pubDate>Sat, 02 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>John Lisi &amp; Delta Funk — BMC</title>
-<link>https://www.wwoz.org/events/1337716</link>
-<guid isPermaLink="false">e83896f077678bd23fbc64abc388ede152419d6a</guid>
-<description>Venue: BMC | Date: Friday, May 1 | Time: 6:00pm</description>
-<pubDate>Fri, 01 May 2026 18:00:00 +0000</pubDate>
+<title>Andre Lovett Band — BMC</title>
+<link>https://www.wwoz.org/events/1337726</link>
+<guid isPermaLink="false">6d5d6f5d78fa473f002526e8afcc7d9183f3de04</guid>
+<description>Venue: BMC | Date: Saturday, May 2 | Time: 3:00pm</description>
+<pubDate>Sat, 02 May 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Big Mike &amp; The R&amp;B Kings — BMC</title>
-<link>https://www.wwoz.org/events/1337721</link>
-<guid isPermaLink="false">3aa5fe479aa000d832c3dcd026369f69b392ae7c</guid>
-<description>Venue: BMC | Date: Friday, May 1 | Time: 9:00pm</description>
-<pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
+<title>Mother Ruckus — BMC</title>
+<link>https://www.wwoz.org/events/1337731</link>
+<guid isPermaLink="false">b590429fbd0c3ed17efb4c211bfdb97ae2ebcb51</guid>
+<description>Venue: BMC | Date: Saturday, May 2 | Time: 6:00pm</description>
+<pubDate>Sat, 02 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Don Cook &amp; Chris Roberts — Bratz Y'all</title>
-<link>https://www.wwoz.org/events/1337631</link>
-<guid isPermaLink="false">4e9995f6fb4a8d9706a1630da6922e788f6d97fc</guid>
-<description>Venue: Bratz Y'all | Date: Friday, May 1 | Time: 5:00pm</description>
-<pubDate>Fri, 01 May 2026 17:00:00 +0000</pubDate>
+<title>Caesar Brothers — BMC</title>
+<link>https://www.wwoz.org/events/1337736</link>
+<guid isPermaLink="false">23b47ed7c750c2015641358c6aa08ae18452c477</guid>
+<description>Venue: BMC | Date: Saturday, May 2 | Time: 9:00pm</description>
+<pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>24th Annual Bayou Rendezvous ft. The Rumble with Chief Joseph Boudreaux, Polyrhythmics, Big Chief Juan Pardo with Jojo Herman + More! — Broadside (Outdoor Stage)</title>
-<link>https://www.wwoz.org/events/1327791</link>
-<guid isPermaLink="false">29e8e51faa2e9b225cbdd8bdfab4c14241972f68</guid>
-<description>Venue: Broadside (Outdoor Stage) | Date: Friday, May 1 | Time: 6:30pm</description>
-<pubDate>Fri, 01 May 2026 18:30:00 +0000</pubDate>
+<title>Chip Wilson &amp; Joshua Smith — Bratz Y'all</title>
+<link>https://www.wwoz.org/events/1337636</link>
+<guid isPermaLink="false">19b122998dbe5a2cc2ec2fda33f87d2cfef257e3</guid>
+<description>Venue: Bratz Y'all | Date: Saturday, May 2 | Time: 5:00pm</description>
+<pubDate>Sat, 02 May 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Cole Williams — Buffa's</title>
-<link>https://www.wwoz.org/events/1325316</link>
-<guid isPermaLink="false">f658ed4badff69db0b989d3c465f3de28450720c</guid>
-<description>Venue: Buffa's | Date: Friday, May 1 | Time: 8:00pm</description>
-<pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
+<title>Hairy Apes BMX — Broadside</title>
+<link>https://www.wwoz.org/events/1327801</link>
+<guid isPermaLink="false">60116d84fe0b41cd2234ccbd13a6c87f9e503e9e</guid>
+<description>Venue: Broadside | Date: Saturday, May 2 | Time: 11:00pm</description>
+<pubDate>Sat, 02 May 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Melvin Seals &amp; JGB with Special Guest Donald Harrison Jr. — Café Istanbul</title>
-<link>https://www.wwoz.org/events/1336106</link>
-<guid isPermaLink="false">5525edd9aeff504f97732e0413fffdc1c0cd4b57</guid>
-<description>Venue: Café Istanbul | Date: Friday, May 1 | Time: 9:30pm</description>
-<pubDate>Fri, 01 May 2026 21:30:00 +0000</pubDate>
+<title>Dark Side of the Swamp: Honey Island Swamp Band plays the music of Pink Floyd — Broadside (Outdoor Stage)</title>
+<link>https://www.wwoz.org/events/1327796</link>
+<guid isPermaLink="false">c7478421ae6ae4e4fc54e6e726c2eea45e2e3457</guid>
+<description>Venue: Broadside (Outdoor Stage) | Date: Saturday, May 2 | Time: 9:00pm</description>
+<pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Blackdog — Café Negril</title>
-<link>https://www.wwoz.org/events/1337561</link>
-<guid isPermaLink="false">4285ae1f37ecea0c0b4d29ef1f2b442976b8ffc5</guid>
-<description>Venue: Café Negril | Date: Friday, May 1 | Time: 2:30pm</description>
-<pubDate>Fri, 01 May 2026 14:30:00 +0000</pubDate>
+<title>Asylum Chorus — Buffa's</title>
+<link>https://www.wwoz.org/events/1325321</link>
+<guid isPermaLink="false">8aeeb1b1261e8eb49f406d547c2b024b1c6283f3</guid>
+<description>Venue: Buffa's | Date: Saturday, May 2 | Time: 8:00pm</description>
+<pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jamey St. Pierre &amp; The Honeycreepers — Café Negril</title>
-<link>https://www.wwoz.org/events/1337566</link>
-<guid isPermaLink="false">276edcd6c3654059a83474da6f19db435e2d716d</guid>
-<description>Venue: Café Negril | Date: Friday, May 1 | Time: 6:30pm</description>
-<pubDate>Fri, 01 May 2026 18:30:00 +0000</pubDate>
+<title>Bob Macy — Café Beignet on Royal</title>
+<link>https://www.wwoz.org/events/1338076</link>
+<guid isPermaLink="false">ab0a5081adf679ed340535ef32d0f6c7401179ee</guid>
+<description>Venue: Café Beignet on Royal | Date: Saturday, May 2 | Time: 4:00pm</description>
+<pubDate>Sat, 02 May 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Higher Heights — Café Negril</title>
-<link>https://www.wwoz.org/events/1337571</link>
-<guid isPermaLink="false">db712934dbc1ad918023893d41c157425491717b</guid>
-<description>Venue: Café Negril | Date: Friday, May 1 | Time: 10:00pm</description>
-<pubDate>Fri, 01 May 2026 22:00:00 +0000</pubDate>
+<title>Melvin Seals &amp; JGB with Special Guest Robert Randolph — Café Istanbul</title>
+<link>https://www.wwoz.org/events/1336111</link>
+<guid isPermaLink="false">238b577b77e303d5986d5f14745c67255425ea9c</guid>
+<description>Venue: Café Istanbul | Date: Saturday, May 2 | Time: 9:00pm</description>
+<pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jeff Fest ft. The Desert Nudes + Gal Holiday &amp; The Honky Tonk Revue — Carrollton Station</title>
-<link>https://www.wwoz.org/events/1322056</link>
-<guid isPermaLink="false">8a4ceab495faa5196a39d0ce6187bbfa4a3ae8e4</guid>
-<description>Venue: Carrollton Station | Date: Friday, May 1 | Time: 8:00pm</description>
-<pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
+<title>(1:30am) Pimps of Joytime Record Release &amp; Dance Party — Café Istanbul</title>
+<link>https://www.wwoz.org/events/1336116</link>
+<guid isPermaLink="false">0b929dd3c0ccfcf372eaec498c5becddab297660</guid>
+<description>Venue: Café Istanbul | Date: Saturday, May 2 | Time: 11:45pm</description>
+<pubDate>Sat, 02 May 2026 23:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Dan Penn + Spooner Oldham — Chickie Wah Wah</title>
-<link>https://www.wwoz.org/events/1293191</link>
-<guid isPermaLink="false">bfeb66d45ceb6f2f5e5f3a00a5fd9292af387c6b</guid>
-<description>Venue: Chickie Wah Wah | Date: Friday, May 1 | Time: 8:00pm</description>
-<pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
+<title>The Rumpshakers — Café Negril</title>
+<link>https://www.wwoz.org/events/1337576</link>
+<guid isPermaLink="false">f1062c021db5ea6a81cddec3bd42ad1d91fdef4b</guid>
+<description>Venue: Café Negril | Date: Saturday, May 2 | Time: 1:30pm</description>
+<pubDate>Sat, 02 May 2026 13:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Ravi Coltrane — Chickie Wah Wah</title>
-<link>https://www.wwoz.org/events/1312731</link>
-<guid isPermaLink="false">8f907adabce5f7b5391e5d6bca2c82e2f65f5db7</guid>
-<description>Venue: Chickie Wah Wah | Date: Friday, May 1 | Time: 10:30pm</description>
-<pubDate>Fri, 01 May 2026 22:30:00 +0000</pubDate>
+<title>Zena Moses — Café Negril</title>
+<link>https://www.wwoz.org/events/1337581</link>
+<guid isPermaLink="false">e56618416b9e87f10e0770ab9a95792644000e4d</guid>
+<description>Venue: Café Negril | Date: Saturday, May 2 | Time: 6:00pm</description>
+<pubDate>Sat, 02 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>(1am) Papa Mali's Shantytown Underground — Chickie Wah Wah</title>
-<link>https://www.wwoz.org/events/1293161</link>
-<guid isPermaLink="false">cd87d9707f5ca15bc8dbeb0ebef4b2de0e8c8215</guid>
-<description>Venue: Chickie Wah Wah | Date: Friday, May 1 | Time: 11:45pm</description>
-<pubDate>Fri, 01 May 2026 23:45:00 +0000</pubDate>
+<title>Bon Bon Vivant — Café Negril</title>
+<link>https://www.wwoz.org/events/1337586</link>
+<guid isPermaLink="false">7727591dcff87d0df090ce3b534b06c8cc7e619b</guid>
+<description>Venue: Café Negril | Date: Saturday, May 2 | Time: 10:00pm</description>
+<pubDate>Sat, 02 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Nell Simmons Bradley — Commons Club at Virgin Hotels New Orleans</title>
-<link>https://www.wwoz.org/events/1336551</link>
-<guid isPermaLink="false">11ad8b9223535be06fe2d445445bed39e32c2c93</guid>
-<description>Venue: Commons Club at Virgin Hotels New Orleans | Date: Friday, May 1 | Time: 7:00pm</description>
-<pubDate>Fri, 01 May 2026 19:00:00 +0000</pubDate>
+<title>(12am) Tracorum — Café Negril</title>
+<link>https://www.wwoz.org/events/1337591</link>
+<guid isPermaLink="false">2fa4d6df3ed2d4bcef6019b971c2610c7627f300</guid>
+<description>Venue: Café Negril | Date: Saturday, May 2 | Time: 11:45pm</description>
+<pubDate>Sat, 02 May 2026 23:45:00 +0000</pubDate>
+</item>
+<item>
+<title>Big Joe Kennedy — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1335066</link>
+<guid isPermaLink="false">2fd667a55d289e560ab1d63d748131ef244b0e15</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Saturday, May 2 | Time: 2:00pm</description>
+<pubDate>Sat, 02 May 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jeff Fest ft. Mia Borders — Carrollton Station</title>
+<link>https://www.wwoz.org/events/1324856</link>
+<guid isPermaLink="false">6d2cf3384841b9246a538be714bd398811bed0ba</guid>
+<description>Venue: Carrollton Station | Date: Saturday, May 2 | Time: 8:00pm</description>
+<pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jeff Fest ft. Pocket Chocolate — Carrollton Station</title>
+<link>https://www.wwoz.org/events/1324841</link>
+<guid isPermaLink="false">b79e5fffff8ebb3ecbefa52c276b0e7640f65590</guid>
+<description>Venue: Carrollton Station | Date: Saturday, May 2 | Time: 11:00pm</description>
+<pubDate>Sat, 02 May 2026 23:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Terence Blanchard with Special Guests — Chickie Wah Wah</title>
+<link>https://www.wwoz.org/events/1293166</link>
+<guid isPermaLink="false">53191db4e8ef4f090159bfe0aef0bd39d741f7cc</guid>
+<description>Venue: Chickie Wah Wah | Date: Saturday, May 2 | Time: 8:00pm</description>
+<pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Durand Jones &amp; Friends — Chickie Wah Wah</title>
+<link>https://www.wwoz.org/events/1293171</link>
+<guid isPermaLink="false">33b6ecf093624471aa76ce516825abd9b3930e79</guid>
+<description>Venue: Chickie Wah Wah | Date: Saturday, May 2 | Time: 10:30pm</description>
+<pubDate>Sat, 02 May 2026 22:30:00 +0000</pubDate>
+</item>
+<item>
+<title>(1am) Sqwerv — Chickie Wah Wah</title>
+<link>https://www.wwoz.org/events/1312741</link>
+<guid isPermaLink="false">a597ef2d4b5948754b4c60e10dae490a5dabb1e5</guid>
+<description>Venue: Chickie Wah Wah | Date: Saturday, May 2 | Time: 11:45pm</description>
+<pubDate>Sat, 02 May 2026 23:45:00 +0000</pubDate>
+</item>
+<item>
+<title>Anders Osborne’s NOLA Birthday Bash with Rebirth Brass Band, Dave Malone, Jackie Greene &amp; More! — Civic Theatre</title>
+<link>https://www.wwoz.org/events/1306921</link>
+<guid isPermaLink="false">33074eac3f200362f507d6584df687cdcda124c6</guid>
+<description>Venue: Civic Theatre | Date: Saturday, May 2 | Time: 9:00pm</description>
+<pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Porch Fest with Peter Varnado &amp; DJ Khris Royal — Columns Hotel</title>
+<link>https://www.wwoz.org/events/1336191</link>
+<guid isPermaLink="false">7dc8205946e17e1748c7c32ddc5d0f90214d5f32</guid>
+<description>Venue: Columns Hotel | Date: Saturday, May 2 | Time: 7:00pm</description>
+<pubDate>Sat, 02 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Mitch Woods Club 88 — Creole Gardens Roadhouse</title>
-<link>https://www.wwoz.org/events/1322856</link>
-<guid isPermaLink="false">a871f16889de5d4ae08b9adba1893908b9e05546</guid>
-<description>Venue: Creole Gardens Roadhouse | Date: Friday, May 1 | Time: 8:00pm</description>
-<pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1322861</link>
+<guid isPermaLink="false">ebb11f56b4e7be69237ce01710bd0474469b73c6</guid>
+<description>Venue: Creole Gardens Roadhouse | Date: Saturday, May 2 | Time: 8:00pm</description>
+<pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Troy Sawyer &amp; The Elementz + Girls Play Trumpet Too — d.b.a.</title>
-<link>https://www.wwoz.org/events/1327696</link>
-<guid isPermaLink="false">027996912d9c30ab0091b0896c703122d3223f9a</guid>
-<description>Venue: d.b.a. | Date: Friday, May 1 | Time: 6:00pm</description>
-<pubDate>Fri, 01 May 2026 18:00:00 +0000</pubDate>
+<title>Young Lion Showcase — d.b.a.</title>
+<link>https://www.wwoz.org/events/1337371</link>
+<guid isPermaLink="false">8c038a6182abe428adf65ef0bd8f0ea9153416f5</guid>
+<description>Venue: d.b.a. | Date: Saturday, May 2 | Time: 2:30pm</description>
+<pubDate>Sat, 02 May 2026 14:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Robin Barnes Album Release Show — d.b.a.</title>
-<link>https://www.wwoz.org/events/1327701</link>
-<guid isPermaLink="false">23845f69c410b9dbe335eeedbb0faad103016ddb</guid>
-<description>Venue: d.b.a. | Date: Friday, May 1 | Time: 10:00pm</description>
-<pubDate>Fri, 01 May 2026 22:00:00 +0000</pubDate>
+<title>Tuba Skinny — d.b.a.</title>
+<link>https://www.wwoz.org/events/1337376</link>
+<guid isPermaLink="false">f0a64ee7e0d853744738dfd12a8bbc71bb95d45a</guid>
+<description>Venue: d.b.a. | Date: Saturday, May 2 | Time: 6:00pm</description>
+<pubDate>Sat, 02 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>(2am) Rosie's d.b.a. Getdown ft. Roosevelt Collier, Big Sam, Alvin Ford Jr. &amp; More! — d.b.a.</title>
-<link>https://www.wwoz.org/events/1327706</link>
-<guid isPermaLink="false">5139953f4dcb998261c8130d96b67c84662b883b</guid>
-<description>Venue: d.b.a. | Date: Friday, May 1 | Time: 11:45pm</description>
-<pubDate>Fri, 01 May 2026 23:45:00 +0000</pubDate>
+<title>Rockin' Dopsie Jr. &amp; The Zydeco Twisters — d.b.a.</title>
+<link>https://www.wwoz.org/events/1327711</link>
+<guid isPermaLink="false">5cc685d4899d7e51203b07a476b2088447cba4c3</guid>
+<description>Venue: d.b.a. | Date: Saturday, May 2 | Time: 10:00pm</description>
+<pubDate>Sat, 02 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Jeremy Davenport — Davenport Lounge at The Ritz-Carlton</title>
-<link>https://www.wwoz.org/events/1303806</link>
-<guid isPermaLink="false">1fa9b3a85a00d1c9dc5eee42c5a6c8e7681b2c6b</guid>
-<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Friday, May 1 | Time: 8:00pm</description>
-<pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1303811</link>
+<guid isPermaLink="false">39ac6f9efd6a2fdb6ae7d077123514ca794aa2a8</guid>
+<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Saturday, May 2 | Time: 8:00pm</description>
+<pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Truth Be Told Brass Band — Domino Sound Record Shack</title>
-<link>https://www.wwoz.org/events/1336946</link>
-<guid isPermaLink="false">de02dd3ea2055cb575b81312408420039ff335e1</guid>
-<description>Venue: Domino Sound Record Shack | Date: Friday, May 1 | Time: 7:00pm</description>
-<pubDate>Fri, 01 May 2026 19:00:00 +0000</pubDate>
+<title>The Sugarhill Gang — Dew Drop Inn Hotel &amp; Lounge</title>
+<link>https://www.wwoz.org/events/1335791</link>
+<guid isPermaLink="false">2de4d2ef3b25ca93d5c5a39b968fea41c137d450</guid>
+<description>Venue: Dew Drop Inn Hotel &amp; Lounge | Date: Saturday, May 2 | Time: 8:00pm</description>
+<pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Dale Spalding Band — Dos Jefes</title>
-<link>https://www.wwoz.org/events/1332611</link>
-<guid isPermaLink="false">a792b7b5d01d0ff356adf3f892c916753ce7d047</guid>
-<description>Venue: Dos Jefes | Date: Friday, May 1 | Time: 9:00pm</description>
-<pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
+<title>New Orleans Spice Jazz Brunch Trio — Dickie Brennan’s Tableau</title>
+<link>https://www.wwoz.org/events/1285461</link>
+<guid isPermaLink="false">daa41cd133ed7d186c08a03bc560d88a4cd6f478</guid>
+<description>Venue: Dickie Brennan’s Tableau | Date: Saturday, May 2 | Time: 11:00am</description>
+<pubDate>Sat, 02 May 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Sunpie &amp; The Louisiana Sunspots — Dos Jefes</title>
+<link>https://www.wwoz.org/events/1329606</link>
+<guid isPermaLink="false">d853265f5e72c21f790b37c98cee3783f11efb2a</guid>
+<description>Venue: Dos Jefes | Date: Saturday, May 2 | Time: 9:00pm</description>
+<pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Sean Riley — Double Dealer at Orpheum Theater</title>
-<link>https://www.wwoz.org/events/1337266</link>
-<guid isPermaLink="false">2d86709db8d5f6e405a4b55f964be1fee7223fb7</guid>
-<description>Venue: Double Dealer at Orpheum Theater | Date: Friday, May 1 | Time: 9:30pm</description>
-<pubDate>Fri, 01 May 2026 21:30:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1337271</link>
+<guid isPermaLink="false">07fbaa1c6ffb103927a37b248be56a2ee03de312</guid>
+<description>Venue: Double Dealer at Orpheum Theater | Date: Saturday, May 2 | Time: 9:30pm</description>
+<pubDate>Sat, 02 May 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Samantha Fish &amp; Tab Benoit — Fillmore, The</title>
-<link>https://www.wwoz.org/events/1321606</link>
-<guid isPermaLink="false">86f90f62198b69ca657910027a6614cfc86cb70a</guid>
-<description>Venue: Fillmore, The | Date: Friday, May 1 | Time: 9:00pm</description>
-<pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
+<title>COUCHES presents Victor Campbell with Yusa &amp; Friends — Dreamboat at Virgin Hotels New Orleans</title>
+<link>https://www.wwoz.org/events/1336071</link>
+<guid isPermaLink="false">f29dc55768d82f358d51d5a6a7bf526b5c9b722b</guid>
+<description>Venue: Dreamboat at Virgin Hotels New Orleans | Date: Saturday, May 2 | Time: 9:00pm</description>
+<pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Richard "Piano" Scott — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1337756</link>
-<guid isPermaLink="false">cb87b6cdb644e04b7f02a286f86b6e152440e8d4</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Friday, May 1 | Time: 12:30pm</description>
-<pubDate>Fri, 01 May 2026 12:30:00 +0000</pubDate>
+<title>Joe Russo’s Almost Dead — Fillmore, The</title>
+<link>https://www.wwoz.org/events/1274616</link>
+<guid isPermaLink="false">2909f884575068adceea8ec6170de0b6c96bf904</guid>
+<description>Venue: Fillmore, The | Date: Saturday, May 2 | Time: 9:00pm</description>
+<pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sam Friend Jazz Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1337761</link>
-<guid isPermaLink="false">7b7bdab67114dbb59a4f1020fcd0478fef799a10</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Friday, May 1 | Time: 2:30pm</description>
-<pubDate>Fri, 01 May 2026 14:30:00 +0000</pubDate>
+<title>Steve DeTroy Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1337776</link>
+<guid isPermaLink="false">be518447031d4abd7f7aa39e0dd17f14352d98f6</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Saturday, May 2 | Time: 1:00pm</description>
+<pubDate>Sat, 02 May 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sam Lobley Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1337766</link>
-<guid isPermaLink="false">28919166a470d79d02cd9ee5253c868debcd77ef</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Friday, May 1 | Time: 6:00pm</description>
-<pubDate>Fri, 01 May 2026 18:00:00 +0000</pubDate>
+<title>Bourbon Matinee Jazz Band with Chuck Brackman — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1337781</link>
+<guid isPermaLink="false">da355a0506b6ab2d4081b889cbd8ec2482bb7236</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Saturday, May 2 | Time: 5:00pm</description>
+<pubDate>Sat, 02 May 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Fritzel's All Star Band with Kevin Ray Clark — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1337771</link>
-<guid isPermaLink="false">4da4919ad073c86adc8446f1cbc9c8c5d486f445</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Friday, May 1 | Time: 9:00pm</description>
-<pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
+<title>Fritzel's All Star Band with Jamil Sharif — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1337786</link>
+<guid isPermaLink="false">4fd57f9e8274a0af3d71b56f811252065809b71c</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Saturday, May 2 | Time: 9:00pm</description>
+<pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Belly Up Book Release with 7 Live Bands — Gasa Gasa</title>
-<link>https://www.wwoz.org/events/1338031</link>
-<guid isPermaLink="false">fa2076429afb49251fb7fcf3b3d6b28eb01d774e</guid>
-<description>Venue: Gasa Gasa | Date: Friday, May 1 | Time: 6:00pm</description>
-<pubDate>Fri, 01 May 2026 18:00:00 +0000</pubDate>
+<title>Eric Lindell — Gasa Gasa</title>
+<link>https://www.wwoz.org/events/1317316</link>
+<guid isPermaLink="false">4ded32b6abe4b1caa3fb8ef83d54ddc569fdaf36</guid>
+<description>Venue: Gasa Gasa | Date: Saturday, May 2 | Time: 9:00pm</description>
+<pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Erica Falls — Good Measure at The Barnett</title>
-<link>https://www.wwoz.org/events/1333416</link>
-<guid isPermaLink="false">6b93915af78c47065e6ab284d179c6f9b2dacf8e</guid>
-<description>Venue: Good Measure at The Barnett | Date: Friday, May 1 | Time: 9:00pm</description>
-<pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
+<title>(1:30am) Skerik's Compersion Quartet with Brian Haas, James Singleton &amp; Simon Lott — Gasa Gasa</title>
+<link>https://www.wwoz.org/events/1336801</link>
+<guid isPermaLink="false">b9b18affab90a2393d472acd44e1014409f6f9c4</guid>
+<description>Venue: Gasa Gasa | Date: Saturday, May 2 | Time: 11:45pm</description>
+<pubDate>Sat, 02 May 2026 23:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Rik Slave’s DarkLounge Ministries — Holy Diver</title>
-<link>https://www.wwoz.org/events/1337456</link>
-<guid isPermaLink="false">3812fcee680674d5a80c8a8b745c8b108e1a9813</guid>
-<description>Venue: Holy Diver | Date: Friday, May 1 | Time: 8:00pm</description>
-<pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
+<title>SOUL Brass Band — Good Measure at The Barnett</title>
+<link>https://www.wwoz.org/events/1333421</link>
+<guid isPermaLink="false">c18449c091899d1e4c97eaf9ceb8ba0da34889dd</guid>
+<description>Venue: Good Measure at The Barnett | Date: Saturday, May 2 | Time: 9:00pm</description>
+<pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Pressure Beat with DJs Shabbakano, Doubleplus &amp; Special Guest Anant Pradhan of The Skatalites — Holy Diver</title>
-<link>https://www.wwoz.org/events/1335336</link>
-<guid isPermaLink="false">cfac94191ec8f3746af42a64b3741b8649330464</guid>
-<description>Venue: Holy Diver | Date: Friday, May 1 | Time: 10:30pm</description>
-<pubDate>Fri, 01 May 2026 22:30:00 +0000</pubDate>
+<title>Spickle + Norco Lapalco + Hex Windham — Holy Diver</title>
+<link>https://www.wwoz.org/events/1337461</link>
+<guid isPermaLink="false">0a809ed59dd40d3f85bae8f6a5acdc9d6a195e43</guid>
+<description>Venue: Holy Diver | Date: Saturday, May 2 | Time: 9:00pm</description>
+<pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Robert Cray Band — House of Blues</title>
-<link>https://www.wwoz.org/events/1306861</link>
-<guid isPermaLink="false">8de0c619c71494f5dd25b8b8a516f6e7b5c77386</guid>
-<description>Venue: House of Blues | Date: Friday, May 1 | Time: 9:00pm</description>
-<pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
+<title>Feral House Cats — Hotel St. Vincent</title>
+<link>https://www.wwoz.org/events/1337341</link>
+<guid isPermaLink="false">8f0f36ca0589a05eecb77c0aad6ed5bd1760de09</guid>
+<description>Venue: Hotel St. Vincent | Date: Saturday, May 2 | Time: 7:00pm</description>
+<pubDate>Sat, 02 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The 1st Annual Later Alligator Ball ft. Eddie 9V, Rebirth Brass Band &amp; More! — Howlin' Wolf</title>
-<link>https://www.wwoz.org/events/1335911</link>
-<guid isPermaLink="false">c15bae55859cc8d6ca13a506901efc1ceb8257d2</guid>
-<description>Venue: Howlin' Wolf | Date: Friday, May 1 | Time: 9:00pm</description>
-<pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
+<title>Gramatik — House of Blues</title>
+<link>https://www.wwoz.org/events/1306866</link>
+<guid isPermaLink="false">716d40aeab4e5d790c7825d1ec963e009ffb6ecd</guid>
+<description>Venue: House of Blues | Date: Saturday, May 2 | Time: 9:00pm</description>
+<pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Monty Banks — Irene's</title>
-<link>https://www.wwoz.org/events/1302056</link>
-<guid isPermaLink="false">df19e12efb3b1617f6d133ac80ccf7f789af4175</guid>
-<description>Venue: Irene's | Date: Friday, May 1 | Time: 6:00pm</description>
-<pubDate>Fri, 01 May 2026 18:00:00 +0000</pubDate>
+<title>The Nayo Jones Experience — Jazz Playhouse</title>
+<link>https://www.wwoz.org/events/1335151</link>
+<guid isPermaLink="false">c0d3384162cfeccde5deaf5c65b06961a53c05e4</guid>
+<description>Venue: Jazz Playhouse | Date: Saturday, May 2 | Time: 7:30pm</description>
+<pubDate>Sat, 02 May 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Trixie Minx's Burlesque Ballroom ft. Romy Kaye on Vocals — Jazz Playhouse</title>
-<link>https://www.wwoz.org/events/1335246</link>
-<guid isPermaLink="false">76c5918a9e0e11348229e0b4cb68244928f57af8</guid>
-<description>Venue: Jazz Playhouse | Date: Friday, May 1 | Time: 7:30pm</description>
-<pubDate>Fri, 01 May 2026 19:30:00 +0000</pubDate>
+<title>The Nayo Jones Experience — Jazz Playhouse</title>
+<link>https://www.wwoz.org/events/1335326</link>
+<guid isPermaLink="false">1494a54bc4990349c265a3ed925f79e157373e6f</guid>
+<description>Venue: Jazz Playhouse | Date: Saturday, May 2 | Time: 9:00pm</description>
+<pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Trixie Minx's Burlesque Ballroom ft. Romy Kaye on Vocals — Jazz Playhouse</title>
-<link>https://www.wwoz.org/events/1335276</link>
-<guid isPermaLink="false">d7fdcd7836d84f06ff0612cb724fd48776e4c824</guid>
-<description>Venue: Jazz Playhouse | Date: Friday, May 1 | Time: 9:00pm</description>
-<pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
+<title>Tank &amp; The Bangas + Big Freedia + Dawn Richard — Joy Theater</title>
+<link>https://www.wwoz.org/events/1321876</link>
+<guid isPermaLink="false">a87f3abda664e9f1de6323bcef811e229d5001b6</guid>
+<description>Venue: Joy Theater | Date: Saturday, May 2 | Time: 10:00pm</description>
+<pubDate>Sat, 02 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Heavyweights with Special Guest Oteil Burbridge — Joy Theater</title>
-<link>https://www.wwoz.org/events/1321871</link>
-<guid isPermaLink="false">26f0716322e0ece476a046d6431be808926b5b96</guid>
-<description>Venue: Joy Theater | Date: Friday, May 1 | Time: 9:00pm</description>
-<pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
+<title>Kermit Ruffins &amp; The BBQ Swingers — Kermit's Tremé Mother-in-Law Lounge</title>
+<link>https://www.wwoz.org/events/1307336</link>
+<guid isPermaLink="false">314ae32c7ff4bb52a570b890df0ff8ed914ca5a0</guid>
+<description>Venue: Kermit's Tremé Mother-in-Law Lounge | Date: Saturday, May 2 | Time: 7:30pm</description>
+<pubDate>Sat, 02 May 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Patrick Cooper — Kerry Irish Pub</title>
-<link>https://www.wwoz.org/events/1337231</link>
-<guid isPermaLink="false">e082f6999c69b590ae3e01e73fdeea92c08c89d7</guid>
-<description>Venue: Kerry Irish Pub | Date: Friday, May 1 | Time: 9:00pm</description>
-<pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
+<title>Dash Rip Rock — Kingpin</title>
+<link>https://www.wwoz.org/events/1336371</link>
+<guid isPermaLink="false">2b8cc9052407aa3102539cce24ec02e86f1c455c</guid>
+<description>Venue: Kingpin | Date: Saturday, May 2 | Time: 7:00pm</description>
+<pubDate>Sat, 02 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Bakey's Brew — Le Bon Temps Roulé</title>
-<link>https://www.wwoz.org/events/1330841</link>
-<guid isPermaLink="false">6b6073bdf392f351150cfc70a3fc44707eff06cb</guid>
-<description>Venue: Le Bon Temps Roulé | Date: Friday, May 1 | Time: 10:00pm</description>
-<pubDate>Fri, 01 May 2026 22:00:00 +0000</pubDate>
+<title>Slugger — Le Bon Temps Roulé</title>
+<link>https://www.wwoz.org/events/1330846</link>
+<guid isPermaLink="false">4ec7182c3c891eb332df602ea6c4e00164e1e895</guid>
+<description>Venue: Le Bon Temps Roulé | Date: Saturday, May 2 | Time: 10:00pm</description>
+<pubDate>Sat, 02 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>(12am) Billy Iuso — Le Bon Temps Roulé</title>
-<link>https://www.wwoz.org/events/1330851</link>
-<guid isPermaLink="false">19aae9ee03113d9a3c145cc07f4b4a21e77729b6</guid>
-<description>Venue: Le Bon Temps Roulé | Date: Friday, May 1 | Time: 11:45pm</description>
-<pubDate>Fri, 01 May 2026 23:45:00 +0000</pubDate>
+<title>(12am) Steve Kelly — Le Bon Temps Roulé</title>
+<link>https://www.wwoz.org/events/1330856</link>
+<guid isPermaLink="false">f45b0e916e9e314685fe665392145fb2aec457fa</guid>
+<description>Venue: Le Bon Temps Roulé | Date: Saturday, May 2 | Time: 11:45pm</description>
+<pubDate>Sat, 02 May 2026 23:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Khris Royal Trio — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1337646</link>
-<guid isPermaLink="false">d9b8bdcc4cd56d73ff6b017428a2af2ab460091c</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Friday, May 1 | Time: 3:30pm</description>
-<pubDate>Fri, 01 May 2026 15:30:00 +0000</pubDate>
+<title>Crawfish Boil with Nat &amp; Kat Cajun String Band — Little House, The</title>
+<link>https://www.wwoz.org/events/1336726</link>
+<guid isPermaLink="false">9fa151da57e903247641cff7cb9951eb0b78d09b</guid>
+<description>Venue: Little House, The | Date: Saturday, May 2 | Time: 6:00pm</description>
+<pubDate>Sat, 02 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Leroy Jones Trio — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1337651</link>
-<guid isPermaLink="false">3eb10426251ebf816882b4eea35ec2dbb3ce54ea</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Friday, May 1 | Time: 7:00pm</description>
-<pubDate>Fri, 01 May 2026 19:00:00 +0000</pubDate>
+<title>Stephen Walker N'em — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1337671</link>
+<guid isPermaLink="false">076ee10d3437d1811a78fdcb6d85d48ed36bb777</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Saturday, May 2 | Time: 3:00pm</description>
+<pubDate>Sat, 02 May 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mahogany Hall Jazz Band ft. Mike Fulton with Midnight Burlesque — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1337656</link>
-<guid isPermaLink="false">53c7c8c0ac7666f1bd9b73c909506584bf6bd860</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Friday, May 1 | Time: 9:30pm</description>
-<pubDate>Fri, 01 May 2026 21:30:00 +0000</pubDate>
+<title>Gerald French Trio — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1337661</link>
+<guid isPermaLink="false">10beeb9719ed3d636a54e561901ff0e332db3a73</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Saturday, May 2 | Time: 7:00pm</description>
+<pubDate>Sat, 02 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Nola Sweethearts — Maison, The</title>
-<link>https://www.wwoz.org/events/1337481</link>
-<guid isPermaLink="false">5e2733ea2b4e0a593f5a39a75633b9d4613ca1af</guid>
-<description>Venue: Maison, The | Date: Friday, May 1 | Time: 3:00pm</description>
-<pubDate>Fri, 01 May 2026 15:00:00 +0000</pubDate>
+<title>Mahogany Hall Jazz Band ft. Kid Chocolate with Midnight Burlesque — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1337666</link>
+<guid isPermaLink="false">64b35239b5f6792642b340b0da93e867708a08d3</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Saturday, May 2 | Time: 9:30pm</description>
+<pubDate>Sat, 02 May 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Shotgun Jazz Band — Maison, The</title>
-<link>https://www.wwoz.org/events/1337486</link>
-<guid isPermaLink="false">ef227cf8ccc311bedcc653340b7d7267e0760362</guid>
-<description>Venue: Maison, The | Date: Friday, May 1 | Time: 5:00pm</description>
-<pubDate>Fri, 01 May 2026 17:00:00 +0000</pubDate>
+<title>Nola Axemen — Maison, The</title>
+<link>https://www.wwoz.org/events/1337501</link>
+<guid isPermaLink="false">ea2cfe0d18776866c5d139ccbb9e58ffd2c1e394</guid>
+<description>Venue: Maison, The | Date: Saturday, May 2 | Time: 1:00pm</description>
+<pubDate>Sat, 02 May 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Pocket Aces Brass Band — Maison, The</title>
-<link>https://www.wwoz.org/events/1337491</link>
-<guid isPermaLink="false">123d254b9f99fefe0dd8c4bb68501aed48ad7fb1</guid>
-<description>Venue: Maison, The | Date: Friday, May 1 | Time: 8:00pm</description>
-<pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
+<title>Smoking Time Jazz Club — Maison, The</title>
+<link>https://www.wwoz.org/events/1337506</link>
+<guid isPermaLink="false">96ef2a65110b093fce1ac3805a9e2a3c36cd0c03</guid>
+<description>Venue: Maison, The | Date: Saturday, May 2 | Time: 4:00pm</description>
+<pubDate>Sat, 02 May 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Timmy Golds — Maison, The</title>
-<link>https://www.wwoz.org/events/1337496</link>
-<guid isPermaLink="false">85413a29910732f0cdd08753078c46037f4c7fdd</guid>
-<description>Venue: Maison, The | Date: Friday, May 1 | Time: 11:00pm</description>
-<pubDate>Fri, 01 May 2026 23:00:00 +0000</pubDate>
+<title>Street Lyfe — Maison, The</title>
+<link>https://www.wwoz.org/events/1337511</link>
+<guid isPermaLink="false">cc3f43c2579a2b70df15d16534e372fb3d5f9c32</guid>
+<description>Venue: Maison, The | Date: Saturday, May 2 | Time: 8:00pm</description>
+<pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mandeville Live ft. Soul Revival — Mandeville Trailhead (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1332061</link>
-<guid isPermaLink="false">e2ffd6c0cb99499984820cc80492c06330c39389</guid>
-<description>Venue: Mandeville Trailhead (OUTDOORS) | Date: Friday, May 1 | Time: 6:30pm</description>
-<pubDate>Fri, 01 May 2026 18:30:00 +0000</pubDate>
+<title>DJ B Dot (Dot Dunnie) — Maison, The</title>
+<link>https://www.wwoz.org/events/1337516</link>
+<guid isPermaLink="false">82a2ed468c2008afba96a199cccd581cc18165a3</guid>
+<description>Venue: Maison, The | Date: Saturday, May 2 | Time: 11:00pm</description>
+<pubDate>Sat, 02 May 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Funk Monkey ft. Arséne DeLay — Maple Leaf</title>
-<link>https://www.wwoz.org/events/1334576</link>
-<guid isPermaLink="false">ebebb43ca979d9014b357dfa9d2e2e474606cd03</guid>
-<description>Venue: Maple Leaf | Date: Friday, May 1 | Time: 8:00pm</description>
-<pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
+<title>Eric Johanson — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1334591</link>
+<guid isPermaLink="false">757fa20e06a973fbc864ca56979efa326831d099</guid>
+<description>Venue: Maple Leaf | Date: Saturday, May 2 | Time: 8:00pm</description>
+<pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>James Brown Tribute with The New Orleans Soul Stars ft. Tony Hall — Maple Leaf</title>
-<link>https://www.wwoz.org/events/1334581</link>
-<guid isPermaLink="false">a3af8d56b61e63d51b717e7b06f9636942d73ea7</guid>
-<description>Venue: Maple Leaf | Date: Friday, May 1 | Time: 10:00pm</description>
-<pubDate>Fri, 01 May 2026 22:00:00 +0000</pubDate>
+<title>Jon Cleary &amp; The Absolute Monster Gentlemen — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1334596</link>
+<guid isPermaLink="false">1f900b90f0e58d34596044a26532d098d4a2a3da</guid>
+<description>Venue: Maple Leaf | Date: Saturday, May 2 | Time: 10:00pm</description>
+<pubDate>Sat, 02 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>(1am) Gator Blaq with Terence Higgins, Cass Falconer, Eric Johanson &amp; More! — Maple Leaf</title>
-<link>https://www.wwoz.org/events/1334586</link>
-<guid isPermaLink="false">94c9fbac7d3976fc5936dc94df45e41ee219fad6</guid>
-<description>Venue: Maple Leaf | Date: Friday, May 1 | Time: 11:45pm</description>
-<pubDate>Fri, 01 May 2026 23:45:00 +0000</pubDate>
+<title>(1am) King Baby ft. Kevin Scott &amp; Special Guests — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1334601</link>
+<guid isPermaLink="false">924b3b9cd4955731524af655b37a000bfc644dfb</guid>
+<description>Venue: Maple Leaf | Date: Saturday, May 2 | Time: 11:45pm</description>
+<pubDate>Sat, 02 May 2026 23:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Maggie Koerner &amp; Friends ft. Claire Givens &amp; Mopodna, Lyla George, and Olivia Barnes — Marigny Opera House</title>
-<link>https://www.wwoz.org/events/1294986</link>
-<guid isPermaLink="false">6961f5d7445c89475d78df2adaef13ae85b8117a</guid>
-<description>Venue: Marigny Opera House | Date: Friday, May 1 | Time: 7:30pm</description>
-<pubDate>Fri, 01 May 2026 19:30:00 +0000</pubDate>
+<title>The Triad — May Baily's Place</title>
+<link>https://www.wwoz.org/events/1334641</link>
+<guid isPermaLink="false">d02bb56411a24532be5003f90709e65cf5819ef6</guid>
+<description>Venue: May Baily's Place | Date: Saturday, May 2 | Time: 8:30pm</description>
+<pubDate>Sat, 02 May 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Bayou Manouche — May Baily's Place</title>
-<link>https://www.wwoz.org/events/1334636</link>
-<guid isPermaLink="false">0a95d94d5dd2633dbe15e154f81651689b668528</guid>
-<description>Venue: May Baily's Place | Date: Friday, May 1 | Time: 8:30pm</description>
-<pubDate>Fri, 01 May 2026 20:30:00 +0000</pubDate>
+<title>Cowboy Mouth + Few Blue — Mid-City Lanes Rock 'n' Bowl</title>
+<link>https://www.wwoz.org/events/1313821</link>
+<guid isPermaLink="false">fd0a8138dfb0a7b6b3732b82bd0a1a2635f5902e</guid>
+<description>Venue: Mid-City Lanes Rock 'n' Bowl | Date: Saturday, May 2 | Time: 8:30pm</description>
+<pubDate>Sat, 02 May 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Sonny Landreth + Dustin Gaspard — Mid-City Lanes Rock 'n' Bowl</title>
-<link>https://www.wwoz.org/events/1313816</link>
-<guid isPermaLink="false">8c791a6048a2cfa86f2476e629ede3400ac77ce3</guid>
-<description>Venue: Mid-City Lanes Rock 'n' Bowl | Date: Friday, May 1 | Time: 8:30pm</description>
-<pubDate>Fri, 01 May 2026 20:30:00 +0000</pubDate>
+<title>Helen Gillet with Terrence Houston, Aurora Nealand’s Monocle &amp; More! — Music Box Village (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1325266</link>
+<guid isPermaLink="false">1cd094e3791cb53df6339895112fc6ef7b0433a8</guid>
+<description>Venue: Music Box Village (OUTDOORS) | Date: Saturday, May 2 | Time: 8:00pm</description>
+<pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Silver Lining Serenaders — Miss River at Four Seasons Hotel</title>
-<link>https://www.wwoz.org/events/1333566</link>
-<guid isPermaLink="false">98f94039f7cf083dc556e623d291076678ee1816</guid>
-<description>Venue: Miss River at Four Seasons Hotel | Date: Friday, May 1 | Time: 11:00am</description>
-<pubDate>Fri, 01 May 2026 11:00:00 +0000</pubDate>
+<title>Kenny Garrett (Show 1) — New Orleans Jazz &amp; Blues Market</title>
+<link>https://www.wwoz.org/events/1263171</link>
+<guid isPermaLink="false">cbac6cac53d0bbda71aa8a55d5401d529f3c0ed3</guid>
+<description>Venue: New Orleans Jazz &amp; Blues Market | Date: Saturday, May 2 | Time: 7:00pm</description>
+<pubDate>Sat, 02 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>George Porter Jr. &amp; Runnin' Pardners with the James Marcinek Band — Music Box Village (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1325256</link>
-<guid isPermaLink="false">39cd9a3dacdf308471ecfca58fff56b58ab30eac</guid>
-<description>Venue: Music Box Village (OUTDOORS) | Date: Friday, May 1 | Time: 8:00pm</description>
-<pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
+<title>Kenny Garrett (Show 2) — New Orleans Jazz &amp; Blues Market</title>
+<link>https://www.wwoz.org/events/1263176</link>
+<guid isPermaLink="false">1f7d7396dc58e4e0c8ea90f0ad54a8f6d35adaa5</guid>
+<description>Venue: New Orleans Jazz &amp; Blues Market | Date: Saturday, May 2 | Time: 9:30pm</description>
+<pubDate>Sat, 02 May 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Scott Sharrard with Fred Tackett, John "Papa" Gros, Marc Stone &amp; More! — New Orleans Jazz &amp; Blues Market</title>
-<link>https://www.wwoz.org/events/1330336</link>
-<guid isPermaLink="false">38976250f4df6668ab5ae90d1401ee3c6a768af9</guid>
-<description>Venue: New Orleans Jazz &amp; Blues Market | Date: Friday, May 1 | Time: 8:00pm</description>
-<pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
+<title>Drum Circle with Wesley Phillips — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1338001</link>
+<guid isPermaLink="false">e0608b61ea3bcfad9f2ac262c52e442c060b8893</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Saturday, May 2 | Time: 10:30am</description>
+<pubDate>Sat, 02 May 2026 10:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Masakowski Family Album Release Party — New Orleans Jazz Museum</title>
-<link>https://www.wwoz.org/events/1338141</link>
-<guid isPermaLink="false">0a19d7adeafd6a18a2db7fe6478636ac2989ccae</guid>
-<description>Venue: New Orleans Jazz Museum | Date: Friday, May 1 | Time: 7:00pm</description>
-<pubDate>Fri, 01 May 2026 19:00:00 +0000</pubDate>
+<title>John Royen — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1338006</link>
+<guid isPermaLink="false">eef3322b63ed95085ae91fd5cb807ec529da6aae</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Saturday, May 2 | Time: 3:00pm</description>
+<pubDate>Sat, 02 May 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Kyle Cripps — New Orleans Jazz National Historical Park</title>
-<link>https://www.wwoz.org/events/1337996</link>
-<guid isPermaLink="false">e3ff8a34b8b4f7e3b73cfa83092ca9f63f8aa560</guid>
-<description>Venue: New Orleans Jazz National Historical Park | Date: Friday, May 1 | Time: 3:00pm</description>
-<pubDate>Fri, 01 May 2026 15:00:00 +0000</pubDate>
+<title>Sourcière + Joe Adragna (The Junior League) — NOLA 'Nacular Art Gallery</title>
+<link>https://www.wwoz.org/events/1336506</link>
+<guid isPermaLink="false">65c883faddad821b6203bcf08a6fdb31618c1d5c</guid>
+<description>Venue: NOLA 'Nacular Art Gallery | Date: Saturday, May 2 | Time: 7:00pm</description>
+<pubDate>Sat, 02 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Johnette Downing — New Orleans Jazz National Historical Park - Dutch Alley</title>
-<link>https://www.wwoz.org/events/1336956</link>
-<guid isPermaLink="false">ccdb6309c5d46838927885790580736d0d28c6ac</guid>
-<description>Venue: New Orleans Jazz National Historical Park - Dutch Alley | Date: Friday, May 1 | Time: 11:00am</description>
-<pubDate>Fri, 01 May 2026 11:00:00 +0000</pubDate>
+<title>Zack Feinberg with Isaac Eady &amp; George Gekas — NOLA Brewing</title>
+<link>https://www.wwoz.org/events/1338091</link>
+<guid isPermaLink="false">c0a6a4702bbe7add69c4b05ffb2d4b5c7e22667a</guid>
+<description>Venue: NOLA Brewing | Date: Saturday, May 2 | Time: 8:30pm</description>
+<pubDate>Sat, 02 May 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Alexis &amp; The Sanity + A.J. Haynes — No Dice</title>
-<link>https://www.wwoz.org/events/1338026</link>
-<guid isPermaLink="false">ad8aa92bfc20efe344a856fea26032ac73d2c5fa</guid>
-<description>Venue: No Dice | Date: Friday, May 1 | Time: 9:00pm</description>
-<pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
+<title>The Marcus King Band — Orpheum Theater</title>
+<link>https://www.wwoz.org/events/1306951</link>
+<guid isPermaLink="false">29540bce8ba29e86ae4d612aeab68fa459c7eb4f</guid>
+<description>Venue: Orpheum Theater | Date: Saturday, May 2 | Time: 9:00pm</description>
+<pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Life Is A Carnival - A Tribute to the Band Performed by HollyRock — NOLA Brewing</title>
-<link>https://www.wwoz.org/events/1338086</link>
-<guid isPermaLink="false">3cffb0b6c140e1d89c4adbb9083cb17241630ca1</guid>
-<description>Venue: NOLA Brewing | Date: Friday, May 1 | Time: 8:00pm</description>
-<pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
+<title>Ben Michaels &amp; Jim Lockwood — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1331736</link>
+<guid isPermaLink="false">e2a1b1e9cbe310e97099033427204abc89b046b3</guid>
+<description>Venue: Pat O'Brien's | Date: Saturday, May 2 | Time: 1:00pm</description>
+<pubDate>Sat, 02 May 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>New Orleans Noise Fest '26 ft. letmeinyourhouse, walkingonsunshine, Rachie Kim &amp; More! — Okay Bar</title>
-<link>https://www.wwoz.org/events/1334331</link>
-<guid isPermaLink="false">968f4fba2f8eeb303c731d8ab3b30b0d8f7125aa</guid>
-<description>Venue: Okay Bar | Date: Friday, May 1 | Time: 7:00pm</description>
-<pubDate>Fri, 01 May 2026 19:00:00 +0000</pubDate>
+<title>Emelie Guidry, Matt Hayden, Lisa Bittick-Lowe &amp; Natalie Mae — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1331741</link>
+<guid isPermaLink="false">a8d0f557df5fb21dbcc07d48633105b960e97065</guid>
+<description>Venue: Pat O'Brien's | Date: Saturday, May 2 | Time: 6:00pm</description>
+<pubDate>Sat, 02 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Rick Trolsen — Old Point Bar</title>
-<link>https://www.wwoz.org/events/1334821</link>
-<guid isPermaLink="false">b10a36b9ea7ab19786389e0f0744e5b0e465630a</guid>
-<description>Venue: Old Point Bar | Date: Friday, May 1 | Time: 5:00pm</description>
-<pubDate>Fri, 01 May 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Eric Lindell — Old Point Bar</title>
-<link>https://www.wwoz.org/events/1334826</link>
-<guid isPermaLink="false">d862b25c280b0e019b0d5ffb6a4cbd1b8c0ebe7c</guid>
-<description>Venue: Old Point Bar | Date: Friday, May 1 | Time: 9:00pm</description>
-<pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Gov't Mule — Orpheum Theater</title>
-<link>https://www.wwoz.org/events/1306946</link>
-<guid isPermaLink="false">32933803630ef684289b894fd947381d3b03bcae</guid>
-<description>Venue: Orpheum Theater | Date: Friday, May 1 | Time: 9:00pm</description>
-<pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Victoria Amato &amp; Jim Lockwood — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1331726</link>
-<guid isPermaLink="false">4c95834fd46e7255fb03428a5dc11db710dacb78</guid>
-<description>Venue: Pat O'Brien's | Date: Friday, May 1 | Time: 1:00pm</description>
-<pubDate>Fri, 01 May 2026 13:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Ben Michaels, Lisa Bittick-Lowe, Matt Hayden &amp; Hannah Kreiger-Benson — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1331731</link>
-<guid isPermaLink="false">c4a2d4972b81928964044e251c26f84b28983a0b</guid>
-<description>Venue: Pat O'Brien's | Date: Friday, May 1 | Time: 6:00pm</description>
-<pubDate>Fri, 01 May 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Lily Unless &amp; The If Onlys — Pirogue's Whiskey Bayou (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1327506</link>
-<guid isPermaLink="false">52dfdde31c1ed94b320c5d6425f9519ab18f523e</guid>
-<description>Venue: Pirogue's Whiskey Bayou (OUTDOORS) | Date: Friday, May 1 | Time: 7:00pm</description>
-<pubDate>Fri, 01 May 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>David Boeddinghaus — Polo Club at The Windsor Court, The</title>
-<link>https://www.wwoz.org/events/1300761</link>
-<guid isPermaLink="false">d478b9d282f2187671a45e0c690627c45ec18f02</guid>
-<description>Venue: Polo Club at The Windsor Court, The | Date: Friday, May 1 | Time: 5:30pm</description>
-<pubDate>Fri, 01 May 2026 17:30:00 +0000</pubDate>
+<title>John Royen — Polo Club at The Windsor Court, The</title>
+<link>https://www.wwoz.org/events/1301166</link>
+<guid isPermaLink="false">4a1827fb05796a601365bea57a09c165cf2cb01d</guid>
+<description>Venue: Polo Club at The Windsor Court, The | Date: Saturday, May 2 | Time: 5:30pm</description>
+<pubDate>Sat, 02 May 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Bean 'N The Boys — Polo Club at The Windsor Court, The</title>
-<link>https://www.wwoz.org/events/1301271</link>
-<guid isPermaLink="false">22c5fb544b85d8019299a436b6aee20fb9d1b908</guid>
-<description>Venue: Polo Club at The Windsor Court, The | Date: Friday, May 1 | Time: 9:00pm</description>
-<pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1301276</link>
+<guid isPermaLink="false">2e42601e02668d46ffb5cc241d8cd966c5c1f28d</guid>
+<description>Venue: Polo Club at The Windsor Court, The | Date: Saturday, May 2 | Time: 9:00pm</description>
+<pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Lost Bayou Ramblers — Rabbit Hole, The</title>
-<link>https://www.wwoz.org/events/1334231</link>
-<guid isPermaLink="false">7f1ea1dc06b2b95aaa9433c6ae73da7f98714c14</guid>
-<description>Venue: Rabbit Hole, The | Date: Friday, May 1 | Time: 7:00pm</description>
-<pubDate>Fri, 01 May 2026 19:00:00 +0000</pubDate>
+<title>DJ Logic &amp; Friends — Rabbit Hole, The</title>
+<link>https://www.wwoz.org/events/1325056</link>
+<guid isPermaLink="false">bedf8220ffe82d010af2bd9a077a9c4ba4ff6a85</guid>
+<description>Venue: Rabbit Hole, The | Date: Saturday, May 2 | Time: 11:00pm</description>
+<pubDate>Sat, 02 May 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Felix Martin: Hot Chip DJ Set with HOLLAGRAM &amp; DJ87 — Rabbit Hole, The</title>
-<link>https://www.wwoz.org/events/1334236</link>
-<guid isPermaLink="false">c2aa27101cef9ef55c5df8fbe5b45bb4b695affe</guid>
-<description>Venue: Rabbit Hole, The | Date: Friday, May 1 | Time: 11:00pm</description>
-<pubDate>Fri, 01 May 2026 23:00:00 +0000</pubDate>
+<title>The Soul Rebels — Rabbit Hole, The (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1334241</link>
+<guid isPermaLink="false">138dc8d95c6d65916ad0478e23ebff3fb7404d16</guid>
+<description>Venue: Rabbit Hole, The (OUTDOORS) | Date: Saturday, May 2 | Time: 8:00pm</description>
+<pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Earth Wind &amp; Power ft. Mark Lettieri, Skerik, Peter Levin &amp; More! — Republic New Orleans</title>
-<link>https://www.wwoz.org/events/1290106</link>
-<guid isPermaLink="false">f66c9bc98a447dfcb0b4f1d2a97d8c87e02723b6</guid>
-<description>Venue: Republic New Orleans | Date: Friday, May 1 | Time: 10:00pm</description>
-<pubDate>Fri, 01 May 2026 22:00:00 +0000</pubDate>
+<title>Steely DANth with Cory Henry, Mark Lettieri, Peter Levin &amp; More! — Republic New Orleans</title>
+<link>https://www.wwoz.org/events/1290111</link>
+<guid isPermaLink="false">ee637ce333ab8eb124c306eea9f94e506ba04ef9</guid>
+<description>Venue: Republic New Orleans | Date: Saturday, May 2 | Time: 10:00pm</description>
+<pubDate>Sat, 02 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Christian Serpas Duo — Rivershack Tavern</title>
-<link>https://www.wwoz.org/events/1331976</link>
-<guid isPermaLink="false">36010e2613c375ca2d9324dcd003de328503e91c</guid>
-<description>Venue: Rivershack Tavern | Date: Friday, May 1 | Time: 7:00pm</description>
-<pubDate>Fri, 01 May 2026 19:00:00 +0000</pubDate>
+<title>Sugar Bear &amp; The Jazz Cats — Rib Room at the Omni Royal Orleans</title>
+<link>https://www.wwoz.org/events/1324126</link>
+<guid isPermaLink="false">d8b37e9683b044cc99170180e6e34ddeac17c729</guid>
+<description>Venue: Rib Room at the Omni Royal Orleans | Date: Saturday, May 2 | Time: 11:00am</description>
+<pubDate>Sat, 02 May 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>An Evening with Wilco — Saenger Theatre</title>
-<link>https://www.wwoz.org/events/1325661</link>
-<guid isPermaLink="false">86019f308f05cfa970521b14312d4f2af0b13b4a</guid>
-<description>Venue: Saenger Theatre | Date: Friday, May 1 | Time: 9:00pm</description>
-<pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
+<title>Big Al &amp; The Heavyweights — Rivershack Tavern</title>
+<link>https://www.wwoz.org/events/1332011</link>
+<guid isPermaLink="false">a9914708443937183e17ba3f087ec6b14553ee70</guid>
+<description>Venue: Rivershack Tavern | Date: Saturday, May 2 | Time: 8:00pm</description>
+<pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Resurrection Goth Night with DJs Mange, EveHill &amp; Kacey Chaos — Santos Bar</title>
-<link>https://www.wwoz.org/events/1337421</link>
-<guid isPermaLink="false">f5850e93d4209463d2b085751af4bcc33e999275</guid>
-<description>Venue: Santos Bar | Date: Friday, May 1 | Time: 10:00pm</description>
-<pubDate>Fri, 01 May 2026 22:00:00 +0000</pubDate>
+<title>The Meters with Very Special Guests — Saenger Theatre</title>
+<link>https://www.wwoz.org/events/1306941</link>
+<guid isPermaLink="false">c2eb09318df87b725c3c14d495121421958f6304</guid>
+<description>Venue: Saenger Theatre | Date: Saturday, May 2 | Time: 8:00pm</description>
+<pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Una Noche de Musica Latina with La Tran K — Saturn Bar</title>
-<link>https://www.wwoz.org/events/1336256</link>
-<guid isPermaLink="false">3ecfb783dce8fac030910f60a1f9bdd1f84f0db6</guid>
-<description>Venue: Saturn Bar | Date: Friday, May 1 | Time: 10:00pm</description>
-<pubDate>Fri, 01 May 2026 22:00:00 +0000</pubDate>
+<title>Past Self, Children of Judas &amp; Delores Galore — Santos Bar</title>
+<link>https://www.wwoz.org/events/1337426</link>
+<guid isPermaLink="false">160b00c51745ca97f706bb29436e8ccdf6f39d4a</guid>
+<description>Venue: Santos Bar | Date: Saturday, May 2 | Time: 10:00pm</description>
+<pubDate>Sat, 02 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Shawn Williams — Schooner Saloon, The</title>
-<link>https://www.wwoz.org/events/1331346</link>
-<guid isPermaLink="false">a0bb07ca7ccce02c0a98dc70f30d343179078a3c</guid>
-<description>Venue: Schooner Saloon, The | Date: Friday, May 1 | Time: 8:00pm</description>
-<pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
+<title>Valparaiso Men’s Chorus — Saturn Bar</title>
+<link>https://www.wwoz.org/events/1322066</link>
+<guid isPermaLink="false">a563d15f1da589359790a051900d6eba45107dc9</guid>
+<description>Venue: Saturn Bar | Date: Saturday, May 2 | Time: 10:00pm</description>
+<pubDate>Sat, 02 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Silver Lining Serenaders — Seawitch Restaurant &amp; Oyster Bar</title>
-<link>https://www.wwoz.org/events/1333536</link>
-<guid isPermaLink="false">c4c232d19a8dbf0f6b755dce8a1a2ad8e009dc79</guid>
-<description>Venue: Seawitch Restaurant &amp; Oyster Bar | Date: Friday, May 1 | Time: 5:00pm</description>
-<pubDate>Fri, 01 May 2026 17:00:00 +0000</pubDate>
+<title>Pinecone Honey — Schooner Saloon, The</title>
+<link>https://www.wwoz.org/events/1331351</link>
+<guid isPermaLink="false">9c6ebdfafc23cb7ed702e529917b7586e79ebbf8</guid>
+<description>Venue: Schooner Saloon, The | Date: Saturday, May 2 | Time: 8:00pm</description>
+<pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Craig Cortello, The “Canine Crooner” — Second Line Brewing</title>
-<link>https://www.wwoz.org/events/1337226</link>
-<guid isPermaLink="false">b071d9bca191a0f9d11f173f1a3348cba6e24f5f</guid>
-<description>Venue: Second Line Brewing | Date: Friday, May 1 | Time: 6:00pm</description>
-<pubDate>Fri, 01 May 2026 18:00:00 +0000</pubDate>
+<title>Bayou Manouche — Seawitch Restaurant &amp; Oyster Bar</title>
+<link>https://www.wwoz.org/events/1336966</link>
+<guid isPermaLink="false">00b6763cfe620b40aa756c46a8c0bd9fb03442dc</guid>
+<description>Venue: Seawitch Restaurant &amp; Oyster Bar | Date: Saturday, May 2 | Time: 12:00pm</description>
+<pubDate>Sat, 02 May 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Rotary Downs — Siberia</title>
-<link>https://www.wwoz.org/events/1297756</link>
-<guid isPermaLink="false">3f8f01d4f6c95c07a202841f886fff33ca84db94</guid>
-<description>Venue: Siberia | Date: Friday, May 1 | Time: 9:00pm</description>
-<pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
+<title>Karen Shiraishi Duo — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1333241</link>
+<guid isPermaLink="false">17a442c63daf27eba7d96d21d4e307f1a08bf293</guid>
+<description>Venue: Snug Harbor | Date: Saturday, May 2 | Time: 4:30pm</description>
+<pubDate>Sat, 02 May 2026 16:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Jason Marsalis' Tribute to Ellis Marsalis with Guests Jon Cowherd &amp; Victor Goines — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1333231</link>
-<guid isPermaLink="false">986f3c548d1cd1cae161003149c62e330d72a5dd</guid>
-<description>Venue: Snug Harbor | Date: Friday, May 1 | Time: 8:00pm</description>
-<pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
+<title>Herlin Riley Quartet with Weedie Braimah &amp; Special Guests — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1333246</link>
+<guid isPermaLink="false">a8d1d60e40d86cf70dff1d6edff3e724ff83113e</guid>
+<description>Venue: Snug Harbor | Date: Saturday, May 2 | Time: 8:00pm</description>
+<pubDate>Sat, 02 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jason Marsalis' Tribute to Ellis Marsalis with Guests Jon Cowherd &amp; Victor Goines — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1333236</link>
-<guid isPermaLink="false">d5a8bec86410e126c282cba1cd89d2fa41ca4b89</guid>
-<description>Venue: Snug Harbor | Date: Friday, May 1 | Time: 10:00pm</description>
-<pubDate>Fri, 01 May 2026 22:00:00 +0000</pubDate>
+<title>Herlin Riley Quartet with Weedie Braimah &amp; Special Guests — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1333251</link>
+<guid isPermaLink="false">3ff6148a70bc6a2465aa113c7219e6e72527f56d</guid>
+<description>Venue: Snug Harbor | Date: Saturday, May 2 | Time: 10:00pm</description>
+<pubDate>Sat, 02 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Paradise Jazz Band — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1336446</link>
-<guid isPermaLink="false">8a29fed467247925ef2b3ba517f970a0eefdddc2</guid>
-<description>Venue: Spotted Cat | Date: Friday, May 1 | Time: 2:00pm</description>
-<pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
+<title>Bad Penny Pleasureamakers — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1336456</link>
+<guid isPermaLink="false">1c66f4d5fa6c4aa491ba0c2cc5c796c86b76febf</guid>
+<description>Venue: Spotted Cat | Date: Saturday, May 2 | Time: 12:00pm</description>
+<pubDate>Sat, 02 May 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>New Orleans Cottonmouth Kings — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1336441</link>
-<guid isPermaLink="false">1868a272cbc47c997989d7b87737af8393ecace3</guid>
-<description>Venue: Spotted Cat | Date: Friday, May 1 | Time: 6:00pm</description>
-<pubDate>Fri, 01 May 2026 18:00:00 +0000</pubDate>
+<title>Twerk Thomson Band — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1336451</link>
+<guid isPermaLink="false">bbb29bccd654ba77d89eb426920564ce61b8bf35</guid>
+<description>Venue: Spotted Cat | Date: Saturday, May 2 | Time: 2:00pm</description>
+<pubDate>Sat, 02 May 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>James Martin Band — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1336436</link>
-<guid isPermaLink="false">785859f4aa36e205d2e53da5e972aad607eed807</guid>
-<description>Venue: Spotted Cat | Date: Friday, May 1 | Time: 10:00pm</description>
-<pubDate>Fri, 01 May 2026 22:00:00 +0000</pubDate>
+<title>Panorama Jazz Band — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1336461</link>
+<guid isPermaLink="false">8e332d50ee5194de4bffaec9864786ce79d3580a</guid>
+<description>Venue: Spotted Cat | Date: Saturday, May 2 | Time: 6:00pm</description>
+<pubDate>Sat, 02 May 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Khris Royal + The Point — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1336466</link>
+<guid isPermaLink="false">150d7ec8f3b968641e6cb209b32804a67df9d511</guid>
+<description>Venue: Spotted Cat | Date: Saturday, May 2 | Time: 10:00pm</description>
+<pubDate>Sat, 02 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1320416</link>
-<guid isPermaLink="false">62e0833c3c3003daeb27c9de011e8af84961ebf2</guid>
-<description>Venue: Steamboat Natchez | Date: Friday, May 1 | Time: 11:00am</description>
-<pubDate>Fri, 01 May 2026 11:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1320166</link>
+<guid isPermaLink="false">a1581fb87585db1584010257816e4991b8a0594b</guid>
+<description>Venue: Steamboat Natchez | Date: Saturday, May 2 | Time: 11:00am</description>
+<pubDate>Sat, 02 May 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1320301</link>
-<guid isPermaLink="false">f7a6b0f822c9192a2849ee6d8d9134a1daa3b3a5</guid>
-<description>Venue: Steamboat Natchez | Date: Friday, May 1 | Time: 2:00pm</description>
-<pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1320306</link>
+<guid isPermaLink="false">97dde1c27a14a00c630e3f9ec50b7684b179087c</guid>
+<description>Venue: Steamboat Natchez | Date: Saturday, May 2 | Time: 2:00pm</description>
+<pubDate>Sat, 02 May 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dukes of Dixieland — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1319556</link>
-<guid isPermaLink="false">040ad9cbc87a70f8c8a205b1192364daaa3b6704</guid>
-<description>Venue: Steamboat Natchez | Date: Friday, May 1 | Time: 6:00pm</description>
-<pubDate>Fri, 01 May 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1320336</link>
+<guid isPermaLink="false">89bdc36f51272c8bbd26555b2a4e926271ac431f</guid>
+<description>Venue: Steamboat Natchez | Date: Saturday, May 2 | Time: 6:00pm</description>
+<pubDate>Sat, 02 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Galactic ft. Jelly Joseph + Gitkin — Tipitina's</title>
-<link>https://www.wwoz.org/events/1307766</link>
-<guid isPermaLink="false">2b468e8b7ad160def46d89a0366a1eec3fc07996</guid>
-<description>Venue: Tipitina's | Date: Friday, May 1 | Time: 9:00pm</description>
-<pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
+<title>Neal Francis + The Breaks (Eddie Roberts, Robert Walter &amp; Stanton Moore) — Tipitina's</title>
+<link>https://www.wwoz.org/events/1283561</link>
+<guid isPermaLink="false">5cf2a662adbd5ccd13acffa12a5b582c1b06f369</guid>
+<description>Venue: Tipitina's | Date: Saturday, May 2 | Time: 9:00pm</description>
+<pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>(2am) Neal Francis — Tipitina's</title>
-<link>https://www.wwoz.org/events/1307771</link>
-<guid isPermaLink="false">0cff3943a85dc961e9b3add500f1e3f0dd35efc7</guid>
-<description>Venue: Tipitina's | Date: Friday, May 1 | Time: 11:45pm</description>
-<pubDate>Fri, 01 May 2026 23:45:00 +0000</pubDate>
+<title>(2am) FiyaPowa! ft. Members of Dumpstaphunk &amp; Galactic — Tipitina's</title>
+<link>https://www.wwoz.org/events/1307776</link>
+<guid isPermaLink="false">8106359b5b808ab954cf6b7b4934b3f7996dd564</guid>
+<description>Venue: Tipitina's | Date: Saturday, May 2 | Time: 11:45pm</description>
+<pubDate>Sat, 02 May 2026 23:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Krewe de Voix Chamber Choir presents Schutz German Requiem — Trinity Episcopal Church</title>
-<link>https://www.wwoz.org/events/1337216</link>
-<guid isPermaLink="false">7ff587d7d88a7d5541e036a51d0609a15e20e0df</guid>
-<description>Venue: Trinity Episcopal Church | Date: Friday, May 1 | Time: 7:00pm</description>
-<pubDate>Fri, 01 May 2026 19:00:00 +0000</pubDate>
+<title>J &amp; The Causeways Alligator Rock: A New Orleans Tribute to Elton John — Toulouse Theatre</title>
+<link>https://www.wwoz.org/events/1325041</link>
+<guid isPermaLink="false">cd6542394ad8133a5bc44c4c31565560752e1b1f</guid>
+<description>Venue: Toulouse Theatre | Date: Saturday, May 2 | Time: 9:00pm</description>
+<pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>USAF "Airmen of Note" — Tulane University - Dixon Hall</title>
-<link>https://www.wwoz.org/events/1328011</link>
-<guid isPermaLink="false">836355e753e6b52b73c4361d06bf5830285a2ab0</guid>
-<description>Venue: Tulane University - Dixon Hall | Date: Friday, May 1 | Time: 7:00pm</description>
-<pubDate>Fri, 01 May 2026 19:00:00 +0000</pubDate>
+<title>(2am) Katrina Rykman — Toulouse Theatre</title>
+<link>https://www.wwoz.org/events/1320621</link>
+<guid isPermaLink="false">740f124d619b5835e7f6089e6d91fefe0a8b8b1c</guid>
+<description>Venue: Toulouse Theatre | Date: Saturday, May 2 | Time: 11:45pm</description>
+<pubDate>Sat, 02 May 2026 23:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Tuba Skinny + New Orleans Jazz Vipers — Vaughan's Lounge</title>
-<link>https://www.wwoz.org/events/1330646</link>
-<guid isPermaLink="false">cc0742496145f8143b5644939a32f5fa1d67ba6b</guid>
-<description>Venue: Vaughan's Lounge | Date: Friday, May 1 | Time: 8:00pm</description>
-<pubDate>Fri, 01 May 2026 20:00:00 +0000</pubDate>
+<title>Patrick Cooper &amp; Mark Carroll — True South</title>
+<link>https://www.wwoz.org/events/1335831</link>
+<guid isPermaLink="false">54182425289f13c9d7b5048d4b0840b2fffd2ea2</guid>
+<description>Venue: True South | Date: Saturday, May 2 | Time: 4:00pm</description>
+<pubDate>Sat, 02 May 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Van Ella Bordella: A Storyville Burlesque Musical — Twilight Room at The Allways Lounge</title>
+<link>https://www.wwoz.org/events/1334946</link>
+<guid isPermaLink="false">f229dbaeb13d0b7291354bcff67540d8c86e5843</guid>
+<description>Venue: Twilight Room at The Allways Lounge | Date: Saturday, May 2 | Time: 7:00pm</description>
+<pubDate>Sat, 02 May 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Rock N Romance : Burlesque &amp; Live Music — Twilight Room at The Allways Lounge</title>
+<link>https://www.wwoz.org/events/1334986</link>
+<guid isPermaLink="false">02d47320f063a8ad84b0320f15dc2c416bfe55c8</guid>
+<description>Venue: Twilight Room at The Allways Lounge | Date: Saturday, May 2 | Time: 10:30pm</description>
+<pubDate>Sat, 02 May 2026 22:30:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
