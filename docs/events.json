@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-05-03T15:07:57.812818+00:00",
-  "count": 90,
+  "generated_at": "2026-05-03T18:05:26.189118+00:00",
+  "count": 91,
   "events": [
     {
       "id": "37eaa7d15fc655aa4e7835606011cb6d127b232d",
@@ -1059,6 +1059,18 @@
       "time_text": "6:00pm",
       "start": "2026-05-03T18:00:00+00:00",
       "description": "Venue: Steamboat Natchez | Date: Sunday, May 3 | Time: 6:00pm"
+    },
+    {
+      "id": "5257e94fa4f9320789be8afab156634df760572e",
+      "source": "wwoz",
+      "title": "Sofia Mock + Victoria Dout\u00f3n Trio",
+      "venue": "Tigermen Den",
+      "venue_url": "https://www.wwoz.org/organizations/tigermen-den",
+      "event_url": "https://www.wwoz.org/events/1338241",
+      "date_text": "Sunday, May 3",
+      "time_text": "7:30pm",
+      "start": "2026-05-03T19:30:00+00:00",
+      "description": "Venue: Tigermen Den | Date: Sunday, May 3 | Time: 7:30pm"
     },
     {
       "id": "f6e1f0acc3d0f1123c5c7920a37c3e578a73a9a5",

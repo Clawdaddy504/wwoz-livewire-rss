@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 03 May 2026 15:07:57 +0000</lastBuildDate>
+<lastBuildDate>Sun, 03 May 2026 18:05:26 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Wolfe Johns Blues Band — 21st Amendment</title>
@@ -622,6 +622,13 @@
 <guid isPermaLink="false">9332ca274218e7471b9fad548d50d91c07031e6d</guid>
 <description>Venue: Steamboat Natchez | Date: Sunday, May 3 | Time: 6:00pm</description>
 <pubDate>Sun, 03 May 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Sofia Mock + Victoria Doutón Trio — Tigermen Den</title>
+<link>https://www.wwoz.org/events/1338241</link>
+<guid isPermaLink="false">5257e94fa4f9320789be8afab156634df760572e</guid>
+<description>Venue: Tigermen Den | Date: Sunday, May 3 | Time: 7:30pm</description>
+<pubDate>Sun, 03 May 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Dumpstaphunk + New Breed Brass Band — Tipitina's</title>
