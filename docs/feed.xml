@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 05 May 2026 07:33:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 05 May 2026 21:43:40 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dave Hammer — 21st Amendment</title>
@@ -78,7 +78,7 @@
 <pubDate>Tue, 05 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Ms. Jean's Birthday with Gal Holiday &amp; The Honky Tonk Revue — BJ's Lounge</title>
+<title>Cinco de Jeano with Gal Holiday &amp; The Honky Tonk Revue, John Boutté, Riali Anne &amp; More! — BJ's Lounge</title>
 <link>https://www.wwoz.org/events/1334901</link>
 <guid isPermaLink="false">0f97d929283df8710d38988ace6220c62a5f593c</guid>
 <description>Venue: BJ's Lounge | Date: Tuesday, May 5 | Time: 3:00pm</description>
@@ -209,6 +209,34 @@
 <guid isPermaLink="false">18b22d6b2c51054cc3bcf02bf641a9a021f0aac3</guid>
 <description>Venue: Polo Club at The Windsor Court, The | Date: Tuesday, May 5 | Time: 5:30pm</description>
 <pubDate>Tue, 05 May 2026 17:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1338841</link>
+<guid isPermaLink="false">9d8a21c8b2e82b6746649304a170fb360b007ed6</guid>
+<description>Venue: Preservation Hall | Date: Tuesday, May 5 | Time: 5:00pm</description>
+<pubDate>Tue, 05 May 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1338846</link>
+<guid isPermaLink="false">1aefa05677851641730560561e3693e5a36d74ee</guid>
+<description>Venue: Preservation Hall | Date: Tuesday, May 5 | Time: 6:15pm</description>
+<pubDate>Tue, 05 May 2026 18:15:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1338851</link>
+<guid isPermaLink="false">539c5bb838bbe711226216c4c3fbcdf6324d404f</guid>
+<description>Venue: Preservation Hall | Date: Tuesday, May 5 | Time: 7:30pm</description>
+<pubDate>Tue, 05 May 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1338856</link>
+<guid isPermaLink="false">4331aa1ce0fbf5ef008b0c8908aa3772e4263830</guid>
+<description>Venue: Preservation Hall | Date: Tuesday, May 5 | Time: 8:45pm</description>
+<pubDate>Tue, 05 May 2026 20:45:00 +0000</pubDate>
 </item>
 <item>
 <title>Rebirth Brass Band — Rabbit Hole, The</title>
