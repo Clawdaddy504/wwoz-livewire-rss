@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 06 May 2026 16:12:38 +0000</lastBuildDate>
+<lastBuildDate>Wed, 06 May 2026 21:47:08 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dr. Sick — 21st Amendment</title>
@@ -36,10 +36,10 @@
 <pubDate>Wed, 06 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Kota Dosa — Blue Nile</title>
-<link>https://www.wwoz.org/events/1335416</link>
-<guid isPermaLink="false">bafaa42d306f6db0a1badd08e0a715c322a726fd</guid>
-<description>Venue: Blue Nile | Date: Wednesday, May 6 | Time: 9:00pm</description>
+<title>Soft Opening featuring Anna Laura Quinn &amp; Christin Bradford — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1340166</link>
+<guid isPermaLink="false">1581c4493bae72f444c0170b3fb3c004d7ca3f8b</guid>
+<description>Venue: BJ's Lounge | Date: Wednesday, May 6 | Time: 9:00pm</description>
 <pubDate>Wed, 06 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
@@ -190,11 +190,25 @@
 <pubDate>Wed, 06 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Lynn Drury — MRB</title>
+<link>https://www.wwoz.org/events/1340311</link>
+<guid isPermaLink="false">01759c08de8e4a2c6549ed06e1550ddd54d76eee</guid>
+<description>Venue: MRB | Date: Wednesday, May 6 | Time: 7:00pm</description>
+<pubDate>Wed, 06 May 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
 <title>JFA Presents: Danny Abel &amp; Friends — New Orleans Jazz Museum</title>
 <link>https://www.wwoz.org/events/1338151</link>
 <guid isPermaLink="false">bcae2775351711ed48dd758c6c5a33cf8812c552</guid>
 <description>Venue: New Orleans Jazz Museum | Date: Wednesday, May 6 | Time: 2:00pm</description>
 <pubDate>Wed, 06 May 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Sam Kuslan — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1340051</link>
+<guid isPermaLink="false">5dc9a2e89e4c98cb35ae15666dc495279a641d50</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Wednesday, May 6 | Time: 3:00pm</description>
+<pubDate>Wed, 06 May 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Ziv Kartaginer: The Founder and Music Director of the Middle Eastern Big Band — New Orleans JCC</title>

@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-05-06T16:12:38.544812+00:00",
-  "count": 46,
+  "generated_at": "2026-05-06T21:47:08.702860+00:00",
+  "count": 48,
   "events": [
     {
       "id": "1282b05a6a6b220d1e620fd6bafac6580f21860a",
@@ -53,16 +53,16 @@
       "description": "Venue: Bayou Bar at the Pontchartrain | Date: Wednesday, May 6 | Time: 10:00pm"
     },
     {
-      "id": "bafaa42d306f6db0a1badd08e0a715c322a726fd",
+      "id": "1581c4493bae72f444c0170b3fb3c004d7ca3f8b",
       "source": "wwoz",
-      "title": "Kota Dosa",
-      "venue": "Blue Nile",
-      "venue_url": "https://www.wwoz.org/organizations/blue-nile",
-      "event_url": "https://www.wwoz.org/events/1335416",
+      "title": "Soft Opening featuring Anna Laura Quinn & Christin Bradford",
+      "venue": "BJ's Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/bjs-lounge",
+      "event_url": "https://www.wwoz.org/events/1340166",
       "date_text": "Wednesday, May 6",
       "time_text": "9:00pm",
       "start": "2026-05-06T21:00:00+00:00",
-      "description": "Venue: Blue Nile | Date: Wednesday, May 6 | Time: 9:00pm"
+      "description": "Venue: BJ's Lounge | Date: Wednesday, May 6 | Time: 9:00pm"
     },
     {
       "id": "e9993fa464b85b67e98d14fe0cf8e5cc2e7e2ae5",
@@ -317,6 +317,18 @@
       "description": "Venue: Marigny Studios | Date: Wednesday, May 6 | Time: 7:00pm"
     },
     {
+      "id": "01759c08de8e4a2c6549ed06e1550ddd54d76eee",
+      "source": "wwoz",
+      "title": "Lynn Drury",
+      "venue": "MRB",
+      "venue_url": "https://www.wwoz.org/organizations/mrb",
+      "event_url": "https://www.wwoz.org/events/1340311",
+      "date_text": "Wednesday, May 6",
+      "time_text": "7:00pm",
+      "start": "2026-05-06T19:00:00+00:00",
+      "description": "Venue: MRB | Date: Wednesday, May 6 | Time: 7:00pm"
+    },
+    {
       "id": "bcae2775351711ed48dd758c6c5a33cf8812c552",
       "source": "wwoz",
       "title": "JFA Presents: Danny Abel & Friends",
@@ -327,6 +339,18 @@
       "time_text": "2:00pm",
       "start": "2026-05-06T14:00:00+00:00",
       "description": "Venue: New Orleans Jazz Museum | Date: Wednesday, May 6 | Time: 2:00pm"
+    },
+    {
+      "id": "5dc9a2e89e4c98cb35ae15666dc495279a641d50",
+      "source": "wwoz",
+      "title": "Sam Kuslan",
+      "venue": "New Orleans Jazz National Historical Park",
+      "venue_url": "https://www.wwoz.org/organizations/new-orleans-jazz-national-historical-park",
+      "event_url": "https://www.wwoz.org/events/1340051",
+      "date_text": "Wednesday, May 6",
+      "time_text": "3:00pm",
+      "start": "2026-05-06T15:00:00+00:00",
+      "description": "Venue: New Orleans Jazz National Historical Park | Date: Wednesday, May 6 | Time: 3:00pm"
     },
     {
       "id": "9b296c48e1fde819c6d1e1cad022812046df8232",
