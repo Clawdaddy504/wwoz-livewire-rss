@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-05-06T09:14:13.219489+00:00",
-  "count": 43,
+  "generated_at": "2026-05-06T16:12:38.544812+00:00",
+  "count": 46,
   "events": [
     {
       "id": "1282b05a6a6b220d1e620fd6bafac6580f21860a",
@@ -87,6 +87,30 @@
       "time_text": "9:00pm",
       "start": "2026-05-06T21:00:00+00:00",
       "description": "Venue: BMC | Date: Wednesday, May 6 | Time: 9:00pm"
+    },
+    {
+      "id": "81e960c59bdf0f9479f04109376b6bd6602ddd7b",
+      "source": "wwoz",
+      "title": "Big Mike & The R&B Kings",
+      "venue": "Bourbon O Bar at The Bourbon Orleans Hotel",
+      "venue_url": "https://www.wwoz.org/organizations/bourbon-o-bar-bourbon-orleans-hotel",
+      "event_url": "https://www.wwoz.org/events/1339536",
+      "date_text": "Wednesday, May 6",
+      "time_text": "8:00pm",
+      "start": "2026-05-06T20:00:00+00:00",
+      "description": "Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Wednesday, May 6 | Time: 8:00pm"
+    },
+    {
+      "id": "efdfef5da5a3b4166c8e67a950694eb993b9d8e8",
+      "source": "wwoz",
+      "title": "Mark Pentone & Thomas McDonald",
+      "venue": "Bratz Y'all",
+      "venue_url": "https://www.wwoz.org/organizations/bratz-yall",
+      "event_url": "https://www.wwoz.org/events/1339186",
+      "date_text": "Wednesday, May 6",
+      "time_text": "5:00pm",
+      "start": "2026-05-06T17:00:00+00:00",
+      "description": "Venue: Bratz Y'all | Date: Wednesday, May 6 | Time: 5:00pm"
     },
     {
       "id": "a8305ed2a37d1575bba3b6437dab59dc43059919",
@@ -507,6 +531,18 @@
       "time_text": "2:00pm",
       "start": "2026-05-06T14:00:00+00:00",
       "description": "Venue: Steamboat Natchez | Date: Wednesday, May 6 | Time: 2:00pm"
+    },
+    {
+      "id": "faa68c74ba72dcdddd9d58206cd5cf27806001c0",
+      "source": "wwoz",
+      "title": "Kid Merv",
+      "venue": "Tipsy Trumpet",
+      "venue_url": "https://www.wwoz.org/organizations/tipsy-trumpet",
+      "event_url": "https://www.wwoz.org/events/1339936",
+      "date_text": "Wednesday, May 6",
+      "time_text": "12:00pm",
+      "start": "2026-05-06T12:00:00+00:00",
+      "description": "Venue: Tipsy Trumpet | Date: Wednesday, May 6 | Time: 12:00pm"
     },
     {
       "id": "334d4a36f9cec0acfee79fe99c285ae95b1178ef",

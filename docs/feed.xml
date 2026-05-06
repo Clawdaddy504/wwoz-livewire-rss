@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 06 May 2026 09:14:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 06 May 2026 16:12:38 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dr. Sick — 21st Amendment</title>
@@ -55,6 +55,20 @@
 <guid isPermaLink="false">15d6a644d1d40e0814815520cf6e784aee330849</guid>
 <description>Venue: BMC | Date: Wednesday, May 6 | Time: 9:00pm</description>
 <pubDate>Wed, 06 May 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Big Mike &amp; The R&amp;B Kings — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1339536</link>
+<guid isPermaLink="false">81e960c59bdf0f9479f04109376b6bd6602ddd7b</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Wednesday, May 6 | Time: 8:00pm</description>
+<pubDate>Wed, 06 May 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Mark Pentone &amp; Thomas McDonald — Bratz Y'all</title>
+<link>https://www.wwoz.org/events/1339186</link>
+<guid isPermaLink="false">efdfef5da5a3b4166c8e67a950694eb993b9d8e8</guid>
+<description>Venue: Bratz Y'all | Date: Wednesday, May 6 | Time: 5:00pm</description>
+<pubDate>Wed, 06 May 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Bob Macy — Café Beignet on Decatur</title>
@@ -300,6 +314,13 @@
 <guid isPermaLink="false">8282e3cc66044b5657777ddf76a3a69183a9cb6d</guid>
 <description>Venue: Steamboat Natchez | Date: Wednesday, May 6 | Time: 2:00pm</description>
 <pubDate>Wed, 06 May 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Kid Merv — Tipsy Trumpet</title>
+<link>https://www.wwoz.org/events/1339936</link>
+<guid isPermaLink="false">faa68c74ba72dcdddd9d58206cd5cf27806001c0</guid>
+<description>Venue: Tipsy Trumpet | Date: Wednesday, May 6 | Time: 12:00pm</description>
+<pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>UNO Jazz Studies Graduate Recitals ft. Ben Fox &amp; Jason Williams — University of New Orleans - The 410 Lounge</title>
