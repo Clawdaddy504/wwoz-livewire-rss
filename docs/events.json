@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-05-07T18:12:07.854754+00:00",
-  "count": 61,
+  "generated_at": "2026-05-07T21:34:19.847097+00:00",
+  "count": 65,
   "events": [
     {
       "id": "f1ac1305080febcb8fd0e8c86641c84698ac0505",
@@ -63,6 +63,54 @@
       "time_text": "6:00pm",
       "start": "2026-05-07T18:00:00+00:00",
       "description": "Venue: Apple Barrel | Date: Thursday, May 7 | Time: 6:00pm"
+    },
+    {
+      "id": "d2ddc88b4d9b84faa13147241958d00b95c116ba",
+      "source": "wwoz",
+      "title": "Raphael Bas",
+      "venue": "Bacchanal (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/bacchanal-outdoors",
+      "event_url": "https://www.wwoz.org/events/1340471",
+      "date_text": "Thursday, May 7",
+      "time_text": "6:00pm",
+      "start": "2026-05-07T18:00:00+00:00",
+      "description": "Venue: Bacchanal (OUTDOORS) | Date: Thursday, May 7 | Time: 6:00pm"
+    },
+    {
+      "id": "9f0f70da31964164cee1d7047e5ad87947024487",
+      "source": "wwoz",
+      "title": "JJ & The A-OK's",
+      "venue": "Bamboula's",
+      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
+      "event_url": "https://www.wwoz.org/events/1341116",
+      "date_text": "Thursday, May 7",
+      "time_text": "12:00pm",
+      "start": "2026-05-07T12:00:00+00:00",
+      "description": "Venue: Bamboula's | Date: Thursday, May 7 | Time: 12:00pm"
+    },
+    {
+      "id": "0ff41c66f590772ed92ad4d0baa78923d3bcabbe",
+      "source": "wwoz",
+      "title": "Cristina Kaminis & The Mix",
+      "venue": "Bamboula's",
+      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
+      "event_url": "https://www.wwoz.org/events/1341136",
+      "date_text": "Thursday, May 7",
+      "time_text": "4:30pm",
+      "start": "2026-05-07T16:30:00+00:00",
+      "description": "Venue: Bamboula's | Date: Thursday, May 7 | Time: 4:30pm"
+    },
+    {
+      "id": "23f027be804b780e1d0f52a55c1d70029032f4f4",
+      "source": "wwoz",
+      "title": "Cristina Kaminis & The Mix",
+      "venue": "Bamboula's",
+      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
+      "event_url": "https://www.wwoz.org/events/1341156",
+      "date_text": "Thursday, May 7",
+      "time_text": "4:30pm",
+      "start": "2026-05-07T16:30:00+00:00",
+      "description": "Venue: Bamboula's | Date: Thursday, May 7 | Time: 4:30pm"
     },
     {
       "id": "c11078abced4acc26edc34c694678b52a955aa72",
