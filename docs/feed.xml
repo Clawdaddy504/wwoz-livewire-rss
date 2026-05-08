@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 08 May 2026 06:21:46 +0000</lastBuildDate>
+<lastBuildDate>Fri, 08 May 2026 15:09:14 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
@@ -78,6 +78,13 @@
 <pubDate>Fri, 08 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Friday “Honest Man” Happy Hour ft. DoMeNiC — Banks Street Bar</title>
+<link>https://www.wwoz.org/events/1344176</link>
+<guid isPermaLink="false">6e97d228076708818b88adf1227dc319fc6cffe7</guid>
+<description>Venue: Banks Street Bar | Date: Friday, May 8 | Time: 4:00pm</description>
+<pubDate>Fri, 08 May 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Oh Yeah! ft. Peter Harris, Ed Perkins, Wes "Warmdaddy" Anderson &amp; More! — Bayou Bar at the Pontchartrain</title>
 <link>https://www.wwoz.org/events/1338591</link>
 <guid isPermaLink="false">5c7ce7f52776e3035a48a1ba5733b0514b3014b1</guid>
@@ -121,15 +128,15 @@
 </item>
 <item>
 <title>DJ Jess — Blue Nile - Balcony Room</title>
-<link>https://www.wwoz.org/events/1335506</link>
-<guid isPermaLink="false">c407d68f8f860e73558a91d4badfb6865a90b93f</guid>
+<link>https://www.wwoz.org/events/1322436</link>
+<guid isPermaLink="false">6149c374bb418e951ca9bceba22126b7c8042b3d</guid>
 <description>Venue: Blue Nile - Balcony Room | Date: Friday, May 8 | Time: 10:00pm</description>
 <pubDate>Fri, 08 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>DJ Jess — Blue Nile - Balcony Room</title>
-<link>https://www.wwoz.org/events/1322436</link>
-<guid isPermaLink="false">6149c374bb418e951ca9bceba22126b7c8042b3d</guid>
+<link>https://www.wwoz.org/events/1335506</link>
+<guid isPermaLink="false">c407d68f8f860e73558a91d4badfb6865a90b93f</guid>
 <description>Venue: Blue Nile - Balcony Room | Date: Friday, May 8 | Time: 10:00pm</description>
 <pubDate>Fri, 08 May 2026 22:00:00 +0000</pubDate>
 </item>
@@ -209,6 +216,27 @@
 <guid isPermaLink="false">6ced43c65b7111a4dbe803a375d7823ff43ca00d</guid>
 <description>Venue: Café Negril | Date: Friday, May 8 | Time: 10:00pm</description>
 <pubDate>Fri, 08 May 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Royal Street Brass Band — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1344241</link>
+<guid isPermaLink="false">79dd3a64244dc24be419a56e7f00c4edee2ab9c7</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Friday, May 8 | Time: 12:30pm</description>
+<pubDate>Fri, 08 May 2026 12:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Richard "Piano" Scott Trio — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1344246</link>
+<guid isPermaLink="false">83829365f460034a00ac3b42d0a6e5545243355c</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Friday, May 8 | Time: 4:00pm</description>
+<pubDate>Fri, 08 May 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Nayo Jones Experience — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1344251</link>
+<guid isPermaLink="false">17f51f49d7a75770304d7eff9d3cc53615cd34c9</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Friday, May 8 | Time: 9:00pm</description>
+<pubDate>Fri, 08 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Half Dollar Rodeo + The Basch Jernigan Band — Carrollton Station</title>
@@ -470,6 +498,13 @@
 <pubDate>Fri, 08 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Carmen Miranda: Samba in Technicolor — National WWII Museum - BB's Stage Door Canteen</title>
+<link>https://www.wwoz.org/events/1343626</link>
+<guid isPermaLink="false">28f4692a658b19cfeb0d6cc6013ee59c01d6afd1</guid>
+<description>Venue: National WWII Museum - BB's Stage Door Canteen | Date: Friday, May 8 | Time: 7:00pm</description>
+<pubDate>Fri, 08 May 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Gallatin Street Fridays Presents: Noah Young Quartet — New Orleans Jazz Museum</title>
 <link>https://www.wwoz.org/events/1338161</link>
 <guid isPermaLink="false">a9ed8cf102d0e5308ee23073181fabd4b3aebc1d</guid>
@@ -650,6 +685,41 @@
 <guid isPermaLink="false">b62a20588a0f558a4b215042fe8e2df41df78707</guid>
 <description>Venue: Spotted Cat | Date: Friday, May 8 | Time: 10:00pm</description>
 <pubDate>Fri, 08 May 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Steamboat Stompers — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1344491</link>
+<guid isPermaLink="false">c35538e7d73fd578c362b34c79f8d226d24440d9</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, May 8 | Time: 11:00am</description>
+<pubDate>Fri, 08 May 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Steamboat Stompers — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1344621</link>
+<guid isPermaLink="false">ae2b41ecc14d9694bee98197613eb7b8debbae8b</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, May 8 | Time: 2:00pm</description>
+<pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Dukes of Dixieland — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1344381</link>
+<guid isPermaLink="false">22ceaed947cb8ff3a0a21fb18408597f3a3cba3b</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, May 8 | Time: 6:00pm</description>
+<pubDate>Fri, 08 May 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Cecil Edwards (Gumbo Funk) — Three Maries Jazz Club at the Omni Royal Orleans</title>
+<link>https://www.wwoz.org/events/1344181</link>
+<guid isPermaLink="false">fb1cdc0a47527bb8f4ded8caae47a655b834be92</guid>
+<description>Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Friday, May 8 | Time: 6:30pm</description>
+<pubDate>Fri, 08 May 2026 18:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Joe Lastie's New Orleans Sounds — Three Maries Jazz Club at the Omni Royal Orleans</title>
+<link>https://www.wwoz.org/events/1344186</link>
+<guid isPermaLink="false">08a3cc393e0ef506662ac68eeb7eeb9d18b2a036</guid>
+<description>Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Friday, May 8 | Time: 9:00pm</description>
+<pubDate>Fri, 08 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Bad Penny Pleasuremakers — Three Muses</title>

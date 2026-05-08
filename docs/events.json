@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-05-08T06:21:46.630203+00:00",
-  "count": 95,
+  "generated_at": "2026-05-08T15:09:14.271453+00:00",
+  "count": 105,
   "events": [
     {
       "id": "a094780e3d9ef4d141a3d1847ddd7576f14aba06",
@@ -125,6 +125,18 @@
       "description": "Venue: Bamboula's | Date: Friday, May 8 | Time: 10:00pm"
     },
     {
+      "id": "6e97d228076708818b88adf1227dc319fc6cffe7",
+      "source": "wwoz",
+      "title": "Friday \u201cHonest Man\u201d Happy Hour ft. DoMeNiC",
+      "venue": "Banks Street Bar",
+      "venue_url": "https://www.wwoz.org/organizations/banks-street-bar",
+      "event_url": "https://www.wwoz.org/events/1344176",
+      "date_text": "Friday, May 8",
+      "time_text": "4:00pm",
+      "start": "2026-05-08T16:00:00+00:00",
+      "description": "Venue: Banks Street Bar | Date: Friday, May 8 | Time: 4:00pm"
+    },
+    {
       "id": "5c7ce7f52776e3035a48a1ba5733b0514b3014b1",
       "source": "wwoz",
       "title": "Oh Yeah! ft. Peter Harris, Ed Perkins, Wes \"Warmdaddy\" Anderson & More!",
@@ -197,24 +209,24 @@
       "description": "Venue: Blue Nile | Date: Friday, May 8 | Time: 10:00pm"
     },
     {
-      "id": "c407d68f8f860e73558a91d4badfb6865a90b93f",
-      "source": "wwoz",
-      "title": "DJ Jess",
-      "venue": "Blue Nile - Balcony Room",
-      "venue_url": "https://www.wwoz.org/organizations/blue-nile-balcony-room",
-      "event_url": "https://www.wwoz.org/events/1335506",
-      "date_text": "Friday, May 8",
-      "time_text": "10:00pm",
-      "start": "2026-05-08T22:00:00+00:00",
-      "description": "Venue: Blue Nile - Balcony Room | Date: Friday, May 8 | Time: 10:00pm"
-    },
-    {
       "id": "6149c374bb418e951ca9bceba22126b7c8042b3d",
       "source": "wwoz",
       "title": "DJ Jess",
       "venue": "Blue Nile - Balcony Room",
       "venue_url": "https://www.wwoz.org/organizations/blue-nile-balcony-room",
       "event_url": "https://www.wwoz.org/events/1322436",
+      "date_text": "Friday, May 8",
+      "time_text": "10:00pm",
+      "start": "2026-05-08T22:00:00+00:00",
+      "description": "Venue: Blue Nile - Balcony Room | Date: Friday, May 8 | Time: 10:00pm"
+    },
+    {
+      "id": "c407d68f8f860e73558a91d4badfb6865a90b93f",
+      "source": "wwoz",
+      "title": "DJ Jess",
+      "venue": "Blue Nile - Balcony Room",
+      "venue_url": "https://www.wwoz.org/organizations/blue-nile-balcony-room",
+      "event_url": "https://www.wwoz.org/events/1335506",
       "date_text": "Friday, May 8",
       "time_text": "10:00pm",
       "start": "2026-05-08T22:00:00+00:00",
@@ -351,6 +363,42 @@
       "time_text": "10:00pm",
       "start": "2026-05-08T22:00:00+00:00",
       "description": "Venue: Caf\u00e9 Negril | Date: Friday, May 8 | Time: 10:00pm"
+    },
+    {
+      "id": "79dd3a64244dc24be419a56e7f00c4edee2ab9c7",
+      "source": "wwoz",
+      "title": "Royal Street Brass Band",
+      "venue": "Carousel Bar & Lounge at Hotel Monteleone",
+      "venue_url": "https://www.wwoz.org/organizations/carousel-bar-lounge-hotel-monteleone",
+      "event_url": "https://www.wwoz.org/events/1344241",
+      "date_text": "Friday, May 8",
+      "time_text": "12:30pm",
+      "start": "2026-05-08T12:30:00+00:00",
+      "description": "Venue: Carousel Bar & Lounge at Hotel Monteleone | Date: Friday, May 8 | Time: 12:30pm"
+    },
+    {
+      "id": "83829365f460034a00ac3b42d0a6e5545243355c",
+      "source": "wwoz",
+      "title": "Richard \"Piano\" Scott Trio",
+      "venue": "Carousel Bar & Lounge at Hotel Monteleone",
+      "venue_url": "https://www.wwoz.org/organizations/carousel-bar-lounge-hotel-monteleone",
+      "event_url": "https://www.wwoz.org/events/1344246",
+      "date_text": "Friday, May 8",
+      "time_text": "4:00pm",
+      "start": "2026-05-08T16:00:00+00:00",
+      "description": "Venue: Carousel Bar & Lounge at Hotel Monteleone | Date: Friday, May 8 | Time: 4:00pm"
+    },
+    {
+      "id": "17f51f49d7a75770304d7eff9d3cc53615cd34c9",
+      "source": "wwoz",
+      "title": "Nayo Jones Experience",
+      "venue": "Carousel Bar & Lounge at Hotel Monteleone",
+      "venue_url": "https://www.wwoz.org/organizations/carousel-bar-lounge-hotel-monteleone",
+      "event_url": "https://www.wwoz.org/events/1344251",
+      "date_text": "Friday, May 8",
+      "time_text": "9:00pm",
+      "start": "2026-05-08T21:00:00+00:00",
+      "description": "Venue: Carousel Bar & Lounge at Hotel Monteleone | Date: Friday, May 8 | Time: 9:00pm"
     },
     {
       "id": "14f47ca432b9050778aea5a97cd813320c3ce2f2",
@@ -797,6 +845,18 @@
       "description": "Venue: Music Box Village (OUTDOORS) | Date: Friday, May 8 | Time: 6:00pm"
     },
     {
+      "id": "28f4692a658b19cfeb0d6cc6013ee59c01d6afd1",
+      "source": "wwoz",
+      "title": "Carmen Miranda: Samba in Technicolor",
+      "venue": "National WWII Museum - BB's Stage Door Canteen",
+      "venue_url": "https://www.wwoz.org/organizations/national-wwii-museum-bbs-stage-door-canteen",
+      "event_url": "https://www.wwoz.org/events/1343626",
+      "date_text": "Friday, May 8",
+      "time_text": "7:00pm",
+      "start": "2026-05-08T19:00:00+00:00",
+      "description": "Venue: National WWII Museum - BB's Stage Door Canteen | Date: Friday, May 8 | Time: 7:00pm"
+    },
+    {
       "id": "a9ed8cf102d0e5308ee23073181fabd4b3aebc1d",
       "source": "wwoz",
       "title": "Gallatin Street Fridays Presents: Noah Young Quartet",
@@ -1107,6 +1167,66 @@
       "time_text": "10:00pm",
       "start": "2026-05-08T22:00:00+00:00",
       "description": "Venue: Spotted Cat | Date: Friday, May 8 | Time: 10:00pm"
+    },
+    {
+      "id": "c35538e7d73fd578c362b34c79f8d226d24440d9",
+      "source": "wwoz",
+      "title": "Steamboat Stompers",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1344491",
+      "date_text": "Friday, May 8",
+      "time_text": "11:00am",
+      "start": "2026-05-08T11:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Friday, May 8 | Time: 11:00am"
+    },
+    {
+      "id": "ae2b41ecc14d9694bee98197613eb7b8debbae8b",
+      "source": "wwoz",
+      "title": "Steamboat Stompers",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1344621",
+      "date_text": "Friday, May 8",
+      "time_text": "2:00pm",
+      "start": "2026-05-08T14:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Friday, May 8 | Time: 2:00pm"
+    },
+    {
+      "id": "22ceaed947cb8ff3a0a21fb18408597f3a3cba3b",
+      "source": "wwoz",
+      "title": "Dukes of Dixieland",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1344381",
+      "date_text": "Friday, May 8",
+      "time_text": "6:00pm",
+      "start": "2026-05-08T18:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Friday, May 8 | Time: 6:00pm"
+    },
+    {
+      "id": "fb1cdc0a47527bb8f4ded8caae47a655b834be92",
+      "source": "wwoz",
+      "title": "Cecil Edwards (Gumbo Funk)",
+      "venue": "Three Maries Jazz Club at the Omni Royal Orleans",
+      "venue_url": "https://www.wwoz.org/organizations/three-maries-jazz-club-omni-royal-orleans",
+      "event_url": "https://www.wwoz.org/events/1344181",
+      "date_text": "Friday, May 8",
+      "time_text": "6:30pm",
+      "start": "2026-05-08T18:30:00+00:00",
+      "description": "Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Friday, May 8 | Time: 6:30pm"
+    },
+    {
+      "id": "08a3cc393e0ef506662ac68eeb7eeb9d18b2a036",
+      "source": "wwoz",
+      "title": "Joe Lastie's New Orleans Sounds",
+      "venue": "Three Maries Jazz Club at the Omni Royal Orleans",
+      "venue_url": "https://www.wwoz.org/organizations/three-maries-jazz-club-omni-royal-orleans",
+      "event_url": "https://www.wwoz.org/events/1344186",
+      "date_text": "Friday, May 8",
+      "time_text": "9:00pm",
+      "start": "2026-05-08T21:00:00+00:00",
+      "description": "Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Friday, May 8 | Time: 9:00pm"
     },
     {
       "id": "d1044a5f15808bab9a2494f92b0b2953533c5c46",
