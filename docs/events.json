@@ -1,7 +1,7 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-05-08T19:58:02.173935+00:00",
+  "generated_at": "2026-05-09T00:14:20.294648+00:00",
   "count": 105,
   "events": [
     {
@@ -209,24 +209,24 @@
       "description": "Venue: Blue Nile | Date: Friday, May 8 | Time: 10:00pm"
     },
     {
-      "id": "6149c374bb418e951ca9bceba22126b7c8042b3d",
-      "source": "wwoz",
-      "title": "DJ Jess",
-      "venue": "Blue Nile - Balcony Room",
-      "venue_url": "https://www.wwoz.org/organizations/blue-nile-balcony-room",
-      "event_url": "https://www.wwoz.org/events/1322436",
-      "date_text": "Friday, May 8",
-      "time_text": "10:00pm",
-      "start": "2026-05-08T22:00:00+00:00",
-      "description": "Venue: Blue Nile - Balcony Room | Date: Friday, May 8 | Time: 10:00pm"
-    },
-    {
       "id": "c407d68f8f860e73558a91d4badfb6865a90b93f",
       "source": "wwoz",
       "title": "DJ Jess",
       "venue": "Blue Nile - Balcony Room",
       "venue_url": "https://www.wwoz.org/organizations/blue-nile-balcony-room",
       "event_url": "https://www.wwoz.org/events/1335506",
+      "date_text": "Friday, May 8",
+      "time_text": "10:00pm",
+      "start": "2026-05-08T22:00:00+00:00",
+      "description": "Venue: Blue Nile - Balcony Room | Date: Friday, May 8 | Time: 10:00pm"
+    },
+    {
+      "id": "6149c374bb418e951ca9bceba22126b7c8042b3d",
+      "source": "wwoz",
+      "title": "DJ Jess",
+      "venue": "Blue Nile - Balcony Room",
+      "venue_url": "https://www.wwoz.org/organizations/blue-nile-balcony-room",
+      "event_url": "https://www.wwoz.org/events/1322436",
       "date_text": "Friday, May 8",
       "time_text": "10:00pm",
       "start": "2026-05-08T22:00:00+00:00",

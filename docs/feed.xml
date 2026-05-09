@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 08 May 2026 19:58:02 +0000</lastBuildDate>
+<lastBuildDate>Sat, 09 May 2026 00:14:20 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
@@ -128,15 +128,15 @@
 </item>
 <item>
 <title>DJ Jess — Blue Nile - Balcony Room</title>
-<link>https://www.wwoz.org/events/1322436</link>
-<guid isPermaLink="false">6149c374bb418e951ca9bceba22126b7c8042b3d</guid>
+<link>https://www.wwoz.org/events/1335506</link>
+<guid isPermaLink="false">c407d68f8f860e73558a91d4badfb6865a90b93f</guid>
 <description>Venue: Blue Nile - Balcony Room | Date: Friday, May 8 | Time: 10:00pm</description>
 <pubDate>Fri, 08 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>DJ Jess — Blue Nile - Balcony Room</title>
-<link>https://www.wwoz.org/events/1335506</link>
-<guid isPermaLink="false">c407d68f8f860e73558a91d4badfb6865a90b93f</guid>
+<link>https://www.wwoz.org/events/1322436</link>
+<guid isPermaLink="false">6149c374bb418e951ca9bceba22126b7c8042b3d</guid>
 <description>Venue: Blue Nile - Balcony Room | Date: Friday, May 8 | Time: 10:00pm</description>
 <pubDate>Fri, 08 May 2026 22:00:00 +0000</pubDate>
 </item>
