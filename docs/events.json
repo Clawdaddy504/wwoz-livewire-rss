@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-05-11T11:50:52.895270+00:00",
-  "count": 54,
+  "generated_at": "2026-05-11T18:27:44.908712+00:00",
+  "count": 55,
   "events": [
     {
       "id": "3750e74d48f11debee3918ad4702e8b7b00534be",
@@ -627,6 +627,18 @@
       "time_text": "6:00pm",
       "start": "2026-05-11T18:00:00+00:00",
       "description": "Venue: Steamboat Natchez | Date: Monday, May 11 | Time: 6:00pm"
+    },
+    {
+      "id": "4dd76b70e349f50428e5943db0cc002db48dd46c",
+      "source": "wwoz",
+      "title": "T Marie & Bayou Juju",
+      "venue": "Three Muses",
+      "venue_url": "https://www.wwoz.org/organizations/three-muses",
+      "event_url": "https://www.wwoz.org/events/1345411",
+      "date_text": "Monday, May 11",
+      "time_text": "7:00pm",
+      "start": "2026-05-11T19:00:00+00:00",
+      "description": "Venue: Three Muses | Date: Monday, May 11 | Time: 7:00pm"
     },
     {
       "id": "09b95723453bdb8a28ce01e894a336899faa19e9",

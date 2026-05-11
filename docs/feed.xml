@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 11 May 2026 11:50:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 11 May 2026 18:27:44 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>James Beaumont — 21st Amendment</title>
@@ -370,6 +370,13 @@
 <guid isPermaLink="false">20e747f8baaa1ad2f31437f88b3f1eb2a0bb1105</guid>
 <description>Venue: Steamboat Natchez | Date: Monday, May 11 | Time: 6:00pm</description>
 <pubDate>Mon, 11 May 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>T Marie &amp; Bayou Juju — Three Muses</title>
+<link>https://www.wwoz.org/events/1345411</link>
+<guid isPermaLink="false">4dd76b70e349f50428e5943db0cc002db48dd46c</guid>
+<description>Venue: Three Muses | Date: Monday, May 11 | Time: 7:00pm</description>
+<pubDate>Mon, 11 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>The Danny Alexander Blues Jam — True South</title>
