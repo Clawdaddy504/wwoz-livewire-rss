@@ -1,7 +1,7 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-05-12T07:53:06.310003+00:00",
+  "generated_at": "2026-05-12T17:23:44.571884+00:00",
   "count": 64,
   "events": [
     {
@@ -389,24 +389,24 @@
       "description": "Venue: Jazz Playhouse | Date: Tuesday, May 12 | Time: 7:30pm"
     },
     {
-      "id": "f8ad5d8ecc63c3491ae9d06f786505298b5cad29",
-      "source": "wwoz",
-      "title": "Drew and Ellie Holcomb",
-      "venue": "Joy Theater",
-      "venue_url": "https://www.wwoz.org/organizations/joy-theater",
-      "event_url": "https://www.wwoz.org/events/1300656",
-      "date_text": "Tuesday, May 12",
-      "time_text": "8:00pm",
-      "start": "2026-05-12T20:00:00+00:00",
-      "description": "Venue: Joy Theater | Date: Tuesday, May 12 | Time: 8:00pm"
-    },
-    {
       "id": "7adc4116a5a1a5b7ccf048f22f5af04d52cb78c7",
       "source": "wwoz",
       "title": "Drew & Ellie Holcomb",
       "venue": "Joy Theater",
       "venue_url": "https://www.wwoz.org/organizations/joy-theater",
       "event_url": "https://www.wwoz.org/events/1247931",
+      "date_text": "Tuesday, May 12",
+      "time_text": "8:00pm",
+      "start": "2026-05-12T20:00:00+00:00",
+      "description": "Venue: Joy Theater | Date: Tuesday, May 12 | Time: 8:00pm"
+    },
+    {
+      "id": "f8ad5d8ecc63c3491ae9d06f786505298b5cad29",
+      "source": "wwoz",
+      "title": "Drew and Ellie Holcomb",
+      "venue": "Joy Theater",
+      "venue_url": "https://www.wwoz.org/organizations/joy-theater",
+      "event_url": "https://www.wwoz.org/events/1300656",
       "date_text": "Tuesday, May 12",
       "time_text": "8:00pm",
       "start": "2026-05-12T20:00:00+00:00",

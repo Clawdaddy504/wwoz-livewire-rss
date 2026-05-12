@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 12 May 2026 07:53:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 12 May 2026 17:23:44 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dave Hammer — 21st Amendment</title>
@@ -232,16 +232,16 @@
 <pubDate>Tue, 12 May 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Drew and Ellie Holcomb — Joy Theater</title>
-<link>https://www.wwoz.org/events/1300656</link>
-<guid isPermaLink="false">f8ad5d8ecc63c3491ae9d06f786505298b5cad29</guid>
+<title>Drew &amp; Ellie Holcomb — Joy Theater</title>
+<link>https://www.wwoz.org/events/1247931</link>
+<guid isPermaLink="false">7adc4116a5a1a5b7ccf048f22f5af04d52cb78c7</guid>
 <description>Venue: Joy Theater | Date: Tuesday, May 12 | Time: 8:00pm</description>
 <pubDate>Tue, 12 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Drew &amp; Ellie Holcomb — Joy Theater</title>
-<link>https://www.wwoz.org/events/1247931</link>
-<guid isPermaLink="false">7adc4116a5a1a5b7ccf048f22f5af04d52cb78c7</guid>
+<title>Drew and Ellie Holcomb — Joy Theater</title>
+<link>https://www.wwoz.org/events/1300656</link>
+<guid isPermaLink="false">f8ad5d8ecc63c3491ae9d06f786505298b5cad29</guid>
 <description>Venue: Joy Theater | Date: Tuesday, May 12 | Time: 8:00pm</description>
 <pubDate>Tue, 12 May 2026 20:00:00 +0000</pubDate>
 </item>
