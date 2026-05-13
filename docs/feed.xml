@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 13 May 2026 10:05:28 +0000</lastBuildDate>
+<lastBuildDate>Wed, 13 May 2026 18:30:16 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dr. Sick — 21st Amendment</title>
@@ -146,6 +146,13 @@
 <guid isPermaLink="false">342e177eaa5ab5de57cd627819f02c6b77378ddc</guid>
 <description>Venue: Commons Club at Virgin Hotels New Orleans | Date: Wednesday, May 13 | Time: 6:00pm</description>
 <pubDate>Wed, 13 May 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Miss Amerikan Vampyre Rock Show — Crypt, The</title>
+<link>https://www.wwoz.org/events/1345696</link>
+<guid isPermaLink="false">120b47314ccca6afd96e5dcbc56b2043349d0887</guid>
+<description>Venue: Crypt, The | Date: Wednesday, May 13 | Time: 8:00pm</description>
+<pubDate>Wed, 13 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Stephen Walker N'em — d.b.a.</title>

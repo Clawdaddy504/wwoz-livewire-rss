@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-05-13T10:05:28.796645+00:00",
-  "count": 62,
+  "generated_at": "2026-05-13T18:30:16.373321+00:00",
+  "count": 63,
   "events": [
     {
       "id": "9b131149b534ed16910649e9fbf8605907963955",
@@ -243,6 +243,18 @@
       "time_text": "6:00pm",
       "start": "2026-05-13T18:00:00+00:00",
       "description": "Venue: Commons Club at Virgin Hotels New Orleans | Date: Wednesday, May 13 | Time: 6:00pm"
+    },
+    {
+      "id": "120b47314ccca6afd96e5dcbc56b2043349d0887",
+      "source": "wwoz",
+      "title": "Miss Amerikan Vampyre Rock Show",
+      "venue": "Crypt, The",
+      "venue_url": "https://www.wwoz.org/organizations/crypt",
+      "event_url": "https://www.wwoz.org/events/1345696",
+      "date_text": "Wednesday, May 13",
+      "time_text": "8:00pm",
+      "start": "2026-05-13T20:00:00+00:00",
+      "description": "Venue: Crypt, The | Date: Wednesday, May 13 | Time: 8:00pm"
     },
     {
       "id": "269ed492143ba793bfe233ac6fe9e1ca8de01741",
