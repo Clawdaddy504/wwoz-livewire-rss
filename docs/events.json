@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-05-15T10:02:12.822846+00:00",
-  "count": 102,
+  "generated_at": "2026-05-15T18:09:34.695914+00:00",
+  "count": 103,
   "events": [
     {
       "id": "223be65f320158b687a30a7730103feeca40a43f",
@@ -315,6 +315,18 @@
       "time_text": "8:00pm",
       "start": "2026-05-15T20:00:00+00:00",
       "description": "Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Friday, May 15 | Time: 8:00pm"
+    },
+    {
+      "id": "5a6aee66407d1e8a5ec116cda8e2249d82ef30b9",
+      "source": "wwoz",
+      "title": "George Kilby Jr. & Mark Ettinger",
+      "venue": "Bratz Y'all",
+      "venue_url": "https://www.wwoz.org/organizations/bratz-yall",
+      "event_url": "https://www.wwoz.org/events/1345946",
+      "date_text": "Friday, May 15",
+      "time_text": "5:00pm",
+      "start": "2026-05-15T17:00:00+00:00",
+      "description": "Venue: Bratz Y'all | Date: Friday, May 15 | Time: 5:00pm"
     },
     {
       "id": "641bf03fc970086dda6d6b851c35ac79a971bfe6",

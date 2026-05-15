@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 15 May 2026 10:02:12 +0000</lastBuildDate>
+<lastBuildDate>Fri, 15 May 2026 18:09:34 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy Duo — 21st Amendment</title>
@@ -188,6 +188,13 @@
 <guid isPermaLink="false">309d5dfa99028cf9341921e9af1e541bd0a31336</guid>
 <description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Friday, May 15 | Time: 8:00pm</description>
 <pubDate>Fri, 15 May 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>George Kilby Jr. &amp; Mark Ettinger — Bratz Y'all</title>
+<link>https://www.wwoz.org/events/1345946</link>
+<guid isPermaLink="false">5a6aee66407d1e8a5ec116cda8e2249d82ef30b9</guid>
+<description>Venue: Bratz Y'all | Date: Friday, May 15 | Time: 5:00pm</description>
+<pubDate>Fri, 15 May 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Pedro the Juice — Breezy's Courtyard Bar at Gasa Gasa (OUTDOORS)</title>
