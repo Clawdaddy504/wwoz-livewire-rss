@@ -5,595 +5,721 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 14 May 2026 22:18:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 15 May 2026 10:02:12 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
-<title>Caitie B. &amp; The O.G. Hand Me Down Duo — 13 on Frenchmen</title>
-<link>https://www.wwoz.org/events/1339831</link>
-<guid isPermaLink="false">29201501f1326f8e51a21439ce867765a48fd66d</guid>
-<description>Venue: 13 on Frenchmen | Date: Thursday, May 14 | Time: 9:00pm</description>
-<pubDate>Thu, 14 May 2026 21:00:00 +0000</pubDate>
+<title>Big Joe Kennedy Duo — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1340886</link>
+<guid isPermaLink="false">223be65f320158b687a30a7730103feeca40a43f</guid>
+<description>Venue: 21st Amendment | Date: Friday, May 15 | Time: 3:00pm</description>
+<pubDate>Fri, 15 May 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Big Joe Kennedy — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1340876</link>
-<guid isPermaLink="false">e2bcdf1a605b4f0ca30b558d78ef9195430e4bb9</guid>
-<description>Venue: 21st Amendment | Date: Thursday, May 14 | Time: 3:00pm</description>
-<pubDate>Thu, 14 May 2026 15:00:00 +0000</pubDate>
+<title>Dr. Sick &amp; The Late Greats — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1340771</link>
+<guid isPermaLink="false">3523ba232d93e28e20a0360fcb904b9291fe64c6</guid>
+<description>Venue: 21st Amendment | Date: Friday, May 15 | Time: 8:00pm</description>
+<pubDate>Fri, 15 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Marty Peters &amp; The Party Meters — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1340896</link>
-<guid isPermaLink="false">245b13e10f185f52c112dcd96a883fffb71664c8</guid>
-<description>Venue: 21st Amendment | Date: Thursday, May 14 | Time: 8:00pm</description>
-<pubDate>Thu, 14 May 2026 20:00:00 +0000</pubDate>
+<title>Sciryn — 30/90</title>
+<link>https://www.wwoz.org/events/1345126</link>
+<guid isPermaLink="false">d2903ec0224f239b2214390e7a9da7e52989434a</guid>
+<description>Venue: 30/90 | Date: Friday, May 15 | Time: 2:00pm</description>
+<pubDate>Fri, 15 May 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Uncut — 30/90</title>
-<link>https://www.wwoz.org/events/1345116</link>
-<guid isPermaLink="false">3ad8c66fb76bc115ba66c578ca9b64b46e501410</guid>
-<description>Venue: 30/90 | Date: Thursday, May 14 | Time: 6:00pm</description>
-<pubDate>Thu, 14 May 2026 18:00:00 +0000</pubDate>
+<title>Decaturadio — 30/90</title>
+<link>https://www.wwoz.org/events/1345131</link>
+<guid isPermaLink="false">5bfbac27aeb795c1d1c449ef0def43689976faa5</guid>
+<description>Venue: 30/90 | Date: Friday, May 15 | Time: 5:00pm</description>
+<pubDate>Fri, 15 May 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Xcitement — 30/90</title>
-<link>https://www.wwoz.org/events/1345121</link>
-<guid isPermaLink="false">15c1289efed8ad39d32ed16dcce06b1dba0b6d03</guid>
-<description>Venue: 30/90 | Date: Thursday, May 14 | Time: 9:00pm</description>
-<pubDate>Thu, 14 May 2026 21:00:00 +0000</pubDate>
+<title>Kyle Sharamitaro Band — 30/90</title>
+<link>https://www.wwoz.org/events/1345136</link>
+<guid isPermaLink="false">7da57297159897e7c39ba29eb172042a53bd3cde</guid>
+<description>Venue: 30/90 | Date: Friday, May 15 | Time: 8:00pm</description>
+<pubDate>Fri, 15 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Papa Mali — 4141 NOLA</title>
-<link>https://www.wwoz.org/events/1338711</link>
-<guid isPermaLink="false">b8c97133b306878f9c0be11c5e6fb4643bfc51fc</guid>
-<description>Venue: 4141 NOLA | Date: Thursday, May 14 | Time: 6:30pm</description>
-<pubDate>Thu, 14 May 2026 18:30:00 +0000</pubDate>
+<title>Brass Flavor — 30/90</title>
+<link>https://www.wwoz.org/events/1345141</link>
+<guid isPermaLink="false">c9f17356f37967fc4b1c3164f9ec5da962e289f1</guid>
+<description>Venue: 30/90 | Date: Friday, May 15 | Time: 11:00pm</description>
+<pubDate>Fri, 15 May 2026 23:00:00 +0000</pubDate>
+</item>
+<item>
+<title>DJ London — 30/90 - Upstairs</title>
+<link>https://www.wwoz.org/events/1345281</link>
+<guid isPermaLink="false">17f4c3c6a4d715cd8f220c713c413fbce0f9d5cb</guid>
+<description>Venue: 30/90 - Upstairs | Date: Friday, May 15 | Time: 10:00pm</description>
+<pubDate>Fri, 15 May 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Henrietta's Baudy Brothel Sing A-Long — AllWays Lounge</title>
+<link>https://www.wwoz.org/events/1345311</link>
+<guid isPermaLink="false">d67e158db4ab52893749629253252283fd145d06</guid>
+<description>Venue: AllWays Lounge | Date: Friday, May 15 | Time: 5:00pm</description>
+<pubDate>Fri, 15 May 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Bubbles Brown — Apple Barrel</title>
-<link>https://www.wwoz.org/events/1316561</link>
-<guid isPermaLink="false">175397243b164226b65354d87d57d0b99e09a97d</guid>
-<description>Venue: Apple Barrel | Date: Thursday, May 14 | Time: 6:00pm</description>
-<pubDate>Thu, 14 May 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1316566</link>
+<guid isPermaLink="false">37bb32715d6c0ac0011f2600748918d7e6e32d14</guid>
+<description>Venue: Apple Barrel | Date: Friday, May 15 | Time: 6:00pm</description>
+<pubDate>Fri, 15 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Johnny Mastro &amp; Blue Midnight — Apple Barrel</title>
-<link>https://www.wwoz.org/events/1325726</link>
-<guid isPermaLink="false">5c25c3a5f3345dde4888c0c66b37b928336eeb0d</guid>
-<description>Venue: Apple Barrel | Date: Thursday, May 14 | Time: 10:30pm</description>
-<pubDate>Thu, 14 May 2026 22:30:00 +0000</pubDate>
+<title>David Sigler — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1340496</link>
+<guid isPermaLink="false">66bed18cae206b62dd0aada72a24112ef7bd657f</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Friday, May 15 | Time: 1:00pm</description>
+<pubDate>Fri, 15 May 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Raphael Bas — Bacchanal (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1340476</link>
-<guid isPermaLink="false">8447a6f5c1d65559c463a6541e9fd004a8b5c9e9</guid>
-<description>Venue: Bacchanal (OUTDOORS) | Date: Thursday, May 14 | Time: 6:00pm</description>
-<pubDate>Thu, 14 May 2026 18:00:00 +0000</pubDate>
+<title>Pete Olynciw — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1340606</link>
+<guid isPermaLink="false">4066e53f10d67f9cbf3efcddf3b47e0e91979775</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Friday, May 15 | Time: 7:00pm</description>
+<pubDate>Fri, 15 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>JJ &amp; The A-OK's — Bamboula's</title>
-<link>https://www.wwoz.org/events/1341121</link>
-<guid isPermaLink="false">9b237659340cc504cb686ca8bde708d944ded320</guid>
-<description>Venue: Bamboula's | Date: Thursday, May 14 | Time: 12:00pm</description>
-<pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+<title>New Orleans Rug Cutters — Bamboula's</title>
+<link>https://www.wwoz.org/events/1341181</link>
+<guid isPermaLink="false">56723ad3de6f3463176a4cdb56b0036f07bbe62b</guid>
+<description>Venue: Bamboula's | Date: Friday, May 15 | Time: 11:00am</description>
+<pubDate>Fri, 15 May 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Cristina Kaminis &amp; The Mix — Bamboula's</title>
-<link>https://www.wwoz.org/events/1341141</link>
-<guid isPermaLink="false">298184e75e76ddae4b401193c6483131d1bcc20d</guid>
-<description>Venue: Bamboula's | Date: Thursday, May 14 | Time: 4:30pm</description>
-<pubDate>Thu, 14 May 2026 16:30:00 +0000</pubDate>
+<title>Felipe Antonio Quarteto — Bamboula's</title>
+<link>https://www.wwoz.org/events/1341201</link>
+<guid isPermaLink="false">1f3310afb8bfd30d6877a539da3d83bb09406faa</guid>
+<description>Venue: Bamboula's | Date: Friday, May 15 | Time: 2:15pm</description>
+<pubDate>Fri, 15 May 2026 14:15:00 +0000</pubDate>
 </item>
 <item>
-<title>Wolfe Johns Blues Band — Bamboula's</title>
-<link>https://www.wwoz.org/events/1341161</link>
-<guid isPermaLink="false">d180a136064129d8f74fd7bdd382755bab49f4d9</guid>
-<description>Venue: Bamboula's | Date: Thursday, May 14 | Time: 9:00pm</description>
-<pubDate>Thu, 14 May 2026 21:00:00 +0000</pubDate>
+<title>Les Getrex &amp; Creole Cookin' — Bamboula's</title>
+<link>https://www.wwoz.org/events/1341221</link>
+<guid isPermaLink="false">a0adad02bcbe24e9bcf3d0d4c7019ae24a2be75f</guid>
+<description>Venue: Bamboula's | Date: Friday, May 15 | Time: 6:30pm</description>
+<pubDate>Fri, 15 May 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Cryptic ft. Peter Harris, Ricardo Pascal &amp; Jamison Ross — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1338631</link>
-<guid isPermaLink="false">7e6f2878df3c4914ead5ee9f854c178e706d7a9c</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Thursday, May 14 | Time: 8:00pm</description>
-<pubDate>Thu, 14 May 2026 20:00:00 +0000</pubDate>
+<title>Bettis &amp; The Third Degree Brass Band — Bamboula's</title>
+<link>https://www.wwoz.org/events/1341241</link>
+<guid isPermaLink="false">8559c7f01e3a6339666a2519974ffceda66a4656</guid>
+<description>Venue: Bamboula's | Date: Friday, May 15 | Time: 10:00pm</description>
+<pubDate>Fri, 15 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Cryptic ft. Peter Harris, Ricardo Pascal &amp; Jamison Ross — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1338626</link>
-<guid isPermaLink="false">9ada56316965c38b1edca696e093d4980c44001b</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Thursday, May 14 | Time: 10:00pm</description>
-<pubDate>Thu, 14 May 2026 22:00:00 +0000</pubDate>
+<title>Big Leather + The Rolif + Lily Fein — Bar Redux</title>
+<link>https://www.wwoz.org/events/1338721</link>
+<guid isPermaLink="false">61a6fb8da5c8bf3c380e994619038102fa575296</guid>
+<description>Venue: Bar Redux | Date: Friday, May 15 | Time: 9:00pm</description>
+<pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Swing Septet — BJ's Lounge</title>
-<link>https://www.wwoz.org/events/1340236</link>
-<guid isPermaLink="false">a62dd22f4a79298f52aa55564808722d1e0adad3</guid>
-<description>Venue: BJ's Lounge | Date: Thursday, May 14 | Time: 9:00pm</description>
-<pubDate>Thu, 14 May 2026 21:00:00 +0000</pubDate>
+<title>Oh Yeah! ft. Peter Harris, Ed Perkins, Wes "Warmdaddy" Anderson &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1338621</link>
+<guid isPermaLink="false">15b1edd7a56a2315cfc78b16fc3dfe4606f3acdd</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Friday, May 15 | Time: 8:00pm</description>
+<pubDate>Fri, 15 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Irvin Mayfield's Music Church with Special Guests — Blue Nile</title>
-<link>https://www.wwoz.org/events/1335431</link>
-<guid isPermaLink="false">734dc176d67d364c8baaf7ba870a75954758a60c</guid>
-<description>Venue: Blue Nile | Date: Thursday, May 14 | Time: 9:00pm</description>
-<pubDate>Thu, 14 May 2026 21:00:00 +0000</pubDate>
+<title>Oh Yeah! ft. Peter Harris, Ed Perkins, Wes "Warmdaddy" Anderson &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1338616</link>
+<guid isPermaLink="false">e9555d29facba50d038afb918c9b2c21128a7402</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Friday, May 15 | Time: 10:00pm</description>
+<pubDate>Fri, 15 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Reggae Night with DJ T-Roy — Blue Nile - Balcony Room</title>
-<link>https://www.wwoz.org/events/1335451</link>
-<guid isPermaLink="false">172dabfa5c886fd51656590b3d0257ed441f0143</guid>
-<description>Venue: Blue Nile - Balcony Room | Date: Thursday, May 14 | Time: 11:00pm</description>
-<pubDate>Thu, 14 May 2026 23:00:00 +0000</pubDate>
+<title>Cumbia Nasty Crew + Lapis — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1340241</link>
+<guid isPermaLink="false">214b83c8e9c51fecead6103e1ffff1327d0fecdd</guid>
+<description>Venue: BJ's Lounge | Date: Friday, May 15 | Time: 9:00pm</description>
+<pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>No-Mads — BMC</title>
-<link>https://www.wwoz.org/events/1339026</link>
-<guid isPermaLink="false">44e136d854d48d1437c7c27e1b5fe397c100084b</guid>
-<description>Venue: BMC | Date: Thursday, May 14 | Time: 4:30pm</description>
-<pubDate>Thu, 14 May 2026 16:30:00 +0000</pubDate>
+<title>The Caesar Brothers' FunkBox — Blue Nile</title>
+<link>https://www.wwoz.org/events/1335471</link>
+<guid isPermaLink="false">8ee87e869f009774ad9a2d35e221646c64ebfeeb</guid>
+<description>Venue: Blue Nile | Date: Friday, May 15 | Time: 7:30pm</description>
+<pubDate>Fri, 15 May 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Dapper Dandies — BMC</title>
-<link>https://www.wwoz.org/events/1339031</link>
-<guid isPermaLink="false">a37fccd3934f994e815dfbe51cb461cfb7f31f3e</guid>
-<description>Venue: BMC | Date: Thursday, May 14 | Time: 6:00pm</description>
-<pubDate>Thu, 14 May 2026 18:00:00 +0000</pubDate>
+<title>Kermit Ruffins &amp; The BBQ Swingers — Blue Nile</title>
+<link>https://www.wwoz.org/events/1335491</link>
+<guid isPermaLink="false">1c5ca3c2ce11f3d4962e226da242fc2b1a0dd89e</guid>
+<description>Venue: Blue Nile | Date: Friday, May 15 | Time: 10:00pm</description>
+<pubDate>Fri, 15 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Kat Kiley Experience — BMC</title>
-<link>https://www.wwoz.org/events/1339036</link>
-<guid isPermaLink="false">b5ffebab46cfdb458e4472a3f79817804ea3f2c3</guid>
-<description>Venue: BMC | Date: Thursday, May 14 | Time: 9:00pm</description>
-<pubDate>Thu, 14 May 2026 21:00:00 +0000</pubDate>
+<title>DJ WestBankRed — Blue Nile - Balcony Room</title>
+<link>https://www.wwoz.org/events/1327901</link>
+<guid isPermaLink="false">25f2094df0a63116e7ea9aa6e3814cbbaf55425f</guid>
+<description>Venue: Blue Nile - Balcony Room | Date: Friday, May 15 | Time: 10:00pm</description>
+<pubDate>Fri, 15 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Nina Hungerland — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1339646</link>
-<guid isPermaLink="false">598533896ba5c09d5f2959d8151bcc5d54e0f56c</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Thursday, May 14 | Time: 4:00pm</description>
-<pubDate>Thu, 14 May 2026 16:00:00 +0000</pubDate>
+<title>John Lisi &amp; Delta Funk — BMC</title>
+<link>https://www.wwoz.org/events/1339041</link>
+<guid isPermaLink="false">683bc01ffef42d090eb13acdfd5c86292de2c516</guid>
+<description>Venue: BMC | Date: Friday, May 15 | Time: 6:00pm</description>
+<pubDate>Fri, 15 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Big Mike &amp; The R&amp;B Kings — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1339546</link>
-<guid isPermaLink="false">3039cb616873a17f2d3b0954efaecb64fbe1e2e2</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Thursday, May 14 | Time: 8:00pm</description>
-<pubDate>Thu, 14 May 2026 20:00:00 +0000</pubDate>
+<title>Big Mike &amp; The R&amp;B Kings — BMC</title>
+<link>https://www.wwoz.org/events/1339046</link>
+<guid isPermaLink="false">b934bdb5a46753d0a581a7840758cc5d0a1fc8b1</guid>
+<description>Venue: BMC | Date: Friday, May 15 | Time: 9:00pm</description>
+<pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Chris Vincent &amp; Jerry Dugger — Bratz Y'all</title>
-<link>https://www.wwoz.org/events/1340416</link>
-<guid isPermaLink="false">7bdd5297fa03d48fb6da9041f5353913740cdf60</guid>
-<description>Venue: Bratz Y'all | Date: Thursday, May 14 | Time: 5:00pm</description>
-<pubDate>Thu, 14 May 2026 17:00:00 +0000</pubDate>
+<title>April Spain — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1339581</link>
+<guid isPermaLink="false">5e2b91575c6eb7811e4a9c826117aa8408ab14a5</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Friday, May 15 | Time: 4:00pm</description>
+<pubDate>Fri, 15 May 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Tom McDermott &amp; Susanne Ortner — Buffa's</title>
-<link>https://www.wwoz.org/events/1325391</link>
-<guid isPermaLink="false">6a908885c612ba4a96307971a6a52d1b8627def6</guid>
-<description>Venue: Buffa's | Date: Thursday, May 14 | Time: 7:00pm</description>
-<pubDate>Thu, 14 May 2026 19:00:00 +0000</pubDate>
+<title>Kid Merv — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1339601</link>
+<guid isPermaLink="false">309d5dfa99028cf9341921e9af1e541bd0a31336</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Friday, May 15 | Time: 8:00pm</description>
+<pubDate>Fri, 15 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sierra &amp; The Green Notes — Café Negril</title>
-<link>https://www.wwoz.org/events/1338461</link>
-<guid isPermaLink="false">a190d0f6b14df457aa04d735fa0377181740ad30</guid>
-<description>Venue: Café Negril | Date: Thursday, May 14 | Time: 6:00pm</description>
-<pubDate>Thu, 14 May 2026 18:00:00 +0000</pubDate>
+<title>Pedro the Juice — Breezy's Courtyard Bar at Gasa Gasa (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1340651</link>
+<guid isPermaLink="false">641bf03fc970086dda6d6b851c35ac79a971bfe6</guid>
+<description>Venue: Breezy's Courtyard Bar at Gasa Gasa (OUTDOORS) | Date: Friday, May 15 | Time: 8:00pm</description>
+<pubDate>Fri, 15 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Armani Smith &amp; Soul Ties — Café Negril</title>
-<link>https://www.wwoz.org/events/1338466</link>
-<guid isPermaLink="false">5b244749eafd0a197ba34e6e595bf79c9b7bfb24</guid>
-<description>Venue: Café Negril | Date: Thursday, May 14 | Time: 10:00pm</description>
-<pubDate>Thu, 14 May 2026 22:00:00 +0000</pubDate>
+<title>Bayou Boogaloo: Two-Tone Merigold — Broadside (Outdoor Stage)</title>
+<link>https://www.wwoz.org/events/1340441</link>
+<guid isPermaLink="false">0f87a2d51d3f1aebc0e3160ee572e08ba43c0927</guid>
+<description>Venue: Broadside (Outdoor Stage) | Date: Friday, May 15 | Time: 6:30pm</description>
+<pubDate>Fri, 15 May 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Low Hanging Fruit + Tuller — Carrollton Station</title>
-<link>https://www.wwoz.org/events/1339771</link>
-<guid isPermaLink="false">bc6a4e98c70446d080083dad03ab6ab24a61c2a4</guid>
-<description>Venue: Carrollton Station | Date: Thursday, May 14 | Time: 8:00pm</description>
-<pubDate>Thu, 14 May 2026 20:00:00 +0000</pubDate>
+<title>Bayou Boogaloo: HollyRock — Broadside (Outdoor Stage)</title>
+<link>https://www.wwoz.org/events/1345756</link>
+<guid isPermaLink="false">7e4340d61ea5f0840a9d135bc1c2a78489221643</guid>
+<description>Venue: Broadside (Outdoor Stage) | Date: Friday, May 15 | Time: 8:00pm</description>
+<pubDate>Fri, 15 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Whitney — Chickie Wah Wah</title>
-<link>https://www.wwoz.org/events/1322631</link>
-<guid isPermaLink="false">9e425d53a6227fc0b987489c590797cec5f19653</guid>
-<description>Venue: Chickie Wah Wah | Date: Thursday, May 14 | Time: 8:00pm</description>
-<pubDate>Thu, 14 May 2026 20:00:00 +0000</pubDate>
+<title>Bayou Boogaloo: Where Y'acht — Broadside (Outdoor Stage)</title>
+<link>https://www.wwoz.org/events/1345766</link>
+<guid isPermaLink="false">6122a5d8f3ab2ce37ca106acc5499a38b62e7060</guid>
+<description>Venue: Broadside (Outdoor Stage) | Date: Friday, May 15 | Time: 9:45pm</description>
+<pubDate>Fri, 15 May 2026 21:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Thursdays at Twilight ft. Chucky C &amp; Friends — City Park - Pavilion of the Two Sisters</title>
-<link>https://www.wwoz.org/events/1322396</link>
-<guid isPermaLink="false">35c5ba74f2c9408b12fd9104db4b3f2c1a1d2c7c</guid>
-<description>Venue: City Park - Pavilion of the Two Sisters | Date: Thursday, May 14 | Time: 6:00pm</description>
-<pubDate>Thu, 14 May 2026 18:00:00 +0000</pubDate>
+<title>Jazz to Table ft. Audrey LeCrone — Brutto Americano</title>
+<link>https://www.wwoz.org/events/1343501</link>
+<guid isPermaLink="false">891ca66170599347eaa12c68a43bdf30d35527a2</guid>
+<description>Venue: Brutto Americano | Date: Friday, May 15 | Time: 6:00pm</description>
+<pubDate>Fri, 15 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mac DeMarco — Civic Theatre</title>
-<link>https://www.wwoz.org/events/1248186</link>
-<guid isPermaLink="false">defa2838772b266a2a53bbd2afc7e3af98636e39</guid>
-<description>Venue: Civic Theatre | Date: Thursday, May 14 | Time: 8:00pm</description>
-<pubDate>Thu, 14 May 2026 20:00:00 +0000</pubDate>
+<title>The Freudian Slips — Buffa's</title>
+<link>https://www.wwoz.org/events/1325406</link>
+<guid isPermaLink="false">e45865eac6b13966c9872b6fe26aca152523fba5</guid>
+<description>Venue: Buffa's | Date: Friday, May 15 | Time: 8:00pm</description>
+<pubDate>Fri, 15 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Solem Shapes + Ships In The Night + Mostly Mesh + Chasm Comfort — Crypt, The</title>
-<link>https://www.wwoz.org/events/1345701</link>
-<guid isPermaLink="false">cf4f7c4f29a1fc39f688ac1bb6138143c46019f9</guid>
-<description>Venue: Crypt, The | Date: Thursday, May 14 | Time: 8:00pm</description>
-<pubDate>Thu, 14 May 2026 20:00:00 +0000</pubDate>
+<title>Matt Perrine Quartet — Café Negril</title>
+<link>https://www.wwoz.org/events/1338471</link>
+<guid isPermaLink="false">9e1c7b358a6e96c064e5ddfa5fbc3b4a726a29c0</guid>
+<description>Venue: Café Negril | Date: Friday, May 15 | Time: 3:00pm</description>
+<pubDate>Fri, 15 May 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Palmetto Bug Stompers — d.b.a.</title>
-<link>https://www.wwoz.org/events/1341876</link>
-<guid isPermaLink="false">ea3d7f26365547fbc3b46973ab0928905acb8736</guid>
-<description>Venue: d.b.a. | Date: Thursday, May 14 | Time: 6:00pm</description>
-<pubDate>Thu, 14 May 2026 18:00:00 +0000</pubDate>
+<title>Jamey St. Pierre — Café Negril</title>
+<link>https://www.wwoz.org/events/1338476</link>
+<guid isPermaLink="false">d7f6b9d60b63c769bbd7359bf2b916a4882a7a08</guid>
+<description>Venue: Café Negril | Date: Friday, May 15 | Time: 6:00pm</description>
+<pubDate>Fri, 15 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Vegas Cola — d.b.a.</title>
-<link>https://www.wwoz.org/events/1341896</link>
-<guid isPermaLink="false">82d8d5f2a4bfe5f82bd3f76bfa65252f0f0e49f6</guid>
-<description>Venue: d.b.a. | Date: Thursday, May 14 | Time: 9:30pm</description>
-<pubDate>Thu, 14 May 2026 21:30:00 +0000</pubDate>
+<title>Higher Heights — Café Negril</title>
+<link>https://www.wwoz.org/events/1338481</link>
+<guid isPermaLink="false">2aeb27983444bf13765836be8a578d940d8f5935</guid>
+<description>Venue: Café Negril | Date: Friday, May 15 | Time: 10:00pm</description>
+<pubDate>Fri, 15 May 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Pocket Chocolate + Michael Mullins Band — Carrollton Station</title>
+<link>https://www.wwoz.org/events/1339776</link>
+<guid isPermaLink="false">a612b292e554c795cb0970292e7c038a6a4857ff</guid>
+<description>Venue: Carrollton Station | Date: Friday, May 15 | Time: 9:00pm</description>
+<pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Tommy Prine with Darrin Hacquard — Chickie Wah Wah</title>
+<link>https://www.wwoz.org/events/1334151</link>
+<guid isPermaLink="false">40440ab26bb98f0718e5942143c431f2d6ba8438</guid>
+<description>Venue: Chickie Wah Wah | Date: Friday, May 15 | Time: 9:00pm</description>
+<pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Nell Simmons Bradley — Commons Club at Virgin Hotels New Orleans</title>
+<link>https://www.wwoz.org/events/1336561</link>
+<guid isPermaLink="false">1d40f071ec6f6f84c54e9033144899bad258834c</guid>
+<description>Venue: Commons Club at Virgin Hotels New Orleans | Date: Friday, May 15 | Time: 7:00pm</description>
+<pubDate>Fri, 15 May 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Sergio Cabrera — d.b.a.</title>
+<link>https://www.wwoz.org/events/1337396</link>
+<guid isPermaLink="false">13859f06428202374458394c1ba76390270008d9</guid>
+<description>Venue: d.b.a. | Date: Friday, May 15 | Time: 10:00pm</description>
+<pubDate>Fri, 15 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Jeremy Davenport — Davenport Lounge at The Ritz-Carlton</title>
-<link>https://www.wwoz.org/events/1303866</link>
-<guid isPermaLink="false">707024c2ecc9b96a4a4935965d35d2dbb2b16962</guid>
-<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Thursday, May 14 | Time: 5:30pm</description>
-<pubDate>Thu, 14 May 2026 17:30:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1303826</link>
+<guid isPermaLink="false">31e7b4a4172e420b9b722edfa8b11b83f2c48eb5</guid>
+<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Friday, May 15 | Time: 8:00pm</description>
+<pubDate>Fri, 15 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Mark Coleman Band — Dos Jefes</title>
-<link>https://www.wwoz.org/events/1337041</link>
-<guid isPermaLink="false">a15f505892770bc7a521a0504b7bf99070f80595</guid>
-<description>Venue: Dos Jefes | Date: Thursday, May 14 | Time: 8:30pm</description>
-<pubDate>Thu, 14 May 2026 20:30:00 +0000</pubDate>
+<title>BassX — Dos Jefes</title>
+<link>https://www.wwoz.org/events/1337051</link>
+<guid isPermaLink="false">57966d984d44c1d230b95f7e95647525f3016eab</guid>
+<description>Venue: Dos Jefes | Date: Friday, May 15 | Time: 9:00pm</description>
+<pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jenavieve Cooke &amp; The Winding Boys — Double Dealer at Orpheum Theater</title>
-<link>https://www.wwoz.org/events/1337291</link>
-<guid isPermaLink="false">7d9a6da404070bd9420dc17aea1e668867a505ce</guid>
-<description>Venue: Double Dealer at Orpheum Theater | Date: Thursday, May 14 | Time: 9:30pm</description>
-<pubDate>Thu, 14 May 2026 21:30:00 +0000</pubDate>
+<title>Hobo Gagdet Junk Band — Double Dealer at Orpheum Theater</title>
+<link>https://www.wwoz.org/events/1337296</link>
+<guid isPermaLink="false">45219bcefdc4000d319036b9f098ab163964fe35</guid>
+<description>Venue: Double Dealer at Orpheum Theater | Date: Friday, May 15 | Time: 9:30pm</description>
+<pubDate>Fri, 15 May 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Richard "Piano" Scott — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1341951</link>
-<guid isPermaLink="false">8355671bd32ec8402968dc1219946b8d16b8cef6</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Thursday, May 14 | Time: 12:00pm</description>
-<pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+<title>Ross Hoppe Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1341996</link>
+<guid isPermaLink="false">1a382bd10cbaa3a684c324cac952f895b537180a</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Friday, May 15 | Time: 12:30pm</description>
+<pubDate>Fri, 15 May 2026 12:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Doyle Cooper Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1342076</link>
-<guid isPermaLink="false">1d62a6554a93118ab8797c2ee9eb41f61722e4dd</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Thursday, May 14 | Time: 2:00pm</description>
-<pubDate>Thu, 14 May 2026 14:00:00 +0000</pubDate>
+<title>Sam Friend Jazz Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1342006</link>
+<guid isPermaLink="false">5dc44f09a879baf3cc397d63bb19b565d8f5edf5</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Friday, May 15 | Time: 2:30pm</description>
+<pubDate>Fri, 15 May 2026 14:30:00 +0000</pubDate>
 </item>
 <item>
-<title>John Saavedra Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1342096</link>
-<guid isPermaLink="false">af8473588b447d55187f816e97050dcfc6b3e277</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Thursday, May 14 | Time: 5:00pm</description>
-<pubDate>Thu, 14 May 2026 17:00:00 +0000</pubDate>
+<title>Sam Lobley Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1342021</link>
+<guid isPermaLink="false">192a4f73ba025f7f8db29bab5074f97b5e767e18</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Friday, May 15 | Time: 6:00pm</description>
+<pubDate>Fri, 15 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Fritzel's All-Star Band with Caleb Nelson — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1342111</link>
-<guid isPermaLink="false">d27c40062ae80e028456bbc49cbd3a2ed848d424</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Thursday, May 14 | Time: 8:00pm</description>
-<pubDate>Thu, 14 May 2026 20:00:00 +0000</pubDate>
+<title>Fritzel's All-Star Band with Kevin Ray Clark — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1342131</link>
+<guid isPermaLink="false">a3f877c8f82c468cdfbabbfeea3159f08f45ccd1</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Friday, May 15 | Time: 9:00pm</description>
+<pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jenn Howard Band with Max Sanders and Beach Angel — Gasa Gasa</title>
-<link>https://www.wwoz.org/events/1340681</link>
-<guid isPermaLink="false">29ae15b842e20310a570c7847e9f092640eb362a</guid>
-<description>Venue: Gasa Gasa | Date: Thursday, May 14 | Time: 9:00pm</description>
-<pubDate>Thu, 14 May 2026 21:00:00 +0000</pubDate>
+<title>Justin Donovan Duo — Good Measure at The Barnett</title>
+<link>https://www.wwoz.org/events/1343461</link>
+<guid isPermaLink="false">20b97f1ce82c000daccc2cb09d3eab37bebc40f9</guid>
+<description>Venue: Good Measure at The Barnett | Date: Friday, May 15 | Time: 8:00pm</description>
+<pubDate>Fri, 15 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Tail-Gators — Gretna Tavern</title>
-<link>https://www.wwoz.org/events/1334731</link>
-<guid isPermaLink="false">cb82d8a3a77ce121f4376a21f9546daf4f41c48c</guid>
-<description>Venue: Gretna Tavern | Date: Thursday, May 14 | Time: 8:30pm</description>
-<pubDate>Thu, 14 May 2026 20:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Kid Merv — Hideout Bar</title>
-<link>https://www.wwoz.org/events/1339906</link>
-<guid isPermaLink="false">9fd195b949d5304c214b92c2e5fe1fb03ddbacb7</guid>
-<description>Venue: Hideout Bar | Date: Thursday, May 14 | Time: 11:30am</description>
-<pubDate>Thu, 14 May 2026 11:30:00 +0000</pubDate>
+<title>Bipolaroid + SamVega + Fen Magus — Holy Diver</title>
+<link>https://www.wwoz.org/events/1338286</link>
+<guid isPermaLink="false">451bf0b6aa7c822c3e5ce0e9dc28606535d4cfcc</guid>
+<description>Venue: Holy Diver | Date: Friday, May 15 | Time: 9:00pm</description>
+<pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Monty Banks — Irene's</title>
-<link>https://www.wwoz.org/events/1302091</link>
-<guid isPermaLink="false">e5c740d9f0954ba3a71da9132fff9d46933ec90b</guid>
-<description>Venue: Irene's | Date: Thursday, May 14 | Time: 6:00pm</description>
-<pubDate>Thu, 14 May 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1302096</link>
+<guid isPermaLink="false">5126c2902f1daa1ba4daa8edac2d09fdfb9da08d</guid>
+<description>Venue: Irene's | Date: Friday, May 15 | Time: 6:00pm</description>
+<pubDate>Fri, 15 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Brass-A-Holics — Jazz Playhouse</title>
-<link>https://www.wwoz.org/events/1335226</link>
-<guid isPermaLink="false">9a349324d2a58421dffabdf03a42c3365450b950</guid>
-<description>Venue: Jazz Playhouse | Date: Thursday, May 14 | Time: 7:30pm</description>
-<pubDate>Thu, 14 May 2026 19:30:00 +0000</pubDate>
+<title>Trixie Minx's Burlesque Ballroom ft. Romy Kaye — Jazz Playhouse</title>
+<link>https://www.wwoz.org/events/1335256</link>
+<guid isPermaLink="false">943dccc26a35f71e20f4fab5295d80ee5fbfe133</guid>
+<description>Venue: Jazz Playhouse | Date: Friday, May 15 | Time: 7:30pm</description>
+<pubDate>Fri, 15 May 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>The Soul Rebels — Le Bon Temps Roulé</title>
-<link>https://www.wwoz.org/events/1333336</link>
-<guid isPermaLink="false">01561da44387edc329a9ab0784ef05efe7d3cbda</guid>
-<description>Venue: Le Bon Temps Roulé | Date: Thursday, May 14 | Time: 11:00pm</description>
-<pubDate>Thu, 14 May 2026 23:00:00 +0000</pubDate>
+<title>Trixie Minx's Burlesque Ballroom ft. Romy Kaye — Jazz Playhouse</title>
+<link>https://www.wwoz.org/events/1335286</link>
+<guid isPermaLink="false">e9d7dd7f68010cbe8120049a4ee336e9e3644098</guid>
+<description>Venue: Jazz Playhouse | Date: Friday, May 15 | Time: 9:00pm</description>
+<pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The New Orleans Catahoulas — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1342371</link>
-<guid isPermaLink="false">4ad7d0608740b44b92a334ba354e75a2cd460d4c</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Thursday, May 14 | Time: 6:00pm</description>
-<pubDate>Thu, 14 May 2026 18:00:00 +0000</pubDate>
+<title>Heavy Weather — Le Bon Temps Roulé</title>
+<link>https://www.wwoz.org/events/1333366</link>
+<guid isPermaLink="false">3d259ba1f27d0acbdf199e9356aff5747460819d</guid>
+<description>Venue: Le Bon Temps Roulé | Date: Friday, May 15 | Time: 11:00pm</description>
+<pubDate>Fri, 15 May 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jamil Sharif &amp; His New Orleans Extravaganza — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1342391</link>
-<guid isPermaLink="false">729c7d69ce61480aa7a36065de75a591e59d607b</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Thursday, May 14 | Time: 8:00pm</description>
-<pubDate>Thu, 14 May 2026 20:00:00 +0000</pubDate>
+<title>Khris Royal Trio — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1342531</link>
+<guid isPermaLink="false">e31c0bef6a68567b5202b289c87679395b758e0e</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Friday, May 15 | Time: 3:00pm</description>
+<pubDate>Fri, 15 May 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Champagniacs — Maison, The</title>
-<link>https://www.wwoz.org/events/1342871</link>
-<guid isPermaLink="false">9990e325266aaadd7ef15b98885f4c1ea413689b</guid>
-<description>Venue: Maison, The | Date: Thursday, May 14 | Time: 4:30pm</description>
-<pubDate>Thu, 14 May 2026 16:30:00 +0000</pubDate>
+<title>Leroy Jones Trio — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1342466</link>
+<guid isPermaLink="false">caee1d0d354c99d57229df5c814fc819f5f3e170</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Friday, May 15 | Time: 7:00pm</description>
+<pubDate>Fri, 15 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>St. Julien X — Maison, The</title>
-<link>https://www.wwoz.org/events/1342886</link>
-<guid isPermaLink="false">c4d3f5387f918f430399d7556dd2c3549818d5e1</guid>
-<description>Venue: Maison, The | Date: Thursday, May 14 | Time: 8:30pm</description>
-<pubDate>Thu, 14 May 2026 20:30:00 +0000</pubDate>
+<title>Mahogany Hall Jazz Band ft. Mike Fulton — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1342486</link>
+<guid isPermaLink="false">c745cfa60d1427dff086d9a407ad2c49776bea09</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Friday, May 15 | Time: 9:30pm</description>
+<pubDate>Fri, 15 May 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Danny Rubio &amp; The Catahoula Music Company ft. Jack Pritchett — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1344861</link>
-<guid isPermaLink="false">9216a08432906791ee9516db278e9fcd14ea2900</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Thursday, May 14 | Time: 8:00pm</description>
-<pubDate>Thu, 14 May 2026 20:00:00 +0000</pubDate>
+<title>Nola Sweethearts — Maison, The</title>
+<link>https://www.wwoz.org/events/1342926</link>
+<guid isPermaLink="false">aecba40a74935de64a8714e69e0c47dc458838e3</guid>
+<description>Venue: Maison, The | Date: Friday, May 15 | Time: 3:00pm</description>
+<pubDate>Fri, 15 May 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Silver Lining Serenaders — May Baily's Place</title>
-<link>https://www.wwoz.org/events/1334661</link>
-<guid isPermaLink="false">0b76a1a4b6e5f7937eceef1d504ba47d2623a81e</guid>
-<description>Venue: May Baily's Place | Date: Thursday, May 14 | Time: 8:30pm</description>
-<pubDate>Thu, 14 May 2026 20:30:00 +0000</pubDate>
+<title>Shotgun Jazz Band — Maison, The</title>
+<link>https://www.wwoz.org/events/1342941</link>
+<guid isPermaLink="false">edd25dd6e0622c908eb07d5c81d4c82dfd41f156</guid>
+<description>Venue: Maison, The | Date: Friday, May 15 | Time: 5:00pm</description>
+<pubDate>Fri, 15 May 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Geno Delafose &amp; French Rockin' Boogie — Mid-City Lanes Rock 'n' Bowl</title>
-<link>https://www.wwoz.org/events/1333726</link>
-<guid isPermaLink="false">2a30abae1fc881461eaf92ce80d57c6aea58ff41</guid>
-<description>Venue: Mid-City Lanes Rock 'n' Bowl | Date: Thursday, May 14 | Time: 8:00pm</description>
-<pubDate>Thu, 14 May 2026 20:00:00 +0000</pubDate>
+<title>Feral House Cats — Maison, The</title>
+<link>https://www.wwoz.org/events/1337351</link>
+<guid isPermaLink="false">733b782ea19c0be905854daae02fe78e7670fd8b</guid>
+<description>Venue: Maison, The | Date: Friday, May 15 | Time: 8:00pm</description>
+<pubDate>Fri, 15 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Micah McKee &amp; Friends — MRB</title>
-<link>https://www.wwoz.org/events/1340336</link>
-<guid isPermaLink="false">192c99e643db4f1b5e0fb209a0205d79f67cd990</guid>
-<description>Venue: MRB | Date: Thursday, May 14 | Time: 7:00pm</description>
-<pubDate>Thu, 14 May 2026 19:00:00 +0000</pubDate>
+<title>DJ G Gerado — Maison, The</title>
+<link>https://www.wwoz.org/events/1342971</link>
+<guid isPermaLink="false">fa90aa62406246f14826bdb544aa6880d3afa188</guid>
+<description>Venue: Maison, The | Date: Friday, May 15 | Time: 11:00pm</description>
+<pubDate>Fri, 15 May 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Brian Seeger Trio — New Orleans Jazz National Historical Park</title>
-<link>https://www.wwoz.org/events/1340046</link>
-<guid isPermaLink="false">66b1af150b5c13aef41ba47fa589534dcd25299f</guid>
-<description>Venue: New Orleans Jazz National Historical Park | Date: Thursday, May 14 | Time: 3:00pm</description>
-<pubDate>Thu, 14 May 2026 15:00:00 +0000</pubDate>
+<title>Kid Merv — Maison Bourbon Jazz Club</title>
+<link>https://www.wwoz.org/events/1339961</link>
+<guid isPermaLink="false">8854692a32deaed14f02c99b48c32b0d0f99a040</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Friday, May 15 | Time: 2:00pm</description>
+<pubDate>Fri, 15 May 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Arts Fishing Club + Certainly So — No Dice</title>
-<link>https://www.wwoz.org/events/1296436</link>
-<guid isPermaLink="false">3aefc97f744088ea6dc960562031080cb282a205</guid>
-<description>Venue: No Dice | Date: Thursday, May 14 | Time: 9:00pm</description>
-<pubDate>Thu, 14 May 2026 21:00:00 +0000</pubDate>
+<title>Bayou Manouche — May Baily's Place</title>
+<link>https://www.wwoz.org/events/1334666</link>
+<guid isPermaLink="false">1639f732a9e05631c4cce6e07eb88299d36745b4</guid>
+<description>Venue: May Baily's Place | Date: Friday, May 15 | Time: 8:30pm</description>
+<pubDate>Fri, 15 May 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Butte + Ronnie + Träum — Okay Bar</title>
-<link>https://www.wwoz.org/events/1343246</link>
-<guid isPermaLink="false">fb85a521db67fe72388d3d41b6a1a7269f0e6058</guid>
-<description>Venue: Okay Bar | Date: Thursday, May 14 | Time: 7:00pm</description>
-<pubDate>Thu, 14 May 2026 19:00:00 +0000</pubDate>
+<title>BIRD + Tin Star — Mid-City Lanes Rock 'n' Bowl</title>
+<link>https://www.wwoz.org/events/1333731</link>
+<guid isPermaLink="false">c3f8e0d7e402a7f4b243b40f24e7724b3f0b829c</guid>
+<description>Venue: Mid-City Lanes Rock 'n' Bowl | Date: Friday, May 15 | Time: 8:30pm</description>
+<pubDate>Fri, 15 May 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Victoria Amato + Sydney McMath + Ben Michaels + Jim Lockwood — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1343316</link>
-<guid isPermaLink="false">303cb1391c6dbc275bc55dae5b3efe7bb27ce7a7</guid>
-<description>Venue: Pat O'Brien's | Date: Thursday, May 14 | Time: 4:00pm</description>
-<pubDate>Thu, 14 May 2026 16:00:00 +0000</pubDate>
+<title>Patrick Cooper — MRB</title>
+<link>https://www.wwoz.org/events/1337251</link>
+<guid isPermaLink="false">8e6e90184e5c25ffa3b9fb39b81f8db0eaa08510</guid>
+<description>Venue: MRB | Date: Friday, May 15 | Time: 7:00pm</description>
+<pubDate>Fri, 15 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Da Lovebirds: Robin Barnes &amp; Pat Casey — Peacock Room at the Kimpton Hotel Fontenot</title>
-<link>https://www.wwoz.org/events/1320401</link>
-<guid isPermaLink="false">26b470c2e0c1c2f149eda1c14bf58746b2f354f8</guid>
-<description>Venue: Peacock Room at the Kimpton Hotel Fontenot | Date: Thursday, May 14 | Time: 8:00pm</description>
-<pubDate>Thu, 14 May 2026 20:00:00 +0000</pubDate>
+<title>Carmen Miranda: Samba in Technicolor — National WWII Museum - BB's Stage Door Canteen</title>
+<link>https://www.wwoz.org/events/1343641</link>
+<guid isPermaLink="false">bec6019487e2ae0a1f39f8ac7e880009bc8355cb</guid>
+<description>Venue: National WWII Museum - BB's Stage Door Canteen | Date: Friday, May 15 | Time: 7:00pm</description>
+<pubDate>Fri, 15 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>John Royen — Polo Club at The Windsor Court, The</title>
-<link>https://www.wwoz.org/events/1301031</link>
-<guid isPermaLink="false">5a56b5d6637d5d09de9e070113a236a987d92c34</guid>
-<description>Venue: Polo Club at The Windsor Court, The | Date: Thursday, May 14 | Time: 5:30pm</description>
-<pubDate>Thu, 14 May 2026 17:30:00 +0000</pubDate>
+<title>Gabrielle Cavassa Album Release — New Orleans Jazz &amp; Blues Market</title>
+<link>https://www.wwoz.org/events/1336931</link>
+<guid isPermaLink="false">3739ff7cc0f238ba681fac5e23826949ba6a5953</guid>
+<description>Venue: New Orleans Jazz &amp; Blues Market | Date: Friday, May 15 | Time: 7:30pm</description>
+<pubDate>Fri, 15 May 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1343946</link>
-<guid isPermaLink="false">465a486dbaa835e936dc67eb531970d61fcea981</guid>
-<description>Venue: Preservation Hall | Date: Thursday, May 14 | Time: 5:00pm</description>
-<pubDate>Thu, 14 May 2026 17:00:00 +0000</pubDate>
+<title>Amina Figarova with Faith Collin &amp; Mallay Mulbah — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1340131</link>
+<guid isPermaLink="false">c9fce929fdc3c638f2bfe9fd9433a526d7ee3ae7</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Friday, May 15 | Time: 3:00pm</description>
+<pubDate>Fri, 15 May 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1343971</link>
-<guid isPermaLink="false">f4729b1e15a965e9ae32eb854f7f407e132f109b</guid>
-<description>Venue: Preservation Hall | Date: Thursday, May 14 | Time: 6:15pm</description>
-<pubDate>Thu, 14 May 2026 18:15:00 +0000</pubDate>
+<title>Aubrey Jane + Noa Jamir + Pope — No Dice</title>
+<link>https://www.wwoz.org/events/1323051</link>
+<guid isPermaLink="false">716c44660c23e4340477d05fe6b771d8416af45d</guid>
+<description>Venue: No Dice | Date: Friday, May 15 | Time: 9:00pm</description>
+<pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1343976</link>
-<guid isPermaLink="false">0524b5a8c006f642e1b06e1ec72e45bc59c91ae2</guid>
-<description>Venue: Preservation Hall | Date: Thursday, May 14 | Time: 7:30pm</description>
-<pubDate>Thu, 14 May 2026 19:30:00 +0000</pubDate>
+<title>Mia Borders — NOLA Brewing</title>
+<link>https://www.wwoz.org/events/1338106</link>
+<guid isPermaLink="false">03744f7504042da4bf8efb62c3d7634bd1156ed3</guid>
+<description>Venue: NOLA Brewing | Date: Friday, May 15 | Time: 7:00pm</description>
+<pubDate>Fri, 15 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1344001</link>
-<guid isPermaLink="false">ffbe9e95c47fc41c3c013ce546b277c48d65091b</guid>
-<description>Venue: Preservation Hall | Date: Thursday, May 14 | Time: 8:45pm</description>
-<pubDate>Thu, 14 May 2026 20:45:00 +0000</pubDate>
+<title>Gawner + Necromoon + Baby In The 90's + My Beloved — Okay Bar</title>
+<link>https://www.wwoz.org/events/1334341</link>
+<guid isPermaLink="false">abe76c781b44571b0ebe7dab7c14cf355935f5fc</guid>
+<description>Venue: Okay Bar | Date: Friday, May 15 | Time: 8:00pm</description>
+<pubDate>Fri, 15 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Adam Pearce — Ruby's Roadhouse</title>
-<link>https://www.wwoz.org/events/1339511</link>
-<guid isPermaLink="false">5cf066bc5f703795bb679d8ed33b59ada1e94d92</guid>
-<description>Venue: Ruby's Roadhouse | Date: Thursday, May 14 | Time: 7:30pm</description>
-<pubDate>Thu, 14 May 2026 19:30:00 +0000</pubDate>
+<title>Davis Rogan — Original Nite Cap, The</title>
+<link>https://www.wwoz.org/events/1338681</link>
+<guid isPermaLink="false">7a6dc7e18f210756bcef8dcb36307ee655ea2755</guid>
+<description>Venue: Original Nite Cap, The | Date: Friday, May 15 | Time: 5:30pm</description>
+<pubDate>Fri, 15 May 2026 17:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Victoria Amato + Jim Lockwood — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1343266</link>
+<guid isPermaLink="false">f43a2f076958c1297a556b6980a06227d7f7a99b</guid>
+<description>Venue: Pat O'Brien's | Date: Friday, May 15 | Time: 1:00pm</description>
+<pubDate>Fri, 15 May 2026 13:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Sydney McMath + Ben Michaels + Matt Hayden + Hannah Kreiger-Benson — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1343321</link>
+<guid isPermaLink="false">1d0b408fd08464f199a6b86386268ec2a46867cc</guid>
+<description>Venue: Pat O'Brien's | Date: Friday, May 15 | Time: 6:00pm</description>
+<pubDate>Fri, 15 May 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>David Boeddinghaus — Polo Club at The Windsor Court, The</title>
+<link>https://www.wwoz.org/events/1300771</link>
+<guid isPermaLink="false">af5d2e4db348135851cc3dd736a735eebbee60fd</guid>
+<description>Venue: Polo Club at The Windsor Court, The | Date: Friday, May 15 | Time: 5:30pm</description>
+<pubDate>Fri, 15 May 2026 17:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Bean 'N The Boys — Polo Club at The Windsor Court, The</title>
+<link>https://www.wwoz.org/events/1301291</link>
+<guid isPermaLink="false">96b77d7abf092becbeacc88f1b3f0c9d40b7c182</guid>
+<description>Venue: Polo Club at The Windsor Court, The | Date: Friday, May 15 | Time: 9:00pm</description>
+<pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1344021</link>
+<guid isPermaLink="false">9ae26da55c791859e7b15d2087be4939da76ef27</guid>
+<description>Venue: Preservation Hall | Date: Friday, May 15 | Time: 5:00pm</description>
+<pubDate>Fri, 15 May 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1344011</link>
+<guid isPermaLink="false">17c8e7cb68dbcb18b73cd767779e9eb58d5499d5</guid>
+<description>Venue: Preservation Hall | Date: Friday, May 15 | Time: 6:15pm</description>
+<pubDate>Fri, 15 May 2026 18:15:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1344026</link>
+<guid isPermaLink="false">af89e4cbe0a175f7685dcf5dfc4579845e643faf</guid>
+<description>Venue: Preservation Hall | Date: Friday, May 15 | Time: 7:30pm</description>
+<pubDate>Fri, 15 May 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1344036</link>
+<guid isPermaLink="false">6465b14bfa4580d30acceb0cada4104ac294d8e8</guid>
+<description>Venue: Preservation Hall | Date: Friday, May 15 | Time: 8:45pm</description>
+<pubDate>Fri, 15 May 2026 20:45:00 +0000</pubDate>
+</item>
+<item>
+<title>House Worx (House Music Anthems All Night Long) — Rabbit Hole, The</title>
+<link>https://www.wwoz.org/events/1334246</link>
+<guid isPermaLink="false">4e04c651cc38ab2b2c2cc18bc58a1c7d05d8233c</guid>
+<description>Venue: Rabbit Hole, The | Date: Friday, May 15 | Time: 10:00pm</description>
+<pubDate>Fri, 15 May 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Live After Five Concert Series ft. Big Sam’s Funky Nation — Rhorer Plaza (OUTDOORS) - Baton Rouge</title>
+<link>https://www.wwoz.org/events/1327651</link>
+<guid isPermaLink="false">eca0ab8fc8f67cd4afc296a6edfd8e7737cb7418</guid>
+<description>Venue: Rhorer Plaza (OUTDOORS) - Baton Rouge | Date: Friday, May 15 | Time: 5:00pm</description>
+<pubDate>Fri, 15 May 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Pontchartrain Wrecks Duo — Rivershack Tavern</title>
+<link>https://www.wwoz.org/events/1332016</link>
+<guid isPermaLink="false">24baef054d8e71a787b8a958114dbb042fcc3b55</guid>
+<description>Venue: Rivershack Tavern | Date: Friday, May 15 | Time: 7:00pm</description>
+<pubDate>Fri, 15 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>The Book of Mormon — Saenger Theatre</title>
-<link>https://www.wwoz.org/events/1326621</link>
-<guid isPermaLink="false">d40fb936419b9f3829cc83fdcddaa3dabf3e48a2</guid>
-<description>Venue: Saenger Theatre | Date: Thursday, May 14 | Time: 7:30pm</description>
-<pubDate>Thu, 14 May 2026 19:30:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1326626</link>
+<guid isPermaLink="false">2f1e66958bd6446fc8697c5345c56cbd2679cb0f</guid>
+<description>Venue: Saenger Theatre | Date: Friday, May 15 | Time: 7:30pm</description>
+<pubDate>Fri, 15 May 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Sean Riley &amp; The Water — Saint John</title>
-<link>https://www.wwoz.org/events/1333481</link>
-<guid isPermaLink="false">c303d5ce900298bbfa127532d2b6cb3a9d500ee2</guid>
-<description>Venue: Saint John | Date: Thursday, May 14 | Time: 4:00pm</description>
-<pubDate>Thu, 14 May 2026 16:00:00 +0000</pubDate>
+<title>Popperz + The Pause + More Than Grit + S.W.A.R.M. — Santos Bar</title>
+<link>https://www.wwoz.org/events/1338341</link>
+<guid isPermaLink="false">2b8b144838587adcf678e3e7956f1b64ed525586</guid>
+<description>Venue: Santos Bar | Date: Friday, May 15 | Time: 10:00pm</description>
+<pubDate>Fri, 15 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Geovane Santos — Salon Salon</title>
-<link>https://www.wwoz.org/events/1345616</link>
-<guid isPermaLink="false">913b3e2aa89c7fb45a66409eb913edf789140de7</guid>
-<description>Venue: Salon Salon | Date: Thursday, May 14 | Time: 7:00pm</description>
-<pubDate>Thu, 14 May 2026 19:00:00 +0000</pubDate>
+<title>Renegades Round 2 Dance Party — Santos Bar - Upstairs</title>
+<link>https://www.wwoz.org/events/1338346</link>
+<guid isPermaLink="false">e779ead2564e0a2c4c1696d002da5d08c1df8ddc</guid>
+<description>Venue: Santos Bar - Upstairs | Date: Friday, May 15 | Time: 10:00pm</description>
+<pubDate>Fri, 15 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Tainted Love 80’s Night with DJ Shane Love — Santos Bar</title>
-<link>https://www.wwoz.org/events/1338331</link>
-<guid isPermaLink="false">1ebae0692c251eca1116240e113ab085c5974d06</guid>
-<description>Venue: Santos Bar | Date: Thursday, May 14 | Time: 10:00pm</description>
-<pubDate>Thu, 14 May 2026 22:00:00 +0000</pubDate>
+<title>The Washboard Chaz Blues Trio — Schooner Saloon, The</title>
+<link>https://www.wwoz.org/events/1331361</link>
+<guid isPermaLink="false">49e17b2a363f348b41f86738174452dd303acee0</guid>
+<description>Venue: Schooner Saloon, The | Date: Friday, May 15 | Time: 8:00pm</description>
+<pubDate>Fri, 15 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Ryan Batiste + Mac Infinity — Saturn Bar</title>
-<link>https://www.wwoz.org/events/1336296</link>
-<guid isPermaLink="false">9fe8cf3c08333f1460413b3824cb45f2120dea70</guid>
-<description>Venue: Saturn Bar | Date: Thursday, May 14 | Time: 9:00pm</description>
-<pubDate>Thu, 14 May 2026 21:00:00 +0000</pubDate>
+<title>The Silver Lining Serenaders — Seawitch Restaurant &amp; Oyster Bar</title>
+<link>https://www.wwoz.org/events/1333546</link>
+<guid isPermaLink="false">3cab12279968f8db686892bd92108bc5bf794665</guid>
+<description>Venue: Seawitch Restaurant &amp; Oyster Bar | Date: Friday, May 15 | Time: 5:00pm</description>
+<pubDate>Fri, 15 May 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Bill Callahan with Noveller (Night 1) — Siberia</title>
-<link>https://www.wwoz.org/events/1334046</link>
-<guid isPermaLink="false">2562394d74e9200eb525d649d825255ac9f86d58</guid>
-<description>Venue: Siberia | Date: Thursday, May 14 | Time: 9:00pm</description>
-<pubDate>Thu, 14 May 2026 21:00:00 +0000</pubDate>
+<title>Bill Callahan with Noveller (Night 2) — Siberia</title>
+<link>https://www.wwoz.org/events/1308616</link>
+<guid isPermaLink="false">a3f6290e570406b3282a4bc2823de75c3083da1f</guid>
+<description>Venue: Siberia | Date: Friday, May 15 | Time: 9:00pm</description>
+<pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Oscar Rossignoli Trio — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1339296</link>
-<guid isPermaLink="false">6782ea1c2e79057d3f84849204e8545addd7dc95</guid>
-<description>Venue: Snug Harbor | Date: Thursday, May 14 | Time: 7:30pm</description>
-<pubDate>Thu, 14 May 2026 19:30:00 +0000</pubDate>
+<title>Chris Thomas King — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1339306</link>
+<guid isPermaLink="false">0c0241239611364146e83e86cc15f3a0140e32fc</guid>
+<description>Venue: Snug Harbor | Date: Friday, May 15 | Time: 7:30pm</description>
+<pubDate>Fri, 15 May 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Oscar Rossignoli Trio — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1339301</link>
-<guid isPermaLink="false">dbc41fe40bb803309a313d223b07c41ce9d4ee52</guid>
-<description>Venue: Snug Harbor | Date: Thursday, May 14 | Time: 9:30pm</description>
-<pubDate>Thu, 14 May 2026 21:30:00 +0000</pubDate>
+<title>Chris Thomas King — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1339311</link>
+<guid isPermaLink="false">09490e4476adb1b926f527d18181f0c5a4e655c9</guid>
+<description>Venue: Snug Harbor | Date: Friday, May 15 | Time: 9:30pm</description>
+<pubDate>Fri, 15 May 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Chris Christy Band — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1341331</link>
-<guid isPermaLink="false">e80ec7c1776d27c718518233f4fd9e7111576c72</guid>
-<description>Venue: Spotted Cat | Date: Thursday, May 14 | Time: 2:00pm</description>
-<pubDate>Thu, 14 May 2026 14:00:00 +0000</pubDate>
+<title>Paradise Jazz Band — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1341416</link>
+<guid isPermaLink="false">a38d1eeecb229c8e770aedc3233e166e1622400a</guid>
+<description>Venue: Spotted Cat | Date: Friday, May 15 | Time: 2:00pm</description>
+<pubDate>Fri, 15 May 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Miss Sophie Lee — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1341691</link>
-<guid isPermaLink="false">7406e34df8859b26e412c16f371b05e36fe3d156</guid>
-<description>Venue: Spotted Cat | Date: Thursday, May 14 | Time: 6:00pm</description>
-<pubDate>Thu, 14 May 2026 18:00:00 +0000</pubDate>
+<title>New Orleans Cottonmouth Kings — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1341441</link>
+<guid isPermaLink="false">a76d0cfd492846f60c2a323141a17ece624507f1</guid>
+<description>Venue: Spotted Cat | Date: Friday, May 15 | Time: 6:00pm</description>
+<pubDate>Fri, 15 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jumbo Shrimp — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1341396</link>
-<guid isPermaLink="false">ecd22b65a1d12f471cb75b5597188737d1a88591</guid>
-<description>Venue: Spotted Cat | Date: Thursday, May 14 | Time: 10:00pm</description>
-<pubDate>Thu, 14 May 2026 22:00:00 +0000</pubDate>
+<title>The Jump Hounds — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1341701</link>
+<guid isPermaLink="false">def3226501492d6dab95372b1e308b0c8cce0b4d</guid>
+<description>Venue: Spotted Cat | Date: Friday, May 15 | Time: 10:00pm</description>
+<pubDate>Fri, 15 May 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Teena May Single Release &amp; Birthday Party with Dusky Waters, Miss Martha &amp; Her Good Time Gang, and Teena May — St. Roch Tavern</title>
+<link>https://www.wwoz.org/events/1335636</link>
+<guid isPermaLink="false">bc964f797c64bfbb090a66f09a7b200586a9b3ca</guid>
+<description>Venue: St. Roch Tavern | Date: Friday, May 15 | Time: 9:00pm</description>
+<pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1344551</link>
-<guid isPermaLink="false">166c74ab702f9be8a277585a2975057ad12bd5d4</guid>
-<description>Venue: Steamboat Natchez | Date: Thursday, May 14 | Time: 11:00am</description>
-<pubDate>Thu, 14 May 2026 11:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1344526</link>
+<guid isPermaLink="false">5b6adf36350b4a8a416aa50f81687a6ea1ed509c</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, May 15 | Time: 11:00am</description>
+<pubDate>Fri, 15 May 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1344726</link>
-<guid isPermaLink="false">83f7646a97bbf7f60555a273d213ac35fbc459c3</guid>
-<description>Venue: Steamboat Natchez | Date: Thursday, May 14 | Time: 2:00pm</description>
-<pubDate>Thu, 14 May 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1344626</link>
+<guid isPermaLink="false">8e1aee76fbd5efb90b9449dc6f19fbe97e9d4cde</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, May 15 | Time: 2:00pm</description>
+<pubDate>Fri, 15 May 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dukes of Dixieland — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1344501</link>
-<guid isPermaLink="false">e0139633994839db0243767afec584ebe1d75ab8</guid>
-<description>Venue: Steamboat Natchez | Date: Thursday, May 14 | Time: 6:00pm</description>
-<pubDate>Thu, 14 May 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1344386</link>
+<guid isPermaLink="false">f3152e00d0692c072e3ef9034bf4674193c6bfd6</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, May 15 | Time: 6:00pm</description>
+<pubDate>Fri, 15 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Kyle Sharamitaro — Three Maries Jazz Club at the Omni Royal Orleans</title>
-<link>https://www.wwoz.org/events/1344206</link>
-<guid isPermaLink="false">72a81ee3213beccefe221e32369153a92565cd96</guid>
-<description>Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Thursday, May 14 | Time: 7:00pm</description>
-<pubDate>Thu, 14 May 2026 19:00:00 +0000</pubDate>
+<title>Gumbo Funk — Three Maries Jazz Club at the Omni Royal Orleans</title>
+<link>https://www.wwoz.org/events/1344216</link>
+<guid isPermaLink="false">22805eb8ac8ebc11cb7afa0ec990b530216b1037</guid>
+<description>Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Friday, May 15 | Time: 6:00pm</description>
+<pubDate>Fri, 15 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Johanna Rose — Three Muses</title>
-<link>https://www.wwoz.org/events/1345421</link>
-<guid isPermaLink="false">8eb419a29a4fd94a7132f342aba9ee3eabbe3088</guid>
-<description>Venue: Three Muses | Date: Thursday, May 14 | Time: 8:00pm</description>
-<pubDate>Thu, 14 May 2026 20:00:00 +0000</pubDate>
+<title>Anaïs St. John — Three Maries Jazz Club at the Omni Royal Orleans</title>
+<link>https://www.wwoz.org/events/1344221</link>
+<guid isPermaLink="false">e29c9b8c2db749473735685ff435ca693827cea9</guid>
+<description>Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Friday, May 15 | Time: 9:00pm</description>
+<pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mark Barrett &amp; The First Calls — Tropical Isle Bourbon</title>
-<link>https://www.wwoz.org/events/1339866</link>
-<guid isPermaLink="false">13c96cac251d80128d96e53938ba80f24e168b48</guid>
-<description>Venue: Tropical Isle Bourbon | Date: Thursday, May 14 | Time: 5:00pm</description>
-<pubDate>Thu, 14 May 2026 17:00:00 +0000</pubDate>
+<title>Bad Penny Pleasuremakers — Three Muses</title>
+<link>https://www.wwoz.org/events/1345426</link>
+<guid isPermaLink="false">1d0d4c7828edaaeb4998dfa143f9ca93191a018a</guid>
+<description>Venue: Three Muses | Date: Friday, May 15 | Time: 6:00pm</description>
+<pubDate>Fri, 15 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Van Ella Bordella: A Storyville Burlesque Musical — Twilight Room at The Allways Lounge</title>
-<link>https://www.wwoz.org/events/1334961</link>
-<guid isPermaLink="false">2b6991cf07c76b542c4bb3fdcb2477db9a99ea51</guid>
-<description>Venue: Twilight Room at The Allways Lounge | Date: Thursday, May 14 | Time: 7:00pm</description>
-<pubDate>Thu, 14 May 2026 19:00:00 +0000</pubDate>
+<title>Jelly Roll Stompers — Three Muses</title>
+<link>https://www.wwoz.org/events/1345431</link>
+<guid isPermaLink="false">964226088083e2a12c131497e937cea5a99bb8e2</guid>
+<description>Venue: Three Muses | Date: Friday, May 15 | Time: 9:00pm</description>
+<pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Victor Campbell's OVJ Collective — Vaughan's Lounge</title>
-<link>https://www.wwoz.org/events/1291421</link>
-<guid isPermaLink="false">2c914118b18c8417d2060a1f10caa6646203e631</guid>
-<description>Venue: Vaughan's Lounge | Date: Thursday, May 14 | Time: 10:30pm</description>
-<pubDate>Thu, 14 May 2026 22:30:00 +0000</pubDate>
+<title>Big In The 90's + That's So Fetch — Tipitina's</title>
+<link>https://www.wwoz.org/events/1283556</link>
+<guid isPermaLink="false">36692473470596f3bba477d004f37b00803f61d6</guid>
+<description>Venue: Tipitina's | Date: Friday, May 15 | Time: 8:00pm</description>
+<pubDate>Fri, 15 May 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Marais Baroque Ensemble presents Don Quixote — Trinity Episcopal Church</title>
+<link>https://www.wwoz.org/events/1339486</link>
+<guid isPermaLink="false">09601d742ed850aae4b788008c00079703712a2f</guid>
+<description>Venue: Trinity Episcopal Church | Date: Friday, May 15 | Time: 7:00pm</description>
+<pubDate>Fri, 15 May 2026 19:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
