@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-05-17T15:44:39.981761+00:00",
-  "count": 93,
+  "generated_at": "2026-05-17T21:10:42.035038+00:00",
+  "count": 95,
   "events": [
     {
       "id": "4d69c0f0ebbee15712793e5e66514c69043cd54d",
@@ -485,6 +485,18 @@
       "description": "Venue: Dos Jefes | Date: Sunday, May 17 | Time: 8:00pm"
     },
     {
+      "id": "0d988d0ba259f88af2337c93ef8a3ddbc970c82d",
+      "source": "wwoz",
+      "title": "Christian Coleman & His Band",
+      "venue": "Favela Chic",
+      "venue_url": "https://www.wwoz.org/organizations/favela-chic",
+      "event_url": "https://www.wwoz.org/events/1346311",
+      "date_text": "Sunday, May 17",
+      "time_text": "7:00pm",
+      "start": "2026-05-17T19:00:00+00:00",
+      "description": "Venue: Favela Chic | Date: Sunday, May 17 | Time: 7:00pm"
+    },
+    {
       "id": "889a69b59f92d942d556433092421b4be46d79f3",
       "source": "wwoz",
       "title": "Doyle Cooper Band",
@@ -651,6 +663,18 @@
       "time_text": "2:00pm",
       "start": "2026-05-17T14:00:00+00:00",
       "description": "Venue: Maison Bourbon Jazz Club | Date: Sunday, May 17 | Time: 2:00pm"
+    },
+    {
+      "id": "b544b10a298a95fb754fe0f63d3551bd9511c72e",
+      "source": "wwoz",
+      "title": "The Leroy Marshall Band",
+      "venue": "Maison Bourbon Jazz Club",
+      "venue_url": "https://www.wwoz.org/organizations/maison-bourbon-jazz-club",
+      "event_url": "https://www.wwoz.org/events/1346271",
+      "date_text": "Sunday, May 17",
+      "time_text": "7:15pm",
+      "start": "2026-05-17T19:15:00+00:00",
+      "description": "Venue: Maison Bourbon Jazz Club | Date: Sunday, May 17 | Time: 7:15pm"
     },
     {
       "id": "68869975f1118e84551975184b83138b63617dc3",
@@ -1111,7 +1135,7 @@
     {
       "id": "99a1421f52699130abd207a3c86f58f3e2fddcdf",
       "source": "wwoz",
-      "title": "The Pharcyde",
+      "title": "The Pharcyde + Alfred Banks",
       "venue": "Tipitina's",
       "venue_url": "https://www.wwoz.org/organizations/tipitinas",
       "event_url": "https://www.wwoz.org/events/1320701",

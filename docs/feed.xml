@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 17 May 2026 15:44:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 17 May 2026 21:10:42 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Wolfe Johns Blues Band — 21st Amendment</title>
@@ -288,6 +288,13 @@
 <pubDate>Sun, 17 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Christian Coleman &amp; His Band — Favela Chic</title>
+<link>https://www.wwoz.org/events/1346311</link>
+<guid isPermaLink="false">0d988d0ba259f88af2337c93ef8a3ddbc970c82d</guid>
+<description>Venue: Favela Chic | Date: Sunday, May 17 | Time: 7:00pm</description>
+<pubDate>Sun, 17 May 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Doyle Cooper Band — Fritzel's Jazz Club</title>
 <link>https://www.wwoz.org/events/1342211</link>
 <guid isPermaLink="false">889a69b59f92d942d556433092421b4be46d79f3</guid>
@@ -384,6 +391,13 @@
 <guid isPermaLink="false">01ec5259094d1fb1466e5d2f9a1ca670b604b1e0</guid>
 <description>Venue: Maison Bourbon Jazz Club | Date: Sunday, May 17 | Time: 2:00pm</description>
 <pubDate>Sun, 17 May 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Leroy Marshall Band — Maison Bourbon Jazz Club</title>
+<link>https://www.wwoz.org/events/1346271</link>
+<guid isPermaLink="false">b544b10a298a95fb754fe0f63d3551bd9511c72e</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Sunday, May 17 | Time: 7:15pm</description>
+<pubDate>Sun, 17 May 2026 19:15:00 +0000</pubDate>
 </item>
 <item>
 <title>Neal Todten - Six Sketches for Two Dancers &amp; Ensemble — Marigny Opera House</title>
@@ -652,7 +666,7 @@
 <pubDate>Sun, 17 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Pharcyde — Tipitina's</title>
+<title>The Pharcyde + Alfred Banks — Tipitina's</title>
 <link>https://www.wwoz.org/events/1320701</link>
 <guid isPermaLink="false">99a1421f52699130abd207a3c86f58f3e2fddcdf</guid>
 <description>Venue: Tipitina's | Date: Sunday, May 17 | Time: 8:00pm</description>
