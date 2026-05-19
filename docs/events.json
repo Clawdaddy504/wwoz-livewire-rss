@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-05-19T08:50:03.383750+00:00",
-  "count": 60,
+  "generated_at": "2026-05-19T17:55:37.614258+00:00",
+  "count": 61,
   "events": [
     {
       "id": "2fe1d9ebfab1e3437b2ac6b1b64a23f544af174e",
@@ -411,6 +411,18 @@
       "time_text": "8:00pm",
       "start": "2026-05-19T20:00:00+00:00",
       "description": "Venue: Maison Bourbon Jazz Club | Date: Tuesday, May 19 | Time: 8:00pm"
+    },
+    {
+      "id": "1512842ce83fea02034ae917cb7cf24dbfb43573",
+      "source": "wwoz",
+      "title": "NOLA Very Good Tuesday",
+      "venue": "Maple Leaf",
+      "venue_url": "https://www.wwoz.org/organizations/maple-leaf",
+      "event_url": "https://www.wwoz.org/events/1346726",
+      "date_text": "Tuesday, May 19",
+      "time_text": "8:00pm",
+      "start": "2026-05-19T20:00:00+00:00",
+      "description": "Venue: Maple Leaf | Date: Tuesday, May 19 | Time: 8:00pm"
     },
     {
       "id": "47bb02e1250da41504b9cfa271872e7bb5a79cd3",

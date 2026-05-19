@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 19 May 2026 08:50:03 +0000</lastBuildDate>
+<lastBuildDate>Tue, 19 May 2026 17:55:37 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dave Hammer — 21st Amendment</title>
@@ -243,6 +243,13 @@
 <link>https://www.wwoz.org/events/1344871</link>
 <guid isPermaLink="false">941d1210926c41563f3711ae09bc805f036eca84</guid>
 <description>Venue: Maison Bourbon Jazz Club | Date: Tuesday, May 19 | Time: 8:00pm</description>
+<pubDate>Tue, 19 May 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>NOLA Very Good Tuesday — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1346726</link>
+<guid isPermaLink="false">1512842ce83fea02034ae917cb7cf24dbfb43573</guid>
+<description>Venue: Maple Leaf | Date: Tuesday, May 19 | Time: 8:00pm</description>
 <pubDate>Tue, 19 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
