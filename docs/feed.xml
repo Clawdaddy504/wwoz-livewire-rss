@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 22 May 2026 11:24:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 22 May 2026 18:24:51 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
@@ -260,6 +260,13 @@
 <pubDate>Fri, 22 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
+<title>A Songwriter Swap with Paul Sanchez, Johnny Indovina, &amp; Jim McCormick — Chickie Wah Wah</title>
+<link>https://www.wwoz.org/events/1346946</link>
+<guid isPermaLink="false">b3019e89482bc40fda9dce94d17bd4b135ab9724</guid>
+<description>Venue: Chickie Wah Wah | Date: Friday, May 22 | Time: 7:00pm</description>
+<pubDate>Fri, 22 May 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Nell Simmons Bradley — Commons Club at Virgin Hotels New Orleans</title>
 <link>https://www.wwoz.org/events/1336566</link>
 <guid isPermaLink="false">dc25595289b3169443c4c72d6d52cd5454016b1d</guid>
@@ -386,7 +393,7 @@
 <pubDate>Fri, 22 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Basch Jernigan — Le Bon Temps Roulé</title>
+<title>The Basch Jernigan Band — Le Bon Temps Roulé</title>
 <link>https://www.wwoz.org/events/1333376</link>
 <guid isPermaLink="false">1e772abc3b344c9e38cd594df93f68586db81e76</guid>
 <description>Venue: Le Bon Temps Roulé | Date: Friday, May 22 | Time: 11:00pm</description>

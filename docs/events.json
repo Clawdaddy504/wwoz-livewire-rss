@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-05-22T11:24:59.567116+00:00",
-  "count": 102,
+  "generated_at": "2026-05-22T18:24:51.563466+00:00",
+  "count": 103,
   "events": [
     {
       "id": "14dbfe8873bef995f8ee9a77a18ba2908acdac64",
@@ -437,6 +437,18 @@
       "description": "Venue: Carrollton Station | Date: Friday, May 22 | Time: 9:00pm"
     },
     {
+      "id": "b3019e89482bc40fda9dce94d17bd4b135ab9724",
+      "source": "wwoz",
+      "title": "A Songwriter Swap with Paul Sanchez, Johnny Indovina, & Jim McCormick",
+      "venue": "Chickie Wah Wah",
+      "venue_url": "https://www.wwoz.org/organizations/chickie-wah-wah",
+      "event_url": "https://www.wwoz.org/events/1346946",
+      "date_text": "Friday, May 22",
+      "time_text": "7:00pm",
+      "start": "2026-05-22T19:00:00+00:00",
+      "description": "Venue: Chickie Wah Wah | Date: Friday, May 22 | Time: 7:00pm"
+    },
+    {
       "id": "dc25595289b3169443c4c72d6d52cd5454016b1d",
       "source": "wwoz",
       "title": "Nell Simmons Bradley",
@@ -655,7 +667,7 @@
     {
       "id": "1e772abc3b344c9e38cd594df93f68586db81e76",
       "source": "wwoz",
-      "title": "Basch Jernigan",
+      "title": "The Basch Jernigan Band",
       "venue": "Le Bon Temps Roul\u00e9",
       "venue_url": "https://www.wwoz.org/organizations/le-bon-temps-roule",
       "event_url": "https://www.wwoz.org/events/1333376",
