@@ -5,588 +5,392 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 24 May 2026 21:14:51 +0000</lastBuildDate>
+<lastBuildDate>Mon, 25 May 2026 11:59:49 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
-<title>The Coyote Anderson Jazz Trio — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1340726</link>
-<guid isPermaLink="false">ecd26f8516769277ba61479db2ab065b4a6cbd3b</guid>
-<description>Venue: 21st Amendment | Date: Sunday, May 24 | Time: 3:00pm</description>
-<pubDate>Sun, 24 May 2026 15:00:00 +0000</pubDate>
+<title>James Beaumont — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1340836</link>
+<guid isPermaLink="false">7073c8f7b80df1001fef910f1c1f1ac18f454b58</guid>
+<description>Venue: 21st Amendment | Date: Monday, May 25 | Time: 8:00pm</description>
+<pubDate>Mon, 25 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Personal Space — 30/90</title>
-<link>https://www.wwoz.org/events/1345216</link>
-<guid isPermaLink="false">f2562c991dfd5330493126d71903cddb6c4af79a</guid>
-<description>Venue: 30/90 | Date: Sunday, May 24 | Time: 3:00pm</description>
-<pubDate>Sun, 24 May 2026 15:00:00 +0000</pubDate>
+<title>Dapper Dandies — 30/90</title>
+<link>https://www.wwoz.org/events/1345011</link>
+<guid isPermaLink="false">7844b30f8e184b4cea12605e79875d42dc143a75</guid>
+<description>Venue: 30/90 | Date: Monday, May 25 | Time: 6:00pm</description>
+<pubDate>Mon, 25 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Andre Lovett Band — 30/90</title>
-<link>https://www.wwoz.org/events/1345221</link>
-<guid isPermaLink="false">547cc3e2968477309fb1914efe3032110ffbb708</guid>
-<description>Venue: 30/90 | Date: Sunday, May 24 | Time: 6:00pm</description>
-<pubDate>Sun, 24 May 2026 18:00:00 +0000</pubDate>
+<title>The Frequency Koneckt — 30/90</title>
+<link>https://www.wwoz.org/events/1345031</link>
+<guid isPermaLink="false">5e99d1101696518c667754406792cec2e344662f</guid>
+<description>Venue: 30/90 | Date: Monday, May 25 | Time: 9:00pm</description>
+<pubDate>Mon, 25 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Manic Mixtape — 30/90</title>
-<link>https://www.wwoz.org/events/1345226</link>
-<guid isPermaLink="false">c597b66294c110eeb0c21032cd3bb63846cd967a</guid>
-<description>Venue: 30/90 | Date: Sunday, May 24 | Time: 9:00pm</description>
-<pubDate>Sun, 24 May 2026 21:00:00 +0000</pubDate>
+<title>Smoke Show Cabaret ft. Burlesque &amp; Live Music from Betsy Propane &amp; The Accessories — AllWays Lounge</title>
+<link>https://www.wwoz.org/events/1296206</link>
+<guid isPermaLink="false">506c720e7637fce4001c8ab79e9ddbdc8b03737e</guid>
+<description>Venue: AllWays Lounge | Date: Monday, May 25 | Time: 7:00pm</description>
+<pubDate>Mon, 25 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sunday Swing with Sabertooth Swing — AllWays Lounge</title>
-<link>https://www.wwoz.org/events/1331161</link>
-<guid isPermaLink="false">23a82e49a489c9e4b9916a787269371bd914cc86</guid>
-<description>Venue: AllWays Lounge | Date: Sunday, May 24 | Time: 8:00pm</description>
-<pubDate>Sun, 24 May 2026 20:00:00 +0000</pubDate>
+<title>New Orleans Rug Cutters — Bamboula's</title>
+<link>https://www.wwoz.org/events/1341006</link>
+<guid isPermaLink="false">73a51331255960a414a791c3ff84ba1d0aa2c4b7</guid>
+<description>Venue: Bamboula's | Date: Monday, May 25 | Time: 12:00pm</description>
+<pubDate>Mon, 25 May 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Noah Young — Bacchanal (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1340561</link>
-<guid isPermaLink="false">b2a57df50a65e85645b2d616f8f631a4c1e66733</guid>
-<description>Venue: Bacchanal (OUTDOORS) | Date: Sunday, May 24 | Time: 7:00pm</description>
-<pubDate>Sun, 24 May 2026 19:00:00 +0000</pubDate>
+<title>Jon Roniger — Bamboula's</title>
+<link>https://www.wwoz.org/events/1341021</link>
+<guid isPermaLink="false">ab5d32fc7cd9ab82eff74914b5ff9a0247ea88f2</guid>
+<description>Venue: Bamboula's | Date: Monday, May 25 | Time: 4:30pm</description>
+<pubDate>Mon, 25 May 2026 16:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Them Jaywalkers — Bamboula's</title>
-<link>https://www.wwoz.org/events/1340926</link>
-<guid isPermaLink="false">13e677ed5f2ba8fda7a4c342d378e4b43b730224</guid>
-<description>Venue: Bamboula's | Date: Sunday, May 24 | Time: 11:00am</description>
-<pubDate>Sun, 24 May 2026 11:00:00 +0000</pubDate>
+<title>Ted Hefko &amp; The Thousandaires — Bamboula's</title>
+<link>https://www.wwoz.org/events/1341026</link>
+<guid isPermaLink="false">314d03084c70e62c9e7c00f76793f9ae436234ac</guid>
+<description>Venue: Bamboula's | Date: Monday, May 25 | Time: 9:00pm</description>
+<pubDate>Mon, 25 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Laura Doyle — Bamboula's</title>
-<link>https://www.wwoz.org/events/1340941</link>
-<guid isPermaLink="false">da043f781295a8eae87045233a4eab6470195e23</guid>
-<description>Venue: Bamboula's | Date: Sunday, May 24 | Time: 2:15pm</description>
-<pubDate>Sun, 24 May 2026 14:15:00 +0000</pubDate>
+<title>Red Beans &amp; Blues with Washboard Chaz &amp; Jonathan Freilich — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1340211</link>
+<guid isPermaLink="false">e2021590e0524d018ecdf3e729fc070bee023551</guid>
+<description>Venue: BJ's Lounge | Date: Monday, May 25 | Time: 9:00pm</description>
+<pubDate>Mon, 25 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Midnight Brawlers — Bamboula's</title>
-<link>https://www.wwoz.org/events/1340961</link>
-<guid isPermaLink="false">059771667307cb45f05ef690fb26b6ac4b6bb569</guid>
-<description>Venue: Bamboula's | Date: Sunday, May 24 | Time: 5:30pm</description>
-<pubDate>Sun, 24 May 2026 17:30:00 +0000</pubDate>
+<title>Kid Merv — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1339616</link>
+<guid isPermaLink="false">36fe52c4ff51693907035f71851cc1c712fcbf40</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Monday, May 25 | Time: 8:00pm</description>
+<pubDate>Mon, 25 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Kat Kiley Experience — Bamboula's</title>
-<link>https://www.wwoz.org/events/1340981</link>
-<guid isPermaLink="false">51e3f7d1286c77966c15426ef2717a850a18f06a</guid>
-<description>Venue: Bamboula's | Date: Sunday, May 24 | Time: 9:00pm</description>
-<pubDate>Sun, 24 May 2026 21:00:00 +0000</pubDate>
+<title>David Doucet — Buffa's</title>
+<link>https://www.wwoz.org/events/1325366</link>
+<guid isPermaLink="false">a6f77afb28188be4bbdef5bdee93212ee7d0ce39</guid>
+<description>Venue: Buffa's | Date: Monday, May 25 | Time: 7:00pm</description>
+<pubDate>Mon, 25 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Little Freddie King Blues Fest with Little Freddie King, Sunpie &amp; The Louisiana Sunspots, T-Marie &amp; Bayou Juju + More! — BJ's Lounge</title>
-<link>https://www.wwoz.org/events/1340266</link>
-<guid isPermaLink="false">69c405140c42724305a749fd84e54d23e66eac0a</guid>
-<description>Venue: BJ's Lounge | Date: Sunday, May 24 | Time: 3:00pm</description>
-<pubDate>Sun, 24 May 2026 15:00:00 +0000</pubDate>
+<title>Bob Macy — Café Beignet on Decatur</title>
+<link>https://www.wwoz.org/events/1345911</link>
+<guid isPermaLink="false">ea3df7256cc13947b1bb444cb8fe4f03bc416fe3</guid>
+<description>Venue: Café Beignet on Decatur | Date: Monday, May 25 | Time: 10:00am</description>
+<pubDate>Mon, 25 May 2026 10:00:00 +0000</pubDate>
 </item>
 <item>
-<title>James McClaskey &amp; The Rhythm Band — BJ's Lounge</title>
-<link>https://www.wwoz.org/events/1340196</link>
-<guid isPermaLink="false">932d581ec71259450cd150f75de35f45d734935e</guid>
-<description>Venue: BJ's Lounge | Date: Sunday, May 24 | Time: 9:00pm</description>
-<pubDate>Sun, 24 May 2026 21:00:00 +0000</pubDate>
+<title>Keep It Rolling Brass Band — Café Negril</title>
+<link>https://www.wwoz.org/events/1331066</link>
+<guid isPermaLink="false">acb592bac17a51ccc8b240d5a25f526b63da2cb3</guid>
+<description>Venue: Café Negril | Date: Monday, May 25 | Time: 9:00pm</description>
+<pubDate>Mon, 25 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Street Legends Brass Bands — Blue Nile</title>
-<link>https://www.wwoz.org/events/1335556</link>
-<guid isPermaLink="false">4dd342dcd273e9aeabc16cf3d791ba4ceafc0800</guid>
-<description>Venue: Blue Nile | Date: Sunday, May 24 | Time: 9:30pm</description>
-<pubDate>Sun, 24 May 2026 21:30:00 +0000</pubDate>
+<title>Biscuits n' Jam With Meryl Zimmerman &amp; Friends — Carrollton Station</title>
+<link>https://www.wwoz.org/events/1339766</link>
+<guid isPermaLink="false">ab5e399ecd2de0b92d29f1ebce9c6bf14d84e443</guid>
+<description>Venue: Carrollton Station | Date: Monday, May 25 | Time: 10:00pm</description>
+<pubDate>Mon, 25 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sierra &amp; The Green Notes — BMC</title>
-<link>https://www.wwoz.org/events/1339146</link>
-<guid isPermaLink="false">1d44ff9eb673498c46fec842fd4ba02356ea8b82</guid>
-<description>Venue: BMC | Date: Sunday, May 24 | Time: 3:00pm</description>
-<pubDate>Sun, 24 May 2026 15:00:00 +0000</pubDate>
+<title>(CANCELLED) HaSizzle + TBC Brass Band — Chickie Wah Wah</title>
+<link>https://www.wwoz.org/events/1322591</link>
+<guid isPermaLink="false">e9aeedabdd454e4de705abfc257b6d33b566b954</guid>
+<description>Venue: Chickie Wah Wah | Date: Monday, May 25 | Time: 8:00pm</description>
+<pubDate>Mon, 25 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Lil Red &amp; Big Bad — BMC</title>
-<link>https://www.wwoz.org/events/1339106</link>
-<guid isPermaLink="false">a52c51fde272f4e1d35d5aeb7f0badee2179a708</guid>
-<description>Venue: BMC | Date: Sunday, May 24 | Time: 6:00pm</description>
-<pubDate>Sun, 24 May 2026 18:00:00 +0000</pubDate>
+<title>Secret Six Jazz Band — d.b.a.</title>
+<link>https://www.wwoz.org/events/1341796</link>
+<guid isPermaLink="false">4735fd91ab4e21a809b607f43010f48c91c2e968</guid>
+<description>Venue: d.b.a. | Date: Monday, May 25 | Time: 6:00pm</description>
+<pubDate>Mon, 25 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Kim Inda Wind Band — BMC</title>
-<link>https://www.wwoz.org/events/1339151</link>
-<guid isPermaLink="false">09b91e595868c1f3b6534631d864e440d603428c</guid>
-<description>Venue: BMC | Date: Sunday, May 24 | Time: 9:00pm</description>
-<pubDate>Sun, 24 May 2026 21:00:00 +0000</pubDate>
+<title>Corey Henry &amp; The Treme Funktet — d.b.a.</title>
+<link>https://www.wwoz.org/events/1341806</link>
+<guid isPermaLink="false">4bcddaf4b30ef93ab0b9e1b4f444bd9fe2ffb9fd</guid>
+<description>Venue: d.b.a. | Date: Monday, May 25 | Time: 9:30pm</description>
+<pubDate>Mon, 25 May 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Shawan Rice — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1339711</link>
-<guid isPermaLink="false">f50db153b4909e767f3a5ffe41fc1f01ff909e8a</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Sunday, May 24 | Time: 4:00pm</description>
-<pubDate>Sun, 24 May 2026 16:00:00 +0000</pubDate>
+<title>Sporty's Brass Band — Da Jump Off Lounge</title>
+<link>https://www.wwoz.org/events/1324906</link>
+<guid isPermaLink="false">edfd1bc04aa8d68d839eb9aae416ab822bf7a367</guid>
+<description>Venue: Da Jump Off Lounge | Date: Monday, May 25 | Time: 9:30pm</description>
+<pubDate>Mon, 25 May 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Queta Cavalier — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1339691</link>
-<guid isPermaLink="false">c26dde22a573639d59328ab4c1b759e2a3efa784</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Sunday, May 24 | Time: 8:00pm</description>
-<pubDate>Sun, 24 May 2026 20:00:00 +0000</pubDate>
+<title>John Fohl — Dos Jefes</title>
+<link>https://www.wwoz.org/events/1337011</link>
+<guid isPermaLink="false">250cf14599c159285242b1dd07ef7790e130bc97</guid>
+<description>Venue: Dos Jefes | Date: Monday, May 25 | Time: 8:30pm</description>
+<pubDate>Mon, 25 May 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Adam Pearce — Boxer &amp; The Barrel, The - Houma</title>
-<link>https://www.wwoz.org/events/1339521</link>
-<guid isPermaLink="false">e44f5e41f7f3ba80fdb04303f74e1540c88d0323</guid>
-<description>Venue: Boxer &amp; The Barrel, The - Houma | Date: Sunday, May 24 | Time: 3:00pm</description>
-<pubDate>Sun, 24 May 2026 15:00:00 +0000</pubDate>
+<title>Open Jazz Jam Session with Matinee All-Stars Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1342301</link>
+<guid isPermaLink="false">d78c604ad28e600f82447bb63109c6c5a06d8e04</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Monday, May 25 | Time: 1:00pm</description>
+<pubDate>Mon, 25 May 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Les Getrex — Bratz Y'all</title>
-<link>https://www.wwoz.org/events/1345981</link>
-<guid isPermaLink="false">e8394aa14bb9f9ceb127d0f97f97363c1f44ea79</guid>
-<description>Venue: Bratz Y'all | Date: Sunday, May 24 | Time: 4:00pm</description>
-<pubDate>Sun, 24 May 2026 16:00:00 +0000</pubDate>
+<title>Tin Men — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1342286</link>
+<guid isPermaLink="false">9774e0f002c59d763297fb72c0811b704e67147f</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Monday, May 25 | Time: 5:00pm</description>
+<pubDate>Mon, 25 May 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Traditional Jazz Brunch ft. Some Like It Hot! — Buffa's</title>
-<link>https://www.wwoz.org/events/1318001</link>
-<guid isPermaLink="false">9ce84a305edc8be8f36e208ebde1b4208dc8b85d</guid>
-<description>Venue: Buffa's | Date: Sunday, May 24 | Time: 11:00am</description>
-<pubDate>Sun, 24 May 2026 11:00:00 +0000</pubDate>
+<title>Richard Scott &amp; Friends — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1341986</link>
+<guid isPermaLink="false">48a4e0573f88c3282e973eacebb9e77446ecc6b6</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Monday, May 25 | Time: 8:00pm</description>
+<pubDate>Mon, 25 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Crusty Jugglers — Buffa's</title>
-<link>https://www.wwoz.org/events/1345656</link>
-<guid isPermaLink="false">6ccefe1ea56ae2c5248dcf02914896c1c52c76d0</guid>
-<description>Venue: Buffa's | Date: Sunday, May 24 | Time: 7:00pm</description>
-<pubDate>Sun, 24 May 2026 19:00:00 +0000</pubDate>
+<title>DJ Reverend Robert Sinewave — Holy Diver</title>
+<link>https://www.wwoz.org/events/1338296</link>
+<guid isPermaLink="false">f4fb4a18462232e1028f9b65328d47dda792ce3b</guid>
+<description>Venue: Holy Diver | Date: Monday, May 25 | Time: 10:00pm</description>
+<pubDate>Mon, 25 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Decaturadio — Café Negril</title>
-<link>https://www.wwoz.org/events/1342786</link>
-<guid isPermaLink="false">0935d0474fddccf15eb418f41b8d76ca07b9778f</guid>
-<description>Venue: Café Negril | Date: Sunday, May 24 | Time: 1:00pm</description>
-<pubDate>Sun, 24 May 2026 13:00:00 +0000</pubDate>
+<title>Tom Hook — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1342666</link>
+<guid isPermaLink="false">e78108235cf598ac2e151ae2007e32969deb636b</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Monday, May 25 | Time: 6:00pm</description>
+<pubDate>Mon, 25 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>John Lisi &amp; Delta Funk — Café Negril</title>
-<link>https://www.wwoz.org/events/1342791</link>
-<guid isPermaLink="false">f908ed59f521b79bc925fd163d09e4ce283dfee0</guid>
-<description>Venue: Café Negril | Date: Sunday, May 24 | Time: 5:00pm</description>
-<pubDate>Sun, 24 May 2026 17:00:00 +0000</pubDate>
+<title>The Original Tuxedo Jazz Band — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1342441</link>
+<guid isPermaLink="false">8b84a9ead192172e235b3a791cb78c9bb80d183a</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Monday, May 25 | Time: 8:00pm</description>
+<pubDate>Mon, 25 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Next Level Band — Café Negril</title>
-<link>https://www.wwoz.org/events/1342796</link>
-<guid isPermaLink="false">1fc16877e3277df16136b045fe73847a170b5cd7</guid>
-<description>Venue: Café Negril | Date: Sunday, May 24 | Time: 10:00pm</description>
-<pubDate>Sun, 24 May 2026 22:00:00 +0000</pubDate>
+<title>Aurora Nealand — Maison, The</title>
+<link>https://www.wwoz.org/events/1343041</link>
+<guid isPermaLink="false">9c4fd0596558866b8cb0eacbd4a858c193c0af49</guid>
+<description>Venue: Maison, The | Date: Monday, May 25 | Time: 5:00pm</description>
+<pubDate>Mon, 25 May 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Iguanas — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
-<link>https://www.wwoz.org/events/1344306</link>
-<guid isPermaLink="false">086202e2ca92b9af1794fa704d2ccee83f1a2083</guid>
-<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Sunday, May 24 | Time: 7:00pm</description>
-<pubDate>Sun, 24 May 2026 19:00:00 +0000</pubDate>
+<title>Gene's Music Machine — Maison, The</title>
+<link>https://www.wwoz.org/events/1342821</link>
+<guid isPermaLink="false">cff0620d24efb7dece462613d8e315eaa990e84a</guid>
+<description>Venue: Maison, The | Date: Monday, May 25 | Time: 8:30pm</description>
+<pubDate>Mon, 25 May 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Big 6 Brass Band — Celebration Hall</title>
-<link>https://www.wwoz.org/events/1324701</link>
-<guid isPermaLink="false">c48a8ef7812f54a11bd0b7b6897b087ecfbe281e</guid>
-<description>Venue: Celebration Hall | Date: Sunday, May 24 | Time: 9:00pm</description>
-<pubDate>Sun, 24 May 2026 21:00:00 +0000</pubDate>
+<title>Danny Rubio &amp; The Catahoula Music Company ft. Jack Pritchett — Maison Bourbon Jazz Club</title>
+<link>https://www.wwoz.org/events/1344801</link>
+<guid isPermaLink="false">e096d2f006f607bdd3443c7760066f6b988be47b</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Monday, May 25 | Time: 8:00pm</description>
+<pubDate>Mon, 25 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The New Orleans Jazz Vipers — Chickie Wah Wah</title>
-<link>https://www.wwoz.org/events/1322641</link>
-<guid isPermaLink="false">f4e15f5110cde3453e81b7262776d2e91c0957b4</guid>
-<description>Venue: Chickie Wah Wah | Date: Sunday, May 24 | Time: 5:00pm</description>
-<pubDate>Sun, 24 May 2026 17:00:00 +0000</pubDate>
+<title>George Porter Jr. Trio — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1346791</link>
+<guid isPermaLink="false">f5bfcbcf32625181274da7425787521037670ab6</guid>
+<description>Venue: Maple Leaf | Date: Monday, May 25 | Time: 7:00pm</description>
+<pubDate>Mon, 25 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>James McMurtry &amp; BettySoo — Chickie Wah Wah</title>
-<link>https://www.wwoz.org/events/1346941</link>
-<guid isPermaLink="false">3ed685372027de47260d703080bf4f4a58239a30</guid>
-<description>Venue: Chickie Wah Wah | Date: Sunday, May 24 | Time: 8:15pm</description>
-<pubDate>Sun, 24 May 2026 20:15:00 +0000</pubDate>
+<title>George Porter Jr. Trio — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1346796</link>
+<guid isPermaLink="false">5a3d5ba2ecf78ed2366b4ae39ec55836c2dcef9d</guid>
+<description>Venue: Maple Leaf | Date: Monday, May 25 | Time: 10:00pm</description>
+<pubDate>Mon, 25 May 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Schisms + Dednamez + Rump + Effigy — Crypt, The</title>
-<link>https://www.wwoz.org/events/1345726</link>
-<guid isPermaLink="false">f57d3bd70b8913f2c120098ac5391fe31fd193af</guid>
-<description>Venue: Crypt, The | Date: Sunday, May 24 | Time: 7:00pm</description>
-<pubDate>Sun, 24 May 2026 19:00:00 +0000</pubDate>
+<title>Legacy Jazz Band — Marigny Brasserie</title>
+<link>https://www.wwoz.org/events/1297621</link>
+<guid isPermaLink="false">17be3abe6cae7d1fb51b1ebec35336e9a627906b</guid>
+<description>Venue: Marigny Brasserie | Date: Monday, May 25 | Time: 7:00pm</description>
+<pubDate>Mon, 25 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Paradise Jazz Band — d.b.a.</title>
-<link>https://www.wwoz.org/events/1341756</link>
-<guid isPermaLink="false">365292523f35ed3ec520dc9562eeb11ec5d7b0d5</guid>
-<description>Venue: d.b.a. | Date: Sunday, May 24 | Time: 6:00pm</description>
-<pubDate>Sun, 24 May 2026 18:00:00 +0000</pubDate>
+<title>Kermit Ruffins: Red Bean Mondays — Mayfield's 208 Bourbon presented by Felix's</title>
+<link>https://www.wwoz.org/events/1344346</link>
+<guid isPermaLink="false">4fb7be927c1cc7e467df0052f91c6c05b572e525</guid>
+<description>Venue: Mayfield's 208 Bourbon presented by Felix's | Date: Monday, May 25 | Time: 6:00pm</description>
+<pubDate>Mon, 25 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Jump Hounds — d.b.a.</title>
-<link>https://www.wwoz.org/events/1341771</link>
-<guid isPermaLink="false">b609dec6aa734b7753060149d24b4298354ca3b0</guid>
-<description>Venue: d.b.a. | Date: Sunday, May 24 | Time: 9:30pm</description>
-<pubDate>Sun, 24 May 2026 21:30:00 +0000</pubDate>
+<title>The 86d — Misfit Toys</title>
+<link>https://www.wwoz.org/events/1344766</link>
+<guid isPermaLink="false">53870537ff27a74deca6ddcd9b8d88a7723c97a4</guid>
+<description>Venue: Misfit Toys | Date: Monday, May 25 | Time: 8:00pm</description>
+<pubDate>Mon, 25 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>New Orleans Spice Jazz Brunch Trio — Dickie Brennan’s Tableau</title>
-<link>https://www.wwoz.org/events/1285451</link>
-<guid isPermaLink="false">748334be6d06ef7571355ae65e8882d30df51aeb</guid>
-<description>Venue: Dickie Brennan’s Tableau | Date: Sunday, May 24 | Time: 11:00am</description>
-<pubDate>Sun, 24 May 2026 11:00:00 +0000</pubDate>
+<title>NOLA Pickin’ Party Bluegrass Jam — NOLA Brewing</title>
+<link>https://www.wwoz.org/events/1312806</link>
+<guid isPermaLink="false">0cab157994309c241d0e62f8e4083f7cc04ff6ba</guid>
+<description>Venue: NOLA Brewing | Date: Monday, May 25 | Time: 7:00pm</description>
+<pubDate>Mon, 25 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Basch Jernigan — Dos Jefes</title>
-<link>https://www.wwoz.org/events/1337071</link>
-<guid isPermaLink="false">59c7bf7a345a495fa2c27cb118ac9775956b65f8</guid>
-<description>Venue: Dos Jefes | Date: Sunday, May 24 | Time: 8:00pm</description>
-<pubDate>Sun, 24 May 2026 20:00:00 +0000</pubDate>
+<title>Gavin Eckler Trio — Original Nite Cap, The</title>
+<link>https://www.wwoz.org/events/1338676</link>
+<guid isPermaLink="false">28026580f86168fbd7e98bc953a31a7af5e1af39</guid>
+<description>Venue: Original Nite Cap, The | Date: Monday, May 25 | Time: 8:00pm</description>
+<pubDate>Mon, 25 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Christian Coleman &amp; His Band — Favela Chic</title>
-<link>https://www.wwoz.org/events/1346321</link>
-<guid isPermaLink="false">42edfe05d83479bf017a9e478c47320047fb64fc</guid>
-<description>Venue: Favela Chic | Date: Sunday, May 24 | Time: 7:00pm</description>
-<pubDate>Sun, 24 May 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Maty Peters &amp; The Party Meters — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1342226</link>
-<guid isPermaLink="false">81f7c298cb9d4c27114473252c4d1eaf3b72495b</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Sunday, May 24 | Time: 1:00pm</description>
-<pubDate>Sun, 24 May 2026 13:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Sazerac Jazz Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1342236</link>
-<guid isPermaLink="false">93d95d62183a6fbc3755e9d758fa842e7e6d82c0</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Sunday, May 24 | Time: 5:00pm</description>
-<pubDate>Sun, 24 May 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Fritzel's All-Star Band with Mike Fulton — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1342266</link>
-<guid isPermaLink="false">8ebbc5c1e631b8d13bb58ae382d1855f6deede3c</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Sunday, May 24 | Time: 8:00pm</description>
-<pubDate>Sun, 24 May 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Danny Ray &amp; the Electric Barrelhouse — Hideout Bar</title>
-<link>https://www.wwoz.org/events/1346546</link>
-<guid isPermaLink="false">e7ef0927d128c91cbc69cf6b526c319b0b206c2b</guid>
-<description>Venue: Hideout Bar | Date: Sunday, May 24 | Time: 11:30am</description>
-<pubDate>Sun, 24 May 2026 11:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Sunday Kick Back ft. Rapbaum — High-Five Pool Bar at The Barnett (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1343526</link>
-<guid isPermaLink="false">38cc49544bfad68737a84a9b1269f46b631d5c0a</guid>
-<description>Venue: High-Five Pool Bar at The Barnett (OUTDOORS) | Date: Sunday, May 24 | Time: 12:00pm</description>
-<pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>51st Annual Greek Festival ft. Thymios &amp; His Greek-American Super Band + More! — Holy Trinity Cathedral</title>
-<link>https://www.wwoz.org/events/1343616</link>
-<guid isPermaLink="false">f9ffa00f339e60d623d42d19e272f4159d753c13</guid>
-<description>Venue: Holy Trinity Cathedral | Date: Sunday, May 24 | Time: 11:00am</description>
-<pubDate>Sun, 24 May 2026 11:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Hot 8 Brass Band — Howlin' Wolf</title>
-<link>https://www.wwoz.org/events/1324786</link>
-<guid isPermaLink="false">e82766d52a2c7b2b573806bb91e8699ee7fde2e5</guid>
-<description>Venue: Howlin' Wolf | Date: Sunday, May 24 | Time: 10:30pm</description>
-<pubDate>Sun, 24 May 2026 22:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Smoking Time Jazz Club — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1342546</link>
-<guid isPermaLink="false">dc533191282e7a09c7187d6e311ad9ebffa1c0f8</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Sunday, May 24 | Time: 2:30pm</description>
-<pubDate>Sun, 24 May 2026 14:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Big Joe Kennedy — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1342576</link>
-<guid isPermaLink="false">4b486cf90e4dfb38d30f3dc4d338538f4dcab321</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Sunday, May 24 | Time: 6:00pm</description>
-<pubDate>Sun, 24 May 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Mahogany Hall Swingsters ft. Roderick Paulin — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1342601</link>
-<guid isPermaLink="false">7d8e5b90671d6702b6883fcf366500f43ced6659</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Sunday, May 24 | Time: 8:00pm</description>
-<pubDate>Sun, 24 May 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>New Orleans Rug Cutters — Maison, The</title>
-<link>https://www.wwoz.org/events/1343046</link>
-<guid isPermaLink="false">3e2d163a99cfa857e9356f589ca16078ef3258c2</guid>
-<description>Venue: Maison, The | Date: Sunday, May 24 | Time: 3:00pm</description>
-<pubDate>Sun, 24 May 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Jenavieve Cooke &amp; The Winding Boys — Maison, The</title>
-<link>https://www.wwoz.org/events/1343051</link>
-<guid isPermaLink="false">b646d8bf15f2ef1d95ecc2342797269a7af85f6b</guid>
-<description>Venue: Maison, The | Date: Sunday, May 24 | Time: 6:00pm</description>
-<pubDate>Sun, 24 May 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>DJ B Dot (Dot Dunnie) — Maison, The</title>
-<link>https://www.wwoz.org/events/1343056</link>
-<guid isPermaLink="false">c290695f1a339bcaf8c546060ce2ca4745673977</guid>
-<description>Venue: Maison, The | Date: Sunday, May 24 | Time: 10:00pm</description>
-<pubDate>Sun, 24 May 2026 22:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Kid Merv — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1339986</link>
-<guid isPermaLink="false">fe93280d19c37319800b775cb407b9fd8d98c560</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Sunday, May 24 | Time: 2:00pm</description>
-<pubDate>Sun, 24 May 2026 14:00:00 +0000</pubDate>
-</item>
-<item>
-<title>The Leroy Marshall Band — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1346276</link>
-<guid isPermaLink="false">e25685bf007b41467982f4e2cc6ac626b57dbc28</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Sunday, May 24 | Time: 7:15pm</description>
-<pubDate>Sun, 24 May 2026 19:15:00 +0000</pubDate>
-</item>
-<item>
-<title>12th Annual Heroes at Home ft. Vince Vance &amp; The Valiants, Highway 190 Band + More! — Mandeville Lakefront Park (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1336306</link>
-<guid isPermaLink="false">4260365e0445cc89bc18c3b21858790dd5504cf8</guid>
-<description>Venue: Mandeville Lakefront Park (OUTDOORS) | Date: Sunday, May 24 | Time: 10:00am</description>
-<pubDate>Sun, 24 May 2026 10:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Open Mic Night hosted by DML — Neutral Ground Coffeehouse</title>
-<link>https://www.wwoz.org/events/1346821</link>
-<guid isPermaLink="false">a6bcf9961fd3524f8d3d71722d87e17bd94bf5d8</guid>
-<description>Venue: Neutral Ground Coffeehouse | Date: Sunday, May 24 | Time: 6:00pm</description>
-<pubDate>Sun, 24 May 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Kelly Love Jones hosts “The Listening Room” — NOLA By Nature</title>
-<link>https://www.wwoz.org/events/1346896</link>
-<guid isPermaLink="false">7bf7fc6e173de1971d25b31884ea06104351017a</guid>
-<description>Venue: NOLA By Nature | Date: Sunday, May 24 | Time: 7:00pm</description>
-<pubDate>Sun, 24 May 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Irish Folk Jam — Okay Bar</title>
-<link>https://www.wwoz.org/events/1308006</link>
-<guid isPermaLink="false">575119747d0e9ca21e2d88d297275d9791691a9f</guid>
-<description>Venue: Okay Bar | Date: Sunday, May 24 | Time: 3:00pm</description>
-<pubDate>Sun, 24 May 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Mango + Horchy + Andy Pankakes — Okay Bar</title>
-<link>https://www.wwoz.org/events/1343251</link>
-<guid isPermaLink="false">aca47fe8220595c44a6c22140640ddc095ee0045</guid>
-<description>Venue: Okay Bar | Date: Sunday, May 24 | Time: 8:00pm</description>
-<pubDate>Sun, 24 May 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Open Mic with guest host John Fohl — Old Arabi Lighthouse Records &amp; Books</title>
-<link>https://www.wwoz.org/events/1337206</link>
-<guid isPermaLink="false">c626a5c36ae854e4a72d92c6d5f348bc5ff607b8</guid>
-<description>Venue: Old Arabi Lighthouse Records &amp; Books | Date: Sunday, May 24 | Time: 6:00pm</description>
-<pubDate>Sun, 24 May 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Lisa Bittick Lowe + Matt Hayden + Emelie Guidry — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1343376</link>
-<guid isPermaLink="false">c124536ee6a1d850e4fde074de7be076b458c356</guid>
-<description>Venue: Pat O'Brien's | Date: Sunday, May 24 | Time: 5:30pm</description>
-<pubDate>Sun, 24 May 2026 17:30:00 +0000</pubDate>
+<title>Matt Hayden + Lisa Bittick Lowe — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1343381</link>
+<guid isPermaLink="false">eaedaf4f24d188a56cb4126980a2ffe8d69112d4</guid>
+<description>Venue: Pat O'Brien's | Date: Monday, May 25 | Time: 6:00pm</description>
+<pubDate>Mon, 25 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>David Boeddinghaus — Polo Club at The Windsor Court, The</title>
-<link>https://www.wwoz.org/events/1300926</link>
-<guid isPermaLink="false">74949604e0dca7b212dc24200afa2e22835e5c88</guid>
-<description>Venue: Polo Club at The Windsor Court, The | Date: Sunday, May 24 | Time: 5:30pm</description>
-<pubDate>Sun, 24 May 2026 17:30:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1301366</link>
+<guid isPermaLink="false">e54d67c03afb7ccf5c6e281683b7f1455c679b0e</guid>
+<description>Venue: Polo Club at The Windsor Court, The | Date: Monday, May 25 | Time: 5:30pm</description>
+<pubDate>Mon, 25 May 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Chore Boys (DJ Set) — Pool Club at Virgin Hotels New Orleans</title>
-<link>https://www.wwoz.org/events/1336611</link>
-<guid isPermaLink="false">24af209f0d553b9fdc071ca2e47983ced1bba42f</guid>
-<description>Venue: Pool Club at Virgin Hotels New Orleans | Date: Sunday, May 24 | Time: 3:00pm</description>
-<pubDate>Sun, 24 May 2026 15:00:00 +0000</pubDate>
+<title>Legatron Prime (DJ Set) — Pool Club at Virgin Hotels New Orleans</title>
+<link>https://www.wwoz.org/events/1336616</link>
+<guid isPermaLink="false">203667cb65aeeb5d778463ca0ce8c571c3805530</guid>
+<description>Venue: Pool Club at Virgin Hotels New Orleans | Date: Monday, May 25 | Time: 3:00pm</description>
+<pubDate>Mon, 25 May 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Leroy Jones &amp; The Preservation Jazz Masters — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1344106</link>
-<guid isPermaLink="false">4d7055c02368bdda241746f58ca40c3a332efd4c</guid>
-<description>Venue: Preservation Hall | Date: Sunday, May 24 | Time: 2:30pm</description>
-<pubDate>Sun, 24 May 2026 14:30:00 +0000</pubDate>
+<title>Gumbolaya — Poor Boys</title>
+<link>https://www.wwoz.org/events/1285131</link>
+<guid isPermaLink="false">4da8d3d873198480dacbdc60c9fc2fd56029009b</guid>
+<description>Venue: Poor Boys | Date: Monday, May 25 | Time: 9:00pm</description>
+<pubDate>Mon, 25 May 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Leroy Jones &amp; The Preservation Jazz Masters — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1344086</link>
-<guid isPermaLink="false">f1943b50fb7cad0d86084b017cdfb4091167da99</guid>
-<description>Venue: Preservation Hall | Date: Sunday, May 24 | Time: 3:45pm</description>
-<pubDate>Sun, 24 May 2026 15:45:00 +0000</pubDate>
+<title>Preservation Brass — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1343806</link>
+<guid isPermaLink="false">e9f1933e933c1850ff48b9de29d7bee0600f6108</guid>
+<description>Venue: Preservation Hall | Date: Monday, May 25 | Time: 5:00pm</description>
+<pubDate>Mon, 25 May 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation Legacy Band ft. Gregg Stafford — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1344121</link>
-<guid isPermaLink="false">b6b28ecd99b02ab56f3e788ec0f0ef761d4389a0</guid>
-<description>Venue: Preservation Hall | Date: Sunday, May 24 | Time: 5:00pm</description>
-<pubDate>Sun, 24 May 2026 17:00:00 +0000</pubDate>
+<title>Preservation Brass — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1343821</link>
+<guid isPermaLink="false">b116026b4fc9943a11f81ed523da123513564dc0</guid>
+<description>Venue: Preservation Hall | Date: Monday, May 25 | Time: 6:15pm</description>
+<pubDate>Mon, 25 May 2026 18:15:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation Legacy Band ft. Gregg Stafford — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1344131</link>
-<guid isPermaLink="false">58c91f00cd5b984c2e8d25ddc13ab013cd667971</guid>
-<description>Venue: Preservation Hall | Date: Sunday, May 24 | Time: 6:15pm</description>
-<pubDate>Sun, 24 May 2026 18:15:00 +0000</pubDate>
+<title>Preservation Brass — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1343836</link>
+<guid isPermaLink="false">2aa3e3c4a4e68cd6793a2b7e7daea04b0ae34e2f</guid>
+<description>Venue: Preservation Hall | Date: Monday, May 25 | Time: 7:30pm</description>
+<pubDate>Mon, 25 May 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation Legacy Band ft. Gregg Stafford — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1344146</link>
-<guid isPermaLink="false">50a5f951e3b9ff2af17f8336088f8a07a304479e</guid>
-<description>Venue: Preservation Hall | Date: Sunday, May 24 | Time: 7:30pm</description>
-<pubDate>Sun, 24 May 2026 19:30:00 +0000</pubDate>
+<title>Preservation Brass — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1343851</link>
+<guid isPermaLink="false">54187cf430d582e0ea598a30133ef4f1ce8822ab</guid>
+<description>Venue: Preservation Hall | Date: Monday, May 25 | Time: 8:45pm</description>
+<pubDate>Mon, 25 May 2026 20:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation Legacy Band ft. Gregg Stafford — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1344161</link>
-<guid isPermaLink="false">73f9c2401761198f4f0b082160b5c55ec27e5a87</guid>
-<description>Venue: Preservation Hall | Date: Sunday, May 24 | Time: 8:45pm</description>
-<pubDate>Sun, 24 May 2026 20:45:00 +0000</pubDate>
+<title>BC Coogan — Saturn Bar</title>
+<link>https://www.wwoz.org/events/1345471</link>
+<guid isPermaLink="false">ae0cbdab3d89aaeaff38dd8564d2d4d09ace9f04</guid>
+<description>Venue: Saturn Bar | Date: Monday, May 25 | Time: 8:30pm</description>
+<pubDate>Mon, 25 May 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Sugar Bear &amp; The Jazz Cats — Rib Room at the Omni Royal Orleans</title>
-<link>https://www.wwoz.org/events/1324166</link>
-<guid isPermaLink="false">a89a255c087d4dd438bd010d1315372b9aec7ccf</guid>
-<description>Venue: Rib Room at the Omni Royal Orleans | Date: Sunday, May 24 | Time: 11:00am</description>
-<pubDate>Sun, 24 May 2026 11:00:00 +0000</pubDate>
+<title>The Gong Show — Siberia</title>
+<link>https://www.wwoz.org/events/1346656</link>
+<guid isPermaLink="false">566c9a41b028dd26541f9ab02d958d3dadf7be26</guid>
+<description>Venue: Siberia | Date: Monday, May 25 | Time: 8:30pm</description>
+<pubDate>Mon, 25 May 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Defend Decatur: Rock The Block ft. Supagroup, Community, Sick Thoughts &amp; More! — Santos Bar</title>
-<link>https://www.wwoz.org/events/1338381</link>
-<guid isPermaLink="false">ec162d43c317986139be37423703dccf0a235bfe</guid>
-<description>Venue: Santos Bar | Date: Sunday, May 24 | Time: 2:00pm</description>
-<pubDate>Sun, 24 May 2026 14:00:00 +0000</pubDate>
+<title>Charmaine Neville Band — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1339266</link>
+<guid isPermaLink="false">6f9ce1ed4f2198d988693bda87519b019acb3ede</guid>
+<description>Venue: Snug Harbor | Date: Monday, May 25 | Time: 7:30pm</description>
+<pubDate>Mon, 25 May 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Lily Unless &amp; The If Onlys + Rose Vaughn + Ramona &amp; The Holy Smokes — Saturn Bar</title>
-<link>https://www.wwoz.org/events/1345521</link>
-<guid isPermaLink="false">6104513d0bb04398efabb713c8e86c095f7a6a21</guid>
-<description>Venue: Saturn Bar | Date: Sunday, May 24 | Time: 9:00pm</description>
-<pubDate>Sun, 24 May 2026 21:00:00 +0000</pubDate>
+<title>Charmaine Neville Band — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1339271</link>
+<guid isPermaLink="false">0c807bff4c739e4f962254a9511be2c67939069a</guid>
+<description>Venue: Snug Harbor | Date: Monday, May 25 | Time: 9:30pm</description>
+<pubDate>Mon, 25 May 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Electric Rituals: A Witch House Dance Night — Siberia</title>
-<link>https://www.wwoz.org/events/1346651</link>
-<guid isPermaLink="false">3a264df44756c13322ba7d025df6dabaa749b3b9</guid>
-<description>Venue: Siberia | Date: Sunday, May 24 | Time: 9:00pm</description>
-<pubDate>Sun, 24 May 2026 21:00:00 +0000</pubDate>
+<title>Jenavieve Cooke &amp; The Winding Boys — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1341386</link>
+<guid isPermaLink="false">bda90cb1d5784d49ea00f81cf49c085e785177d5</guid>
+<description>Venue: Spotted Cat | Date: Monday, May 25 | Time: 2:00pm</description>
+<pubDate>Mon, 25 May 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Joe Krown — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1339391</link>
-<guid isPermaLink="false">ee1b89f1f667925fd13783980ca7e652500727ef</guid>
-<description>Venue: Snug Harbor | Date: Sunday, May 24 | Time: 4:30pm</description>
-<pubDate>Sun, 24 May 2026 16:30:00 +0000</pubDate>
+<title>Dominick Grillo &amp; The Frenchmen Street All-Stars — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1341606</link>
+<guid isPermaLink="false">9e40a2bd3fe3eba364f76833293bc0340a7d64ee</guid>
+<description>Venue: Spotted Cat | Date: Monday, May 25 | Time: 6:00pm</description>
+<pubDate>Mon, 25 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Charlie Halloran &amp; The Tropicales — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1339396</link>
-<guid isPermaLink="false">bbf9fc35c5cf10daa8626b228c0f3aff8583c0d4</guid>
-<description>Venue: Snug Harbor | Date: Sunday, May 24 | Time: 7:30pm</description>
-<pubDate>Sun, 24 May 2026 19:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Charlie Halloran &amp; The Tropicales — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1339411</link>
-<guid isPermaLink="false">53c67e53e738ec06ef10523f342503b27f86bd1a</guid>
-<description>Venue: Snug Harbor | Date: Sunday, May 24 | Time: 9:30pm</description>
-<pubDate>Sun, 24 May 2026 21:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Monty Banks — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1341531</link>
-<guid isPermaLink="false">a7308180c3fd1a4c25fe3169cda0a35d21676c8c</guid>
-<description>Venue: Spotted Cat | Date: Sunday, May 24 | Time: 12:00pm</description>
-<pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Jacky Blaire &amp; The Hot Biscuits — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1341546</link>
-<guid isPermaLink="false">070062d28fff976c6a60ab3ec252302bb66676d5</guid>
-<description>Venue: Spotted Cat | Date: Sunday, May 24 | Time: 2:00pm</description>
-<pubDate>Sun, 24 May 2026 14:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Treme Brass Band — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1341561</link>
-<guid isPermaLink="false">08a2325b1180373e767070fcf2462efe0ab83066</guid>
-<description>Venue: Spotted Cat | Date: Sunday, May 24 | Time: 6:00pm</description>
-<pubDate>Sun, 24 May 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Pat Casey &amp; The New Sound — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1341586</link>
-<guid isPermaLink="false">e6490be93c69e2b770b15dfd9ae26056bfa39f71</guid>
-<description>Venue: Spotted Cat | Date: Sunday, May 24 | Time: 9:00pm</description>
-<pubDate>Sun, 24 May 2026 21:00:00 +0000</pubDate>
+<title>Aurora Nealand &amp; The Inquiry Quintet — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1341626</link>
+<guid isPermaLink="false">0f22c13d3db2f937853bc3a8e7c3bcbf9c8e6d5a</guid>
+<description>Venue: Spotted Cat | Date: Monday, May 25 | Time: 9:30pm</description>
+<pubDate>Mon, 25 May 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1344606</link>
-<guid isPermaLink="false">e9ca305d34ba650f653fd08cce14a603df2e77ce</guid>
-<description>Venue: Steamboat Natchez | Date: Sunday, May 24 | Time: 11:00am</description>
-<pubDate>Sun, 24 May 2026 11:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1344596</link>
+<guid isPermaLink="false">60f340b3a2bf2d219169809212f00721c3f39ee5</guid>
+<description>Venue: Steamboat Natchez | Date: Monday, May 25 | Time: 11:00am</description>
+<pubDate>Mon, 25 May 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1344671</link>
-<guid isPermaLink="false">52435b6f0cbfc585cb89f28a3dadea8a21afc201</guid>
-<description>Venue: Steamboat Natchez | Date: Sunday, May 24 | Time: 2:00pm</description>
-<pubDate>Sun, 24 May 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1344681</link>
+<guid isPermaLink="false">1093a7b81581a9242e2c1f9e035ec511b60ee664</guid>
+<description>Venue: Steamboat Natchez | Date: Monday, May 25 | Time: 2:00pm</description>
+<pubDate>Mon, 25 May 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dukes of Dixieland — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1344431</link>
-<guid isPermaLink="false">2feecf66753e4d897ed6de1fda2283a8dc276861</guid>
-<description>Venue: Steamboat Natchez | Date: Sunday, May 24 | Time: 6:00pm</description>
-<pubDate>Sun, 24 May 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1344451</link>
+<guid isPermaLink="false">4750755dafa850e1543e67c9dd2728921fbddd5e</guid>
+<description>Venue: Steamboat Natchez | Date: Monday, May 25 | Time: 6:00pm</description>
+<pubDate>Mon, 25 May 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Ryan Scott Long — Three Muses</title>
-<link>https://www.wwoz.org/events/1347021</link>
-<guid isPermaLink="false">c3ee26dac36c7543505ec86b49b609d52d562533</guid>
-<description>Venue: Three Muses | Date: Sunday, May 24 | Time: 4:30pm</description>
-<pubDate>Sun, 24 May 2026 16:30:00 +0000</pubDate>
+<title>Jelly Roll Stompers — Three Muses</title>
+<link>https://www.wwoz.org/events/1347031</link>
+<guid isPermaLink="false">08681b25a7c3838bd5e2f69eaa68b1179e49342a</guid>
+<description>Venue: Three Muses | Date: Monday, May 25 | Time: 8:00pm</description>
+<pubDate>Mon, 25 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Betty Shirley — Three Muses</title>
-<link>https://www.wwoz.org/events/1347026</link>
-<guid isPermaLink="false">06747ee155bb2d08841800ab81c9e21e6ad3c44f</guid>
-<description>Venue: Three Muses | Date: Sunday, May 24 | Time: 8:00pm</description>
-<pubDate>Sun, 24 May 2026 20:00:00 +0000</pubDate>
+<title>Dave Ferrato — Tropical Isle Original</title>
+<link>https://www.wwoz.org/events/1346096</link>
+<guid isPermaLink="false">dfd94f00c440e63ecd0ebd7296033f1a2d1ab756</guid>
+<description>Venue: Tropical Isle Original | Date: Monday, May 25 | Time: 7:00pm</description>
+<pubDate>Mon, 25 May 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jon Cleary &amp; The Absolute Monster Gentlemen + Sally Baby's Silver Dollars — Tipitina's</title>
-<link>https://www.wwoz.org/events/1345751</link>
-<guid isPermaLink="false">b51697ac67804a53cd291db61cade66dc7578dae</guid>
-<description>Venue: Tipitina's | Date: Sunday, May 24 | Time: 8:00pm</description>
-<pubDate>Sun, 24 May 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>The Van Ella Bordella: A Storyville Burlesque Musical — Twilight Room at The Allways Lounge</title>
-<link>https://www.wwoz.org/events/1334981</link>
-<guid isPermaLink="false">bb0c9d56a711a5544447becea6f8296728be381c</guid>
-<description>Venue: Twilight Room at The Allways Lounge | Date: Sunday, May 24 | Time: 7:00pm</description>
-<pubDate>Sun, 24 May 2026 19:00:00 +0000</pubDate>
+<title>The Danny Alexander Blues Jam — True South</title>
+<link>https://www.wwoz.org/events/1340001</link>
+<guid isPermaLink="false">9125f501199e9988f9b8f61600acf69ec223f673</guid>
+<description>Venue: True South | Date: Monday, May 25 | Time: 8:00pm</description>
+<pubDate>Mon, 25 May 2026 20:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
