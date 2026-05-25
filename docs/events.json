@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-05-25T19:58:27.996006+00:00",
-  "count": 55,
+  "generated_at": "2026-05-25T22:16:55.473114+00:00",
+  "count": 54,
   "events": [
     {
       "id": "7073c8f7b80df1001fef910f1c1f1ac18f454b58",
@@ -159,18 +159,6 @@
       "time_text": "10:00pm",
       "start": "2026-05-25T22:00:00+00:00",
       "description": "Venue: Carrollton Station | Date: Monday, May 25 | Time: 10:00pm"
-    },
-    {
-      "id": "e9aeedabdd454e4de705abfc257b6d33b566b954",
-      "source": "wwoz",
-      "title": "(CANCELLED) HaSizzle + TBC Brass Band",
-      "venue": "Chickie Wah Wah",
-      "venue_url": "https://www.wwoz.org/organizations/chickie-wah-wah",
-      "event_url": "https://www.wwoz.org/events/1322591",
-      "date_text": "Monday, May 25",
-      "time_text": "8:00pm",
-      "start": "2026-05-25T20:00:00+00:00",
-      "description": "Venue: Chickie Wah Wah | Date: Monday, May 25 | Time: 8:00pm"
     },
     {
       "id": "4735fd91ab4e21a809b607f43010f48c91c2e968",

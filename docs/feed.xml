@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 25 May 2026 19:58:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 25 May 2026 22:16:55 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>James Beaumont — 21st Amendment</title>
@@ -97,13 +97,6 @@
 <guid isPermaLink="false">ab5e399ecd2de0b92d29f1ebce9c6bf14d84e443</guid>
 <description>Venue: Carrollton Station | Date: Monday, May 25 | Time: 10:00pm</description>
 <pubDate>Mon, 25 May 2026 22:00:00 +0000</pubDate>
-</item>
-<item>
-<title>(CANCELLED) HaSizzle + TBC Brass Band — Chickie Wah Wah</title>
-<link>https://www.wwoz.org/events/1322591</link>
-<guid isPermaLink="false">e9aeedabdd454e4de705abfc257b6d33b566b954</guid>
-<description>Venue: Chickie Wah Wah | Date: Monday, May 25 | Time: 8:00pm</description>
-<pubDate>Mon, 25 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Secret Six Jazz Band — d.b.a.</title>
