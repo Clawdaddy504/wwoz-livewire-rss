@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 27 May 2026 16:12:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 27 May 2026 20:28:49 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dr. Sick — 21st Amendment</title>
@@ -468,13 +468,6 @@
 <guid isPermaLink="false">fed793d40f5e835bcd06e6013c7d039e5c151995</guid>
 <description>Venue: Tropical Isle Bourbon | Date: Wednesday, May 27 | Time: 7:00pm</description>
 <pubDate>Wed, 27 May 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>The Dasein ft. James Alsanders, Klaas Hubner &amp; Rob Wagner — Zeitgeist Multi-Disciplinary Arts Center</title>
-<link>https://www.wwoz.org/events/1347176</link>
-<guid isPermaLink="false">1830906e369126b6e644fd96dec1ad300a2759c0</guid>
-<description>Venue: Zeitgeist Multi-Disciplinary Arts Center | Date: Wednesday, May 27 | Time: 7:30pm</description>
-<pubDate>Wed, 27 May 2026 19:30:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
