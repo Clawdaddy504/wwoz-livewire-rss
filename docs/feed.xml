@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 28 May 2026 22:45:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 29 May 2026 04:42:25 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Caitie B. &amp; The O.G. Hand Me Down Duo — 13 on Frenchmen</title>
@@ -419,6 +419,13 @@
 <guid isPermaLink="false">e4d2facd740fdd607573955fa6192909b2f7d98b</guid>
 <description>Venue: New Orleans Jazz National Historical Park | Date: Thursday, May 28 | Time: 3:00pm</description>
 <pubDate>Thu, 28 May 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Open Synth Jam Hosted by MIG — Okay Bar</title>
+<link>https://www.wwoz.org/events/1350611</link>
+<guid isPermaLink="false">cc30db0c5e0c12b11bdb6e2f4723cb7f3fdb2f33</guid>
+<description>Venue: Okay Bar | Date: Thursday, May 28 | Time: 8:00pm</description>
+<pubDate>Thu, 28 May 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Victoria Amato + Lisa Bittick Lowe + Jim Lockwood + Ben Michaels — Pat O'Brien's</title>

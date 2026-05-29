@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-05-28T22:45:19.773168+00:00",
-  "count": 87,
+  "generated_at": "2026-05-29T04:42:25.435751+00:00",
+  "count": 88,
   "events": [
     {
       "id": "d60a872fa724a5b7dca950a8ccbaa9214f8a5b74",
@@ -711,6 +711,18 @@
       "time_text": "3:00pm",
       "start": "2026-05-28T15:00:00+00:00",
       "description": "Venue: New Orleans Jazz National Historical Park | Date: Thursday, May 28 | Time: 3:00pm"
+    },
+    {
+      "id": "cc30db0c5e0c12b11bdb6e2f4723cb7f3fdb2f33",
+      "source": "wwoz",
+      "title": "Open Synth Jam Hosted by MIG",
+      "venue": "Okay Bar",
+      "venue_url": "https://www.wwoz.org/organizations/okay-bar",
+      "event_url": "https://www.wwoz.org/events/1350611",
+      "date_text": "Thursday, May 28",
+      "time_text": "8:00pm",
+      "start": "2026-05-28T20:00:00+00:00",
+      "description": "Venue: Okay Bar | Date: Thursday, May 28 | Time: 8:00pm"
     },
     {
       "id": "0ff2efeb3bb05707252b7c56882be33fc1cb429a",
