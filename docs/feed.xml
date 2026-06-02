@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 01 Jun 2026 21:43:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Jun 2026 04:59:46 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Jerry Dugger — 21st Amendment</title>
@@ -209,6 +209,20 @@
 <guid isPermaLink="false">ca473cb7489d9d2598edbd60832138d14a7c503d</guid>
 <description>Venue: Saturn Bar | Date: Monday, June 1 | Time: 8:30pm</description>
 <pubDate>Mon, 01 Jun 2026 20:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Charmaine Neville Band — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1353041</link>
+<guid isPermaLink="false">0839b44a848edf07ddbbaf722541191046d03e82</guid>
+<description>Venue: Snug Harbor | Date: Monday, June 1 | Time: 7:30pm</description>
+<pubDate>Mon, 01 Jun 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Charmaine Neville Band — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1353016</link>
+<guid isPermaLink="false">7a014935c364f1a323aa77aa58486ff225a28b9d</guid>
+<description>Venue: Snug Harbor | Date: Monday, June 1 | Time: 9:30pm</description>
+<pubDate>Mon, 01 Jun 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
 <title>The Itchy Stitches + Lefty's Right Hand Band — St. Roch Tavern</title>

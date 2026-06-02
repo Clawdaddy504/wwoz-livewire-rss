@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-06-01T21:43:53.198030+00:00",
-  "count": 34,
+  "generated_at": "2026-06-02T04:59:46.708352+00:00",
+  "count": 36,
   "events": [
     {
       "id": "7fc6735b0a5ca2ecaa101ae081d50b9a322ecddb",
@@ -351,6 +351,30 @@
       "time_text": "8:30pm",
       "start": "2026-06-01T20:30:00+00:00",
       "description": "Venue: Saturn Bar | Date: Monday, June 1 | Time: 8:30pm"
+    },
+    {
+      "id": "0839b44a848edf07ddbbaf722541191046d03e82",
+      "source": "wwoz",
+      "title": "Charmaine Neville Band",
+      "venue": "Snug Harbor",
+      "venue_url": "https://www.wwoz.org/organizations/snug-harbor",
+      "event_url": "https://www.wwoz.org/events/1353041",
+      "date_text": "Monday, June 1",
+      "time_text": "7:30pm",
+      "start": "2026-06-01T19:30:00+00:00",
+      "description": "Venue: Snug Harbor | Date: Monday, June 1 | Time: 7:30pm"
+    },
+    {
+      "id": "7a014935c364f1a323aa77aa58486ff225a28b9d",
+      "source": "wwoz",
+      "title": "Charmaine Neville Band",
+      "venue": "Snug Harbor",
+      "venue_url": "https://www.wwoz.org/organizations/snug-harbor",
+      "event_url": "https://www.wwoz.org/events/1353016",
+      "date_text": "Monday, June 1",
+      "time_text": "9:30pm",
+      "start": "2026-06-01T21:30:00+00:00",
+      "description": "Venue: Snug Harbor | Date: Monday, June 1 | Time: 9:30pm"
     },
     {
       "id": "1feb9645b26c7768cdc3cc55afc84cac132e38b9",
