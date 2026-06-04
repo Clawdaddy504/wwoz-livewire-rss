@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-06-04T15:43:16.808527+00:00",
-  "count": 64,
+  "generated_at": "2026-06-04T20:24:04.792519+00:00",
+  "count": 67,
   "events": [
     {
       "id": "23d1625cd4c3b11bfc4897eb6eddd95efe6df2c2",
@@ -221,6 +221,18 @@
       "description": "Venue: Caf\u00e9 Negril | Date: Thursday, June 4 | Time: 10:00pm"
     },
     {
+      "id": "5387dc3d6f9cbb969c5a8f2e9954fbdab10883b5",
+      "source": "wwoz",
+      "title": "Billy's Third Dessert + Tim Robertson Trio",
+      "venue": "Carrollton Station",
+      "venue_url": "https://www.wwoz.org/organizations/carrollton-station",
+      "event_url": "https://www.wwoz.org/events/1354166",
+      "date_text": "Thursday, June 4",
+      "time_text": "8:00pm",
+      "start": "2026-06-04T20:00:00+00:00",
+      "description": "Venue: Carrollton Station | Date: Thursday, June 4 | Time: 8:00pm"
+    },
+    {
       "id": "6014403efc2b7704affc6f11acffb20b28ef444f",
       "source": "wwoz",
       "title": "Willis Alan Ramsey with Paul Sanchez",
@@ -255,6 +267,18 @@
       "time_text": "5:30pm",
       "start": "2026-06-04T17:30:00+00:00",
       "description": "Venue: Davenport Lounge at The Ritz-Carlton | Date: Thursday, June 4 | Time: 5:30pm"
+    },
+    {
+      "id": "9e11763ed9fb03fc6248807ed96c5e591e817b5a",
+      "source": "wwoz",
+      "title": "Jefferson Community Band presents \u201cBroadway Memories\"",
+      "venue": "Deutsches Haus",
+      "venue_url": "https://www.wwoz.org/organizations/deutsches-haus",
+      "event_url": "https://www.wwoz.org/events/1354366",
+      "date_text": "Thursday, June 4",
+      "time_text": "7:00pm",
+      "start": "2026-06-04T19:00:00+00:00",
+      "description": "Venue: Deutsches Haus | Date: Thursday, June 4 | Time: 7:00pm"
     },
     {
       "id": "01075d9d77ac6245ecbba50c03c13f0c8bf05a55",
@@ -375,6 +399,18 @@
       "time_text": "8:00pm",
       "start": "2026-06-04T20:00:00+00:00",
       "description": "Venue: Fritzel's Jazz Club | Date: Thursday, June 4 | Time: 8:00pm"
+    },
+    {
+      "id": "3cd8e36f910ca06164807f07592e0e58bc478c55",
+      "source": "wwoz",
+      "title": "Brass Tyrannosaurus",
+      "venue": "Good Measure at The Barnett",
+      "venue_url": "https://www.wwoz.org/organizations/good-measure-barnett",
+      "event_url": "https://www.wwoz.org/events/1354261",
+      "date_text": "Thursday, June 4",
+      "time_text": "8:00pm",
+      "start": "2026-06-04T20:00:00+00:00",
+      "description": "Venue: Good Measure at The Barnett | Date: Thursday, June 4 | Time: 8:00pm"
     },
     {
       "id": "56b6079d0e13c7ca673891216e0b9a909b11703a",

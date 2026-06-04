@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 04 Jun 2026 15:43:16 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Jun 2026 20:24:04 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy — 21st Amendment</title>
@@ -134,6 +134,13 @@
 <pubDate>Thu, 04 Jun 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Billy's Third Dessert + Tim Robertson Trio — Carrollton Station</title>
+<link>https://www.wwoz.org/events/1354166</link>
+<guid isPermaLink="false">5387dc3d6f9cbb969c5a8f2e9954fbdab10883b5</guid>
+<description>Venue: Carrollton Station | Date: Thursday, June 4 | Time: 8:00pm</description>
+<pubDate>Thu, 04 Jun 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Willis Alan Ramsey with Paul Sanchez — Chickie Wah Wah</title>
 <link>https://www.wwoz.org/events/1334156</link>
 <guid isPermaLink="false">6014403efc2b7704affc6f11acffb20b28ef444f</guid>
@@ -153,6 +160,13 @@
 <guid isPermaLink="false">33b4af65d5b2f7b50cb5856d1d263df47804917f</guid>
 <description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Thursday, June 4 | Time: 5:30pm</description>
 <pubDate>Thu, 04 Jun 2026 17:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Jefferson Community Band presents “Broadway Memories" — Deutsches Haus</title>
+<link>https://www.wwoz.org/events/1354366</link>
+<guid isPermaLink="false">9e11763ed9fb03fc6248807ed96c5e591e817b5a</guid>
+<description>Venue: Deutsches Haus | Date: Thursday, June 4 | Time: 7:00pm</description>
+<pubDate>Thu, 04 Jun 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Tangiers Combo — Dos Jefes</title>
@@ -222,6 +236,13 @@
 <link>https://www.wwoz.org/events/1351031</link>
 <guid isPermaLink="false">80b900b2cd23d65f971119f4725fb6ceb5d76ddf</guid>
 <description>Venue: Fritzel's Jazz Club | Date: Thursday, June 4 | Time: 8:00pm</description>
+<pubDate>Thu, 04 Jun 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Brass Tyrannosaurus — Good Measure at The Barnett</title>
+<link>https://www.wwoz.org/events/1354261</link>
+<guid isPermaLink="false">3cd8e36f910ca06164807f07592e0e58bc478c55</guid>
+<description>Venue: Good Measure at The Barnett | Date: Thursday, June 4 | Time: 8:00pm</description>
 <pubDate>Thu, 04 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
