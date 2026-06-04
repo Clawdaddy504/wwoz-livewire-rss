@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-06-04T20:24:04.792519+00:00",
-  "count": 67,
+  "generated_at": "2026-06-04T22:44:38.878009+00:00",
+  "count": 69,
   "events": [
     {
       "id": "23d1625cd4c3b11bfc4897eb6eddd95efe6df2c2",
@@ -199,7 +199,7 @@
     {
       "id": "291dd1a00721d1fa23e3943bb613fe5844c87d24",
       "source": "wwoz",
-      "title": "Ado Soul & The Tribe",
+      "title": "Ashley Paige & The Social Club",
       "venue": "Caf\u00e9 Negril",
       "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
       "event_url": "https://www.wwoz.org/events/1352616",
@@ -785,6 +785,18 @@
       "description": "Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Thursday, June 4 | Time: 7:00pm"
     },
     {
+      "id": "36ee43e99803234775aadb4b06c6b185b10a83fb",
+      "source": "wwoz",
+      "title": "Johanna Rose",
+      "venue": "Three Muses",
+      "venue_url": "https://www.wwoz.org/organizations/three-muses",
+      "event_url": "https://www.wwoz.org/events/1354401",
+      "date_text": "Thursday, June 4",
+      "time_text": "8:00pm",
+      "start": "2026-06-04T20:00:00+00:00",
+      "description": "Venue: Three Muses | Date: Thursday, June 4 | Time: 8:00pm"
+    },
+    {
       "id": "19a88954af9fc18da5f6bec10b695eafb2065846",
       "source": "wwoz",
       "title": "Mark Barrett & The First Calls",
@@ -807,6 +819,18 @@
       "time_text": "7:00pm",
       "start": "2026-06-04T19:00:00+00:00",
       "description": "Venue: Twilight Room at The Allways Lounge | Date: Thursday, June 4 | Time: 7:00pm"
+    },
+    {
+      "id": "f99fa82227ee66792f019838c3bb6ea75bb2c6f7",
+      "source": "wwoz",
+      "title": "Corey Henry & The Treme Funktet",
+      "venue": "Vaughan's Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/vaughans-lounge",
+      "event_url": "https://www.wwoz.org/events/1354451",
+      "date_text": "Thursday, June 4",
+      "time_text": "10:30pm",
+      "start": "2026-06-04T22:30:00+00:00",
+      "description": "Venue: Vaughan's Lounge | Date: Thursday, June 4 | Time: 10:30pm"
     }
   ]
 }

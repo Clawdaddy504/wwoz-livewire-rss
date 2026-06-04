@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 04 Jun 2026 20:24:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Jun 2026 22:44:38 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy — 21st Amendment</title>
@@ -120,7 +120,7 @@
 <pubDate>Thu, 04 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Ado Soul &amp; The Tribe — Café Negril</title>
+<title>Ashley Paige &amp; The Social Club — Café Negril</title>
 <link>https://www.wwoz.org/events/1352616</link>
 <guid isPermaLink="false">291dd1a00721d1fa23e3943bb613fe5844c87d24</guid>
 <description>Venue: Café Negril | Date: Thursday, June 4 | Time: 6:30pm</description>
@@ -463,6 +463,13 @@
 <pubDate>Thu, 04 Jun 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Johanna Rose — Three Muses</title>
+<link>https://www.wwoz.org/events/1354401</link>
+<guid isPermaLink="false">36ee43e99803234775aadb4b06c6b185b10a83fb</guid>
+<description>Venue: Three Muses | Date: Thursday, June 4 | Time: 8:00pm</description>
+<pubDate>Thu, 04 Jun 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Mark Barrett &amp; The First Calls — Tropical Isle Bourbon</title>
 <link>https://www.wwoz.org/events/1352521</link>
 <guid isPermaLink="false">19a88954af9fc18da5f6bec10b695eafb2065846</guid>
@@ -475,6 +482,13 @@
 <guid isPermaLink="false">5e00435aed52ca6762db00b08cee7d29be7b4ec3</guid>
 <description>Venue: Twilight Room at The Allways Lounge | Date: Thursday, June 4 | Time: 7:00pm</description>
 <pubDate>Thu, 04 Jun 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Corey Henry &amp; The Treme Funktet — Vaughan's Lounge</title>
+<link>https://www.wwoz.org/events/1354451</link>
+<guid isPermaLink="false">f99fa82227ee66792f019838c3bb6ea75bb2c6f7</guid>
+<description>Venue: Vaughan's Lounge | Date: Thursday, June 4 | Time: 10:30pm</description>
+<pubDate>Thu, 04 Jun 2026 22:30:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
