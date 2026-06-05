@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-06-05T15:27:19.332233+00:00",
-  "count": 86,
+  "generated_at": "2026-06-05T20:12:26.849306+00:00",
+  "count": 87,
   "events": [
     {
       "id": "668326d104547c09cb5aef70f57a8fcf345a94cb",
@@ -267,6 +267,18 @@
       "time_text": "6:00pm",
       "start": "2026-06-05T18:00:00+00:00",
       "description": "Venue: Caf\u00e9 Hope at Timberlane Golf & Recreation | Date: Friday, June 5 | Time: 6:00pm"
+    },
+    {
+      "id": "c412cc75196f1f0f8c04487fdf8b9f8c53d2571c",
+      "source": "wwoz",
+      "title": "Matt Perronne Band",
+      "venue": "Caf\u00e9 Negril",
+      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
+      "event_url": "https://www.wwoz.org/events/1354706",
+      "date_text": "Friday, June 5",
+      "time_text": "3:00pm",
+      "start": "2026-06-05T15:00:00+00:00",
+      "description": "Venue: Caf\u00e9 Negril | Date: Friday, June 5 | Time: 3:00pm"
     },
     {
       "id": "1db7169a94594feee03df012aa618afa49f2ef59",

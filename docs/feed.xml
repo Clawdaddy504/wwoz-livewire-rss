@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 05 Jun 2026 15:27:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Jun 2026 20:12:26 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
@@ -160,6 +160,13 @@
 <guid isPermaLink="false">0be1bcb32cc84f54a989487a2beac7835a7106d9</guid>
 <description>Venue: Café Hope at Timberlane Golf &amp; Recreation | Date: Friday, June 5 | Time: 6:00pm</description>
 <pubDate>Fri, 05 Jun 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Matt Perronne Band — Café Negril</title>
+<link>https://www.wwoz.org/events/1354706</link>
+<guid isPermaLink="false">c412cc75196f1f0f8c04487fdf8b9f8c53d2571c</guid>
+<description>Venue: Café Negril | Date: Friday, June 5 | Time: 3:00pm</description>
+<pubDate>Fri, 05 Jun 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Ado Soul &amp; The Tribe — Café Negril</title>
