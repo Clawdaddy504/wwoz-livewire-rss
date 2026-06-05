@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-06-05T10:15:42.401098+00:00",
-  "count": 84,
+  "generated_at": "2026-06-05T15:27:19.332233+00:00",
+  "count": 86,
   "events": [
     {
       "id": "668326d104547c09cb5aef70f57a8fcf345a94cb",
@@ -89,6 +89,18 @@
       "description": "Venue: Bamboula's | Date: Friday, June 5 | Time: 10:00pm"
     },
     {
+      "id": "529169fc5d0760a3c8fc8c1f4e81d4b3aa157ea0",
+      "source": "wwoz",
+      "title": "Johanna & Pasha",
+      "venue": "Bar Redux",
+      "venue_url": "https://www.wwoz.org/organizations/bar-redux",
+      "event_url": "https://www.wwoz.org/events/1354496",
+      "date_text": "Friday, June 5",
+      "time_text": "9:00pm",
+      "start": "2026-06-05T21:00:00+00:00",
+      "description": "Venue: Bar Redux | Date: Friday, June 5 | Time: 9:00pm"
+    },
+    {
       "id": "3c6d15243ad58548a23ead2d348b7adb03dbca80",
       "source": "wwoz",
       "title": "Oh Yeah! ft. Peter Harris, Ed Perkins, Wes \"Warmdaddy\" Anderson & More!",
@@ -111,6 +123,18 @@
       "time_text": "10:00pm",
       "start": "2026-06-05T22:00:00+00:00",
       "description": "Venue: Bayou Bar at the Pontchartrain | Date: Friday, June 5 | Time: 10:00pm"
+    },
+    {
+      "id": "2171ab32be6fcf3e512f859e7223d461465dad2f",
+      "source": "wwoz",
+      "title": "Slow Motion Cowboys + Andrew Jobin",
+      "venue": "BJ's Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/bjs-lounge",
+      "event_url": "https://www.wwoz.org/events/1354526",
+      "date_text": "Friday, June 5",
+      "time_text": "9:00pm",
+      "start": "2026-06-05T21:00:00+00:00",
+      "description": "Venue: BJ's Lounge | Date: Friday, June 5 | Time: 9:00pm"
     },
     {
       "id": "64beea5708b111ce9f667cac3f7a3d434a39d0f8",

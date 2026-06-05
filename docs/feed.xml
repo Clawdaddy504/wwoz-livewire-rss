@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 05 Jun 2026 10:15:42 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Jun 2026 15:27:19 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
@@ -57,6 +57,13 @@
 <pubDate>Fri, 05 Jun 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Johanna &amp; Pasha — Bar Redux</title>
+<link>https://www.wwoz.org/events/1354496</link>
+<guid isPermaLink="false">529169fc5d0760a3c8fc8c1f4e81d4b3aa157ea0</guid>
+<description>Venue: Bar Redux | Date: Friday, June 5 | Time: 9:00pm</description>
+<pubDate>Fri, 05 Jun 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Oh Yeah! ft. Peter Harris, Ed Perkins, Wes "Warmdaddy" Anderson &amp; More! — Bayou Bar at the Pontchartrain</title>
 <link>https://www.wwoz.org/events/1351351</link>
 <guid isPermaLink="false">3c6d15243ad58548a23ead2d348b7adb03dbca80</guid>
@@ -69,6 +76,13 @@
 <guid isPermaLink="false">304d282beee6f288b2be4873647a13fbeead2335</guid>
 <description>Venue: Bayou Bar at the Pontchartrain | Date: Friday, June 5 | Time: 10:00pm</description>
 <pubDate>Fri, 05 Jun 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Slow Motion Cowboys + Andrew Jobin — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1354526</link>
+<guid isPermaLink="false">2171ab32be6fcf3e512f859e7223d461465dad2f</guid>
+<description>Venue: BJ's Lounge | Date: Friday, June 5 | Time: 9:00pm</description>
+<pubDate>Fri, 05 Jun 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>The Caesar Brothers' FunkBox — Blue Nile</title>
