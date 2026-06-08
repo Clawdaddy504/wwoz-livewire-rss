@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-06-08T16:18:19.029431+00:00",
-  "count": 45,
+  "generated_at": "2026-06-08T20:32:45.413213+00:00",
+  "count": 46,
   "events": [
     {
       "id": "1a056629a08631b121856dd828b4ba59b53ed615",
@@ -303,6 +303,18 @@
       "time_text": "8:00pm",
       "start": "2026-06-08T20:00:00+00:00",
       "description": "Venue: Maison Bourbon Jazz Club | Date: Monday, June 8 | Time: 8:00pm"
+    },
+    {
+      "id": "d7deabaa16b5957d65f7a33714e7887944fb067c",
+      "source": "wwoz",
+      "title": "George Porter Jr. Trio",
+      "venue": "Maple Leaf",
+      "venue_url": "https://www.wwoz.org/organizations/maple-leaf",
+      "event_url": "https://www.wwoz.org/events/1355476",
+      "date_text": "Monday, June 8",
+      "time_text": "8:00pm",
+      "start": "2026-06-08T20:00:00+00:00",
+      "description": "Venue: Maple Leaf | Date: Monday, June 8 | Time: 8:00pm"
     },
     {
       "id": "df4eac512bd6f7c0f10d92f682d47c8fd656c4f1",

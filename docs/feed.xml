@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 08 Jun 2026 16:18:19 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Jun 2026 20:32:45 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Marty Peters &amp; The Party Meters — 21st Amendment</title>
@@ -180,6 +180,13 @@
 <link>https://www.wwoz.org/events/1344811</link>
 <guid isPermaLink="false">b2ea77542380fa3591ffe925364c5992a9762fbc</guid>
 <description>Venue: Maison Bourbon Jazz Club | Date: Monday, June 8 | Time: 8:00pm</description>
+<pubDate>Mon, 08 Jun 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>George Porter Jr. Trio — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1355476</link>
+<guid isPermaLink="false">d7deabaa16b5957d65f7a33714e7887944fb067c</guid>
+<description>Venue: Maple Leaf | Date: Monday, June 8 | Time: 8:00pm</description>
 <pubDate>Mon, 08 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
