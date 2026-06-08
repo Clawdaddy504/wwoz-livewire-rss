@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-06-08T11:20:27.657767+00:00",
-  "count": 44,
+  "generated_at": "2026-06-08T16:18:19.029431+00:00",
+  "count": 45,
   "events": [
     {
       "id": "1a056629a08631b121856dd828b4ba59b53ed615",
@@ -111,6 +111,18 @@
       "time_text": "7:00pm",
       "start": "2026-06-08T19:00:00+00:00",
       "description": "Venue: Buffa's | Date: Monday, June 8 | Time: 7:00pm"
+    },
+    {
+      "id": "0cb9c73ea7a84e5308a833e7135351e755b6ccba",
+      "source": "wwoz",
+      "title": "Saint Mercedes",
+      "venue": "Caf\u00e9 Istanbul",
+      "venue_url": "https://www.wwoz.org/organizations/cafe-istanbul",
+      "event_url": "https://www.wwoz.org/events/1355246",
+      "date_text": "Monday, June 8",
+      "time_text": "8:00pm",
+      "start": "2026-06-08T20:00:00+00:00",
+      "description": "Venue: Caf\u00e9 Istanbul | Date: Monday, June 8 | Time: 8:00pm"
     },
     {
       "id": "5b209fe76c357f732cc7dfa6bc1470eea6cc5fa5",

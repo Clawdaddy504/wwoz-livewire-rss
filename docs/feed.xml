@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 08 Jun 2026 11:20:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Jun 2026 16:18:19 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Marty Peters &amp; The Party Meters — 21st Amendment</title>
@@ -69,6 +69,13 @@
 <guid isPermaLink="false">c7451587cf797c461841ef8a741a75c286f2c155</guid>
 <description>Venue: Buffa's | Date: Monday, June 8 | Time: 7:00pm</description>
 <pubDate>Mon, 08 Jun 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Saint Mercedes — Café Istanbul</title>
+<link>https://www.wwoz.org/events/1355246</link>
+<guid isPermaLink="false">0cb9c73ea7a84e5308a833e7135351e755b6ccba</guid>
+<description>Venue: Café Istanbul | Date: Monday, June 8 | Time: 8:00pm</description>
+<pubDate>Mon, 08 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Keep It Rolling Brass Band — Café Negril</title>
