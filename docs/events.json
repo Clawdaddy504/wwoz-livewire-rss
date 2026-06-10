@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-06-10T16:07:20.706426+00:00",
-  "count": 57,
+  "generated_at": "2026-06-10T20:44:46.088597+00:00",
+  "count": 58,
   "events": [
     {
       "id": "30d143f21d59aedb0821a5edbcc02d5f61ab0553",
@@ -411,6 +411,18 @@
       "time_text": "8:00pm",
       "start": "2026-06-10T20:00:00+00:00",
       "description": "Venue: Maison Bourbon Jazz Club | Date: Wednesday, June 10 | Time: 8:00pm"
+    },
+    {
+      "id": "d6cf24c20271dbd0f500efe287301d69baecf251",
+      "source": "wwoz",
+      "title": "Christian Coleman & His Band",
+      "venue": "Market Caf\u00e9 (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/market-cafe-outdoors",
+      "event_url": "https://www.wwoz.org/events/1356096",
+      "date_text": "Wednesday, June 10",
+      "time_text": "3:00pm",
+      "start": "2026-06-10T15:00:00+00:00",
+      "description": "Venue: Market Caf\u00e9 (OUTDOORS) | Date: Wednesday, June 10 | Time: 3:00pm"
     },
     {
       "id": "e59b3effba9dfb90cf67504f9a3ec15aadbe04af",

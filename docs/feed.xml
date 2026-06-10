@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 10 Jun 2026 16:07:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Jun 2026 20:44:46 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dr. Sick — 21st Amendment</title>
@@ -244,6 +244,13 @@
 <guid isPermaLink="false">c368c59572689a509cabfe6bd89d695a9b8173e9</guid>
 <description>Venue: Maison Bourbon Jazz Club | Date: Wednesday, June 10 | Time: 8:00pm</description>
 <pubDate>Wed, 10 Jun 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Christian Coleman &amp; His Band — Market Café (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1356096</link>
+<guid isPermaLink="false">d6cf24c20271dbd0f500efe287301d69baecf251</guid>
+<description>Venue: Market Café (OUTDOORS) | Date: Wednesday, June 10 | Time: 3:00pm</description>
+<pubDate>Wed, 10 Jun 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Irvin Mayfield ft. Kermit Ruffins — Mayfield's 208 Bourbon presented by Felix's</title>
