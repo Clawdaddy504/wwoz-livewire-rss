@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 11 Jun 2026 20:35:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 11 Jun 2026 22:58:22 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Max Baker Trio — 3rd Block Depot Kitchen &amp; Bar</title>
@@ -288,6 +288,13 @@
 <pubDate>Thu, 11 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Grace Manor Haints &amp; Basch Jernigan — Howlin' Wolf - The Den</title>
+<link>https://www.wwoz.org/events/1356686</link>
+<guid isPermaLink="false">3968aeec2f0a9a363eb19a211b077ad5518b9710</guid>
+<description>Venue: Howlin' Wolf - The Den | Date: Thursday, June 11 | Time: 7:00pm</description>
+<pubDate>Thu, 11 Jun 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Brass-A-Holics — Jazz Playhouse</title>
 <link>https://www.wwoz.org/events/1355706</link>
 <guid isPermaLink="false">0d5e3e6387d409113a5a6e27a71d73a2008e8a98</guid>
@@ -365,7 +372,7 @@
 <pubDate>Thu, 11 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jerry Dugger's Acoustic Blues Duo — May Baily's Place</title>
+<title>Bayou Manouche — May Baily's Place</title>
 <link>https://www.wwoz.org/events/1346131</link>
 <guid isPermaLink="false">c821dd6c99bc83cfb7a21e6198dc524a7d1b5a5b</guid>
 <description>Venue: May Baily's Place | Date: Thursday, June 11 | Time: 8:30pm</description>
@@ -390,6 +397,20 @@
 <link>https://www.wwoz.org/events/1350641</link>
 <guid isPermaLink="false">3b1965d7653e9c8d822c3cc81c56df350b09ee03</guid>
 <description>Venue: Okay Bar | Date: Thursday, June 11 | Time: 8:00pm</description>
+<pubDate>Thu, 11 Jun 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The CoverTones - Rolling Stones Tribute : Get yer Ya Ya's show — Old Point Bar</title>
+<link>https://www.wwoz.org/events/1356746</link>
+<guid isPermaLink="false">dfddaaf78ae013dbd77cf5c4c3b809f62e01b5ac</guid>
+<description>Venue: Old Point Bar | Date: Thursday, June 11 | Time: 7:00pm</description>
+<pubDate>Thu, 11 Jun 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Open Mic Night — Old Point Bar</title>
+<link>https://www.wwoz.org/events/1356751</link>
+<guid isPermaLink="false">5bd50888df1e2dce9a8f000c590532744b2d63b2</guid>
+<description>Venue: Old Point Bar | Date: Thursday, June 11 | Time: 8:00pm</description>
 <pubDate>Thu, 11 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>

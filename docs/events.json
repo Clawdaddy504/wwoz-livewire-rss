@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-06-11T20:35:06.140658+00:00",
-  "count": 83,
+  "generated_at": "2026-06-11T22:58:22.949232+00:00",
+  "count": 86,
   "events": [
     {
       "id": "69933f90f2e6eb20b5de85b2c4885015b1ca7273",
@@ -485,6 +485,18 @@
       "description": "Venue: House of Blues | Date: Thursday, June 11 | Time: 8:00pm"
     },
     {
+      "id": "3968aeec2f0a9a363eb19a211b077ad5518b9710",
+      "source": "wwoz",
+      "title": "Grace Manor Haints & Basch Jernigan",
+      "venue": "Howlin' Wolf - The Den",
+      "venue_url": "https://www.wwoz.org/organizations/howlin-wolf-den",
+      "event_url": "https://www.wwoz.org/events/1356686",
+      "date_text": "Thursday, June 11",
+      "time_text": "7:00pm",
+      "start": "2026-06-11T19:00:00+00:00",
+      "description": "Venue: Howlin' Wolf - The Den | Date: Thursday, June 11 | Time: 7:00pm"
+    },
+    {
       "id": "0d5e3e6387d409113a5a6e27a71d73a2008e8a98",
       "source": "wwoz",
       "title": "Brass-A-Holics",
@@ -619,7 +631,7 @@
     {
       "id": "c821dd6c99bc83cfb7a21e6198dc524a7d1b5a5b",
       "source": "wwoz",
-      "title": "Jerry Dugger's Acoustic Blues Duo",
+      "title": "Bayou Manouche",
       "venue": "May Baily's Place",
       "venue_url": "https://www.wwoz.org/organizations/may-bailys-place",
       "event_url": "https://www.wwoz.org/events/1346131",
@@ -663,6 +675,30 @@
       "time_text": "8:00pm",
       "start": "2026-06-11T20:00:00+00:00",
       "description": "Venue: Okay Bar | Date: Thursday, June 11 | Time: 8:00pm"
+    },
+    {
+      "id": "dfddaaf78ae013dbd77cf5c4c3b809f62e01b5ac",
+      "source": "wwoz",
+      "title": "The CoverTones - Rolling Stones Tribute : Get yer Ya Ya's show",
+      "venue": "Old Point Bar",
+      "venue_url": "https://www.wwoz.org/organizations/old-point-bar",
+      "event_url": "https://www.wwoz.org/events/1356746",
+      "date_text": "Thursday, June 11",
+      "time_text": "7:00pm",
+      "start": "2026-06-11T19:00:00+00:00",
+      "description": "Venue: Old Point Bar | Date: Thursday, June 11 | Time: 7:00pm"
+    },
+    {
+      "id": "5bd50888df1e2dce9a8f000c590532744b2d63b2",
+      "source": "wwoz",
+      "title": "Open Mic Night",
+      "venue": "Old Point Bar",
+      "venue_url": "https://www.wwoz.org/organizations/old-point-bar",
+      "event_url": "https://www.wwoz.org/events/1356751",
+      "date_text": "Thursday, June 11",
+      "time_text": "8:00pm",
+      "start": "2026-06-11T20:00:00+00:00",
+      "description": "Venue: Old Point Bar | Date: Thursday, June 11 | Time: 8:00pm"
     },
     {
       "id": "f114d1b4713a231de0b11dd799bda0bdce541761",
