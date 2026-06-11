@@ -1,7 +1,7 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-06-11T16:20:08.055789+00:00",
+  "generated_at": "2026-06-11T20:35:06.140658+00:00",
   "count": 83,
   "events": [
     {
@@ -197,18 +197,6 @@
       "description": "Venue: BMC | Date: Thursday, June 11 | Time: 9:00pm"
     },
     {
-      "id": "c450e158567f2f57d98c965ce3c3124f8b5b97fb",
-      "source": "wwoz",
-      "title": "J.A.M. Brass Band",
-      "venue": "BMC",
-      "venue_url": "https://www.wwoz.org/organizations/bmc",
-      "event_url": "https://www.wwoz.org/events/1355041",
-      "date_text": "Thursday, June 11",
-      "time_text": "9:00pm",
-      "start": "2026-06-11T21:00:00+00:00",
-      "description": "Venue: BMC | Date: Thursday, June 11 | Time: 9:00pm"
-    },
-    {
       "id": "fd827b67ae405ef874a6e766fddcfd8a92a54782",
       "source": "wwoz",
       "title": "Nina Hungerland",
@@ -231,6 +219,18 @@
       "time_text": "8:00pm",
       "start": "2026-06-11T20:00:00+00:00",
       "description": "Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Thursday, June 11 | Time: 8:00pm"
+    },
+    {
+      "id": "631761a0a7e69d295395b8393f99588bb7193ea2",
+      "source": "wwoz",
+      "title": "The Sundown Social Club with DJ: The Gold Man",
+      "venue": "Broadside",
+      "venue_url": "https://www.wwoz.org/organizations/broadside",
+      "event_url": "https://www.wwoz.org/events/1356376",
+      "date_text": "Thursday, June 11",
+      "time_text": "7:00pm",
+      "start": "2026-06-11T19:00:00+00:00",
+      "description": "Venue: Broadside | Date: Thursday, June 11 | Time: 7:00pm"
     },
     {
       "id": "14e1496bd15c4e00c1e8c7caa93e1881c6186142",

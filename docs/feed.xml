@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 11 Jun 2026 16:20:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 11 Jun 2026 20:35:06 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Max Baker Trio — 3rd Block Depot Kitchen &amp; Bar</title>
@@ -120,13 +120,6 @@
 <pubDate>Thu, 11 Jun 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>J.A.M. Brass Band — BMC</title>
-<link>https://www.wwoz.org/events/1355041</link>
-<guid isPermaLink="false">c450e158567f2f57d98c965ce3c3124f8b5b97fb</guid>
-<description>Venue: BMC | Date: Thursday, June 11 | Time: 9:00pm</description>
-<pubDate>Thu, 11 Jun 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Nina Hungerland — Bourbon O Bar at The Bourbon Orleans Hotel</title>
 <link>https://www.wwoz.org/events/1352131</link>
 <guid isPermaLink="false">fd827b67ae405ef874a6e766fddcfd8a92a54782</guid>
@@ -139,6 +132,13 @@
 <guid isPermaLink="false">141618f63c36d54fc3831790ccc871e5443ff905</guid>
 <description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Thursday, June 11 | Time: 8:00pm</description>
 <pubDate>Thu, 11 Jun 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Sundown Social Club with DJ: The Gold Man — Broadside</title>
+<link>https://www.wwoz.org/events/1356376</link>
+<guid isPermaLink="false">631761a0a7e69d295395b8393f99588bb7193ea2</guid>
+<description>Venue: Broadside | Date: Thursday, June 11 | Time: 7:00pm</description>
+<pubDate>Thu, 11 Jun 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Millie Grace Band — Buffa's</title>
