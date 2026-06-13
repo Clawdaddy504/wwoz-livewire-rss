@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 12 Jun 2026 22:46:45 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 04:50:48 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy — 21st Amendment</title>
@@ -370,6 +370,20 @@
 <guid isPermaLink="false">4bd5fddc6effa34cd0cff005776b9f56348b0fa6</guid>
 <description>Venue: Hopedale Marina (OUTDOORS) - St. Bernard | Date: Friday, June 12 | Time: 6:00pm</description>
 <pubDate>Fri, 12 Jun 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jon Sheckler — House of Blues - Foundation Room</title>
+<link>https://www.wwoz.org/events/1357396</link>
+<guid isPermaLink="false">238ad51ff1e463f47e005b810b24a8a1a3066024</guid>
+<description>Venue: House of Blues - Foundation Room | Date: Friday, June 12 | Time: 7:00pm</description>
+<pubDate>Fri, 12 Jun 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>DJ Sunnie — House of Blues - Foundation Room</title>
+<link>https://www.wwoz.org/events/1357401</link>
+<guid isPermaLink="false">f6fd3831e3db2dca8edef05cf712b3ac3b453036</guid>
+<description>Venue: House of Blues - Foundation Room | Date: Friday, June 12 | Time: 10:00pm</description>
+<pubDate>Fri, 12 Jun 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Trixie Minx's Burlesque Ballroom ft. Romy Kaye on Vocals — Jazz Playhouse</title>

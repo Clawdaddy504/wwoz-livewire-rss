@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-06-12T22:46:45.505929+00:00",
-  "count": 97,
+  "generated_at": "2026-06-13T04:50:48.490254+00:00",
+  "count": 99,
   "events": [
     {
       "id": "ffb1bf3e645845850ce7944c742cb6d7557e53af",
@@ -627,6 +627,30 @@
       "time_text": "6:00pm",
       "start": "2026-06-12T18:00:00+00:00",
       "description": "Venue: Hopedale Marina (OUTDOORS) - St. Bernard | Date: Friday, June 12 | Time: 6:00pm"
+    },
+    {
+      "id": "238ad51ff1e463f47e005b810b24a8a1a3066024",
+      "source": "wwoz",
+      "title": "Jon Sheckler",
+      "venue": "House of Blues - Foundation Room",
+      "venue_url": "https://www.wwoz.org/organizations/house-blues-foundation-room",
+      "event_url": "https://www.wwoz.org/events/1357396",
+      "date_text": "Friday, June 12",
+      "time_text": "7:00pm",
+      "start": "2026-06-12T19:00:00+00:00",
+      "description": "Venue: House of Blues - Foundation Room | Date: Friday, June 12 | Time: 7:00pm"
+    },
+    {
+      "id": "f6fd3831e3db2dca8edef05cf712b3ac3b453036",
+      "source": "wwoz",
+      "title": "DJ Sunnie",
+      "venue": "House of Blues - Foundation Room",
+      "venue_url": "https://www.wwoz.org/organizations/house-blues-foundation-room",
+      "event_url": "https://www.wwoz.org/events/1357401",
+      "date_text": "Friday, June 12",
+      "time_text": "10:00pm",
+      "start": "2026-06-12T22:00:00+00:00",
+      "description": "Venue: House of Blues - Foundation Room | Date: Friday, June 12 | Time: 10:00pm"
     },
     {
       "id": "1bfe6deecc875d822e1e483a298019d385ff410b",
