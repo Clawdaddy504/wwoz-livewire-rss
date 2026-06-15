@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 15 Jun 2026 19:08:14 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 23:08:50 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>James Beaumont — 21st Amendment</title>
@@ -90,6 +90,13 @@
 <guid isPermaLink="false">ff123ca473fb31a081ab2ba92eec336c6de9caed</guid>
 <description>Venue: Bourbon Street Drinkery | Date: Monday, June 15 | Time: 8:00pm</description>
 <pubDate>Mon, 15 Jun 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>David Doucet — Buffa's</title>
+<link>https://www.wwoz.org/events/1359091</link>
+<guid isPermaLink="false">a3eafe262b5b2cbe942a3997cf16c639a4cc1a1f</guid>
+<description>Venue: Buffa's | Date: Monday, June 15 | Time: 7:00pm</description>
+<pubDate>Mon, 15 Jun 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Sharon Martin &amp; Friends — Café Istanbul</title>

@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-06-15T19:08:14.749427+00:00",
-  "count": 53,
+  "generated_at": "2026-06-15T23:08:50.100866+00:00",
+  "count": 54,
   "events": [
     {
       "id": "90907945fe9ed6f90c1aa9225314f21c18985789",
@@ -147,6 +147,18 @@
       "time_text": "8:00pm",
       "start": "2026-06-15T20:00:00+00:00",
       "description": "Venue: Bourbon Street Drinkery | Date: Monday, June 15 | Time: 8:00pm"
+    },
+    {
+      "id": "a3eafe262b5b2cbe942a3997cf16c639a4cc1a1f",
+      "source": "wwoz",
+      "title": "David Doucet",
+      "venue": "Buffa's",
+      "venue_url": "https://www.wwoz.org/organizations/buffas",
+      "event_url": "https://www.wwoz.org/events/1359091",
+      "date_text": "Monday, June 15",
+      "time_text": "7:00pm",
+      "start": "2026-06-15T19:00:00+00:00",
+      "description": "Venue: Buffa's | Date: Monday, June 15 | Time: 7:00pm"
     },
     {
       "id": "2970066d793443e06780be01d739f88fe24f5145",
