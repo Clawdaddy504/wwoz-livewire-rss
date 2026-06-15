@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 15 Jun 2026 12:42:23 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 19:08:14 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>James Beaumont — 21st Amendment</title>
@@ -82,6 +82,13 @@
 <link>https://www.wwoz.org/events/1352206</link>
 <guid isPermaLink="false">d1825c02718d2f9c98ea3d8f2d285948e91cf21e</guid>
 <description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Monday, June 15 | Time: 8:00pm</description>
+<pubDate>Mon, 15 Jun 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Steve Mignano — Bourbon Street Drinkery</title>
+<link>https://www.wwoz.org/events/1358311</link>
+<guid isPermaLink="false">ff123ca473fb31a081ab2ba92eec336c6de9caed</guid>
+<description>Venue: Bourbon Street Drinkery | Date: Monday, June 15 | Time: 8:00pm</description>
 <pubDate>Mon, 15 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
@@ -323,11 +330,18 @@
 <pubDate>Mon, 15 Jun 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>JGI presents Nueva Orleans: Latin American Influence in New Orleans History and Culture ft. Oscar Rossignoli &amp; More! — St. Luke's Episcopal Church</title>
+<title>Jazz Generations Initiative presents Nueva Orleans: Latin American Influence in New Orleans History and Culture ft. Oscar Rossignoli &amp; More! — St. Luke's Episcopal Church</title>
 <link>https://www.wwoz.org/events/1354686</link>
 <guid isPermaLink="false">080ea704e16e7cb06ad6b808880fe1b4df5a57cc</guid>
 <description>Venue: St. Luke's Episcopal Church | Date: Monday, June 15 | Time: 6:00pm</description>
 <pubDate>Mon, 15 Jun 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Slow Motion Cowboys + Fang &amp; The Paw Sox — St. Roch Tavern</title>
+<link>https://www.wwoz.org/events/1358406</link>
+<guid isPermaLink="false">e485d622a4cfeacee04bdc19e3f38268921dc478</guid>
+<description>Venue: St. Roch Tavern | Date: Monday, June 15 | Time: 9:00pm</description>
+<pubDate>Mon, 15 Jun 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>

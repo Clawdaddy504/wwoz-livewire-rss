@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-06-15T12:42:23.193921+00:00",
-  "count": 51,
+  "generated_at": "2026-06-15T19:08:14.749427+00:00",
+  "count": 53,
   "events": [
     {
       "id": "90907945fe9ed6f90c1aa9225314f21c18985789",
@@ -135,6 +135,18 @@
       "time_text": "8:00pm",
       "start": "2026-06-15T20:00:00+00:00",
       "description": "Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Monday, June 15 | Time: 8:00pm"
+    },
+    {
+      "id": "ff123ca473fb31a081ab2ba92eec336c6de9caed",
+      "source": "wwoz",
+      "title": "Steve Mignano",
+      "venue": "Bourbon Street Drinkery",
+      "venue_url": "https://www.wwoz.org/organizations/bourbon-street-drinkery",
+      "event_url": "https://www.wwoz.org/events/1358311",
+      "date_text": "Monday, June 15",
+      "time_text": "8:00pm",
+      "start": "2026-06-15T20:00:00+00:00",
+      "description": "Venue: Bourbon Street Drinkery | Date: Monday, June 15 | Time: 8:00pm"
     },
     {
       "id": "2970066d793443e06780be01d739f88fe24f5145",
@@ -547,7 +559,7 @@
     {
       "id": "080ea704e16e7cb06ad6b808880fe1b4df5a57cc",
       "source": "wwoz",
-      "title": "JGI presents Nueva Orleans: Latin American Influence in New Orleans History and Culture ft. Oscar Rossignoli & More!",
+      "title": "Jazz Generations Initiative presents Nueva Orleans: Latin American Influence in New Orleans History and Culture ft. Oscar Rossignoli & More!",
       "venue": "St. Luke's Episcopal Church",
       "venue_url": "https://www.wwoz.org/organizations/st-lukes-episcopal-church",
       "event_url": "https://www.wwoz.org/events/1354686",
@@ -555,6 +567,18 @@
       "time_text": "6:00pm",
       "start": "2026-06-15T18:00:00+00:00",
       "description": "Venue: St. Luke's Episcopal Church | Date: Monday, June 15 | Time: 6:00pm"
+    },
+    {
+      "id": "e485d622a4cfeacee04bdc19e3f38268921dc478",
+      "source": "wwoz",
+      "title": "Slow Motion Cowboys + Fang & The Paw Sox",
+      "venue": "St. Roch Tavern",
+      "venue_url": "https://www.wwoz.org/organizations/st-roch-tavern",
+      "event_url": "https://www.wwoz.org/events/1358406",
+      "date_text": "Monday, June 15",
+      "time_text": "9:00pm",
+      "start": "2026-06-15T21:00:00+00:00",
+      "description": "Venue: St. Roch Tavern | Date: Monday, June 15 | Time: 9:00pm"
     },
     {
       "id": "72dc13626649d2cb8cee5d3633b087b471a50fd9",
