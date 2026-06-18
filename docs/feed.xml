@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 18 Jun 2026 20:38:38 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 23:04:40 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Jelly Roll Stompers — 21st Amendment</title>
@@ -435,6 +435,20 @@
 <pubDate>Thu, 18 Jun 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Adonis Rose Lagniappe Sessions — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1359421</link>
+<guid isPermaLink="false">379be33d276a0db95d01fd4a73e6deaad976ad0d</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Thursday, June 18 | Time: 1:00pm</description>
+<pubDate>Thu, 18 Jun 2026 13:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Big Joe Kennedy Duo — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1359426</link>
+<guid isPermaLink="false">7dca7d4984c5474b2424a44ce83f99b2977b0449</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Thursday, June 18 | Time: 1:00pm</description>
+<pubDate>Thu, 18 Jun 2026 13:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Juneteenth Pre-Party with Lord Chilla &amp; More! — No Dice</title>
 <link>https://www.wwoz.org/events/1359011</link>
 <guid isPermaLink="false">1a59d436bf0d77bd71ad1464cb637367c66b8cf9</guid>
@@ -587,6 +601,13 @@
 <guid isPermaLink="false">0c2f2f96af96bbc5a3a1111d7a9cdbdbd4372a6c</guid>
 <description>Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Thursday, June 18 | Time: 7:00pm</description>
 <pubDate>Thu, 18 Jun 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Max Baker — Three Muses</title>
+<link>https://www.wwoz.org/events/1359386</link>
+<guid isPermaLink="false">e8a332edba04787abb894695832d85803244cb29</guid>
+<description>Venue: Three Muses | Date: Thursday, June 18 | Time: 8:00pm</description>
+<pubDate>Thu, 18 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Mark Barrett &amp; The First Calls — Tropical Isle Bourbon</title>

@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-06-18T20:38:38.432421+00:00",
-  "count": 87,
+  "generated_at": "2026-06-18T23:04:40.481936+00:00",
+  "count": 90,
   "events": [
     {
       "id": "d3cf9a166a89d81208cd6690c79778998399d5fe",
@@ -737,6 +737,30 @@
       "description": "Venue: New Orleans Jazz Museum | Date: Thursday, June 18 | Time: 6:00pm"
     },
     {
+      "id": "379be33d276a0db95d01fd4a73e6deaad976ad0d",
+      "source": "wwoz",
+      "title": "Adonis Rose Lagniappe Sessions",
+      "venue": "New Orleans Jazz National Historical Park",
+      "venue_url": "https://www.wwoz.org/organizations/new-orleans-jazz-national-historical-park",
+      "event_url": "https://www.wwoz.org/events/1359421",
+      "date_text": "Thursday, June 18",
+      "time_text": "1:00pm",
+      "start": "2026-06-18T13:00:00+00:00",
+      "description": "Venue: New Orleans Jazz National Historical Park | Date: Thursday, June 18 | Time: 1:00pm"
+    },
+    {
+      "id": "7dca7d4984c5474b2424a44ce83f99b2977b0449",
+      "source": "wwoz",
+      "title": "Big Joe Kennedy Duo",
+      "venue": "New Orleans Jazz National Historical Park",
+      "venue_url": "https://www.wwoz.org/organizations/new-orleans-jazz-national-historical-park",
+      "event_url": "https://www.wwoz.org/events/1359426",
+      "date_text": "Thursday, June 18",
+      "time_text": "1:00pm",
+      "start": "2026-06-18T13:00:00+00:00",
+      "description": "Venue: New Orleans Jazz National Historical Park | Date: Thursday, June 18 | Time: 1:00pm"
+    },
+    {
       "id": "1a59d436bf0d77bd71ad1464cb637367c66b8cf9",
       "source": "wwoz",
       "title": "Juneteenth Pre-Party with Lord Chilla & More!",
@@ -999,6 +1023,18 @@
       "time_text": "7:00pm",
       "start": "2026-06-18T19:00:00+00:00",
       "description": "Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Thursday, June 18 | Time: 7:00pm"
+    },
+    {
+      "id": "e8a332edba04787abb894695832d85803244cb29",
+      "source": "wwoz",
+      "title": "Max Baker",
+      "venue": "Three Muses",
+      "venue_url": "https://www.wwoz.org/organizations/three-muses",
+      "event_url": "https://www.wwoz.org/events/1359386",
+      "date_text": "Thursday, June 18",
+      "time_text": "8:00pm",
+      "start": "2026-06-18T20:00:00+00:00",
+      "description": "Venue: Three Muses | Date: Thursday, June 18 | Time: 8:00pm"
     },
     {
       "id": "53c5eda7335bf6fdcd35eae90c3fdc9d0a1c1e94",
