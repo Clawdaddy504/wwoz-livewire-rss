@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-06-19T15:42:33.531697+00:00",
-  "count": 109,
+  "generated_at": "2026-06-19T20:02:37.560630+00:00",
+  "count": 111,
   "events": [
     {
       "id": "3428f6c8e9763a4970cfdbf04ebdfed5216c720a",
@@ -149,6 +149,18 @@
       "description": "Venue: Bamboula's | Date: Friday, June 19 | Time: 10:00pm"
     },
     {
+      "id": "08dedb0e71dd397dd5b80ef39864685a6cd1ba19",
+      "source": "wwoz",
+      "title": "Mark Appleford",
+      "venue": "Bamboula's - Festival Hall",
+      "venue_url": "https://www.wwoz.org/organizations/bamboulas-festival-hall",
+      "event_url": "https://www.wwoz.org/events/1359896",
+      "date_text": "Friday, June 19",
+      "time_text": "7:00pm",
+      "start": "2026-06-19T19:00:00+00:00",
+      "description": "Venue: Bamboula's - Festival Hall | Date: Friday, June 19 | Time: 7:00pm"
+    },
+    {
       "id": "38b84ea2a0d7ecf8c71cfbd8a3d6edc36d5ded49",
       "source": "wwoz",
       "title": "Life of Riley + Nina Victoria",
@@ -223,7 +235,7 @@
     {
       "id": "d4f1ee0009d0629dd54d4d11e9c6e4036f9d0904",
       "source": "wwoz",
-      "title": "Big Sam & Friends",
+      "title": "Juneteenth Celebration with Big Sam & Friends",
       "venue": "Blue Nile",
       "venue_url": "https://www.wwoz.org/organizations/blue-nile",
       "event_url": "https://www.wwoz.org/events/1354696",
@@ -603,6 +615,18 @@
       "time_text": "7:00pm",
       "start": "2026-06-19T19:00:00+00:00",
       "description": "Venue: Favela Chic | Date: Friday, June 19 | Time: 7:00pm"
+    },
+    {
+      "id": "08df92286a7049da7083aad9ffe92ed5be86d1bf",
+      "source": "wwoz",
+      "title": "DIZZY!",
+      "venue": "Favela Chic",
+      "venue_url": "https://www.wwoz.org/organizations/favela-chic",
+      "event_url": "https://www.wwoz.org/events/1359631",
+      "date_text": "Friday, June 19",
+      "time_text": "10:00pm",
+      "start": "2026-06-19T22:00:00+00:00",
+      "description": "Venue: Favela Chic | Date: Friday, June 19 | Time: 10:00pm"
     },
     {
       "id": "1b46c51c1fafaaaf40029e343ecc092cbcaba3ee",

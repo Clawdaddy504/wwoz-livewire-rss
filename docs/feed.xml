@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 19 Jun 2026 15:42:33 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 20:02:37 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
@@ -92,6 +92,13 @@
 <pubDate>Fri, 19 Jun 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Mark Appleford — Bamboula's - Festival Hall</title>
+<link>https://www.wwoz.org/events/1359896</link>
+<guid isPermaLink="false">08dedb0e71dd397dd5b80ef39864685a6cd1ba19</guid>
+<description>Venue: Bamboula's - Festival Hall | Date: Friday, June 19 | Time: 7:00pm</description>
+<pubDate>Fri, 19 Jun 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Life of Riley + Nina Victoria — Banks Street Bar</title>
 <link>https://www.wwoz.org/events/1357216</link>
 <guid isPermaLink="false">38b84ea2a0d7ecf8c71cfbd8a3d6edc36d5ded49</guid>
@@ -134,7 +141,7 @@
 <pubDate>Fri, 19 Jun 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Big Sam &amp; Friends — Blue Nile</title>
+<title>Juneteenth Celebration with Big Sam &amp; Friends — Blue Nile</title>
 <link>https://www.wwoz.org/events/1354696</link>
 <guid isPermaLink="false">d4f1ee0009d0629dd54d4d11e9c6e4036f9d0904</guid>
 <description>Venue: Blue Nile | Date: Friday, June 19 | Time: 10:00pm</description>
@@ -356,6 +363,13 @@
 <guid isPermaLink="false">10fea3c18d248d1c64b9d31f3c283c21c4d5fd24</guid>
 <description>Venue: Favela Chic | Date: Friday, June 19 | Time: 7:00pm</description>
 <pubDate>Fri, 19 Jun 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>DIZZY! — Favela Chic</title>
+<link>https://www.wwoz.org/events/1359631</link>
+<guid isPermaLink="false">08df92286a7049da7083aad9ffe92ed5be86d1bf</guid>
+<description>Venue: Favela Chic | Date: Friday, June 19 | Time: 10:00pm</description>
+<pubDate>Fri, 19 Jun 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Adam Pearce &amp; The Dreamers — Frenier Landing Restaurant &amp; Oyster Bar - LaPlace</title>
