@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 19 Jun 2026 20:02:37 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 22:13:33 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
@@ -692,6 +692,13 @@
 <guid isPermaLink="false">1522bc6eef16f37eee93d2463d01b3b905d752d6</guid>
 <description>Venue: Siberia | Date: Friday, June 19 | Time: 9:00pm</description>
 <pubDate>Fri, 19 Jun 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Living Room: A Songwriter Showcase ft. Uriel, John West, Miss Morning &amp; Paul Faith — Skeeta Hawk Brewing</title>
+<link>https://www.wwoz.org/events/1360016</link>
+<guid isPermaLink="false">929cd0891c641f6a3359b670352b729759b3e209</guid>
+<description>Venue: Skeeta Hawk Brewing | Date: Friday, June 19 | Time: 6:00pm</description>
+<pubDate>Fri, 19 Jun 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Victor Goines Quartet — Snug Harbor</title>

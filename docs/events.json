@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-06-19T20:02:37.560630+00:00",
-  "count": 111,
+  "generated_at": "2026-06-19T22:13:33.355739+00:00",
+  "count": 112,
   "events": [
     {
       "id": "3428f6c8e9763a4970cfdbf04ebdfed5216c720a",
@@ -1179,6 +1179,18 @@
       "time_text": "9:00pm",
       "start": "2026-06-19T21:00:00+00:00",
       "description": "Venue: Siberia | Date: Friday, June 19 | Time: 9:00pm"
+    },
+    {
+      "id": "929cd0891c641f6a3359b670352b729759b3e209",
+      "source": "wwoz",
+      "title": "The Living Room: A Songwriter Showcase ft. Uriel, John West, Miss Morning & Paul Faith",
+      "venue": "Skeeta Hawk Brewing",
+      "venue_url": "https://www.wwoz.org/organizations/skeeta-hawk-brewing",
+      "event_url": "https://www.wwoz.org/events/1360016",
+      "date_text": "Friday, June 19",
+      "time_text": "6:00pm",
+      "start": "2026-06-19T18:00:00+00:00",
+      "description": "Venue: Skeeta Hawk Brewing | Date: Friday, June 19 | Time: 6:00pm"
     },
     {
       "id": "d59396fb3de8d28eee6843c25bf34aaa8b65da94",
