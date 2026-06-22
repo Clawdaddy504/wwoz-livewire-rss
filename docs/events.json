@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-06-22T18:52:53.201602+00:00",
-  "count": 49,
+  "generated_at": "2026-06-22T22:54:12.800985+00:00",
+  "count": 50,
   "events": [
     {
       "id": "4779b3eccb8d300c4d63445a1bf7f304d7bde802",
@@ -147,6 +147,18 @@
       "time_text": "7:00pm",
       "start": "2026-06-22T19:00:00+00:00",
       "description": "Venue: Buffa's | Date: Monday, June 22 | Time: 7:00pm"
+    },
+    {
+      "id": "4dadfb7e26431171654d4e9aaca6a01f82c29949",
+      "source": "wwoz",
+      "title": "Les Getrex",
+      "venue": "Cajun Boil House",
+      "venue_url": "https://www.wwoz.org/organizations/cajun-boil-house",
+      "event_url": "https://www.wwoz.org/events/1360211",
+      "date_text": "Monday, June 22",
+      "time_text": "3:00pm",
+      "start": "2026-06-22T15:00:00+00:00",
+      "description": "Venue: Cajun Boil House | Date: Monday, June 22 | Time: 3:00pm"
     },
     {
       "id": "49519608c74624ada0776b5a89f5d5eefc95c59c",

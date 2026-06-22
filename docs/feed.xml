@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 22 Jun 2026 18:52:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 22:54:12 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Coyote Anderson — 21st Amendment</title>
@@ -90,6 +90,13 @@
 <guid isPermaLink="false">2fc071593d4bb8ce3ce9792f89c35d6afd95f6b1</guid>
 <description>Venue: Buffa's | Date: Monday, June 22 | Time: 7:00pm</description>
 <pubDate>Mon, 22 Jun 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Les Getrex — Cajun Boil House</title>
+<link>https://www.wwoz.org/events/1360211</link>
+<guid isPermaLink="false">4dadfb7e26431171654d4e9aaca6a01f82c29949</guid>
+<description>Venue: Cajun Boil House | Date: Monday, June 22 | Time: 3:00pm</description>
+<pubDate>Mon, 22 Jun 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Biscuits n' Jam with Meryl Zimmerman &amp; Friends — Carrollton Station</title>
