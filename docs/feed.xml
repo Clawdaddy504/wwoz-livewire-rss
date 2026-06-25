@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 25 Jun 2026 17:22:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 20:21:41 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Max Baker Trio — 3rd Block Depot Kitchen &amp; Bar</title>
@@ -148,11 +148,11 @@
 <pubDate>Thu, 25 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Tom McDermott &amp; Susanne Ortner — Buffa's</title>
+<title>New Orleans Jazz Camp Vocalists — Buffa's</title>
 <link>https://www.wwoz.org/events/1359176</link>
-<guid isPermaLink="false">f9715c8b64152d482087e9023af3c948e35bad1f</guid>
-<description>Venue: Buffa's | Date: Thursday, June 25 | Time: 7:00pm</description>
-<pubDate>Thu, 25 Jun 2026 19:00:00 +0000</pubDate>
+<guid isPermaLink="false">c961ec0b54ba657472c965e2aba431ea982ea055</guid>
+<description>Venue: Buffa's | Date: Thursday, June 25 | Time: 7:30pm</description>
+<pubDate>Thu, 25 Jun 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Ado Soul &amp; The Tribe — Café Negril</title>
@@ -566,6 +566,13 @@
 <guid isPermaLink="false">596f391f503370d78af31284311a7fc7c7634b32</guid>
 <description>Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Thursday, June 25 | Time: 7:00pm</description>
 <pubDate>Thu, 25 Jun 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jenavieve Cooke — Three Muses</title>
+<link>https://www.wwoz.org/events/1361146</link>
+<guid isPermaLink="false">3feeeab7bb206eaf771a06aeccf1cfb3764e4533</guid>
+<description>Venue: Three Muses | Date: Thursday, June 25 | Time: 8:00pm</description>
+<pubDate>Thu, 25 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Mark Barrett &amp; The First Calls — Tropical Isle Bourbon</title>

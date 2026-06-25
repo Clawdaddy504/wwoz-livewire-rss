@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-06-25T17:22:27.045018+00:00",
-  "count": 83,
+  "generated_at": "2026-06-25T20:21:41.236506+00:00",
+  "count": 84,
   "events": [
     {
       "id": "0fcef10fe78815a53c99d23a29940ba0548e2ef4",
@@ -245,16 +245,16 @@
       "description": "Venue: Bourbon Street Drinkery | Date: Thursday, June 25 | Time: 8:00pm"
     },
     {
-      "id": "f9715c8b64152d482087e9023af3c948e35bad1f",
+      "id": "c961ec0b54ba657472c965e2aba431ea982ea055",
       "source": "wwoz",
-      "title": "Tom McDermott & Susanne Ortner",
+      "title": "New Orleans Jazz Camp Vocalists",
       "venue": "Buffa's",
       "venue_url": "https://www.wwoz.org/organizations/buffas",
       "event_url": "https://www.wwoz.org/events/1359176",
       "date_text": "Thursday, June 25",
-      "time_text": "7:00pm",
-      "start": "2026-06-25T19:00:00+00:00",
-      "description": "Venue: Buffa's | Date: Thursday, June 25 | Time: 7:00pm"
+      "time_text": "7:30pm",
+      "start": "2026-06-25T19:30:00+00:00",
+      "description": "Venue: Buffa's | Date: Thursday, June 25 | Time: 7:30pm"
     },
     {
       "id": "91297932b63312ceedad6f137ff2bff574caac06",
@@ -963,6 +963,18 @@
       "time_text": "7:00pm",
       "start": "2026-06-25T19:00:00+00:00",
       "description": "Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Thursday, June 25 | Time: 7:00pm"
+    },
+    {
+      "id": "3feeeab7bb206eaf771a06aeccf1cfb3764e4533",
+      "source": "wwoz",
+      "title": "Jenavieve Cooke",
+      "venue": "Three Muses",
+      "venue_url": "https://www.wwoz.org/organizations/three-muses",
+      "event_url": "https://www.wwoz.org/events/1361146",
+      "date_text": "Thursday, June 25",
+      "time_text": "8:00pm",
+      "start": "2026-06-25T20:00:00+00:00",
+      "description": "Venue: Three Muses | Date: Thursday, June 25 | Time: 8:00pm"
     },
     {
       "id": "c73638c3a2cf1a5e1c626c6bede09daa9f0a8748",
