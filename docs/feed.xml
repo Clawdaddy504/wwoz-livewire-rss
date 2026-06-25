@@ -5,434 +5,588 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 25 Jun 2026 04:33:36 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 09:43:50 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
-<title>Dr. Sick — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1351711</link>
-<guid isPermaLink="false">5c85050c7cca133fb88a53da9fb99161c12b5430</guid>
-<description>Venue: 21st Amendment | Date: Wednesday, June 24 | Time: 8:00pm</description>
-<pubDate>Wed, 24 Jun 2026 20:00:00 +0000</pubDate>
+<title>Max Baker Trio — 3rd Block Depot Kitchen &amp; Bar</title>
+<link>https://www.wwoz.org/events/1354381</link>
+<guid isPermaLink="false">0fcef10fe78815a53c99d23a29940ba0548e2ef4</guid>
+<description>Venue: 3rd Block Depot Kitchen &amp; Bar | Date: Thursday, June 25 | Time: 6:00pm</description>
+<pubDate>Thu, 25 Jun 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Josh Benitez Band — 30/90</title>
-<link>https://www.wwoz.org/events/1357116</link>
-<guid isPermaLink="false">07d5d07e89ed8394b752366e3df3efb0cc70634a</guid>
-<description>Venue: 30/90 | Date: Wednesday, June 24 | Time: 6:00pm</description>
-<pubDate>Wed, 24 Jun 2026 18:00:00 +0000</pubDate>
+<title>Big Joe Kennedy — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1351741</link>
+<guid isPermaLink="false">78a9fe0ab8e3b8c144e6412f79a4373dfa3b5048</guid>
+<description>Venue: 21st Amendment | Date: Thursday, June 25 | Time: 3:00pm</description>
+<pubDate>Thu, 25 Jun 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Budz — 30/90</title>
-<link>https://www.wwoz.org/events/1357121</link>
-<guid isPermaLink="false">de1bd22015e21d4c8609432b1ad993e0be23802e</guid>
-<description>Venue: 30/90 | Date: Wednesday, June 24 | Time: 9:00pm</description>
-<pubDate>Wed, 24 Jun 2026 21:00:00 +0000</pubDate>
+<title>Marty Peters &amp; The Party Meters — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1351776</link>
+<guid isPermaLink="false">527cb351c239a3dccaf9b6ba4dc4b6e64dcdb2b2</guid>
+<description>Venue: 21st Amendment | Date: Thursday, June 25 | Time: 8:00pm</description>
+<pubDate>Thu, 25 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jesse Morrow — Bacchanal (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1348421</link>
-<guid isPermaLink="false">db3a4af9dd71dc3d7cef82979d641c4026a3ac95</guid>
-<description>Venue: Bacchanal (OUTDOORS) | Date: Wednesday, June 24 | Time: 6:00pm</description>
-<pubDate>Wed, 24 Jun 2026 18:00:00 +0000</pubDate>
+<title>Sciryn — 30/90</title>
+<link>https://www.wwoz.org/events/1357106</link>
+<guid isPermaLink="false">4ccab2635647878c5f29adfd69c3219372ae8d15</guid>
+<description>Venue: 30/90 | Date: Thursday, June 25 | Time: 6:00pm</description>
+<pubDate>Thu, 25 Jun 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jacky Blaire &amp; the Hot Biscuits — Bamboula's</title>
-<link>https://www.wwoz.org/events/1350161</link>
-<guid isPermaLink="false">8edf5a86b0a468aa7412031cd00e39163fb79bb7</guid>
-<description>Venue: Bamboula's | Date: Wednesday, June 24 | Time: 12:00pm</description>
-<pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
+<title>Xcitement — 30/90</title>
+<link>https://www.wwoz.org/events/1357101</link>
+<guid isPermaLink="false">a070f2a3842e60ba645e99b6089e5772ad0a84e5</guid>
+<description>Venue: 30/90 | Date: Thursday, June 25 | Time: 9:00pm</description>
+<pubDate>Thu, 25 Jun 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Swingin' with John Saavedra — Bamboula's</title>
-<link>https://www.wwoz.org/events/1350181</link>
-<guid isPermaLink="false">440cf9c1591e9a6e982304cbfe71f2ba5f9d89d3</guid>
-<description>Venue: Bamboula's | Date: Wednesday, June 24 | Time: 4:30pm</description>
-<pubDate>Wed, 24 Jun 2026 16:30:00 +0000</pubDate>
+<title>Papa Mali — 4141 NOLA</title>
+<link>https://www.wwoz.org/events/1360616</link>
+<guid isPermaLink="false">357f3ddbf93a459fb47c5c21b19a0f79df3387db</guid>
+<description>Venue: 4141 NOLA | Date: Thursday, June 25 | Time: 6:30pm</description>
+<pubDate>Thu, 25 Jun 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Kat Kiley — Bamboula's</title>
-<link>https://www.wwoz.org/events/1350201</link>
-<guid isPermaLink="false">9d39e227571ce412ffb8495482353d5798039ca1</guid>
-<description>Venue: Bamboula's | Date: Wednesday, June 24 | Time: 9:00pm</description>
-<pubDate>Wed, 24 Jun 2026 21:00:00 +0000</pubDate>
+<title>David Sigler — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1348431</link>
+<guid isPermaLink="false">bf3f9e5b1e1bae6e6bfc63bf6055357fc6bdc1d5</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Thursday, June 25 | Time: 6:00pm</description>
+<pubDate>Thu, 25 Jun 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Firm Roots ft. Peter Harris, Derek Douget, Dwight Fitch Jr. &amp; More! — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1351481</link>
-<guid isPermaLink="false">17838152187e2c4c5877d040da912d4d4c79745d</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Wednesday, June 24 | Time: 8:00pm</description>
-<pubDate>Wed, 24 Jun 2026 20:00:00 +0000</pubDate>
+<title>J.J. &amp; the A-Ok's — Bamboula's</title>
+<link>https://www.wwoz.org/events/1350221</link>
+<guid isPermaLink="false">6d97aad5c512bee940bde746b053804a329edddd</guid>
+<description>Venue: Bamboula's | Date: Thursday, June 25 | Time: 12:00pm</description>
+<pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Firm Roots ft. Peter Harris, Derek Douget, Dwight Fitch Jr. &amp; More! — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1351476</link>
-<guid isPermaLink="false">1729ebe202695934c319e71ea14045a32f45ef5f</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Wednesday, June 24 | Time: 10:00pm</description>
-<pubDate>Wed, 24 Jun 2026 22:00:00 +0000</pubDate>
+<title>Cristina Kaminis &amp; The Mix — Bamboula's</title>
+<link>https://www.wwoz.org/events/1350241</link>
+<guid isPermaLink="false">8c9bbd4c5b2a50e73e83b9be3fbe14ee0483b7d8</guid>
+<description>Venue: Bamboula's | Date: Thursday, June 25 | Time: 4:30pm</description>
+<pubDate>Thu, 25 Jun 2026 16:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Gumbo Funk — Blue Nile</title>
-<link>https://www.wwoz.org/events/1356091</link>
-<guid isPermaLink="false">210e8cfb7a7804d24c1819c40b07659e8e8a1ab5</guid>
-<description>Venue: Blue Nile | Date: Wednesday, June 24 | Time: 9:00pm</description>
-<pubDate>Wed, 24 Jun 2026 21:00:00 +0000</pubDate>
+<title>Wolfe Johns Band — Bamboula's</title>
+<link>https://www.wwoz.org/events/1350261</link>
+<guid isPermaLink="false">cf460cb74657bf08aa650f649829edbc3d23af99</guid>
+<description>Venue: Bamboula's | Date: Thursday, June 25 | Time: 9:00pm</description>
+<pubDate>Thu, 25 Jun 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Rumpshakers — BMC</title>
-<link>https://www.wwoz.org/events/1348726</link>
-<guid isPermaLink="false">ba3f333b4da045904c4903457ecb21cc460ee05d</guid>
-<description>Venue: BMC | Date: Wednesday, June 24 | Time: 6:00pm</description>
-<pubDate>Wed, 24 Jun 2026 18:00:00 +0000</pubDate>
+<title>Double Bird ft. Peter Harris, Miles Berry, Seth Finch &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1351491</link>
+<guid isPermaLink="false">af2371376265b27f9941947eef20582808cede30</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Thursday, June 25 | Time: 8:00pm</description>
+<pubDate>Thu, 25 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Under The Covers — BMC</title>
-<link>https://www.wwoz.org/events/1348736</link>
-<guid isPermaLink="false">955962691397b6ce4c684c63da0ca254da7fc3d1</guid>
-<description>Venue: BMC | Date: Wednesday, June 24 | Time: 9:00pm</description>
-<pubDate>Wed, 24 Jun 2026 21:00:00 +0000</pubDate>
+<title>Double Bird ft. Peter Harris, Miles Berry, Seth Finch &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1351486</link>
+<guid isPermaLink="false">6092eb307495b5a3d7ae2418ecd2a7c11749cc3b</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Thursday, June 25 | Time: 10:00pm</description>
+<pubDate>Thu, 25 Jun 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Swing Septet — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1354631</link>
+<guid isPermaLink="false">1677b8c56b9e2b83df29062dee1daf9f9f7aabe9</guid>
+<description>Venue: BJ's Lounge | Date: Thursday, June 25 | Time: 9:00pm</description>
+<pubDate>Thu, 25 Jun 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Reggae Night with DJ T-Roy — Blue Nile</title>
+<link>https://www.wwoz.org/events/1351281</link>
+<guid isPermaLink="false">482a7ce33772a5038e8641fff454a8daab3e0dc7</guid>
+<description>Venue: Blue Nile | Date: Thursday, June 25 | Time: 11:00pm</description>
+<pubDate>Thu, 25 Jun 2026 23:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Open Musicians Jam Hosted by Jamey St. Pierre — B Mac's (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1360061</link>
+<guid isPermaLink="false">06fc2832526ac807bb00f5a29e29774c06dedb62</guid>
+<description>Venue: B Mac's (OUTDOORS) | Date: Thursday, June 25 | Time: 7:00pm</description>
+<pubDate>Thu, 25 Jun 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Dapper Dandies — BMC</title>
+<link>https://www.wwoz.org/events/1348746</link>
+<guid isPermaLink="false">e6f028c813cb3cbeb014987669be44ac417b2dba</guid>
+<description>Venue: BMC | Date: Thursday, June 25 | Time: 6:00pm</description>
+<pubDate>Thu, 25 Jun 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Kat Kiley Experience — BMC</title>
+<link>https://www.wwoz.org/events/1348776</link>
+<guid isPermaLink="false">656ac9d25ba15c0b483f19e527f25fd94e8c3d3b</guid>
+<description>Venue: BMC | Date: Thursday, June 25 | Time: 9:00pm</description>
+<pubDate>Thu, 25 Jun 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Nina Hungerland — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1352141</link>
+<guid isPermaLink="false">8e2733715b436e919c7b51c9306d5bfa0582a9d0</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Thursday, June 25 | Time: 4:00pm</description>
+<pubDate>Thu, 25 Jun 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Jazz Camp Jam Session — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1352236</link>
-<guid isPermaLink="false">b3ecf6f8108f173c23ea0b8b8daae5ba27a12115</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Wednesday, June 24 | Time: 8:00pm</description>
-<pubDate>Wed, 24 Jun 2026 20:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1352241</link>
+<guid isPermaLink="false">b3fcb3ef6e11faa02d4ddced0c7a06a0e868f8f6</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Thursday, June 25 | Time: 8:00pm</description>
+<pubDate>Thu, 25 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Daniel Louis ft. Chad Oliver — Buffa's</title>
-<link>https://www.wwoz.org/events/1359181</link>
-<guid isPermaLink="false">e514a7c2c3f775f69002cf17e1dc5cdeb0350518</guid>
-<description>Venue: Buffa's | Date: Wednesday, June 24 | Time: 7:00pm</description>
-<pubDate>Wed, 24 Jun 2026 19:00:00 +0000</pubDate>
+<title>Steve Mignano — Bourbon Street Drinkery</title>
+<link>https://www.wwoz.org/events/1358336</link>
+<guid isPermaLink="false">fa30aaee77e8a86bfb0e3779cfc43650ea66222e</guid>
+<description>Venue: Bourbon Street Drinkery | Date: Thursday, June 25 | Time: 8:00pm</description>
+<pubDate>Thu, 25 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Gizinti Trio — Café Degas</title>
-<link>https://www.wwoz.org/events/1349841</link>
-<guid isPermaLink="false">fa1625e6d3cd3f93b4e5a065c32482c82bf3b86e</guid>
-<description>Venue: Café Degas | Date: Wednesday, June 24 | Time: 6:00pm</description>
-<pubDate>Wed, 24 Jun 2026 18:00:00 +0000</pubDate>
+<title>Tom McDermott &amp; Susanne Ortner — Buffa's</title>
+<link>https://www.wwoz.org/events/1359176</link>
+<guid isPermaLink="false">f9715c8b64152d482087e9023af3c948e35bad1f</guid>
+<description>Venue: Buffa's | Date: Thursday, June 25 | Time: 7:00pm</description>
+<pubDate>Thu, 25 Jun 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mother Ruckus — Café Negril</title>
-<link>https://www.wwoz.org/events/1352611</link>
-<guid isPermaLink="false">067ca53b5518b105b3665a59927efb42c45459c6</guid>
-<description>Venue: Café Negril | Date: Wednesday, June 24 | Time: 7:30pm</description>
-<pubDate>Wed, 24 Jun 2026 19:30:00 +0000</pubDate>
+<title>Ado Soul &amp; The Tribe — Café Negril</title>
+<link>https://www.wwoz.org/events/1352631</link>
+<guid isPermaLink="false">91297932b63312ceedad6f137ff2bff574caac06</guid>
+<description>Venue: Café Negril | Date: Thursday, June 25 | Time: 6:30pm</description>
+<pubDate>Thu, 25 Jun 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Les Getrex — Cajun Boil House</title>
-<link>https://www.wwoz.org/events/1360221</link>
-<guid isPermaLink="false">6c1a40a48e5a37ea01da4388d589549517563a26</guid>
-<description>Venue: Cajun Boil House | Date: Wednesday, June 24 | Time: 3:00pm</description>
-<pubDate>Wed, 24 Jun 2026 15:00:00 +0000</pubDate>
+<title>Armani Smith &amp; Soul Ties — Café Negril</title>
+<link>https://www.wwoz.org/events/1352681</link>
+<guid isPermaLink="false">7fc3cc103b8963aa90f9806082f8d102f2c2b989</guid>
+<description>Venue: Café Negril | Date: Thursday, June 25 | Time: 10:00pm</description>
+<pubDate>Thu, 25 Jun 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Hump Day Happy Hour Show with Paul Sanchez — Carrollton Station</title>
-<link>https://www.wwoz.org/events/1354236</link>
-<guid isPermaLink="false">86827120b786dc57d579295c30efbdcdaf3fbe1c</guid>
-<description>Venue: Carrollton Station | Date: Wednesday, June 24 | Time: 5:00pm</description>
-<pubDate>Wed, 24 Jun 2026 17:00:00 +0000</pubDate>
+<title>Lena Prima &amp; Her Band — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1355826</link>
+<guid isPermaLink="false">45a7c878add8b8922c928ab83174acbbf0e39243</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Thursday, June 25 | Time: 9:00pm</description>
+<pubDate>Thu, 25 Jun 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Ned Henry &amp; Friends — Chickie Wah Wah</title>
-<link>https://www.wwoz.org/events/1347561</link>
-<guid isPermaLink="false">6c76d39887cf0b5b8773dc127b188fe8bf92668a</guid>
-<description>Venue: Chickie Wah Wah | Date: Wednesday, June 24 | Time: 8:00pm</description>
-<pubDate>Wed, 24 Jun 2026 20:00:00 +0000</pubDate>
+<title>Anthony Crawford ft. Savana Lee + Max Sanders — Carrollton Station</title>
+<link>https://www.wwoz.org/events/1354241</link>
+<guid isPermaLink="false">e5f14828886cdee1038003e313ed5eb1ee7ad2ad</guid>
+<description>Venue: Carrollton Station | Date: Thursday, June 25 | Time: 9:00pm</description>
+<pubDate>Thu, 25 Jun 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Leaux Fye Tribe — Commons Club at Virgin Hotels New Orleans</title>
-<link>https://www.wwoz.org/events/1353931</link>
-<guid isPermaLink="false">f4fab01bbca370db464623ba8a8c2787a6bc350e</guid>
-<description>Venue: Commons Club at Virgin Hotels New Orleans | Date: Wednesday, June 24 | Time: 6:00pm</description>
-<pubDate>Wed, 24 Jun 2026 18:00:00 +0000</pubDate>
+<title>Dead Letter Office — Chickie Wah Wah</title>
+<link>https://www.wwoz.org/events/1347566</link>
+<guid isPermaLink="false">80b69e5b6d3362cd4d4c3f6015ddc88fa0feaf9e</guid>
+<description>Venue: Chickie Wah Wah | Date: Thursday, June 25 | Time: 9:00pm</description>
+<pubDate>Thu, 25 Jun 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Stephen Walker N'em — d.b.a.</title>
-<link>https://www.wwoz.org/events/1356296</link>
-<guid isPermaLink="false">16992a8f37607d61ae1ae36c510c837dfcd5b95f</guid>
-<description>Venue: d.b.a. | Date: Wednesday, June 24 | Time: 6:00pm</description>
-<pubDate>Wed, 24 Jun 2026 18:00:00 +0000</pubDate>
+<title>Palmetto Bug Stompers — d.b.a.</title>
+<link>https://www.wwoz.org/events/1356306</link>
+<guid isPermaLink="false">b16af166f76758a7c08d15c7367934a3a5566b4e</guid>
+<description>Venue: d.b.a. | Date: Thursday, June 25 | Time: 6:00pm</description>
+<pubDate>Thu, 25 Jun 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Next Level Band — d.b.a.</title>
-<link>https://www.wwoz.org/events/1356301</link>
-<guid isPermaLink="false">34679d2b8db938084269ae341b1149fab66ab2a8</guid>
-<description>Venue: d.b.a. | Date: Wednesday, June 24 | Time: 9:30pm</description>
-<pubDate>Wed, 24 Jun 2026 21:30:00 +0000</pubDate>
+<title>Vegas Cola Band — d.b.a.</title>
+<link>https://www.wwoz.org/events/1356311</link>
+<guid isPermaLink="false">d3e2f446870e3e0dde4f88a649c1d5c1a8290a55</guid>
+<description>Venue: d.b.a. | Date: Thursday, June 25 | Time: 9:30pm</description>
+<pubDate>Thu, 25 Jun 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Jeremy Davenport — Davenport Lounge at The Ritz-Carlton</title>
-<link>https://www.wwoz.org/events/1349126</link>
-<guid isPermaLink="false">42d62df9a898d5670cf828b90ff36011e0988620</guid>
-<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Wednesday, June 24 | Time: 5:30pm</description>
-<pubDate>Wed, 24 Jun 2026 17:30:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1349146</link>
+<guid isPermaLink="false">d7b28fe62797f94c340ae35450c0650ad12dbc8d</guid>
+<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Thursday, June 25 | Time: 5:30pm</description>
+<pubDate>Thu, 25 Jun 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Basch Jernigan — Dos Jefes</title>
-<link>https://www.wwoz.org/events/1358251</link>
-<guid isPermaLink="false">dc3dad755fd4fea168d96f6923747760e73ba640</guid>
-<description>Venue: Dos Jefes | Date: Wednesday, June 24 | Time: 8:30pm</description>
-<pubDate>Wed, 24 Jun 2026 20:30:00 +0000</pubDate>
+<title>Anna Laura Quinn — Dos Jefes</title>
+<link>https://www.wwoz.org/events/1352901</link>
+<guid isPermaLink="false">1d5fc7c2597696635742223a79ea7adfcec0c082</guid>
+<description>Venue: Dos Jefes | Date: Thursday, June 25 | Time: 8:30pm</description>
+<pubDate>Thu, 25 Jun 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Better Late Than Jake — Favela Chic</title>
-<link>https://www.wwoz.org/events/1355076</link>
-<guid isPermaLink="false">9039ed4c7d9553c58428264a833ad6232ef6a90a</guid>
-<description>Venue: Favela Chic | Date: Wednesday, June 24 | Time: 7:00pm</description>
-<pubDate>Wed, 24 Jun 2026 19:00:00 +0000</pubDate>
+<title>Coyote Anderson Trio — Double Dealer at Orpheum Theater</title>
+<link>https://www.wwoz.org/events/1354911</link>
+<guid isPermaLink="false">9f812f782f59e2833876d3ff5d347fd2ec9c20b1</guid>
+<description>Venue: Double Dealer at Orpheum Theater | Date: Thursday, June 25 | Time: 9:00pm</description>
+<pubDate>Thu, 25 Jun 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jay Dufour &amp; Strange Gang — Favela Chic</title>
+<link>https://www.wwoz.org/events/1355086</link>
+<guid isPermaLink="false">576b79fe97fea6c4b30b189616d6e07af52aeb9f</guid>
+<description>Venue: Favela Chic | Date: Thursday, June 25 | Time: 6:00pm</description>
+<pubDate>Thu, 25 Jun 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Chuck &amp; Berrie Band — Favela Chic</title>
+<link>https://www.wwoz.org/events/1354061</link>
+<guid isPermaLink="false">67e04ec4a5af937ed19e883859f95dcd75b88d67</guid>
+<description>Venue: Favela Chic | Date: Thursday, June 25 | Time: 10:00pm</description>
+<pubDate>Thu, 25 Jun 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Richard "Piano" Scott — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1350836</link>
-<guid isPermaLink="false">d1c7fd5f301f09c1bf965592a259a74e815797c6</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Wednesday, June 24 | Time: 1:00pm</description>
-<pubDate>Wed, 24 Jun 2026 13:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1350861</link>
+<guid isPermaLink="false">0e54932bd12f73f3fa136c7cd989ba76eb9751f2</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Thursday, June 25 | Time: 12:00pm</description>
+<pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Bourbon Street Stars — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1350956</link>
-<guid isPermaLink="false">304bda359dc30b4c385d4642966ccac43354a92d</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Wednesday, June 24 | Time: 5:00pm</description>
-<pubDate>Wed, 24 Jun 2026 17:00:00 +0000</pubDate>
+<title>Doyle Cooper Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1350991</link>
+<guid isPermaLink="false">81fab004357130f17668032c089e0877f7ff5388</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Thursday, June 25 | Time: 2:00pm</description>
+<pubDate>Thu, 25 Jun 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Fritzel's All Star Band with Jori Woods — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1350951</link>
-<guid isPermaLink="false">6487d81139fff481e1a487bf40965a7b438c056a</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Wednesday, June 24 | Time: 8:00pm</description>
-<pubDate>Wed, 24 Jun 2026 20:00:00 +0000</pubDate>
+<title>John Saavedra Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1351011</link>
+<guid isPermaLink="false">8136bb90a90e29a265b24a3784f17e8c2dd6579e</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Thursday, June 25 | Time: 5:00pm</description>
+<pubDate>Thu, 25 Jun 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Benefit Concert for the Louis Armstrong Summer Jazz Camp ft. Chief Xian a Tunde Adjuah, Donald Harrison Jr., Davell Crawford &amp; More! — George &amp; Joyce Wein Jazz &amp; Heritage Center</title>
-<link>https://www.wwoz.org/events/1357391</link>
-<guid isPermaLink="false">418a947e2538327e6d033e95a45fd8de5f8d74d4</guid>
-<description>Venue: George &amp; Joyce Wein Jazz &amp; Heritage Center | Date: Wednesday, June 24 | Time: 6:00pm</description>
-<pubDate>Wed, 24 Jun 2026 18:00:00 +0000</pubDate>
+<title>Fritzel's All Star Band with Caleb Nelson — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1351016</link>
+<guid isPermaLink="false">68d144fe39ae4cbd7345e890572ca2c30c078784</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Thursday, June 25 | Time: 8:00pm</description>
+<pubDate>Thu, 25 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Adam Pearce — Gretna Tavern</title>
-<link>https://www.wwoz.org/events/1352386</link>
-<guid isPermaLink="false">df31a7d7167a123e0c6cd9ceee0e0bdddfe25604</guid>
-<description>Venue: Gretna Tavern | Date: Wednesday, June 24 | Time: 7:00pm</description>
-<pubDate>Wed, 24 Jun 2026 19:00:00 +0000</pubDate>
+<title>Steve Lands — Good Measure at The Barnett</title>
+<link>https://www.wwoz.org/events/1354306</link>
+<guid isPermaLink="false">93ab9d324ed08672a73b4e6a0ca206f001d205ee</guid>
+<description>Venue: Good Measure at The Barnett | Date: Thursday, June 25 | Time: 8:00pm</description>
+<pubDate>Thu, 25 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Amazing Henrietta — Holy Diver</title>
-<link>https://www.wwoz.org/events/1351526</link>
-<guid isPermaLink="false">2c9d10f6b119cdd7cd8adf2d18e16906fe807d9d</guid>
-<description>Venue: Holy Diver | Date: Wednesday, June 24 | Time: 8:00pm</description>
-<pubDate>Wed, 24 Jun 2026 20:00:00 +0000</pubDate>
+<title>The Tail-Gators — Gretna Tavern</title>
+<link>https://www.wwoz.org/events/1334761</link>
+<guid isPermaLink="false">729bc80da42c7ea4e9883c3c768baf28f8d7ae16</guid>
+<description>Venue: Gretna Tavern | Date: Thursday, June 25 | Time: 8:30pm</description>
+<pubDate>Thu, 25 Jun 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Funkin' It Up with Big Sam — Jazz Playhouse</title>
-<link>https://www.wwoz.org/events/1355696</link>
-<guid isPermaLink="false">db0c3ad8898a5ce29f17aa73c8ba37b21d80e990</guid>
-<description>Venue: Jazz Playhouse | Date: Wednesday, June 24 | Time: 7:30pm</description>
-<pubDate>Wed, 24 Jun 2026 19:30:00 +0000</pubDate>
+<title>Kid Merv &amp; All That Jazz — Hideout Bar</title>
+<link>https://www.wwoz.org/events/1351986</link>
+<guid isPermaLink="false">b02ac7f0e76d58e8caa1b2d269e16501c1836d11</guid>
+<description>Venue: Hideout Bar | Date: Thursday, June 25 | Time: 11:30pm</description>
+<pubDate>Thu, 25 Jun 2026 23:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Lilith In Loa Concert Series ft. Chloé Marie — Loa Bar at International House Hotel</title>
-<link>https://www.wwoz.org/events/1335396</link>
-<guid isPermaLink="false">33fc2fcc59b667e2bb8dc324446ff5c940bf1cbf</guid>
-<description>Venue: Loa Bar at International House Hotel | Date: Wednesday, June 24 | Time: 8:00pm</description>
-<pubDate>Wed, 24 Jun 2026 20:00:00 +0000</pubDate>
+<title>DJ Otto — Holy Diver</title>
+<link>https://www.wwoz.org/events/1351581</link>
+<guid isPermaLink="false">0da3cefd50fa2ea2e150ff43afb90c5887302bd1</guid>
+<description>Venue: Holy Diver | Date: Thursday, June 25 | Time: 10:00pm</description>
+<pubDate>Thu, 25 Jun 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Paul Longstreth — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1348596</link>
-<guid isPermaLink="false">e423a068d6ab30cb02987368a8c56513f756384a</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Wednesday, June 24 | Time: 6:00pm</description>
-<pubDate>Wed, 24 Jun 2026 18:00:00 +0000</pubDate>
+<title>Dizzy! — House of Blues - Voodoo Garden (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1357466</link>
+<guid isPermaLink="false">0d7a47b101e9b21687dc972bd29354f8c7cb2a5a</guid>
+<description>Venue: House of Blues - Voodoo Garden (OUTDOORS) | Date: Thursday, June 25 | Time: 5:30pm</description>
+<pubDate>Thu, 25 Jun 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Mahogany Hall All Stars ft. Tom Fischer — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1348626</link>
-<guid isPermaLink="false">7c00561f8f9be03e04f20c0d84e47732e6e4f70c</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Wednesday, June 24 | Time: 8:00pm</description>
-<pubDate>Wed, 24 Jun 2026 20:00:00 +0000</pubDate>
+<title>Most Modern &amp; LIVERNOIS — Howlin' Wolf - The Den</title>
+<link>https://www.wwoz.org/events/1356946</link>
+<guid isPermaLink="false">ad05f9bf148ef72cd0e0eb869764a961adf45054</guid>
+<description>Venue: Howlin' Wolf - The Den | Date: Thursday, June 25 | Time: 8:00pm</description>
+<pubDate>Thu, 25 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Gene's Music Machine — Maison, The</title>
-<link>https://www.wwoz.org/events/1353476</link>
-<guid isPermaLink="false">27d9efe27e987e2cee0efec69afa532c994a40cf</guid>
-<description>Venue: Maison, The | Date: Wednesday, June 24 | Time: 6:00pm</description>
-<pubDate>Wed, 24 Jun 2026 18:00:00 +0000</pubDate>
+<title>Brass-A-Holics — Jazz Playhouse</title>
+<link>https://www.wwoz.org/events/1355716</link>
+<guid isPermaLink="false">64fbb86537ff49b208b8b65dd03a181553a9185e</guid>
+<description>Venue: Jazz Playhouse | Date: Thursday, June 25 | Time: 7:30pm</description>
+<pubDate>Thu, 25 Jun 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>The Leroy Marshall Band — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1346206</link>
-<guid isPermaLink="false">2ecad2041bfbf307bd41addc1540040e6baa6de5</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Wednesday, June 24 | Time: 8:00pm</description>
-<pubDate>Wed, 24 Jun 2026 20:00:00 +0000</pubDate>
+<title>The Soul Rebels — Le Bon Temps Roulé</title>
+<link>https://www.wwoz.org/events/1346851</link>
+<guid isPermaLink="false">f735ae22e9397c2acd04a32dc5560df8ee2400ae</guid>
+<description>Venue: Le Bon Temps Roulé | Date: Thursday, June 25 | Time: 11:00pm</description>
+<pubDate>Thu, 25 Jun 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Irvin Mayfield ft. Kermit Ruffins — Mayfield's 208 Bourbon presented by Felix's</title>
-<link>https://www.wwoz.org/events/1355616</link>
-<guid isPermaLink="false">df9046430dd6675341bc7c62855fb8134da551ad</guid>
-<description>Venue: Mayfield's 208 Bourbon presented by Felix's | Date: Wednesday, June 24 | Time: 6:00pm</description>
-<pubDate>Wed, 24 Jun 2026 18:00:00 +0000</pubDate>
+<title>Stooges House Party ft. Stooges Brass Band + DJ 2Ready — Livin Swell 4211 Recording Studios</title>
+<link>https://www.wwoz.org/events/1346366</link>
+<guid isPermaLink="false">a0a834dafd115643573cb4234f698246acdbae71</guid>
+<description>Venue: Livin Swell 4211 Recording Studios | Date: Thursday, June 25 | Time: 8:00pm</description>
+<pubDate>Thu, 25 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Lynn Drury — MRB</title>
-<link>https://www.wwoz.org/events/1357581</link>
-<guid isPermaLink="false">99909943b63ec8d05cc2dee556d6c1639bc33441</guid>
-<description>Venue: MRB | Date: Wednesday, June 24 | Time: 7:00pm</description>
-<pubDate>Wed, 24 Jun 2026 19:00:00 +0000</pubDate>
+<title>The New Orleans Catahoulas — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1348716</link>
+<guid isPermaLink="false">f3e156c183a6c75e97e25d38460ad6b5a5921096</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Thursday, June 25 | Time: 6:00pm</description>
+<pubDate>Thu, 25 Jun 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Matt Wilson — New Orleans Jazz National Historical Park</title>
-<link>https://www.wwoz.org/events/1359446</link>
-<guid isPermaLink="false">bfec405810bc132c3c0a36c2ed462da60a45c619</guid>
-<description>Venue: New Orleans Jazz National Historical Park | Date: Wednesday, June 24 | Time: 3:00pm</description>
-<pubDate>Wed, 24 Jun 2026 15:00:00 +0000</pubDate>
+<title>Jamil Sharif New Orleans Extravaganza — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1348646</link>
+<guid isPermaLink="false">a5123fd5d7f594d01ef09cdf7ea17051c1f14032</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Thursday, June 25 | Time: 8:00pm</description>
+<pubDate>Thu, 25 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Victoria Amato &amp; Jim Lockwood + Ben Michaels &amp; Natalie Mae — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1347491</link>
-<guid isPermaLink="false">b13692eda034a1f0c284dc23e3733fa6acd234f3</guid>
-<description>Venue: Pat O'Brien's | Date: Wednesday, June 24 | Time: 4:00pm</description>
-<pubDate>Wed, 24 Jun 2026 16:00:00 +0000</pubDate>
+<title>The Champagniacs — Maison, The</title>
+<link>https://www.wwoz.org/events/1353491</link>
+<guid isPermaLink="false">fdb70bede69c1f68e922297a21e701b6aa44bea2</guid>
+<description>Venue: Maison, The | Date: Thursday, June 25 | Time: 4:30pm</description>
+<pubDate>Thu, 25 Jun 2026 16:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Scott Perro — Picnic Provisions &amp; Whiskey (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1297836</link>
-<guid isPermaLink="false">7e0c11774d53e43bd07f88c3fecf165bffef3a62</guid>
-<description>Venue: Picnic Provisions &amp; Whiskey (OUTDOORS) | Date: Wednesday, June 24 | Time: 5:00pm</description>
-<pubDate>Wed, 24 Jun 2026 17:00:00 +0000</pubDate>
+<title>SingleMaltPlease — Maison, The</title>
+<link>https://www.wwoz.org/events/1353591</link>
+<guid isPermaLink="false">0464cb96a6013710f97758fcced0d8b6797dcac5</guid>
+<description>Venue: Maison, The | Date: Thursday, June 25 | Time: 8:30pm</description>
+<pubDate>Thu, 25 Jun 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>David Boeddinghaus — Polo Club at The Windsor Court, The</title>
-<link>https://www.wwoz.org/events/1357821</link>
-<guid isPermaLink="false">d62dcaeae8821d9fc40395bdbee25e5ed8c012c9</guid>
-<description>Venue: Polo Club at The Windsor Court, The | Date: Wednesday, June 24 | Time: 5:30pm</description>
-<pubDate>Wed, 24 Jun 2026 17:30:00 +0000</pubDate>
+<title>Danny Rubio &amp; The Catahoula Music Company ft. Jack Pritchett — Maison Bourbon Jazz Club</title>
+<link>https://www.wwoz.org/events/1344831</link>
+<guid isPermaLink="false">015bba3822f83a2485ea864040d839ef543a0e1a</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Thursday, June 25 | Time: 8:00pm</description>
+<pubDate>Thu, 25 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Andrew Baham — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1348161</link>
-<guid isPermaLink="false">ee4bd66ffb0f804c50ee79a19f24dcc32df805a0</guid>
-<description>Venue: Preservation Hall | Date: Wednesday, June 24 | Time: 5:00pm</description>
-<pubDate>Wed, 24 Jun 2026 17:00:00 +0000</pubDate>
+<title>Booker &amp; Beyond: The Professor Tim Piano Series ft. Mikayla Braun — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1355501</link>
+<guid isPermaLink="false">bf5d39a8be184d1dca9ed777349ee3411de7fa87</guid>
+<description>Venue: Maple Leaf | Date: Thursday, June 25 | Time: 6:00pm</description>
+<pubDate>Thu, 25 Jun 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Andrew Baham — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1348166</link>
-<guid isPermaLink="false">a6dadade419a65a2e53170dbc285594c0f0d662d</guid>
-<description>Venue: Preservation Hall | Date: Wednesday, June 24 | Time: 6:15pm</description>
-<pubDate>Wed, 24 Jun 2026 18:15:00 +0000</pubDate>
+<title>Johnny Vidocovich Trio ft. Tony Dagradi &amp; Grayson Brockamp — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1355516</link>
+<guid isPermaLink="false">8869bfda47cd21973705390d561edf089f972505</guid>
+<description>Venue: Maple Leaf | Date: Thursday, June 25 | Time: 8:00pm</description>
+<pubDate>Thu, 25 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Andrew Baham — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1348171</link>
-<guid isPermaLink="false">90e4f2bdc64d84e734427be59e53745e5ba74105</guid>
-<description>Venue: Preservation Hall | Date: Wednesday, June 24 | Time: 7:30pm</description>
-<pubDate>Wed, 24 Jun 2026 19:30:00 +0000</pubDate>
+<title>Nanci Zee Trio — May Baily's Place</title>
+<link>https://www.wwoz.org/events/1346161</link>
+<guid isPermaLink="false">53fa7ffb46181937ad3dc1fb01e6457f159feb79</guid>
+<description>Venue: May Baily's Place | Date: Thursday, June 25 | Time: 8:30pm</description>
+<pubDate>Thu, 25 Jun 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Andrew Baham — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1348176</link>
-<guid isPermaLink="false">21ac8ebfa498482f32055fdfbe3f19792d387d13</guid>
-<description>Venue: Preservation Hall | Date: Wednesday, June 24 | Time: 8:45pm</description>
-<pubDate>Wed, 24 Jun 2026 20:45:00 +0000</pubDate>
+<title>Micah Mckee — MRB</title>
+<link>https://www.wwoz.org/events/1357586</link>
+<guid isPermaLink="false">ad4ef438edff667031d9792f8e0a9178eb1bc004</guid>
+<description>Venue: MRB | Date: Thursday, June 25 | Time: 7:00pm</description>
+<pubDate>Thu, 25 Jun 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Chambre Noir with Paco — Santos Bar</title>
-<link>https://www.wwoz.org/events/1351611</link>
-<guid isPermaLink="false">f94e8862471111ae010937734c6bb864f5210422</guid>
-<description>Venue: Santos Bar | Date: Wednesday, June 24 | Time: 10:00pm</description>
-<pubDate>Wed, 24 Jun 2026 22:00:00 +0000</pubDate>
+<title>Margie Perez Duo — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1359451</link>
+<guid isPermaLink="false">53e6c360f80e3e9af249bc8e81791db2c6d75a76</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Thursday, June 25 | Time: 3:00pm</description>
+<pubDate>Thu, 25 Jun 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Loper + Prey for Neighbors — Saturn Bar</title>
-<link>https://www.wwoz.org/events/1345581</link>
-<guid isPermaLink="false">1493c40b443402628618a35b0bfd3108e2ddaa1d</guid>
-<description>Venue: Saturn Bar | Date: Wednesday, June 24 | Time: 9:00pm</description>
-<pubDate>Wed, 24 Jun 2026 21:00:00 +0000</pubDate>
+<title>Yusa with Special Guest Steve Masakowski — Ogden Museum of Southern Art</title>
+<link>https://www.wwoz.org/events/1359231</link>
+<guid isPermaLink="false">d000f42dda65b7cd74caa3c97ff6bfddb7e4874a</guid>
+<description>Venue: Ogden Museum of Southern Art | Date: Thursday, June 25 | Time: 6:00pm</description>
+<pubDate>Thu, 25 Jun 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Lungerburner + Hot Ram + Brethren Hogg + Bad Physics — Siberia</title>
-<link>https://www.wwoz.org/events/1348226</link>
-<guid isPermaLink="false">8d895a4b7ba86883403a0beff2e7b4d6d2d899b3</guid>
-<description>Venue: Siberia | Date: Wednesday, June 24 | Time: 9:00pm</description>
-<pubDate>Wed, 24 Jun 2026 21:00:00 +0000</pubDate>
+<title>Victoria Amato &amp; Lisa Bittick-Lowe + Ben Michaels &amp; Jim Lockwood — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1347496</link>
+<guid isPermaLink="false">499e4bd143265cb34082cbc5b954af75c297def4</guid>
+<description>Venue: Pat O'Brien's | Date: Thursday, June 25 | Time: 4:00pm</description>
+<pubDate>Thu, 25 Jun 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>JFA Happy Hour: Mike Soulman Baptiste — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1353261</link>
-<guid isPermaLink="false">fa5f42e49887ebb0daa20d6fa5b585c7d90a04ba</guid>
-<description>Venue: Snug Harbor | Date: Wednesday, June 24 | Time: 5:00pm</description>
-<pubDate>Wed, 24 Jun 2026 17:00:00 +0000</pubDate>
+<title>Da Lovebirds: Robin Barnes &amp; Pat Casey — Peacock Room at the Kimpton Hotel Fontenot</title>
+<link>https://www.wwoz.org/events/1320461</link>
+<guid isPermaLink="false">5ebf9caf16f69676622782b42545f90b1d94f4b3</guid>
+<description>Venue: Peacock Room at the Kimpton Hotel Fontenot | Date: Thursday, June 25 | Time: 8:00pm</description>
+<pubDate>Thu, 25 Jun 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Uptown Jazz Orchestra with John Gray — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1353271</link>
-<guid isPermaLink="false">7333cee0ab62e51680e55916289519ea9e3715d3</guid>
-<description>Venue: Snug Harbor | Date: Wednesday, June 24 | Time: 7:30pm</description>
-<pubDate>Wed, 24 Jun 2026 19:30:00 +0000</pubDate>
+<title>VetJams — Pirogue's Whiskey Bayou (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1343436</link>
+<guid isPermaLink="false">b69e766cfdcd4dcf1a46fafcba7b1cdb68bf30af</guid>
+<description>Venue: Pirogue's Whiskey Bayou (OUTDOORS) | Date: Thursday, June 25 | Time: 7:00pm</description>
+<pubDate>Thu, 25 Jun 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Uptown Jazz Orchestra with John Gray — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1353266</link>
-<guid isPermaLink="false">2a43f7be349cc3af13236712bc92ed0868e8d499</guid>
-<description>Venue: Snug Harbor | Date: Wednesday, June 24 | Time: 9:30pm</description>
-<pubDate>Wed, 24 Jun 2026 21:30:00 +0000</pubDate>
+<title>John Royen — Polo Club at The Windsor Court, The</title>
+<link>https://www.wwoz.org/events/1357746</link>
+<guid isPermaLink="false">9ab60a1d1dbd3fd7966d76289b4c1358e1f8916c</guid>
+<description>Venue: Polo Club at The Windsor Court, The | Date: Thursday, June 25 | Time: 5:30pm</description>
+<pubDate>Thu, 25 Jun 2026 17:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1347951</link>
+<guid isPermaLink="false">a9565f9d95580c79fdcd04258c9395893811f053</guid>
+<description>Venue: Preservation Hall | Date: Thursday, June 25 | Time: 5:00pm</description>
+<pubDate>Thu, 25 Jun 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1347946</link>
+<guid isPermaLink="false">69de04f7afba9442b14f1f88e951c2165b2bc382</guid>
+<description>Venue: Preservation Hall | Date: Thursday, June 25 | Time: 6:15pm</description>
+<pubDate>Thu, 25 Jun 2026 18:15:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1347926</link>
+<guid isPermaLink="false">466c3fa43ffebfb0e8356afaa7b042690e525729</guid>
+<description>Venue: Preservation Hall | Date: Thursday, June 25 | Time: 7:30pm</description>
+<pubDate>Thu, 25 Jun 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1347906</link>
+<guid isPermaLink="false">679a33611fb5987a7e17acb619f2d11a7e133f1f</guid>
+<description>Venue: Preservation Hall | Date: Thursday, June 25 | Time: 8:45pm</description>
+<pubDate>Thu, 25 Jun 2026 20:45:00 +0000</pubDate>
+</item>
+<item>
+<title>Sean Riley &amp; The Water — Saint John</title>
+<link>https://www.wwoz.org/events/1333511</link>
+<guid isPermaLink="false">3857fedc096b82feb26cbef656bf0f09f1f8e7f3</guid>
+<description>Venue: Saint John | Date: Thursday, June 25 | Time: 4:00pm</description>
+<pubDate>Thu, 25 Jun 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Belinda Moody — Salon Salon</title>
+<link>https://www.wwoz.org/events/1360601</link>
+<guid isPermaLink="false">ebdec6e859ed230bb4d9a63a202bf3f599fb2c22</guid>
+<description>Venue: Salon Salon | Date: Thursday, June 25 | Time: 7:00pm</description>
+<pubDate>Thu, 25 Jun 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Tainted Love 80’s Night with DJ Shane Love — Santos Bar</title>
+<link>https://www.wwoz.org/events/1351631</link>
+<guid isPermaLink="false">bf644dff8573fbbf8962904103923c4550bea8d3</guid>
+<description>Venue: Santos Bar | Date: Thursday, June 25 | Time: 10:00pm</description>
+<pubDate>Thu, 25 Jun 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>BC Coogan — Saturn Bar</title>
+<link>https://www.wwoz.org/events/1360676</link>
+<guid isPermaLink="false">43a940892b30cd06ce5bf1e50610c69565fa0d9f</guid>
+<description>Venue: Saturn Bar | Date: Thursday, June 25 | Time: 8:30pm</description>
+<pubDate>Thu, 25 Jun 2026 20:30:00 +0000</pubDate>
+</item>
+<item>
+<title>"Back to Black" - An Amy Winehouse Tribute with Brasshearts &amp; Youse — Saturn Bar</title>
+<link>https://www.wwoz.org/events/1360671</link>
+<guid isPermaLink="false">7f23a65e0cbc5460d48b86350d871688a47cfbb8</guid>
+<description>Venue: Saturn Bar | Date: Thursday, June 25 | Time: 9:00pm</description>
+<pubDate>Thu, 25 Jun 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Leo Middea — Siberia</title>
+<link>https://www.wwoz.org/events/1297766</link>
+<guid isPermaLink="false">391c595b3eca501e2118b476d72f6441d5ecb2ac</guid>
+<description>Venue: Siberia | Date: Thursday, June 25 | Time: 9:00pm</description>
+<pubDate>Thu, 25 Jun 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>NOLA RESISTANCE QUINTET — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1353281</link>
+<guid isPermaLink="false">bc09602433b9a91ee2273a83b475fc0c50317659</guid>
+<description>Venue: Snug Harbor | Date: Thursday, June 25 | Time: 7:30pm</description>
+<pubDate>Thu, 25 Jun 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>NOLA RESISTANCE QUINTET — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1353276</link>
+<guid isPermaLink="false">db7bd2b807d1e1e237541021bc6ee37daf683ba5</guid>
+<description>Venue: Snug Harbor | Date: Thursday, June 25 | Time: 9:30pm</description>
+<pubDate>Thu, 25 Jun 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Chris Christy Band — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1356561</link>
-<guid isPermaLink="false">5b64ebdeaf44289432ef64aed37a0b452d5cd0bf</guid>
-<description>Venue: Spotted Cat | Date: Wednesday, June 24 | Time: 2:00pm</description>
-<pubDate>Wed, 24 Jun 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1356566</link>
+<guid isPermaLink="false">e982f74466e49e3006b2dfe489327f954db7d872</guid>
+<description>Venue: Spotted Cat | Date: Thursday, June 25 | Time: 2:00pm</description>
+<pubDate>Thu, 25 Jun 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Shotgun Jazz Band — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1356621</link>
-<guid isPermaLink="false">30f00ab51e257ed711af2ac8c8163cd450d50db0</guid>
-<description>Venue: Spotted Cat | Date: Wednesday, June 24 | Time: 6:00pm</description>
-<pubDate>Wed, 24 Jun 2026 18:00:00 +0000</pubDate>
+<title>Miss Sophie Lee — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1356631</link>
+<guid isPermaLink="false">b4fa11c578f33ddc90119482faf9cbc07cfea909</guid>
+<description>Venue: Spotted Cat | Date: Thursday, June 25 | Time: 6:00pm</description>
+<pubDate>Thu, 25 Jun 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Marty Peters &amp; The Party Meters — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1356626</link>
-<guid isPermaLink="false">ae1c371613a78c2e38a1d0a24e3dc4739b48d65b</guid>
-<description>Venue: Spotted Cat | Date: Wednesday, June 24 | Time: 9:30pm</description>
-<pubDate>Wed, 24 Jun 2026 21:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1349486</link>
-<guid isPermaLink="false">5bc525e5e99d11f58a84c5c806eaca88056de7bc</guid>
-<description>Venue: Steamboat Natchez | Date: Wednesday, June 24 | Time: 11:00am</description>
-<pubDate>Wed, 24 Jun 2026 11:00:00 +0000</pubDate>
+<title>Jumbo Shrimp — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1356646</link>
+<guid isPermaLink="false">fcc16a540d707890bb4d05cd21af389d66229979</guid>
+<description>Venue: Spotted Cat | Date: Thursday, June 25 | Time: 10:00pm</description>
+<pubDate>Thu, 25 Jun 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1349551</link>
-<guid isPermaLink="false">59a1b1839a6fb235da6cc1f3f4b6842f89fb8656</guid>
-<description>Venue: Steamboat Natchez | Date: Wednesday, June 24 | Time: 2:00pm</description>
-<pubDate>Wed, 24 Jun 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1349491</link>
+<guid isPermaLink="false">7e715a8013059620b52f15cbca510cc99245af21</guid>
+<description>Venue: Steamboat Natchez | Date: Thursday, June 25 | Time: 11:00am</description>
+<pubDate>Thu, 25 Jun 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Steamboat Stompers — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1349556</link>
+<guid isPermaLink="false">2e6b066f18f4437ebc9543a400c83ad5d1243fdd</guid>
+<description>Venue: Steamboat Natchez | Date: Thursday, June 25 | Time: 2:00pm</description>
+<pubDate>Thu, 25 Jun 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dukes of Dixieland — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1349786</link>
-<guid isPermaLink="false">e385cf80667b3aa7de43a7ae6c2fe5299d2dd575</guid>
-<description>Venue: Steamboat Natchez | Date: Wednesday, June 24 | Time: 6:00pm</description>
-<pubDate>Wed, 24 Jun 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1349791</link>
+<guid isPermaLink="false">b1f24cc8326e29e621a38386e4b9175390398922</guid>
+<description>Venue: Steamboat Natchez | Date: Thursday, June 25 | Time: 6:00pm</description>
+<pubDate>Thu, 25 Jun 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Kid Merv &amp; All That Jazz — Tipsy Trumpet</title>
-<link>https://www.wwoz.org/events/1352006</link>
-<guid isPermaLink="false">e2f4aa5617df0bdb6cdedc6e1f85ed180d0a4d15</guid>
-<description>Venue: Tipsy Trumpet | Date: Wednesday, June 24 | Time: 12:00pm</description>
-<pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
+<title>Kyle Sharamitaro — Three Maries Jazz Club at the Omni Royal Orleans</title>
+<link>https://www.wwoz.org/events/1349071</link>
+<guid isPermaLink="false">596f391f503370d78af31284311a7fc7c7634b32</guid>
+<description>Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Thursday, June 25 | Time: 7:00pm</description>
+<pubDate>Thu, 25 Jun 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dave Ferrato — Tropical Isle Bourbon</title>
-<link>https://www.wwoz.org/events/1355946</link>
-<guid isPermaLink="false">e066e4864b0fa353586f4d0b03e50f1555a37842</guid>
-<description>Venue: Tropical Isle Bourbon | Date: Wednesday, June 24 | Time: 7:00pm</description>
-<pubDate>Wed, 24 Jun 2026 19:00:00 +0000</pubDate>
+<title>Mark Barrett &amp; The First Calls — Tropical Isle Bourbon</title>
+<link>https://www.wwoz.org/events/1352541</link>
+<guid isPermaLink="false">c73638c3a2cf1a5e1c626c6bede09daa9f0a8748</guid>
+<description>Venue: Tropical Isle Bourbon | Date: Thursday, June 25 | Time: 5:00pm</description>
+<pubDate>Thu, 25 Jun 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Van Ella Bordella: A Storyville Burlesque Musical — Twilight Room at The Allways Lounge</title>
+<link>https://www.wwoz.org/events/1354961</link>
+<guid isPermaLink="false">df77d268677902b2b1c7689a52a95afe33eb463e</guid>
+<description>Venue: Twilight Room at The Allways Lounge | Date: Thursday, June 25 | Time: 7:00pm</description>
+<pubDate>Thu, 25 Jun 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Corey Henry &amp; The Treme Funktet — Vaughan's Lounge</title>
+<link>https://www.wwoz.org/events/1354466</link>
+<guid isPermaLink="false">0eb27d9d00f17e2b7180ac80e001d5c41788cf97</guid>
+<description>Venue: Vaughan's Lounge | Date: Thursday, June 25 | Time: 10:30pm</description>
+<pubDate>Thu, 25 Jun 2026 22:30:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
