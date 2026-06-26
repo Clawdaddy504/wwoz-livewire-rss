@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 26 Jun 2026 17:07:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Jun 2026 20:08:34 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy — 21st Amendment</title>
@@ -362,6 +362,13 @@
 <link>https://www.wwoz.org/events/1354356</link>
 <guid isPermaLink="false">fbf1f78b638220a672763c17ec75c0cde7b3ac82</guid>
 <description>Venue: Good Measure at The Barnett | Date: Friday, June 26 | Time: 9:00pm</description>
+<pubDate>Fri, 26 Jun 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Refried Confuzion — Gretna Tavern</title>
+<link>https://www.wwoz.org/events/1361221</link>
+<guid isPermaLink="false">53a7ebf29dd278427f224ac5ad2a63f77070cb85</guid>
+<description>Venue: Gretna Tavern | Date: Friday, June 26 | Time: 9:00pm</description>
 <pubDate>Fri, 26 Jun 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
