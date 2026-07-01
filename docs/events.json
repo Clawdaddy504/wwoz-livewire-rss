@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-07-01T17:22:49.796360+00:00",
-  "count": 37,
+  "generated_at": "2026-07-01T20:14:14.338681+00:00",
+  "count": 38,
   "events": [
     {
       "id": "e8a8e8d0ed604850edd5a3a5b46a5c3a30566add",
@@ -279,6 +279,18 @@
       "time_text": "6:00pm",
       "start": "2026-07-01T18:00:00+00:00",
       "description": "Venue: Mayfield's 208 Bourbon presented by Felix's | Date: Wednesday, July 1 | Time: 6:00pm"
+    },
+    {
+      "id": "935a86b6306b58553360a62d911cdaf2002635d9",
+      "source": "wwoz",
+      "title": "The Jazz Foundation of America (JFA) Present Eric G & the Soul Spectrum Band",
+      "venue": "New Orleans Jazz Museum",
+      "venue_url": "https://www.wwoz.org/organizations/new-orleans-jazz-museum",
+      "event_url": "https://www.wwoz.org/events/1365191",
+      "date_text": "Wednesday, July 1",
+      "time_text": "2:00pm",
+      "start": "2026-07-01T14:00:00+00:00",
+      "description": "Venue: New Orleans Jazz Museum | Date: Wednesday, July 1 | Time: 2:00pm"
     },
     {
       "id": "718d6cffa1553d207500a28dfc9d40dd3540c208",

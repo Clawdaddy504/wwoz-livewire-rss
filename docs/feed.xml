@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 01 Jul 2026 17:22:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 20:14:14 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Jesse Morrow — Bacchanal (OUTDOORS)</title>
@@ -167,6 +167,13 @@
 <guid isPermaLink="false">b08010149a141a8301f7dfc8c88625cdea46db33</guid>
 <description>Venue: Mayfield's 208 Bourbon presented by Felix's | Date: Wednesday, July 1 | Time: 6:00pm</description>
 <pubDate>Wed, 01 Jul 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Jazz Foundation of America (JFA) Present Eric G &amp; the Soul Spectrum Band — New Orleans Jazz Museum</title>
+<link>https://www.wwoz.org/events/1365191</link>
+<guid isPermaLink="false">935a86b6306b58553360a62d911cdaf2002635d9</guid>
+<description>Venue: New Orleans Jazz Museum | Date: Wednesday, July 1 | Time: 2:00pm</description>
+<pubDate>Wed, 01 Jul 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Michael Torregano Jr. — New Orleans Jazz National Historical Park</title>
