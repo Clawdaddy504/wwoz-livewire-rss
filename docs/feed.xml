@@ -5,8 +5,22 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 02 Jul 2026 19:50:43 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Jul 2026 22:18:21 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
+<item>
+<title>The Dapper Dandies — 30/90</title>
+<link>https://www.wwoz.org/events/1365946</link>
+<guid isPermaLink="false">053d810d7de275ba8471be30813ad8dafddd208d</guid>
+<description>Venue: 30/90 | Date: Thursday, July 2 | Time: 6:00pm</description>
+<pubDate>Thu, 02 Jul 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Funk NOLA — 30/90</title>
+<link>https://www.wwoz.org/events/1365971</link>
+<guid isPermaLink="false">4b69137c788c28219d1302853c11e0aedb446b96</guid>
+<description>Venue: 30/90 | Date: Thursday, July 2 | Time: 9:00pm</description>
+<pubDate>Thu, 02 Jul 2026 21:00:00 +0000</pubDate>
+</item>
 <item>
 <title>George Kilby Jr. — 4141 NOLA</title>
 <link>https://www.wwoz.org/events/1360621</link>
@@ -22,10 +36,10 @@
 <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Third Moon — Avenue Pub</title>
+<title>Third Moon — Avenue Club, The</title>
 <link>https://www.wwoz.org/events/1360966</link>
-<guid isPermaLink="false">908d486aea2127f9f7a807bc34f870437d185f7b</guid>
-<description>Venue: Avenue Pub | Date: Thursday, July 2 | Time: 9:00pm</description>
+<guid isPermaLink="false">2a525ef44d45c2588a8ddc6aee9355b601bea489</guid>
+<description>Venue: Avenue Club, The | Date: Thursday, July 2 | Time: 9:00pm</description>
 <pubDate>Thu, 02 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
@@ -342,6 +356,27 @@
 <guid isPermaLink="false">b3d348a18d2d7f122118e52f30cd37fa4ebdc0ba</guid>
 <description>Venue: Snug Harbor | Date: Thursday, July 2 | Time: 9:30pm</description>
 <pubDate>Thu, 02 Jul 2026 21:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Chris Christy Band — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1365651</link>
+<guid isPermaLink="false">2a112103f4661ed9e77c9602f3f43b3cfa42766b</guid>
+<description>Venue: Spotted Cat | Date: Thursday, July 2 | Time: 2:00pm</description>
+<pubDate>Thu, 02 Jul 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jenavieve &amp; The Winding Boys — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1365556</link>
+<guid isPermaLink="false">306d949974636461bbd75d4ebd14bca366e411f9</guid>
+<description>Venue: Spotted Cat | Date: Thursday, July 2 | Time: 6:00pm</description>
+<pubDate>Thu, 02 Jul 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jumbo Shrimp — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1365531</link>
+<guid isPermaLink="false">b5414218dfbfd5c1571f078b1d0f7fb5f54d630f</guid>
+<description>Venue: Spotted Cat | Date: Thursday, July 2 | Time: 10:00pm</description>
+<pubDate>Thu, 02 Jul 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Jacky Blaire — Three Muses</title>
