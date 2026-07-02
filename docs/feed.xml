@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 02 Jul 2026 09:31:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Jul 2026 14:28:24 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>George Kilby Jr. — 4141 NOLA</title>
@@ -104,6 +104,13 @@
 <guid isPermaLink="false">20717df422a5abf1dd1313365730a21d470d6c6c</guid>
 <description>Venue: Café Negril | Date: Thursday, July 2 | Time: 10:00pm</description>
 <pubDate>Thu, 02 Jul 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Lena Prima &amp; Her Band — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1365286</link>
+<guid isPermaLink="false">6505adb6958acae4fd527a48f87aa36607a751b2</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Thursday, July 2 | Time: 9:00pm</description>
+<pubDate>Thu, 02 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Mosh Party/Emo Night ft. Superbloom, Donate Your Friends &amp; DJ Sunnie — Crypt, The</title>
