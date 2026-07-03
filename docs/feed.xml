@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 03 Jul 2026 14:31:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 16:44:43 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Hotline — 30/90</title>
@@ -447,6 +447,27 @@
 <guid isPermaLink="false">434c67d53e0cf04a7487b7bbfc0e4f10bb3c585c</guid>
 <description>Venue: Spotted Cat | Date: Friday, July 3 | Time: 10:00pm</description>
 <pubDate>Fri, 03 Jul 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Steamboat Stompers — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1366396</link>
+<guid isPermaLink="false">cefc9457ba843fe215ee644ca8e3ce01778d54a3</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, July 3 | Time: 11:00am</description>
+<pubDate>Fri, 03 Jul 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Steamboat Stompers — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1366641</link>
+<guid isPermaLink="false">b4e9c5e938a5dc71657ccecc51320342093610ce</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, July 3 | Time: 2:00pm</description>
+<pubDate>Fri, 03 Jul 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Dukes of Dixieland — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1366721</link>
+<guid isPermaLink="false">307de2a154387e3392e2f8f8b64603b7c564eb77</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, July 3 | Time: 6:00pm</description>
+<pubDate>Fri, 03 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Troy Marks &amp; No Idea — Tee-Wee’s On Da’ Bayou</title>

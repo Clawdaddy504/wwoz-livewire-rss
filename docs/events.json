@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-07-03T14:31:27.414026+00:00",
-  "count": 69,
+  "generated_at": "2026-07-03T16:44:43.388860+00:00",
+  "count": 72,
   "events": [
     {
       "id": "7664236dc0fdb38367279cddeffca35212ef5058",
@@ -759,6 +759,42 @@
       "time_text": "10:00pm",
       "start": "2026-07-03T22:00:00+00:00",
       "description": "Venue: Spotted Cat | Date: Friday, July 3 | Time: 10:00pm"
+    },
+    {
+      "id": "cefc9457ba843fe215ee644ca8e3ce01778d54a3",
+      "source": "wwoz",
+      "title": "Steamboat Stompers",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1366396",
+      "date_text": "Friday, July 3",
+      "time_text": "11:00am",
+      "start": "2026-07-03T11:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Friday, July 3 | Time: 11:00am"
+    },
+    {
+      "id": "b4e9c5e938a5dc71657ccecc51320342093610ce",
+      "source": "wwoz",
+      "title": "Steamboat Stompers",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1366641",
+      "date_text": "Friday, July 3",
+      "time_text": "2:00pm",
+      "start": "2026-07-03T14:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Friday, July 3 | Time: 2:00pm"
+    },
+    {
+      "id": "307de2a154387e3392e2f8f8b64603b7c564eb77",
+      "source": "wwoz",
+      "title": "Dukes of Dixieland",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1366721",
+      "date_text": "Friday, July 3",
+      "time_text": "6:00pm",
+      "start": "2026-07-03T18:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Friday, July 3 | Time: 6:00pm"
     },
     {
       "id": "759da89480df627a8ce35e385361c69770cf28db",
