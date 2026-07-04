@@ -5,511 +5,448 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 04 Jul 2026 04:00:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 08:49:54 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
-<title>Hotline — 30/90</title>
-<link>https://www.wwoz.org/events/1365976</link>
-<guid isPermaLink="false">7664236dc0fdb38367279cddeffca35212ef5058</guid>
-<description>Venue: 30/90 | Date: Friday, July 3 | Time: 6:00pm</description>
-<pubDate>Fri, 03 Jul 2026 18:00:00 +0000</pubDate>
+<title>Tetrad — 30/90</title>
+<link>https://www.wwoz.org/events/1365986</link>
+<guid isPermaLink="false">d10b47816b6a5b5711843ad3661ee7fe1aa73557</guid>
+<description>Venue: 30/90 | Date: Saturday, July 4 | Time: 5:00pm</description>
+<pubDate>Sat, 04 Jul 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Frequency Koneckt — 30/90</title>
-<link>https://www.wwoz.org/events/1365981</link>
-<guid isPermaLink="false">c489820272ac0bca97f4406968bbd0bf89263cb0</guid>
-<description>Venue: 30/90 | Date: Friday, July 3 | Time: 9:00pm</description>
-<pubDate>Fri, 03 Jul 2026 21:00:00 +0000</pubDate>
+<title>Sporty's Brass Band — 30/90</title>
+<link>https://www.wwoz.org/events/1366001</link>
+<guid isPermaLink="false">36fb0f2319e68a16b0a2ea3561abcf1ca6881d00</guid>
+<description>Venue: 30/90 | Date: Saturday, July 4 | Time: 8:00pm</description>
+<pubDate>Sat, 04 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Willie Green III — Bacchanal (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1361966</link>
-<guid isPermaLink="false">baf58b212be0b1b1cd6262cff895889129a3fe26</guid>
-<description>Venue: Bacchanal (OUTDOORS) | Date: Friday, July 3 | Time: 7:00pm</description>
-<pubDate>Fri, 03 Jul 2026 19:00:00 +0000</pubDate>
+<title>The Soulcial Club — 30/90</title>
+<link>https://www.wwoz.org/events/1366006</link>
+<guid isPermaLink="false">33ce368a065fee37c26058c0e84d5c5e1d10de6f</guid>
+<description>Venue: 30/90 | Date: Saturday, July 4 | Time: 11:00pm</description>
+<pubDate>Sat, 04 Jul 2026 23:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Cristen Spencer — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1361971</link>
+<guid isPermaLink="false">b62cfb6c31ac8eec9cbc6d846755c1e2acd20e80</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Saturday, July 4 | Time: 6:00pm</description>
+<pubDate>Sat, 04 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Mark Appleford — Bamboula's - Festival Hall</title>
-<link>https://www.wwoz.org/events/1359906</link>
-<guid isPermaLink="false">98ed4808bb671109c4fccd798b2888a079ffd2a0</guid>
-<description>Venue: Bamboula's - Festival Hall | Date: Friday, July 3 | Time: 7:00pm</description>
-<pubDate>Fri, 03 Jul 2026 19:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1359991</link>
+<guid isPermaLink="false">50c90a094f973299196a967ea1b68cfc90487575</guid>
+<description>Venue: Bamboula's - Festival Hall | Date: Saturday, July 4 | Time: 7:00pm</description>
+<pubDate>Sat, 04 Jul 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Domenic Fusca Honest Man Happy Hour Show — Banks Street Bar</title>
-<link>https://www.wwoz.org/events/1365056</link>
-<guid isPermaLink="false">1146ade7ac0c99dcbd68c5ee3baa6240d47a612d</guid>
-<description>Venue: Banks Street Bar | Date: Friday, July 3 | Time: 4:00pm</description>
-<pubDate>Fri, 03 Jul 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Vacillator + Blood &amp; Earl + Pale Devil Sun — Banks Street Bar</title>
-<link>https://www.wwoz.org/events/1360571</link>
-<guid isPermaLink="false">790808bfd8f46bb1f2e88f861a0499531d678edd</guid>
-<description>Venue: Banks Street Bar | Date: Friday, July 3 | Time: 9:00pm</description>
-<pubDate>Fri, 03 Jul 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Conor Donohue + The Easy Ones + Snock Horse Hurley Mountain — BJ's Lounge</title>
-<link>https://www.wwoz.org/events/1365161</link>
-<guid isPermaLink="false">39aba449fc553521f01c2858d1fd264a8a8c0047</guid>
-<description>Venue: BJ's Lounge | Date: Friday, July 3 | Time: 9:00pm</description>
-<pubDate>Fri, 03 Jul 2026 21:00:00 +0000</pubDate>
+<title>Joshua Starkman &amp; Friends ft. Clint Maedgen — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1365166</link>
+<guid isPermaLink="false">845ec2a9f84fd915022bc5096d803f751bf55b5e</guid>
+<description>Venue: BJ's Lounge | Date: Saturday, July 4 | Time: 9:00pm</description>
+<pubDate>Sat, 04 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Afrobeat NOLA — Blue Nile</title>
-<link>https://www.wwoz.org/events/1356801</link>
-<guid isPermaLink="false">442a8d4201cdeffa5e66eac12a86f68ee5ecdb3f</guid>
-<description>Venue: Blue Nile | Date: Friday, July 3 | Time: 10:00pm</description>
-<pubDate>Fri, 03 Jul 2026 22:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1356806</link>
+<guid isPermaLink="false">1b3599e9f7e55375218a3b3e15ec66e537f8e490</guid>
+<description>Venue: Blue Nile | Date: Saturday, July 4 | Time: 10:00pm</description>
+<pubDate>Sat, 04 Jul 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>DJ WestBankRed — Blue Nile - Balcony Room</title>
-<link>https://www.wwoz.org/events/1356811</link>
-<guid isPermaLink="false">8911559deca41dc467a1b612608cc082c37dd68d</guid>
-<description>Venue: Blue Nile - Balcony Room | Date: Friday, July 3 | Time: 11:00pm</description>
-<pubDate>Fri, 03 Jul 2026 23:00:00 +0000</pubDate>
+<title>The Next Level Band — Blue Nile - Balcony Room</title>
+<link>https://www.wwoz.org/events/1363486</link>
+<guid isPermaLink="false">4d963975b32e076cda420c4ffa8d5a53f3d71e8c</guid>
+<description>Venue: Blue Nile - Balcony Room | Date: Saturday, July 4 | Time: 10:00pm</description>
+<pubDate>Sat, 04 Jul 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Billy Iuso — B Mac's (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1362251</link>
-<guid isPermaLink="false">749794e85c108afc3d8c6292980c51ce2629a423</guid>
-<description>Venue: B Mac's (OUTDOORS) | Date: Friday, July 3 | Time: 7:00pm</description>
-<pubDate>Fri, 03 Jul 2026 19:00:00 +0000</pubDate>
+<title>Christian Coleman Duo — B Mac's (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1362256</link>
+<guid isPermaLink="false">72f2ce21a37676bbeb456692a0a49bb2ae76c5a6</guid>
+<description>Venue: B Mac's (OUTDOORS) | Date: Saturday, July 4 | Time: 7:00pm</description>
+<pubDate>Sat, 04 Jul 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Ado Soul &amp; The Tribe — BMC</title>
-<link>https://www.wwoz.org/events/1360751</link>
-<guid isPermaLink="false">ff588d17a12a84a04f847f85feff9408b328c7c0</guid>
-<description>Venue: BMC | Date: Friday, July 3 | Time: 6:00pm</description>
-<pubDate>Fri, 03 Jul 2026 18:00:00 +0000</pubDate>
+<title>Tropical Weather — BMC</title>
+<link>https://www.wwoz.org/events/1360806</link>
+<guid isPermaLink="false">c24b435569b8583b424a53e15cf6a0f273382b71</guid>
+<description>Venue: BMC | Date: Saturday, July 4 | Time: 3:00pm</description>
+<pubDate>Sat, 04 Jul 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Kat Kiley Experience — BMC</title>
-<link>https://www.wwoz.org/events/1360761</link>
-<guid isPermaLink="false">ee542f79a2749c08e9713b8f0babcfb4a3993007</guid>
-<description>Venue: BMC | Date: Friday, July 3 | Time: 9:00pm</description>
-<pubDate>Fri, 03 Jul 2026 21:00:00 +0000</pubDate>
+<title>John Lisi &amp; Delta Funk — BMC</title>
+<link>https://www.wwoz.org/events/1360811</link>
+<guid isPermaLink="false">5a26ed6699db314b783b19f862a52ab3cbf02eb9</guid>
+<description>Venue: BMC | Date: Saturday, July 4 | Time: 6:00pm</description>
+<pubDate>Sat, 04 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Audrey LeCrone — Brutto Americano</title>
-<link>https://www.wwoz.org/events/1359826</link>
-<guid isPermaLink="false">61421c228c396a4820bcf1d223d088c46c146500</guid>
-<description>Venue: Brutto Americano | Date: Friday, July 3 | Time: 6:00pm</description>
-<pubDate>Fri, 03 Jul 2026 18:00:00 +0000</pubDate>
+<title>Thee Fonk Jam ft. Thee PlayMatez Hosted by Tamarie T — BMC</title>
+<link>https://www.wwoz.org/events/1360816</link>
+<guid isPermaLink="false">3dea7a591492c163275908bd8b8d9beda3a901a6</guid>
+<description>Venue: BMC | Date: Saturday, July 4 | Time: 9:00pm</description>
+<pubDate>Sat, 04 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Father Ron — Buffa's</title>
-<link>https://www.wwoz.org/events/1363281</link>
-<guid isPermaLink="false">c42894f5da324d327218d00224132e6b104d5ad7</guid>
-<description>Venue: Buffa's | Date: Friday, July 3 | Time: 8:00pm</description>
-<pubDate>Fri, 03 Jul 2026 20:00:00 +0000</pubDate>
+<title>The Dirty Coast Summer Get Together ft. Where Y'acht + LOTTAGRAFFITI — Broadside (Outdoor Stage)</title>
+<link>https://www.wwoz.org/events/1365376</link>
+<guid isPermaLink="false">f662c462aa9361875777230963e9190217c05282</guid>
+<description>Venue: Broadside (Outdoor Stage) | Date: Saturday, July 4 | Time: 5:00pm</description>
+<pubDate>Sat, 04 Jul 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Essence Fest ft. Cardi B, Latto, Kehlani &amp; More! — Caesars Superdome</title>
-<link>https://www.wwoz.org/events/1293876</link>
-<guid isPermaLink="false">dfc7b61c8f77f9b70c9579137a220deb27c23088</guid>
-<description>Venue: Caesars Superdome | Date: Friday, July 3 | Time: 6:00pm</description>
-<pubDate>Fri, 03 Jul 2026 18:00:00 +0000</pubDate>
+<title>Essence Fest ft. Brandy &amp; Monica, Patti LaBelle, Leon Thomas &amp; More! — Caesars Superdome</title>
+<link>https://www.wwoz.org/events/1293881</link>
+<guid isPermaLink="false">1ca550514f68d8aab6a378499b3a158e27342076</guid>
+<description>Venue: Caesars Superdome | Date: Saturday, July 4 | Time: 6:00pm</description>
+<pubDate>Sat, 04 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>RED DOG Album Release Concert ft. S.O.L.O.M. — Café Istanbul</title>
-<link>https://www.wwoz.org/events/1359236</link>
-<guid isPermaLink="false">c6acdc744121a87ba4eae8a8d18e54824334c8af</guid>
-<description>Venue: Café Istanbul | Date: Friday, July 3 | Time: 6:00pm</description>
-<pubDate>Fri, 03 Jul 2026 18:00:00 +0000</pubDate>
+<title>Fantasy Unlocked ft. DJ Rakimbeau, Proper Jones, and Summer Indigo — Café Istanbul</title>
+<link>https://www.wwoz.org/events/1365271</link>
+<guid isPermaLink="false">2db3ac1a9e47377b7333b00d51b2ac2430dbb61c</guid>
+<description>Venue: Café Istanbul | Date: Saturday, July 4 | Time: 11:00pm</description>
+<pubDate>Sat, 04 Jul 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Maurice Cade &amp; The E.S.S. Band — Café Negril</title>
-<link>https://www.wwoz.org/events/1360511</link>
-<guid isPermaLink="false">64908891f7c31ac16d5780a93bc616916af6ee9f</guid>
-<description>Venue: Café Negril | Date: Friday, July 3 | Time: 6:00pm</description>
-<pubDate>Fri, 03 Jul 2026 18:00:00 +0000</pubDate>
+<title>Kayla Jasmine &amp; X-Factor — Café Negril</title>
+<link>https://www.wwoz.org/events/1360431</link>
+<guid isPermaLink="false">8ca75cd50533d337dc9421aaa0d89250ca7c6b26</guid>
+<description>Venue: Café Negril | Date: Saturday, July 4 | Time: 1:30pm</description>
+<pubDate>Sat, 04 Jul 2026 13:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Bring Back Bob Official Mural Unveiling with Higher Heights Reggae Band — Café Negril</title>
-<link>https://www.wwoz.org/events/1360516</link>
-<guid isPermaLink="false">47834e07a0f54b1a7c4a1a07627af19040fe50db</guid>
-<description>Venue: Café Negril | Date: Friday, July 3 | Time: 10:00pm</description>
-<pubDate>Fri, 03 Jul 2026 22:00:00 +0000</pubDate>
+<title>Ado Soul &amp; The Tribe — Café Negril</title>
+<link>https://www.wwoz.org/events/1360546</link>
+<guid isPermaLink="false">b9f51419d0292f7c27fb094dd23d3b12a4772324</guid>
+<description>Venue: Café Negril | Date: Saturday, July 4 | Time: 6:00pm</description>
+<pubDate>Sat, 04 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Big 6 Brass Band — Candlelight Lounge</title>
-<link>https://www.wwoz.org/events/1355266</link>
-<guid isPermaLink="false">1c2dbd167d477fd39cf7d93205ebf3823a0caeeb</guid>
-<description>Venue: Candlelight Lounge | Date: Friday, July 3 | Time: 9:00pm</description>
-<pubDate>Fri, 03 Jul 2026 21:00:00 +0000</pubDate>
+<title>Zena Moses Rue Fiya Allstars — Café Negril</title>
+<link>https://www.wwoz.org/events/1360561</link>
+<guid isPermaLink="false">58ebc0c2336ea014a0ba341877744046e2314042</guid>
+<description>Venue: Café Negril | Date: Saturday, July 4 | Time: 10:00pm</description>
+<pubDate>Sat, 04 Jul 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Happy 3rd of July: A Community Celebration ft. Marine Forces Reserve Rock Band, Alexis &amp; The Sanity + More! — City Park - Goldring/Woldenberg Great Lawn (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1365186</link>
-<guid isPermaLink="false">06a164754f1380f46d10173a3537e166d3fadec4</guid>
-<description>Venue: City Park - Goldring/Woldenberg Great Lawn (OUTDOORS) | Date: Friday, July 3 | Time: 6:00pm</description>
-<pubDate>Fri, 03 Jul 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Ghoul’s Ball with Ritual DFW — Crypt, The</title>
-<link>https://www.wwoz.org/events/1362511</link>
-<guid isPermaLink="false">75f8767ed920f0b7a6ab6aa2d831aef2da3ffd0c</guid>
-<description>Venue: Crypt, The | Date: Friday, July 3 | Time: 9:00pm</description>
-<pubDate>Fri, 03 Jul 2026 21:00:00 +0000</pubDate>
+<title>A New Orleans Songwriter Protest Album Release Show ft. Paul Faith &amp; Friends — Chickie Wah Wah</title>
+<link>https://www.wwoz.org/events/1356771</link>
+<guid isPermaLink="false">d49804db19dda03319024c140b2a458e26b95af3</guid>
+<description>Venue: Chickie Wah Wah | Date: Saturday, July 4 | Time: 7:00pm</description>
+<pubDate>Sat, 04 Jul 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Jeremy Davenport — Davenport Lounge at The Ritz-Carlton</title>
-<link>https://www.wwoz.org/events/1349306</link>
-<guid isPermaLink="false">7405f570dbcf6b8a4a7e10becfb6d0c3da062816</guid>
-<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Friday, July 3 | Time: 8:00pm</description>
-<pubDate>Fri, 03 Jul 2026 20:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1349311</link>
+<guid isPermaLink="false">c87bbcf831aa2db7b41922ca0963c67f59a9b947</guid>
+<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Saturday, July 4 | Time: 8:00pm</description>
+<pubDate>Sat, 04 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sax &amp; The City with Tom Fitzpatrick — Dos Jefes</title>
-<link>https://www.wwoz.org/events/1362361</link>
-<guid isPermaLink="false">7812f15a6c9cc70c98432b291b0e4039a65aeb99</guid>
-<description>Venue: Dos Jefes | Date: Friday, July 3 | Time: 9:00pm</description>
-<pubDate>Fri, 03 Jul 2026 21:00:00 +0000</pubDate>
+<title>Kris Tokarski — Dos Jefes</title>
+<link>https://www.wwoz.org/events/1362366</link>
+<guid isPermaLink="false">255b01c24bc58b91c76ddfed0c3fc44d89e7d6f4</guid>
+<description>Venue: Dos Jefes | Date: Saturday, July 4 | Time: 9:00pm</description>
+<pubDate>Sat, 04 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jass Hysteria — Favela Chic</title>
-<link>https://www.wwoz.org/events/1356866</link>
-<guid isPermaLink="false">8ad81ab7fba5f05a53adbd12e3929b5116c9bebe</guid>
-<description>Venue: Favela Chic | Date: Friday, July 3 | Time: 4:00pm</description>
-<pubDate>Fri, 03 Jul 2026 16:00:00 +0000</pubDate>
+<title>Shawan Rice — Double Dealer at Orpheum Theater</title>
+<link>https://www.wwoz.org/events/1354931</link>
+<guid isPermaLink="false">9d858f42e0169a0a090b5a3b3a491f47ba3abfd0</guid>
+<description>Venue: Double Dealer at Orpheum Theater | Date: Saturday, July 4 | Time: 9:30pm</description>
+<pubDate>Sat, 04 Jul 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Richard "Piano" Scott — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1361401</link>
-<guid isPermaLink="false">f86f45046a19df2fe354703cd2d3aafc440371bc</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Friday, July 3 | Time: 12:30pm</description>
-<pubDate>Fri, 03 Jul 2026 12:30:00 +0000</pubDate>
+<title>Dead Men Don't Play Jazz — Favela Chic</title>
+<link>https://www.wwoz.org/events/1356891</link>
+<guid isPermaLink="false">9297dd2a0f4bf26675f330354ec45388a426e44b</guid>
+<description>Venue: Favela Chic | Date: Saturday, July 4 | Time: 4:00pm</description>
+<pubDate>Sat, 04 Jul 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sam Friend Jazz Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1361611</link>
-<guid isPermaLink="false">2790f5797171c28dabbf279a475895342556df4a</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Friday, July 3 | Time: 2:30pm</description>
-<pubDate>Fri, 03 Jul 2026 14:30:00 +0000</pubDate>
+<title>Kevin Gates — Fillmore, The</title>
+<link>https://www.wwoz.org/events/1352246</link>
+<guid isPermaLink="false">15adffaf619242f3881c2385c53860b643300345</guid>
+<description>Venue: Fillmore, The | Date: Saturday, July 4 | Time: 9:00pm</description>
+<pubDate>Sat, 04 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sam Lobley Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1361646</link>
-<guid isPermaLink="false">0cd7d6e98f93766a03631c88f327039fcb0e7414</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Friday, July 3 | Time: 6:00pm</description>
-<pubDate>Fri, 03 Jul 2026 18:00:00 +0000</pubDate>
+<title>Steve DeTroy Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1364366</link>
+<guid isPermaLink="false">76a5067b9bdb7e80958288b97b94c82fa9766bca</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Saturday, July 4 | Time: 1:00pm</description>
+<pubDate>Sat, 04 Jul 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Fritzel's All Star Band with Kevin Ray Clark — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1361476</link>
-<guid isPermaLink="false">11dd5d9b04e03a38a37646b3a7794462835089f8</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Friday, July 3 | Time: 9:00pm</description>
-<pubDate>Fri, 03 Jul 2026 21:00:00 +0000</pubDate>
+<title>Bourbon Matinee Jazz Band with Chuck Brackman — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1364386</link>
+<guid isPermaLink="false">fbf5ccb606401548fc07095223c61d7253d2554b</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Saturday, July 4 | Time: 5:00pm</description>
+<pubDate>Sat, 04 Jul 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sassyfras Birthday with Gal Holiday &amp; The Honky Tonk Revue — Gasa Gasa</title>
-<link>https://www.wwoz.org/events/1343211</link>
-<guid isPermaLink="false">c7bd696adf840ed42bb6305a3ab5ccfce05afa0d</guid>
-<description>Venue: Gasa Gasa | Date: Friday, July 3 | Time: 9:00pm</description>
-<pubDate>Fri, 03 Jul 2026 21:00:00 +0000</pubDate>
+<title>Fritzel's All Star Band with Jamil Sharif — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1364406</link>
+<guid isPermaLink="false">49c30b615d417d3666a719bff116c21d7da08464</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Saturday, July 4 | Time: 9:00pm</description>
+<pubDate>Sat, 04 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Alfred Banks featuring Kaye the Beast — Good Measure at The Barnett</title>
-<link>https://www.wwoz.org/events/1359751</link>
-<guid isPermaLink="false">4412c7de474d23996bfca81ee0f122517a3d2227</guid>
-<description>Venue: Good Measure at The Barnett | Date: Friday, July 3 | Time: 9:00pm</description>
-<pubDate>Fri, 03 Jul 2026 21:00:00 +0000</pubDate>
+<title>Juice — Good Measure at The Barnett</title>
+<link>https://www.wwoz.org/events/1359756</link>
+<guid isPermaLink="false">682cb67220582a46956e3fa9e5144f75d708ed85</guid>
+<description>Venue: Good Measure at The Barnett | Date: Saturday, July 4 | Time: 9:00pm</description>
+<pubDate>Sat, 04 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>DarkLounge Ministries — Holy Diver</title>
-<link>https://www.wwoz.org/events/1362046</link>
-<guid isPermaLink="false">4d7975fd2983eab4261a61ef85ac6d41de8b549f</guid>
-<description>Venue: Holy Diver | Date: Friday, July 3 | Time: 8:00pm</description>
-<pubDate>Fri, 03 Jul 2026 20:00:00 +0000</pubDate>
+<title>Nina Hungerland &amp; Family — Le Bon Temps Roulé</title>
+<link>https://www.wwoz.org/events/1359286</link>
+<guid isPermaLink="false">cbfe8e3cd0c184b813a94f57b89e1b6d30716cff</guid>
+<description>Venue: Le Bon Temps Roulé | Date: Saturday, July 4 | Time: 11:00pm</description>
+<pubDate>Sat, 04 Jul 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Neonautica with ZEUS and DJ Say Trell — Howlin' Wolf - The Den</title>
-<link>https://www.wwoz.org/events/1356956</link>
-<guid isPermaLink="false">3e947c40d9070f4af08bda25c73ecaf33ecfbd92</guid>
-<description>Venue: Howlin' Wolf - The Den | Date: Friday, July 3 | Time: 8:00pm</description>
-<pubDate>Fri, 03 Jul 2026 20:00:00 +0000</pubDate>
+<title>Stephen Walker N'em — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1362821</link>
+<guid isPermaLink="false">7df7f5998ceeeac4e98ab7f03ce138b99418c98f</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Saturday, July 4 | Time: 3:00pm</description>
+<pubDate>Sat, 04 Jul 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Patrick Cooper — Kerry Irish Pub</title>
-<link>https://www.wwoz.org/events/1361061</link>
-<guid isPermaLink="false">3178d73d1b5637dcedbafdd42e5951edfe0b2be8</guid>
-<description>Venue: Kerry Irish Pub | Date: Friday, July 3 | Time: 5:00pm</description>
-<pubDate>Fri, 03 Jul 2026 17:00:00 +0000</pubDate>
+<title>Gerald French Trio — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1362826</link>
+<guid isPermaLink="false">30b09dabb569266a7e2ffe9e6710c7328bb04ad4</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Saturday, July 4 | Time: 7:00pm</description>
+<pubDate>Sat, 04 Jul 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>St. Julien X — Le Bon Temps Roulé</title>
-<link>https://www.wwoz.org/events/1359206</link>
-<guid isPermaLink="false">ee6b588d522262a953e6f204519520d31589a57f</guid>
-<description>Venue: Le Bon Temps Roulé | Date: Friday, July 3 | Time: 11:00pm</description>
-<pubDate>Fri, 03 Jul 2026 23:00:00 +0000</pubDate>
+<title>Mahogany Hall Jazz Band ft. Kid Chocolate — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1362831</link>
+<guid isPermaLink="false">1088e1ec3a7f9c05605ac71bffd29d9a5caff3b8</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Saturday, July 4 | Time: 9:30pm</description>
+<pubDate>Sat, 04 Jul 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Raphael Bas — Lobby Lounge at JW Marriott</title>
-<link>https://www.wwoz.org/events/1361096</link>
-<guid isPermaLink="false">5ebc3e780bb0eb2b18de461890df535480212be4</guid>
-<description>Venue: Lobby Lounge at JW Marriott | Date: Friday, July 3 | Time: 6:00pm</description>
-<pubDate>Fri, 03 Jul 2026 18:00:00 +0000</pubDate>
+<title>NOLA Axe Men — Maison, The</title>
+<link>https://www.wwoz.org/events/1363731</link>
+<guid isPermaLink="false">8457c22a7d21e86bbfb893e620ee57fd4e2d506e</guid>
+<description>Venue: Maison, The | Date: Saturday, July 4 | Time: 1:00pm</description>
+<pubDate>Sat, 04 Jul 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Kid Chocolate &amp; The Free P.O.C — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1362781</link>
-<guid isPermaLink="false">ff321145ecd3c0ef6b421467c5fd91f50244b4cb</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Friday, July 3 | Time: 3:00pm</description>
-<pubDate>Fri, 03 Jul 2026 15:00:00 +0000</pubDate>
+<title>Smoking Time Jazz Club — Maison, The</title>
+<link>https://www.wwoz.org/events/1363751</link>
+<guid isPermaLink="false">658312bd81b79d2416b02874d3e1f5ae85bcdf52</guid>
+<description>Venue: Maison, The | Date: Saturday, July 4 | Time: 4:00pm</description>
+<pubDate>Sat, 04 Jul 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Paul Longstreth Trio — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1362791</link>
-<guid isPermaLink="false">95a208b4f7301bef4ff456c576f0582270e08211</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Friday, July 3 | Time: 7:00pm</description>
-<pubDate>Fri, 03 Jul 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Mahogany Hall Jazz Band ft. Mike Fulton — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1362796</link>
-<guid isPermaLink="false">11f2bdc664cdb6ff9853349fa20546b2602166e2</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Friday, July 3 | Time: 9:30pm</description>
-<pubDate>Fri, 03 Jul 2026 21:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Shotgun Jazz Band — Maison, The</title>
-<link>https://www.wwoz.org/events/1363696</link>
-<guid isPermaLink="false">312f65f8bb2e5b381a39ee0a10d13fce6c30d927</guid>
-<description>Venue: Maison, The | Date: Friday, July 3 | Time: 5:00pm</description>
-<pubDate>Fri, 03 Jul 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Street Lyfe — Maison, The</title>
-<link>https://www.wwoz.org/events/1363711</link>
-<guid isPermaLink="false">8d1ad2152c5d6a4ab3d724a87a8a19983722f817</guid>
-<description>Venue: Maison, The | Date: Friday, July 3 | Time: 8:00pm</description>
-<pubDate>Fri, 03 Jul 2026 20:00:00 +0000</pubDate>
+<title>SingleMaltPlease — Maison, The</title>
+<link>https://www.wwoz.org/events/1363756</link>
+<guid isPermaLink="false">da7af2b9340a789c67137a328ad360ae816693c4</guid>
+<description>Venue: Maison, The | Date: Saturday, July 4 | Time: 8:00pm</description>
+<pubDate>Sat, 04 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>DJ KVNG Fred — Maison, The</title>
-<link>https://www.wwoz.org/events/1363726</link>
-<guid isPermaLink="false">c4955fbde4a884ba4b3cd5986d9d1fd4cbcd69a8</guid>
-<description>Venue: Maison, The | Date: Friday, July 3 | Time: 11:00pm</description>
-<pubDate>Fri, 03 Jul 2026 23:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1363771</link>
+<guid isPermaLink="false">9cb097e9907012bbbfe1311ced98d23d22c4b145</guid>
+<description>Venue: Maison, The | Date: Saturday, July 4 | Time: 11:00pm</description>
+<pubDate>Sat, 04 Jul 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
 <title>The Leroy Marshall Band — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1362561</link>
-<guid isPermaLink="false">d65e9c874de992a5420b32203dc134043c1a4ee6</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Friday, July 3 | Time: 8:15pm</description>
-<pubDate>Fri, 03 Jul 2026 20:15:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1362601</link>
+<guid isPermaLink="false">38d8db71e3d6edfbc7f530787325c23d706f6aad</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Saturday, July 4 | Time: 3:15pm</description>
+<pubDate>Sat, 04 Jul 2026 15:15:00 +0000</pubDate>
 </item>
 <item>
-<title>Caleb Tokarska — Maple Leaf</title>
-<link>https://www.wwoz.org/events/1363201</link>
-<guid isPermaLink="false">35cff6cfac3cb92b713069d8dafeab169a621995</guid>
-<description>Venue: Maple Leaf | Date: Friday, July 3 | Time: 9:00pm</description>
-<pubDate>Fri, 03 Jul 2026 21:00:00 +0000</pubDate>
+<title>Danny Rubio &amp; the Catahoula Music Company ft. Jeff Kreis — Maison Bourbon Jazz Club</title>
+<link>https://www.wwoz.org/events/1364126</link>
+<guid isPermaLink="false">07d35d0d026e4c08e9d6afc6d7c469693f3f33b3</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Saturday, July 4 | Time: 8:00pm</description>
+<pubDate>Sat, 04 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Nanci Zee Trio — May Baily's Place</title>
-<link>https://www.wwoz.org/events/1359511</link>
-<guid isPermaLink="false">7babd1cb39415582552337348d982842d66a698e</guid>
-<description>Venue: May Baily's Place | Date: Friday, July 3 | Time: 8:30pm</description>
-<pubDate>Fri, 03 Jul 2026 20:30:00 +0000</pubDate>
+<title>Jerry Dugger's Acoustic Blues Duo — May Baily's Place</title>
+<link>https://www.wwoz.org/events/1359516</link>
+<guid isPermaLink="false">1e22d5753758ab09470483c819dbe2b5e4594452</guid>
+<description>Venue: May Baily's Place | Date: Saturday, July 4 | Time: 8:30pm</description>
+<pubDate>Sat, 04 Jul 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>The Topcats — Mid-City Lanes Rock 'n' Bowl</title>
-<link>https://www.wwoz.org/events/1355416</link>
-<guid isPermaLink="false">5e01dbf8e134703ccc421eb0d4f317e369e8eac7</guid>
-<description>Venue: Mid-City Lanes Rock 'n' Bowl | Date: Friday, July 3 | Time: 8:00pm</description>
-<pubDate>Fri, 03 Jul 2026 20:00:00 +0000</pubDate>
+<title>BRW — Mid-City Lanes Rock 'n' Bowl</title>
+<link>https://www.wwoz.org/events/1355421</link>
+<guid isPermaLink="false">4a8cdcc5b1f13f8132bcc84965327dee7bacafa6</guid>
+<description>Venue: Mid-City Lanes Rock 'n' Bowl | Date: Saturday, July 4 | Time: 8:00pm</description>
+<pubDate>Sat, 04 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Zahria Sims Trio — New Orleans Jazz National Historical Park</title>
-<link>https://www.wwoz.org/events/1365221</link>
-<guid isPermaLink="false">30943056dd36733f16b535269d35cd40d03251d3</guid>
-<description>Venue: New Orleans Jazz National Historical Park | Date: Friday, July 3 | Time: 3:00pm</description>
-<pubDate>Fri, 03 Jul 2026 15:00:00 +0000</pubDate>
+<title>Sabado Gigante ft. DJ Emotion &amp; Hosted by Don Sevilla — New Orleans Jazz &amp; Blues Market</title>
+<link>https://www.wwoz.org/events/1361336</link>
+<guid isPermaLink="false">525ae62d6660f366955933d2552dd1b0e93061a6</guid>
+<description>Venue: New Orleans Jazz &amp; Blues Market | Date: Saturday, July 4 | Time: 11:00pm</description>
+<pubDate>Sat, 04 Jul 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Johnette Downing — New Orleans Jazz National Historical Park - Dutch Alley</title>
-<link>https://www.wwoz.org/events/1360171</link>
-<guid isPermaLink="false">07322beb2a2dc43a83e72d34d50a136e0c1de035</guid>
-<description>Venue: New Orleans Jazz National Historical Park - Dutch Alley | Date: Friday, July 3 | Time: 11:00am</description>
-<pubDate>Fri, 03 Jul 2026 11:00:00 +0000</pubDate>
+<title>New Orleans Concert Band — Ogden Museum of Southern Art</title>
+<link>https://www.wwoz.org/events/1358271</link>
+<guid isPermaLink="false">20fb2b2155d3a6527f8c91f7f4f1c71de22e4878</guid>
+<description>Venue: Ogden Museum of Southern Art | Date: Saturday, July 4 | Time: 1:00pm</description>
+<pubDate>Sat, 04 Jul 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Maria Taylor — NOLA 'Nacular Art Gallery</title>
-<link>https://www.wwoz.org/events/1359281</link>
-<guid isPermaLink="false">3fa36a77d6bbefce17cc13088e839d74d8b9571d</guid>
-<description>Venue: NOLA 'Nacular Art Gallery | Date: Friday, July 3 | Time: 8:00pm</description>
-<pubDate>Fri, 03 Jul 2026 20:00:00 +0000</pubDate>
+<title>Gal Holiday &amp; The Honky Tonk Revue — Old Point Bar</title>
+<link>https://www.wwoz.org/events/1343601</link>
+<guid isPermaLink="false">d3463b4fa67787e4973f09654201ff70c0357407</guid>
+<description>Venue: Old Point Bar | Date: Saturday, July 4 | Time: 6:00pm</description>
+<pubDate>Sat, 04 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>David Boeddinghaus — Polo Club at The Windsor Court, The</title>
-<link>https://www.wwoz.org/events/1357911</link>
-<guid isPermaLink="false">c895304cacc415d3f6ceea3f49b97f610ca4db3e</guid>
-<description>Venue: Polo Club at The Windsor Court, The | Date: Friday, July 3 | Time: 5:30pm</description>
-<pubDate>Fri, 03 Jul 2026 17:30:00 +0000</pubDate>
+<title>John Royen — Polo Club at The Windsor Court, The</title>
+<link>https://www.wwoz.org/events/1357771</link>
+<guid isPermaLink="false">4481da1394d9d91960257f771a89ac1b6aa157b7</guid>
+<description>Venue: Polo Club at The Windsor Court, The | Date: Saturday, July 4 | Time: 5:30pm</description>
+<pubDate>Sat, 04 Jul 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Bean N' The Boys — Polo Club at The Windsor Court, The</title>
-<link>https://www.wwoz.org/events/1358046</link>
-<guid isPermaLink="false">c7abf75c0c12aa311bb715ca64de936ad829a345</guid>
-<description>Venue: Polo Club at The Windsor Court, The | Date: Friday, July 3 | Time: 9:00pm</description>
-<pubDate>Fri, 03 Jul 2026 21:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1358051</link>
+<guid isPermaLink="false">069345bf4efa36ea30cf0cc144b3e4a5db1ad866</guid>
+<description>Venue: Polo Club at The Windsor Court, The | Date: Saturday, July 4 | Time: 9:00pm</description>
+<pubDate>Sat, 04 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1358771</link>
-<guid isPermaLink="false">64afd703c01c575b58068d111f3d873cf743f15a</guid>
-<description>Venue: Preservation Hall | Date: Friday, July 3 | Time: 5:00pm</description>
-<pubDate>Fri, 03 Jul 2026 17:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1358776</link>
+<guid isPermaLink="false">97493fd2a4f590cebee44a04757736d84d5d17bd</guid>
+<description>Venue: Preservation Hall | Date: Saturday, July 4 | Time: 5:00pm</description>
+<pubDate>Sat, 04 Jul 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1358786</link>
-<guid isPermaLink="false">137ea9fad7950507de8415b08c487919d1e2ad15</guid>
-<description>Venue: Preservation Hall | Date: Friday, July 3 | Time: 6:15pm</description>
-<pubDate>Fri, 03 Jul 2026 18:15:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1358781</link>
+<guid isPermaLink="false">43d8b1dfe29319b4e8627aec6b00a5e7fc8cf8aa</guid>
+<description>Venue: Preservation Hall | Date: Saturday, July 4 | Time: 6:15pm</description>
+<pubDate>Sat, 04 Jul 2026 18:15:00 +0000</pubDate>
 </item>
 <item>
 <title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1358791</link>
-<guid isPermaLink="false">ccc6033aac38c2aed0b8c1e5a6b9d7491255af7f</guid>
-<description>Venue: Preservation Hall | Date: Friday, July 3 | Time: 7:30pm</description>
-<pubDate>Fri, 03 Jul 2026 19:30:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1358796</link>
+<guid isPermaLink="false">95e491f11c8837ff86f4f3917219dc7f2be9f17e</guid>
+<description>Venue: Preservation Hall | Date: Saturday, July 4 | Time: 7:30pm</description>
+<pubDate>Sat, 04 Jul 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1358801</link>
-<guid isPermaLink="false">e4d99477b16d81f1ceb60706f0062c7715ff1e58</guid>
-<description>Venue: Preservation Hall | Date: Friday, July 3 | Time: 8:45pm</description>
-<pubDate>Fri, 03 Jul 2026 20:45:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1358806</link>
+<guid isPermaLink="false">2266e9fd024d4ea9a2f96b37299ef261bdb01145</guid>
+<description>Venue: Preservation Hall | Date: Saturday, July 4 | Time: 8:45pm</description>
+<pubDate>Sat, 04 Jul 2026 20:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Cult Classics with DJ Sunnie — Rabbit Hole, The</title>
-<link>https://www.wwoz.org/events/1361351</link>
-<guid isPermaLink="false">edfe361aff5a4cddcb9239726c1285ad4352e656</guid>
-<description>Venue: Rabbit Hole, The | Date: Friday, July 3 | Time: 10:00pm</description>
-<pubDate>Fri, 03 Jul 2026 22:00:00 +0000</pubDate>
+<title>Horsetail + Dummy Plug + Shmoo + Lou Oma — Siberia</title>
+<link>https://www.wwoz.org/events/1359651</link>
+<guid isPermaLink="false">ec725c7d6055d5e0b34214c35acfc23624338fda</guid>
+<description>Venue: Siberia | Date: Saturday, July 4 | Time: 9:00pm</description>
+<pubDate>Sat, 04 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Resurrection Goth Night with DJs Mange, EveHill &amp; Kacey Chaos — Santos Bar</title>
-<link>https://www.wwoz.org/events/1362316</link>
-<guid isPermaLink="false">7cc8acb5d831d4dfed0eabd17ae4b4a9ea5ad294</guid>
-<description>Venue: Santos Bar | Date: Friday, July 3 | Time: 10:00pm</description>
-<pubDate>Fri, 03 Jul 2026 22:00:00 +0000</pubDate>
+<title>Kelly Love Jones — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1362176</link>
+<guid isPermaLink="false">83b7e9f22310054a92245b6a07123939888a7e87</guid>
+<description>Venue: Snug Harbor | Date: Saturday, July 4 | Time: 4:30pm</description>
+<pubDate>Sat, 04 Jul 2026 16:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Una Noche de Musica Latina con La Tran-K — Saturn Bar</title>
-<link>https://www.wwoz.org/events/1345506</link>
-<guid isPermaLink="false">59c025e458c758b3c7f4f904e4d4ecca387e0d1b</guid>
-<description>Venue: Saturn Bar | Date: Friday, July 3 | Time: 10:00pm</description>
-<pubDate>Fri, 03 Jul 2026 22:00:00 +0000</pubDate>
+<title>Herlin Riley Quartet — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1362221</link>
+<guid isPermaLink="false">75e1aef996f8e254a0cf8d8204a38dfc0b6f9d2f</guid>
+<description>Venue: Snug Harbor | Date: Saturday, July 4 | Time: 7:30pm</description>
+<pubDate>Sat, 04 Jul 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>The Midnight Papers with Wild Heaven, Drugstore Lipstick, and Night Medicine — Siberia</title>
-<link>https://www.wwoz.org/events/1348231</link>
-<guid isPermaLink="false">49c20adff61f5e97980e59abbeb755f372b9a191</guid>
-<description>Venue: Siberia | Date: Friday, July 3 | Time: 9:00pm</description>
-<pubDate>Fri, 03 Jul 2026 21:00:00 +0000</pubDate>
+<title>Herlin Riley Quartet — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1362216</link>
+<guid isPermaLink="false">a46ffa7d657cd20f10eb276d9442840e85f1ec6e</guid>
+<description>Venue: Snug Harbor | Date: Saturday, July 4 | Time: 9:30pm</description>
+<pubDate>Sat, 04 Jul 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Stephanie Jordan Jazz Ensemble — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1362171</link>
-<guid isPermaLink="false">fc8e4f7b9ac58f5ffb57ccca4e3228eccfe92e41</guid>
-<description>Venue: Snug Harbor | Date: Friday, July 3 | Time: 7:30pm</description>
-<pubDate>Fri, 03 Jul 2026 19:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Stephanie Jordan Jazz Ensemble — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1362166</link>
-<guid isPermaLink="false">fedbffe716d1e89bf566dfb8e465949a6752ba6c</guid>
-<description>Venue: Snug Harbor | Date: Friday, July 3 | Time: 9:30pm</description>
-<pubDate>Fri, 03 Jul 2026 21:30:00 +0000</pubDate>
+<title>Jay Anderson — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1365771</link>
+<guid isPermaLink="false">dbb47de86aa9491a33a1e60d68967291f0bbf92d</guid>
+<description>Venue: Spotted Cat | Date: Saturday, July 4 | Time: 2:00pm</description>
+<pubDate>Sat, 04 Jul 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Paradise Jazz Band — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1365731</link>
-<guid isPermaLink="false">d16bdfecc7364aff4b2ff0b9a0ce8bb1ad3dd47c</guid>
-<description>Venue: Spotted Cat | Date: Friday, July 3 | Time: 2:00pm</description>
-<pubDate>Fri, 03 Jul 2026 14:00:00 +0000</pubDate>
-</item>
-<item>
-<title>The New Orleans Cottonmouth Kings — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1365621</link>
-<guid isPermaLink="false">bf4aabcdb68d021092da35daf7592a5f4743410b</guid>
-<description>Venue: Spotted Cat | Date: Friday, July 3 | Time: 6:00pm</description>
-<pubDate>Fri, 03 Jul 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Sierra Green — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1365641</link>
-<guid isPermaLink="false">434c67d53e0cf04a7487b7bbfc0e4f10bb3c585c</guid>
-<description>Venue: Spotted Cat | Date: Friday, July 3 | Time: 10:00pm</description>
-<pubDate>Fri, 03 Jul 2026 22:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1365726</link>
+<guid isPermaLink="false">61bdb9852f9f2d78a0ba34e1cd224fb2592d6de8</guid>
+<description>Venue: Spotted Cat | Date: Saturday, July 4 | Time: 6:00pm</description>
+<pubDate>Sat, 04 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1366396</link>
-<guid isPermaLink="false">cefc9457ba843fe215ee644ca8e3ce01778d54a3</guid>
-<description>Venue: Steamboat Natchez | Date: Friday, July 3 | Time: 11:00am</description>
-<pubDate>Fri, 03 Jul 2026 11:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1366401</link>
+<guid isPermaLink="false">a4cc6a7de13b5e410ffca40963fde1e9f25608b2</guid>
+<description>Venue: Steamboat Natchez | Date: Saturday, July 4 | Time: 11:00am</description>
+<pubDate>Sat, 04 Jul 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1366641</link>
-<guid isPermaLink="false">b4e9c5e938a5dc71657ccecc51320342093610ce</guid>
-<description>Venue: Steamboat Natchez | Date: Friday, July 3 | Time: 2:00pm</description>
-<pubDate>Fri, 03 Jul 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1366666</link>
+<guid isPermaLink="false">7877aee59c6ef2dffc01dc407c19a9fab5b53e22</guid>
+<description>Venue: Steamboat Natchez | Date: Saturday, July 4 | Time: 2:00pm</description>
+<pubDate>Sat, 04 Jul 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dukes of Dixieland — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1366721</link>
-<guid isPermaLink="false">307de2a154387e3392e2f8f8b64603b7c564eb77</guid>
-<description>Venue: Steamboat Natchez | Date: Friday, July 3 | Time: 6:00pm</description>
-<pubDate>Fri, 03 Jul 2026 18:00:00 +0000</pubDate>
+<title>Go 4th on the River ft. Dukes of Dixieland — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1366386</link>
+<guid isPermaLink="false">1c62450d2de8e9a72f306086ea9bf6de78e19414</guid>
+<description>Venue: Steamboat Natchez | Date: Saturday, July 4 | Time: 6:00pm</description>
+<pubDate>Sat, 04 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Troy Marks &amp; No Idea — Tee-Wee’s On Da’ Bayou</title>
-<link>https://www.wwoz.org/events/1365371</link>
-<guid isPermaLink="false">759da89480df627a8ce35e385361c69770cf28db</guid>
-<description>Venue: Tee-Wee’s On Da’ Bayou | Date: Friday, July 3 | Time: 6:00pm</description>
-<pubDate>Fri, 03 Jul 2026 18:00:00 +0000</pubDate>
+<title>The Melatauns — Tee-Wee’s On Da’ Bayou</title>
+<link>https://www.wwoz.org/events/1365101</link>
+<guid isPermaLink="false">290fa374554ae78719e9ca375f56273e03334b70</guid>
+<description>Venue: Tee-Wee’s On Da’ Bayou | Date: Saturday, July 4 | Time: 6:00pm</description>
+<pubDate>Sat, 04 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Nat Lawrence — Three Muses</title>
-<link>https://www.wwoz.org/events/1364611</link>
-<guid isPermaLink="false">6c3feffc6db0fc896d4d77e6dbb7aea279160ecf</guid>
-<description>Venue: Three Muses | Date: Friday, July 3 | Time: 7:00pm</description>
-<pubDate>Fri, 03 Jul 2026 19:00:00 +0000</pubDate>
+<title>Justin Donovan — Three Muses</title>
+<link>https://www.wwoz.org/events/1364626</link>
+<guid isPermaLink="false">c8c85ed08383f3d2dd2aea7030997161ad8fab5e</guid>
+<description>Venue: Three Muses | Date: Saturday, July 4 | Time: 6:00pm</description>
+<pubDate>Sat, 04 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Free Fridays Concert Series ft. Brass-A-Holics + Vegas Cola — Tipitina's</title>
-<link>https://www.wwoz.org/events/1335676</link>
-<guid isPermaLink="false">dee2c75d1486c540365a184171021877ad4031f1</guid>
-<description>Venue: Tipitina's | Date: Friday, July 3 | Time: 9:00pm</description>
-<pubDate>Fri, 03 Jul 2026 21:00:00 +0000</pubDate>
+<title>Dulce Ritmo — Three Muses</title>
+<link>https://www.wwoz.org/events/1364631</link>
+<guid isPermaLink="false">75dac1303c5df8b7b0d51b5d8f80cdd132a84190</guid>
+<description>Venue: Three Muses | Date: Saturday, July 4 | Time: 10:00pm</description>
+<pubDate>Sat, 04 Jul 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Better Late Than Jake — True South</title>
-<link>https://www.wwoz.org/events/1361041</link>
-<guid isPermaLink="false">609dea8af38d020eb2122d65c3e76e5120d83ee5</guid>
-<description>Venue: True South | Date: Friday, July 3 | Time: 8:00pm</description>
-<pubDate>Fri, 03 Jul 2026 20:00:00 +0000</pubDate>
+<title>Mark Barrett &amp; The First Calls — Tropical Isle Bourbon</title>
+<link>https://www.wwoz.org/events/1362446</link>
+<guid isPermaLink="false">4b08011b57fdada5ce319a643fb432fe4ebdd8b6</guid>
+<description>Venue: Tropical Isle Bourbon | Date: Saturday, July 4 | Time: 7:00pm</description>
+<pubDate>Sat, 04 Jul 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jerry Giddens — Twilight Room at The Allways Lounge</title>
-<link>https://www.wwoz.org/events/1354951</link>
-<guid isPermaLink="false">f0cf53fa1fbe14250ac4db36dbc8faf811adf30a</guid>
-<description>Venue: Twilight Room at The Allways Lounge | Date: Friday, July 3 | Time: 7:00pm</description>
-<pubDate>Fri, 03 Jul 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Battle of the Bands : The New Orleans All-Star Band vs. Space City All-Star Band (Houston, TX) — Xavier University - Convocation Center</title>
-<link>https://www.wwoz.org/events/1361321</link>
-<guid isPermaLink="false">fd16bfb4cb58fc0306df80f288511a42aae47fef</guid>
-<description>Venue: Xavier University - Convocation Center | Date: Friday, July 3 | Time: 6:00pm</description>
-<pubDate>Fri, 03 Jul 2026 18:00:00 +0000</pubDate>
+<title>Stone Cold Hippies with Clements Clements Clements — True South</title>
+<link>https://www.wwoz.org/events/1361046</link>
+<guid isPermaLink="false">20912244867e90f071c8187bc4a637aa9811c3d1</guid>
+<description>Venue: True South | Date: Saturday, July 4 | Time: 8:00pm</description>
+<pubDate>Sat, 04 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
