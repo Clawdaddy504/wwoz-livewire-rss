@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 06 Jul 2026 11:01:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 15:53:56 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>The Dapper Dandies — 30/90</title>
@@ -27,6 +27,13 @@
 <guid isPermaLink="false">38b9946fc752d35edc108b6ee7660aa1e0bd1f10</guid>
 <description>Venue: Bacchanal (OUTDOORS) | Date: Monday, July 6 | Time: 6:00pm</description>
 <pubDate>Mon, 06 Jul 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The New Orleans Rug Cutters — Bamboula's</title>
+<link>https://www.wwoz.org/events/1367176</link>
+<guid isPermaLink="false">7c0caf34622b5bfb33712d70044987bbaa337497</guid>
+<description>Venue: Bamboula's | Date: Monday, July 6 | Time: 12:00pm</description>
+<pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Red Beans &amp; Blues with Washboard Chaz &amp; Jonathan Freilich — BJ's Lounge</title>
