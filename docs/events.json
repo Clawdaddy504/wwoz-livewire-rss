@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-07-07T10:00:06.747456+00:00",
-  "count": 43,
+  "generated_at": "2026-07-07T15:13:29.421044+00:00",
+  "count": 44,
   "events": [
     {
       "id": "d845a3a1dea420f8c9c06bd78e9e0d2995865e9b",
@@ -363,6 +363,18 @@
       "time_text": "8:45pm",
       "start": "2026-07-07T20:45:00+00:00",
       "description": "Venue: Preservation Hall | Date: Tuesday, July 7 | Time: 8:45pm"
+    },
+    {
+      "id": "73f2d166f168a6ff82c52e331cfe916994cd4705",
+      "source": "wwoz",
+      "title": "George Kilby Jr. & The Healers",
+      "venue": "Prytania Bar",
+      "venue_url": "https://www.wwoz.org/organizations/prytania-bar",
+      "event_url": "https://www.wwoz.org/events/1367326",
+      "date_text": "Tuesday, July 7",
+      "time_text": "6:00pm",
+      "start": "2026-07-07T18:00:00+00:00",
+      "description": "Venue: Prytania Bar | Date: Tuesday, July 7 | Time: 6:00pm"
     },
     {
       "id": "0a7ad9967642675a6ea6d1cdf69f527d6cff6e8f",

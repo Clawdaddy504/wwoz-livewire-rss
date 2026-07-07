@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 07 Jul 2026 10:00:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 15:13:29 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Kayla Jasmine — 30/90</title>
@@ -216,6 +216,13 @@
 <guid isPermaLink="false">75e88b4fe5129dc8ee08758bbf36b2a0c23023b5</guid>
 <description>Venue: Preservation Hall | Date: Tuesday, July 7 | Time: 8:45pm</description>
 <pubDate>Tue, 07 Jul 2026 20:45:00 +0000</pubDate>
+</item>
+<item>
+<title>George Kilby Jr. &amp; The Healers — Prytania Bar</title>
+<link>https://www.wwoz.org/events/1367326</link>
+<guid isPermaLink="false">73f2d166f168a6ff82c52e331cfe916994cd4705</guid>
+<description>Venue: Prytania Bar | Date: Tuesday, July 7 | Time: 6:00pm</description>
+<pubDate>Tue, 07 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Rebirth Brass Band — Rabbit Hole, The</title>
