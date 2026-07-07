@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-07-07T17:25:48.558347+00:00",
-  "count": 44,
+  "generated_at": "2026-07-07T20:13:06.676157+00:00",
+  "count": 49,
   "events": [
     {
       "id": "d845a3a1dea420f8c9c06bd78e9e0d2995865e9b",
@@ -39,6 +39,42 @@
       "time_text": "6:00pm",
       "start": "2026-07-07T18:00:00+00:00",
       "description": "Venue: Bacchanal (OUTDOORS) | Date: Tuesday, July 7 | Time: 6:00pm"
+    },
+    {
+      "id": "c263d3f5a26b2de3f2b6a6e40df5c3fa0c2878fe",
+      "source": "wwoz",
+      "title": "F K-rrera Music Group",
+      "venue": "Bamboula's",
+      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
+      "event_url": "https://www.wwoz.org/events/1368171",
+      "date_text": "Tuesday, July 7",
+      "time_text": "12:00pm",
+      "start": "2026-07-07T12:00:00+00:00",
+      "description": "Venue: Bamboula's | Date: Tuesday, July 7 | Time: 12:00pm"
+    },
+    {
+      "id": "662c6606c81c6f8f0c76bf12112c9c85831e11e6",
+      "source": "wwoz",
+      "title": "Ed Wills Blues 4 $ale",
+      "venue": "Bamboula's",
+      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
+      "event_url": "https://www.wwoz.org/events/1368176",
+      "date_text": "Tuesday, July 7",
+      "time_text": "4:30pm",
+      "start": "2026-07-07T16:30:00+00:00",
+      "description": "Venue: Bamboula's | Date: Tuesday, July 7 | Time: 4:30pm"
+    },
+    {
+      "id": "78d4be1041e906652180f9334f085f0d5d258126",
+      "source": "wwoz",
+      "title": "Caitie B. & the Hand Me Downs",
+      "venue": "Bamboula's",
+      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
+      "event_url": "https://www.wwoz.org/events/1368181",
+      "date_text": "Tuesday, July 7",
+      "time_text": "9:00pm",
+      "start": "2026-07-07T21:00:00+00:00",
+      "description": "Venue: Bamboula's | Date: Tuesday, July 7 | Time: 9:00pm"
     },
     {
       "id": "bae8f3f70dc7637e9416e84b73484f7cedf9d8c6",
@@ -137,6 +173,18 @@
       "description": "Venue: Cajun Boil House | Date: Tuesday, July 7 | Time: 3:00pm"
     },
     {
+      "id": "59d53ec5eecf9bf7a8686ca26394543aab432bc8",
+      "source": "wwoz",
+      "title": "Jenna McSwain",
+      "venue": "Carousel Bar & Lounge at Hotel Monteleone",
+      "venue_url": "https://www.wwoz.org/organizations/carousel-bar-lounge-hotel-monteleone",
+      "event_url": "https://www.wwoz.org/events/1367696",
+      "date_text": "Tuesday, July 7",
+      "time_text": "8:00pm",
+      "start": "2026-07-07T20:00:00+00:00",
+      "description": "Venue: Carousel Bar & Lounge at Hotel Monteleone | Date: Tuesday, July 7 | Time: 8:00pm"
+    },
+    {
       "id": "fbc04103c08d26405f2511c93e886497617fd6c9",
       "source": "wwoz",
       "title": "Les Femmes Farouches",
@@ -147,6 +195,18 @@
       "time_text": "6:00pm",
       "start": "2026-07-07T18:00:00+00:00",
       "description": "Venue: d.b.a. | Date: Tuesday, July 7 | Time: 6:00pm"
+    },
+    {
+      "id": "c9ef9422edd99c6f1429cdbf4297210bfc371fcd",
+      "source": "wwoz",
+      "title": "Kid Chocolate & The Free P.O.C",
+      "venue": "d.b.a.",
+      "venue_url": "https://www.wwoz.org/organizations/dba",
+      "event_url": "https://www.wwoz.org/events/1367786",
+      "date_text": "Tuesday, July 7",
+      "time_text": "9:30pm",
+      "start": "2026-07-07T21:30:00+00:00",
+      "description": "Venue: d.b.a. | Date: Tuesday, July 7 | Time: 9:30pm"
     },
     {
       "id": "725ab7ff3df1e1133f3826c9124bd7f9b1c1b902",

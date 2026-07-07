@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 07 Jul 2026 17:25:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 20:13:06 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Kayla Jasmine — 30/90</title>
@@ -27,6 +27,27 @@
 <guid isPermaLink="false">84f15f51ff9201bd17f452fdcd63b2deb36fdb24</guid>
 <description>Venue: Bacchanal (OUTDOORS) | Date: Tuesday, July 7 | Time: 6:00pm</description>
 <pubDate>Tue, 07 Jul 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>F K-rrera Music Group — Bamboula's</title>
+<link>https://www.wwoz.org/events/1368171</link>
+<guid isPermaLink="false">c263d3f5a26b2de3f2b6a6e40df5c3fa0c2878fe</guid>
+<description>Venue: Bamboula's | Date: Tuesday, July 7 | Time: 12:00pm</description>
+<pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Ed Wills Blues 4 $ale — Bamboula's</title>
+<link>https://www.wwoz.org/events/1368176</link>
+<guid isPermaLink="false">662c6606c81c6f8f0c76bf12112c9c85831e11e6</guid>
+<description>Venue: Bamboula's | Date: Tuesday, July 7 | Time: 4:30pm</description>
+<pubDate>Tue, 07 Jul 2026 16:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Caitie B. &amp; the Hand Me Downs — Bamboula's</title>
+<link>https://www.wwoz.org/events/1368181</link>
+<guid isPermaLink="false">78d4be1041e906652180f9334f085f0d5d258126</guid>
+<description>Venue: Bamboula's | Date: Tuesday, July 7 | Time: 9:00pm</description>
+<pubDate>Tue, 07 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Double Bird ft. Peter Harris, Ashlin Parker, David Torkanowsky, and Nygel Anderson — Bayou Bar at the Pontchartrain</title>
@@ -85,11 +106,25 @@
 <pubDate>Tue, 07 Jul 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Jenna McSwain — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1367696</link>
+<guid isPermaLink="false">59d53ec5eecf9bf7a8686ca26394543aab432bc8</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Tuesday, July 7 | Time: 8:00pm</description>
+<pubDate>Tue, 07 Jul 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Les Femmes Farouches — d.b.a.</title>
 <link>https://www.wwoz.org/events/1362496</link>
 <guid isPermaLink="false">fbc04103c08d26405f2511c93e886497617fd6c9</guid>
 <description>Venue: d.b.a. | Date: Tuesday, July 7 | Time: 6:00pm</description>
 <pubDate>Tue, 07 Jul 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Kid Chocolate &amp; The Free P.O.C — d.b.a.</title>
+<link>https://www.wwoz.org/events/1367786</link>
+<guid isPermaLink="false">c9ef9422edd99c6f1429cdbf4297210bfc371fcd</guid>
+<description>Venue: d.b.a. | Date: Tuesday, July 7 | Time: 9:30pm</description>
+<pubDate>Tue, 07 Jul 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Tom Hook — Dos Jefes</title>
