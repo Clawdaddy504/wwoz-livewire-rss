@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 09 Jul 2026 15:32:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 20:03:12 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy — 21st Amendment</title>
@@ -370,6 +370,13 @@
 <guid isPermaLink="false">90e43f6f737bc7a5773e79c81da4334085e4d880</guid>
 <description>Venue: Peacock Room at the Kimpton Hotel Fontenot | Date: Thursday, July 9 | Time: 8:00pm</description>
 <pubDate>Thu, 09 Jul 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Bastille Day Celebration ft. Pardon My French + More! — Pitot House</title>
+<link>https://www.wwoz.org/events/1368636</link>
+<guid isPermaLink="false">c155c70d413b6af7a2858cc8f8d387afe0b426b6</guid>
+<description>Venue: Pitot House | Date: Thursday, July 9 | Time: 6:00pm</description>
+<pubDate>Thu, 09 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>John Royen — Polo Club at The Windsor Court, The</title>

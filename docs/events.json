@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-07-09T15:32:47.277420+00:00",
-  "count": 74,
+  "generated_at": "2026-07-09T20:03:12.397728+00:00",
+  "count": 75,
   "events": [
     {
       "id": "45bc976cb298001b530bde9169a3d718ecb856a8",
@@ -627,6 +627,18 @@
       "time_text": "8:00pm",
       "start": "2026-07-09T20:00:00+00:00",
       "description": "Venue: Peacock Room at the Kimpton Hotel Fontenot | Date: Thursday, July 9 | Time: 8:00pm"
+    },
+    {
+      "id": "c155c70d413b6af7a2858cc8f8d387afe0b426b6",
+      "source": "wwoz",
+      "title": "Bastille Day Celebration ft. Pardon My French + More!",
+      "venue": "Pitot House",
+      "venue_url": "https://www.wwoz.org/organizations/pitot-house",
+      "event_url": "https://www.wwoz.org/events/1368636",
+      "date_text": "Thursday, July 9",
+      "time_text": "6:00pm",
+      "start": "2026-07-09T18:00:00+00:00",
+      "description": "Venue: Pitot House | Date: Thursday, July 9 | Time: 6:00pm"
     },
     {
       "id": "1ad0d4b4d56f82da87390eea79bc5d69df418e4f",
