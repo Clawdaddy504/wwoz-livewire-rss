@@ -5,413 +5,539 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 16 Jul 2026 03:35:31 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 08:33:23 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
-<title>The Funky Soles — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1364991</link>
-<guid isPermaLink="false">80475c3b52e4a2f18ab6d1ef1e59677c760df109</guid>
-<description>Venue: 21st Amendment | Date: Wednesday, July 15 | Time: 8:00pm</description>
-<pubDate>Wed, 15 Jul 2026 20:00:00 +0000</pubDate>
+<title>Big Joe Kennedy — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1365006</link>
+<guid isPermaLink="false">09510e06951d9aa042acf5f7c4ad01da038ea548</guid>
+<description>Venue: 21st Amendment | Date: Thursday, July 16 | Time: 3:00pm</description>
+<pubDate>Thu, 16 Jul 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mother Ruckus — 30/90</title>
-<link>https://www.wwoz.org/events/1366096</link>
-<guid isPermaLink="false">0b8cf2cc399f988a79c3de9abee11d0b9992d905</guid>
-<description>Venue: 30/90 | Date: Wednesday, July 15 | Time: 6:00pm</description>
-<pubDate>Wed, 15 Jul 2026 18:00:00 +0000</pubDate>
+<title>Marty Peters &amp; The Party Meters — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1364891</link>
+<guid isPermaLink="false">f1e44f58b5a1e6e21f1adc6ae435f873c32e4df9</guid>
+<description>Venue: 21st Amendment | Date: Thursday, July 16 | Time: 8:00pm</description>
+<pubDate>Thu, 16 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jesse Morrow — Bacchanal (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1364721</link>
-<guid isPermaLink="false">cd7b432102704bffc2f5bcfcd51330bd1503f020</guid>
-<description>Venue: Bacchanal (OUTDOORS) | Date: Wednesday, July 15 | Time: 6:00pm</description>
-<pubDate>Wed, 15 Jul 2026 18:00:00 +0000</pubDate>
+<title>The Dapper Dandies — 30/90</title>
+<link>https://www.wwoz.org/events/1365956</link>
+<guid isPermaLink="false">cf697edfbb20f715371204003f7e205f32fb7984</guid>
+<description>Venue: 30/90 | Date: Thursday, July 16 | Time: 6:00pm</description>
+<pubDate>Thu, 16 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jacky Blaire &amp; the Hot Biscuits — Bamboula's</title>
-<link>https://www.wwoz.org/events/1368931</link>
-<guid isPermaLink="false">a886554ca392893c5f06d99284e4829a6eb89b89</guid>
-<description>Venue: Bamboula's | Date: Wednesday, July 15 | Time: 12:00pm</description>
-<pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
+<title>Where Ya At Brass Band — 30/90</title>
+<link>https://www.wwoz.org/events/1366041</link>
+<guid isPermaLink="false">f3c4dc885bf09da302eff930f58576fc1c0ff208</guid>
+<description>Venue: 30/90 | Date: Thursday, July 16 | Time: 9:00pm</description>
+<pubDate>Thu, 16 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Swingin' with John Saavedra — Bamboula's</title>
-<link>https://www.wwoz.org/events/1368936</link>
-<guid isPermaLink="false">2b264610b5f44666d6bbc4852baf16c3d195fa2d</guid>
-<description>Venue: Bamboula's | Date: Wednesday, July 15 | Time: 4:30pm</description>
-<pubDate>Wed, 15 Jul 2026 16:30:00 +0000</pubDate>
+<title>Davis Rogan — 4141 NOLA</title>
+<link>https://www.wwoz.org/events/1360631</link>
+<guid isPermaLink="false">5669fc84e7f84ead5b756c18a6ee3aab75a903a1</guid>
+<description>Venue: 4141 NOLA | Date: Thursday, July 16 | Time: 6:30pm</description>
+<pubDate>Thu, 16 Jul 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Jelly Roll Stompers — Bamboula's</title>
-<link>https://www.wwoz.org/events/1368941</link>
-<guid isPermaLink="false">909ad8301eca2941771b1ca15565c8699ab77248</guid>
-<description>Venue: Bamboula's | Date: Wednesday, July 15 | Time: 9:00pm</description>
-<pubDate>Wed, 15 Jul 2026 21:00:00 +0000</pubDate>
+<title>Tangiers Combo — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1364726</link>
+<guid isPermaLink="false">76c6a2e7f7c6cb09390c355b2c129a7471df50eb</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Thursday, July 16 | Time: 6:00pm</description>
+<pubDate>Thu, 16 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Firm Roots ft. Peter Harris, The Groovemaster, Dwight Fitch Jr., and Julian Lee — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1366246</link>
-<guid isPermaLink="false">dd9c27c10588b1b68eba6b1e07d7d07d03abad4b</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Wednesday, July 15 | Time: 8:00pm</description>
-<pubDate>Wed, 15 Jul 2026 20:00:00 +0000</pubDate>
+<title>J.J. &amp; the A-OK's — Bamboula's</title>
+<link>https://www.wwoz.org/events/1368726</link>
+<guid isPermaLink="false">df3a2b53d7fa54a1cbc63b445267591a0f4b6b8e</guid>
+<description>Venue: Bamboula's | Date: Thursday, July 16 | Time: 12:00pm</description>
+<pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Firm Roots ft. Peter Harris, The Groovemaster, Dwight Fitch Jr., and Julian Lee — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1366251</link>
-<guid isPermaLink="false">567962fd038c11a45e393735920e4516a5d0078a</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Wednesday, July 15 | Time: 10:00pm</description>
-<pubDate>Wed, 15 Jul 2026 22:00:00 +0000</pubDate>
+<title>The New Orleans Rug Cutters — Bamboula's</title>
+<link>https://www.wwoz.org/events/1367221</link>
+<guid isPermaLink="false">db6b57d67f7153dc70855b80c15579b1c6ffe8a4</guid>
+<description>Venue: Bamboula's | Date: Thursday, July 16 | Time: 4:30pm</description>
+<pubDate>Thu, 16 Jul 2026 16:30:00 +0000</pubDate>
 </item>
 <item>
-<title>New Breed Brass Band — Blue Nile</title>
-<link>https://www.wwoz.org/events/1363436</link>
-<guid isPermaLink="false">202264accffb82cdaa283238db28c39a50003199</guid>
-<description>Venue: Blue Nile | Date: Wednesday, July 15 | Time: 9:00pm</description>
-<pubDate>Wed, 15 Jul 2026 21:00:00 +0000</pubDate>
+<title>Midnight Brawlers — Bamboula's</title>
+<link>https://www.wwoz.org/events/1368746</link>
+<guid isPermaLink="false">81aff540e5c10d6618a1b051274cce1a3137d3f9</guid>
+<description>Venue: Bamboula's | Date: Thursday, July 16 | Time: 9:00pm</description>
+<pubDate>Thu, 16 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dick Deluxe &amp; Gabe Stillman — B Mac's (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1369106</link>
-<guid isPermaLink="false">521bcd46c6ee568da1b9a5cb742453b0de959280</guid>
-<description>Venue: B Mac's (OUTDOORS) | Date: Wednesday, July 15 | Time: 7:00pm</description>
-<pubDate>Wed, 15 Jul 2026 19:00:00 +0000</pubDate>
+<title>Creepy Fest with Cikada + S.A.I.G.O.N. + Burial Gift — Banks Street Bar</title>
+<link>https://www.wwoz.org/events/1365096</link>
+<guid isPermaLink="false">606f6ef3405afacfca7ce2a6b818c471c3d6f249</guid>
+<description>Venue: Banks Street Bar | Date: Thursday, July 16 | Time: 10:00pm</description>
+<pubDate>Thu, 16 Jul 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Nina Hungerland — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1366906</link>
-<guid isPermaLink="false">d3824b1a03ab72b69adcccc4649209fb9dbdfd0b</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Wednesday, July 15 | Time: 8:00pm</description>
-<pubDate>Wed, 15 Jul 2026 20:00:00 +0000</pubDate>
+<title>Generational Swing ft. Peter Harris, Miles Berry, Seth Finch, and Nygel Anderson — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1366256</link>
+<guid isPermaLink="false">62cb0c752ba015bf3b63551208e8d991baa6e4aa</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Thursday, July 16 | Time: 8:00pm</description>
+<pubDate>Thu, 16 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Joe Krown — Buffa's</title>
-<link>https://www.wwoz.org/events/1363371</link>
-<guid isPermaLink="false">37107b11e56fbb9d36fa05f0f159f30e7672f811</guid>
-<description>Venue: Buffa's | Date: Wednesday, July 15 | Time: 7:00pm</description>
-<pubDate>Wed, 15 Jul 2026 19:00:00 +0000</pubDate>
+<title>Generational Swing ft. Peter Harris, Miles Berry, Seth Finch, and Nygel Anderson — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1366261</link>
+<guid isPermaLink="false">131608462e0a530a6bc21e1176a0392f3b4ccbc8</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Thursday, July 16 | Time: 10:00pm</description>
+<pubDate>Thu, 16 Jul 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Gizinti Trio — Café Degas</title>
-<link>https://www.wwoz.org/events/1349856</link>
-<guid isPermaLink="false">187593ee6ca59be471b1d812dcf75aba839f2559</guid>
-<description>Venue: Café Degas | Date: Wednesday, July 15 | Time: 6:00pm</description>
-<pubDate>Wed, 15 Jul 2026 18:00:00 +0000</pubDate>
+<title>Rose &amp; the Rabbit Fangs — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1367406</link>
+<guid isPermaLink="false">7857a2bc45d1b58c4dfa1ea627306339f4d24a74</guid>
+<description>Venue: BJ's Lounge | Date: Thursday, July 16 | Time: 9:00pm</description>
+<pubDate>Thu, 16 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jam-ilton — Café Negril</title>
-<link>https://www.wwoz.org/events/1360321</link>
-<guid isPermaLink="false">80b6351a8a009d3e0f2a15257bfc241c2906e6ac</guid>
-<description>Venue: Café Negril | Date: Wednesday, July 15 | Time: 7:30pm</description>
-<pubDate>Wed, 15 Jul 2026 19:30:00 +0000</pubDate>
+<title>Vinyl Listening Party &amp; Fundraiser for Amistad Research Center — Blue Crawfish, The</title>
+<link>https://www.wwoz.org/events/1368711</link>
+<guid isPermaLink="false">0144a14a346bc33680faa6cb811cefb2a44b432a</guid>
+<description>Venue: Blue Crawfish, The | Date: Thursday, July 16 | Time: 5:30pm</description>
+<pubDate>Thu, 16 Jul 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Les Getrex — Cajun Boil House</title>
-<link>https://www.wwoz.org/events/1360266</link>
-<guid isPermaLink="false">d31d47db243372ecb61615aaf11ec9844e048ad1</guid>
-<description>Venue: Cajun Boil House | Date: Wednesday, July 15 | Time: 3:00pm</description>
-<pubDate>Wed, 15 Jul 2026 15:00:00 +0000</pubDate>
+<title>Irvin Mayfield's Music Church with Special Guests — Blue Nile</title>
+<link>https://www.wwoz.org/events/1363551</link>
+<guid isPermaLink="false">b7612a8b13c01913c655bcc01b6150f5c956d952</guid>
+<description>Venue: Blue Nile | Date: Thursday, July 16 | Time: 9:00pm</description>
+<pubDate>Thu, 16 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Stephen Walker N'em — d.b.a.</title>
-<link>https://www.wwoz.org/events/1367811</link>
-<guid isPermaLink="false">22f8126380c16185e9be947163fe8885b3636559</guid>
-<description>Venue: d.b.a. | Date: Wednesday, July 15 | Time: 6:00pm</description>
-<pubDate>Wed, 15 Jul 2026 18:00:00 +0000</pubDate>
+<title>Reggae Night with DJ T-Roy — Blue Nile - Balcony Room</title>
+<link>https://www.wwoz.org/events/1363461</link>
+<guid isPermaLink="false">71f0a0d6cdd99fbc0915ffdc20e328eecb0fad31</guid>
+<description>Venue: Blue Nile - Balcony Room | Date: Thursday, July 16 | Time: 11:00pm</description>
+<pubDate>Thu, 16 Jul 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Next Level Band — d.b.a.</title>
-<link>https://www.wwoz.org/events/1367831</link>
-<guid isPermaLink="false">65a1301f77cc58c45f427bf99170954d17b29682</guid>
-<description>Venue: d.b.a. | Date: Wednesday, July 15 | Time: 9:30pm</description>
-<pubDate>Wed, 15 Jul 2026 21:30:00 +0000</pubDate>
+<title>Open Musicians Jam with Christian, AP &amp; the B Mac's Family Band — B Mac's (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1369111</link>
+<guid isPermaLink="false">362bf60e08e55ed8edacea0545dbf034d4fe17a3</guid>
+<description>Venue: B Mac's (OUTDOORS) | Date: Thursday, July 16 | Time: 7:00pm</description>
+<pubDate>Thu, 16 Jul 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Leroy Marshall Band — BMC</title>
+<link>https://www.wwoz.org/events/1360866</link>
+<guid isPermaLink="false">ed6d0c5ddc2203781ee58641809302c0b68e258f</guid>
+<description>Venue: BMC | Date: Thursday, July 16 | Time: 6:00pm</description>
+<pubDate>Thu, 16 Jul 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Kat Kiley Experience — BMC</title>
+<link>https://www.wwoz.org/events/1360771</link>
+<guid isPermaLink="false">39d2b920873204162f32a9269b7c92ee2d631a31</guid>
+<description>Venue: BMC | Date: Thursday, July 16 | Time: 9:00pm</description>
+<pubDate>Thu, 16 Jul 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Big Mike — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1366921</link>
+<guid isPermaLink="false">2b0688925b76715d456a19b93fcb440f63e97919</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Thursday, July 16 | Time: 8:00pm</description>
+<pubDate>Thu, 16 Jul 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Creepy Fest with STGMA, The Unnaturals, The Bills &amp; More! — Broadside (Outdoor Stage)</title>
+<link>https://www.wwoz.org/events/1365406</link>
+<guid isPermaLink="false">404fe06d03eeaf782ba7ef61ce51706c3f703805</guid>
+<description>Venue: Broadside (Outdoor Stage) | Date: Thursday, July 16 | Time: 6:00pm</description>
+<pubDate>Thu, 16 Jul 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Tom McDermott &amp; Aurora Nealand — Buffa's</title>
+<link>https://www.wwoz.org/events/1363351</link>
+<guid isPermaLink="false">9867a7f0180be9515dc5014b52d9d21a58efdc3e</guid>
+<description>Venue: Buffa's | Date: Thursday, July 16 | Time: 7:00pm</description>
+<pubDate>Thu, 16 Jul 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Blues at Work with Phil Breen — Café Negril</title>
+<link>https://www.wwoz.org/events/1360336</link>
+<guid isPermaLink="false">3b79d22b01053146e2f09d1b79f2d80cc7966fbf</guid>
+<description>Venue: Café Negril | Date: Thursday, July 16 | Time: 6:30pm</description>
+<pubDate>Thu, 16 Jul 2026 18:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Maurice Cade and E.S.S. Band — Café Negril</title>
+<link>https://www.wwoz.org/events/1360361</link>
+<guid isPermaLink="false">25ae8ded32d19be1dd0e39364f7ba6f1fc3e1341</guid>
+<description>Venue: Café Negril | Date: Thursday, July 16 | Time: 9:00pm</description>
+<pubDate>Thu, 16 Jul 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Leslie Martin — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1367741</link>
+<guid isPermaLink="false">2150ef26a5389568d8c4f32ca6dd6d9bcad413d3</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Thursday, July 16 | Time: 5:30pm</description>
+<pubDate>Thu, 16 Jul 2026 17:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Lena Prima &amp; Her Band — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1365296</link>
+<guid isPermaLink="false">d8fa5860a834d0feedb7f8ce0d08d47cc773e68f</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Thursday, July 16 | Time: 9:00pm</description>
+<pubDate>Thu, 16 Jul 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Palmetto Bug Stompers — d.b.a.</title>
+<link>https://www.wwoz.org/events/1367851</link>
+<guid isPermaLink="false">5aa7debcf388d888607e210f46dd1aa654288401</guid>
+<description>Venue: d.b.a. | Date: Thursday, July 16 | Time: 6:00pm</description>
+<pubDate>Thu, 16 Jul 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Vegas Cola Band — d.b.a.</title>
+<link>https://www.wwoz.org/events/1367871</link>
+<guid isPermaLink="false">19f0854f360b73edfdd9f32f322ceb9a1912c02a</guid>
+<description>Venue: d.b.a. | Date: Thursday, July 16 | Time: 9:30pm</description>
+<pubDate>Thu, 16 Jul 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Jeremy Davenport — Davenport Lounge at The Ritz-Carlton</title>
-<link>https://www.wwoz.org/events/1349171</link>
-<guid isPermaLink="false">5b6579b141f38a7fd647ead14de6a3179d4ded51</guid>
-<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Wednesday, July 15 | Time: 5:30pm</description>
-<pubDate>Wed, 15 Jul 2026 17:30:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1349186</link>
+<guid isPermaLink="false">33f03681c0d00534041bff84fb11bd7ad36f9f14</guid>
+<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Thursday, July 16 | Time: 5:30pm</description>
+<pubDate>Thu, 16 Jul 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>The NOLA String Kings John Rankin, Don Vappie &amp; Matt Rhody — Deutsches Haus</title>
-<link>https://www.wwoz.org/events/1346441</link>
-<guid isPermaLink="false">f93582783b78b572d2d1c67dc777ab8007086220</guid>
-<description>Venue: Deutsches Haus | Date: Wednesday, July 15 | Time: 7:00pm</description>
-<pubDate>Wed, 15 Jul 2026 19:00:00 +0000</pubDate>
+<title>Mr. Kohl — Dos Jefes</title>
+<link>https://www.wwoz.org/events/1364821</link>
+<guid isPermaLink="false">3aafe7a9fc15b27805d9443ba9a769bd1077d9be</guid>
+<description>Venue: Dos Jefes | Date: Thursday, July 16 | Time: 8:30pm</description>
+<pubDate>Thu, 16 Jul 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Javier Gutierrez — Dos Jefes</title>
-<link>https://www.wwoz.org/events/1364806</link>
-<guid isPermaLink="false">fd5a4fb64434fb967380f072d5ffc8288db145b0</guid>
-<description>Venue: Dos Jefes | Date: Wednesday, July 15 | Time: 8:30pm</description>
-<pubDate>Wed, 15 Jul 2026 20:30:00 +0000</pubDate>
+<title>Matt Wilson &amp; the Sinking City — Double Dealer at Orpheum Theater</title>
+<link>https://www.wwoz.org/events/1361286</link>
+<guid isPermaLink="false">ccfc13037cfd5009726471ee8b8fca79cb7a9b68</guid>
+<description>Venue: Double Dealer at Orpheum Theater | Date: Thursday, July 16 | Time: 9:00pm</description>
+<pubDate>Thu, 16 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Better Late Than Jake — Favela Chic</title>
-<link>https://www.wwoz.org/events/1369061</link>
-<guid isPermaLink="false">cda93a086b20ce86a46cbea35b0180e071c9c656</guid>
-<description>Venue: Favela Chic | Date: Wednesday, July 15 | Time: 8:00pm</description>
-<pubDate>Wed, 15 Jul 2026 20:00:00 +0000</pubDate>
+<title>Silver Lining Serenaders — Fausto's Italian Bistro</title>
+<link>https://www.wwoz.org/events/1352511</link>
+<guid isPermaLink="false">d9725a7cdc958cd49c36bcdf2795443baeaad78c</guid>
+<description>Venue: Fausto's Italian Bistro | Date: Thursday, July 16 | Time: 6:30pm</description>
+<pubDate>Thu, 16 Jul 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Richard "Piano" Scott — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1361436</link>
-<guid isPermaLink="false">2c8fbd1954c79acf79a567870f44289cda078eee</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Wednesday, July 15 | Time: 1:00pm</description>
-<pubDate>Wed, 15 Jul 2026 13:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1361396</link>
+<guid isPermaLink="false">c0f273c110602c4f989c8d8e667e6960208017be</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Thursday, July 16 | Time: 12:00pm</description>
+<pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Bourbon Street Stars — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1361461</link>
-<guid isPermaLink="false">7413effa861ae9ac8ff8f30cd65ef045eb42a2bd</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Wednesday, July 15 | Time: 5:00pm</description>
-<pubDate>Wed, 15 Jul 2026 17:00:00 +0000</pubDate>
+<title>Doyle Cooper Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1361586</link>
+<guid isPermaLink="false">f2aec7736ce5e987b5d50d4b3ce47c1acc6ce74e</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Thursday, July 16 | Time: 2:00pm</description>
+<pubDate>Thu, 16 Jul 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Fritzel's All Star Band with Kevin Ray Clark — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1361511</link>
-<guid isPermaLink="false">b2a24d234ab3505ab0199818666a165fc61d4036</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Wednesday, July 15 | Time: 8:00pm</description>
-<pubDate>Wed, 15 Jul 2026 20:00:00 +0000</pubDate>
+<title>John Saavedra Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1361561</link>
+<guid isPermaLink="false">9119d6b09b9fffe7370bf73915a4ef4953ce9df8</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Thursday, July 16 | Time: 5:00pm</description>
+<pubDate>Thu, 16 Jul 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Amazing Henrietta — Holy Diver</title>
-<link>https://www.wwoz.org/events/1362011</link>
-<guid isPermaLink="false">ed7092d9f99ba276a7c53013a429a204520d36e6</guid>
-<description>Venue: Holy Diver | Date: Wednesday, July 15 | Time: 8:00pm</description>
-<pubDate>Wed, 15 Jul 2026 20:00:00 +0000</pubDate>
+<title>Fritzel's All Star Band with Caleb Nelson — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1361536</link>
+<guid isPermaLink="false">3d9d9515cc7f87f52d14f739630b1cbc542f3dd1</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Thursday, July 16 | Time: 8:00pm</description>
+<pubDate>Thu, 16 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Aliah Sheffield &amp; Friends — Howlin' Wolf - The Den</title>
-<link>https://www.wwoz.org/events/1356961</link>
-<guid isPermaLink="false">fd10b1e9a2262ed68597607fb4ea3cbd85a20983</guid>
-<description>Venue: Howlin' Wolf - The Den | Date: Wednesday, July 15 | Time: 9:00pm</description>
-<pubDate>Wed, 15 Jul 2026 21:00:00 +0000</pubDate>
+<title>Arséne DeLay — Good Measure at The Barnett</title>
+<link>https://www.wwoz.org/events/1359776</link>
+<guid isPermaLink="false">443970495e14cc5721d9b53043cd46d23d990421</guid>
+<description>Venue: Good Measure at The Barnett | Date: Thursday, July 16 | Time: 8:00pm</description>
+<pubDate>Thu, 16 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Funkin' It Up with Big Sam — Jazz Playhouse</title>
-<link>https://www.wwoz.org/events/1368041</link>
-<guid isPermaLink="false">f4930296853903351ae451c5e48b0a243b262fde</guid>
-<description>Venue: Jazz Playhouse | Date: Wednesday, July 15 | Time: 7:30pm</description>
-<pubDate>Wed, 15 Jul 2026 19:30:00 +0000</pubDate>
+<title>The Tail-Gators — Gretna Tavern</title>
+<link>https://www.wwoz.org/events/1361236</link>
+<guid isPermaLink="false">4bd3794b14b893e74f16dbed0e9c012ccd9deb36</guid>
+<description>Venue: Gretna Tavern | Date: Thursday, July 16 | Time: 8:30pm</description>
+<pubDate>Thu, 16 Jul 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Raphael Bas — Lobby Lounge at JW Marriott</title>
-<link>https://www.wwoz.org/events/1361116</link>
-<guid isPermaLink="false">53928827dfad45edba1b625d80fc7c9a10584455</guid>
-<description>Venue: Lobby Lounge at JW Marriott | Date: Wednesday, July 15 | Time: 6:00pm</description>
-<pubDate>Wed, 15 Jul 2026 18:00:00 +0000</pubDate>
+<title>Kid Merv &amp; All That Jazz — Hideout Bar</title>
+<link>https://www.wwoz.org/events/1367071</link>
+<guid isPermaLink="false">884f48ac9ebc6d971faa99706566ab772ebbbd8f</guid>
+<description>Venue: Hideout Bar | Date: Thursday, July 16 | Time: 11:30am</description>
+<pubDate>Thu, 16 Jul 2026 11:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Paul Longstreth — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1362986</link>
-<guid isPermaLink="false">051b140d558f9c45405472b026b0f34e3fea2c97</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Wednesday, July 15 | Time: 6:00pm</description>
-<pubDate>Wed, 15 Jul 2026 18:00:00 +0000</pubDate>
+<title>DJ Eclipzia &amp; Witch House — Holy Diver</title>
+<link>https://www.wwoz.org/events/1362066</link>
+<guid isPermaLink="false">22635f139ec84df2e1378c0f2de989f7047f63f9</guid>
+<description>Venue: Holy Diver | Date: Thursday, July 16 | Time: 9:00pm</description>
+<pubDate>Thu, 16 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mahogany Hall All Stars ft. Tom Fischer — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1363026</link>
-<guid isPermaLink="false">8d1b2f61efd98e7f6be749160c5443352160b634</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Wednesday, July 15 | Time: 8:00pm</description>
-<pubDate>Wed, 15 Jul 2026 20:00:00 +0000</pubDate>
+<title>Brass-A-Holics — Jazz Playhouse</title>
+<link>https://www.wwoz.org/events/1368061</link>
+<guid isPermaLink="false">edd64bd9fe3211b45b436be6bfbf405e2ca47d10</guid>
+<description>Venue: Jazz Playhouse | Date: Thursday, July 16 | Time: 7:30pm</description>
+<pubDate>Thu, 16 Jul 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Gene's Music Machine — Maison, The</title>
-<link>https://www.wwoz.org/events/1363646</link>
-<guid isPermaLink="false">c656b74ed47ba51af8bc8dbd16fb6e7dbb0d0fb4</guid>
-<description>Venue: Maison, The | Date: Wednesday, July 15 | Time: 6:00pm</description>
-<pubDate>Wed, 15 Jul 2026 18:00:00 +0000</pubDate>
+<title>Jefferson Community Band presents “250 Years of America’s Musical Influence" — Jefferson Performing Arts Center</title>
+<link>https://www.wwoz.org/events/1354371</link>
+<guid isPermaLink="false">d8c2ff65bb5362a5b677c3ffc327705091df81b9</guid>
+<description>Venue: Jefferson Performing Arts Center | Date: Thursday, July 16 | Time: 7:00pm</description>
+<pubDate>Thu, 16 Jul 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Leroy Marshall Band — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1362546</link>
-<guid isPermaLink="false">8c106d534f2ace408c65ecdf74d467a509f0e27b</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Wednesday, July 15 | Time: 8:00pm</description>
-<pubDate>Wed, 15 Jul 2026 20:00:00 +0000</pubDate>
+<title>Jam-ilton — Le Bon Temps Roulé</title>
+<link>https://www.wwoz.org/events/1356826</link>
+<guid isPermaLink="false">b753a91d3505dad178b38bb6a752773fda209e99</guid>
+<description>Venue: Le Bon Temps Roulé | Date: Thursday, July 16 | Time: 11:00pm</description>
+<pubDate>Thu, 16 Jul 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Irvin Mayfield ft. Kermit Ruffins — Mayfield's 208 Bourbon presented by Felix's</title>
-<link>https://www.wwoz.org/events/1355631</link>
-<guid isPermaLink="false">b816f491eb65cddf10428fc45e4abdd825e39ae8</guid>
-<description>Venue: Mayfield's 208 Bourbon presented by Felix's | Date: Wednesday, July 15 | Time: 6:00pm</description>
-<pubDate>Wed, 15 Jul 2026 18:00:00 +0000</pubDate>
+<title>Stooges House Party ft. Stooges Brass Band + DJ 2Ready — Livin Swell 4211 Recording Studios</title>
+<link>https://www.wwoz.org/events/1346381</link>
+<guid isPermaLink="false">5e873affc2ad033fde78b448df4732fd768620f7</guid>
+<description>Venue: Livin Swell 4211 Recording Studios | Date: Thursday, July 16 | Time: 8:00pm</description>
+<pubDate>Thu, 16 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Nicky Diamonds — Mid-City Lanes Rock 'n' Bowl</title>
-<link>https://www.wwoz.org/events/1355436</link>
-<guid isPermaLink="false">e1a17322297bffb70aadac5a12c82b0dd3b73cdf</guid>
-<description>Venue: Mid-City Lanes Rock 'n' Bowl | Date: Wednesday, July 15 | Time: 8:00pm</description>
-<pubDate>Wed, 15 Jul 2026 20:00:00 +0000</pubDate>
+<title>The New Orleans Catahoulas — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1362741</link>
+<guid isPermaLink="false">76a36f1c23f62609d981ceebb0eda34f2a0c7119</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Thursday, July 16 | Time: 6:00pm</description>
+<pubDate>Thu, 16 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Summer Music Series ft. James McClaskey &amp; the Rhythm Band — New Orleans Jazz &amp; Blues Market</title>
-<link>https://www.wwoz.org/events/1361186</link>
-<guid isPermaLink="false">406c6e4392d7531ae97a3a8a3cdc539902bc75fb</guid>
-<description>Venue: New Orleans Jazz &amp; Blues Market | Date: Wednesday, July 15 | Time: 8:00pm</description>
-<pubDate>Wed, 15 Jul 2026 20:00:00 +0000</pubDate>
+<title>Jamil Sharif &amp; His New Orleans Extravaganza — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1362766</link>
+<guid isPermaLink="false">8f174ac28eea668c1174ecc84653494a57583dbc</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Thursday, July 16 | Time: 8:00pm</description>
+<pubDate>Thu, 16 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Jazz Foundation of America (JFA) Present Troy Sawyer &amp; the Elementz ft. Girls Play Trumpets Too — New Orleans Jazz Museum</title>
-<link>https://www.wwoz.org/events/1365196</link>
-<guid isPermaLink="false">f16160ccb68bff07821067f03d710f1dc92c8b4c</guid>
-<description>Venue: New Orleans Jazz Museum | Date: Wednesday, July 15 | Time: 2:00pm</description>
-<pubDate>Wed, 15 Jul 2026 14:00:00 +0000</pubDate>
+<title>Dane Harter — Maison, The</title>
+<link>https://www.wwoz.org/events/1363906</link>
+<guid isPermaLink="false">da41885962a2e4f0bbc3cf9e776c891f9606039c</guid>
+<description>Venue: Maison, The | Date: Thursday, July 16 | Time: 4:30pm</description>
+<pubDate>Thu, 16 Jul 2026 16:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Joe Krown — New Orleans Jazz National Historical Park</title>
-<link>https://www.wwoz.org/events/1360121</link>
-<guid isPermaLink="false">029e207a4bc0b8d96d247d0d15d939a3c43fb4b9</guid>
-<description>Venue: New Orleans Jazz National Historical Park | Date: Wednesday, July 15 | Time: 3:00pm</description>
-<pubDate>Wed, 15 Jul 2026 15:00:00 +0000</pubDate>
+<title>SingleMaltPlease — Maison, The</title>
+<link>https://www.wwoz.org/events/1363686</link>
+<guid isPermaLink="false">d914e861b6e444e650db7d86e4a82620055de0ac</guid>
+<description>Venue: Maison, The | Date: Thursday, July 16 | Time: 8:30pm</description>
+<pubDate>Thu, 16 Jul 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Victoria Amato &amp; Jim Lockwood + Sydney McMath &amp; Ben Michaels — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1367516</link>
-<guid isPermaLink="false">6b54d3c0395952edfe999140eaf52861ca623e2c</guid>
-<description>Venue: Pat O'Brien's | Date: Wednesday, July 15 | Time: 4:00pm</description>
-<pubDate>Wed, 15 Jul 2026 16:00:00 +0000</pubDate>
+<title>Danny Rubio &amp; the Catahoula Music Company ft. Jack Pritchett — Maison Bourbon Jazz Club</title>
+<link>https://www.wwoz.org/events/1363981</link>
+<guid isPermaLink="false">f079b4a9fa7cb755b68fe6822cd774d06f849625</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Thursday, July 16 | Time: 8:00pm</description>
+<pubDate>Thu, 16 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mikayla Braun — Picnic Provisions &amp; Whiskey (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1294056</link>
-<guid isPermaLink="false">5ce3578bf0bd3e8213e81ec635e3ecfe9fa77333</guid>
-<description>Venue: Picnic Provisions &amp; Whiskey (OUTDOORS) | Date: Wednesday, July 15 | Time: 5:00pm</description>
-<pubDate>Wed, 15 Jul 2026 17:00:00 +0000</pubDate>
+<title>Booker &amp; Beyond Piano Series with BC Coogan — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1363186</link>
+<guid isPermaLink="false">5728ed862989684d216d31ffebe5b764265de055</guid>
+<description>Venue: Maple Leaf | Date: Thursday, July 16 | Time: 6:00pm</description>
+<pubDate>Thu, 16 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>David Boeddinghaus — Polo Club at The Windsor Court, The</title>
-<link>https://www.wwoz.org/events/1357836</link>
-<guid isPermaLink="false">9c9a769b5dba88fab7e449c98285adec35dcfcc1</guid>
-<description>Venue: Polo Club at The Windsor Court, The | Date: Wednesday, July 15 | Time: 5:30pm</description>
-<pubDate>Wed, 15 Jul 2026 17:30:00 +0000</pubDate>
+<title>Johnny Vidacovich Trio with Tony Dagradi &amp; Lex Warshowsky — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1363181</link>
+<guid isPermaLink="false">77b693cebff47eb785d42f4d2519cf532ca1a99a</guid>
+<description>Venue: Maple Leaf | Date: Thursday, July 16 | Time: 8:00pm</description>
+<pubDate>Thu, 16 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Branden Lewis — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1358991</link>
-<guid isPermaLink="false">32bff9a8ca2171774de4a0b522f58a24d9c3b477</guid>
-<description>Venue: Preservation Hall | Date: Wednesday, July 15 | Time: 5:00pm</description>
-<pubDate>Wed, 15 Jul 2026 17:00:00 +0000</pubDate>
+<title>Jacky Blaire &amp; The Hot Biscuits — May Baily's Place</title>
+<link>https://www.wwoz.org/events/1359536</link>
+<guid isPermaLink="false">6beda228241d714ca411cf544145229830a6365b</guid>
+<description>Venue: May Baily's Place | Date: Thursday, July 16 | Time: 8:30pm</description>
+<pubDate>Thu, 16 Jul 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Branden Lewis — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1358996</link>
-<guid isPermaLink="false">2f1098831cad605eb3792748a9a294eb03486bc6</guid>
-<description>Venue: Preservation Hall | Date: Wednesday, July 15 | Time: 6:15pm</description>
-<pubDate>Wed, 15 Jul 2026 18:15:00 +0000</pubDate>
+<title>Felipe Antonio Duo — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1360126</link>
+<guid isPermaLink="false">9e84dd660725d8a7e1850407209b8bedd1a7c42e</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Thursday, July 16 | Time: 3:00pm</description>
+<pubDate>Thu, 16 Jul 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Branden Lewis — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1359001</link>
-<guid isPermaLink="false">6a966652f9a93aaf7607939b0897c20935d67948</guid>
-<description>Venue: Preservation Hall | Date: Wednesday, July 15 | Time: 7:30pm</description>
-<pubDate>Wed, 15 Jul 2026 19:30:00 +0000</pubDate>
+<title>Madison Hughes — No Dice</title>
+<link>https://www.wwoz.org/events/1359576</link>
+<guid isPermaLink="false">69cd794d3cda3324e34b8411cc2a45f75d99037c</guid>
+<description>Venue: No Dice | Date: Thursday, July 16 | Time: 9:00pm</description>
+<pubDate>Thu, 16 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Branden Lewis — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1359006</link>
-<guid isPermaLink="false">4948ee92abcf0a55d21c500a6c0de699ce8a27f5</guid>
-<description>Venue: Preservation Hall | Date: Wednesday, July 15 | Time: 8:45pm</description>
-<pubDate>Wed, 15 Jul 2026 20:45:00 +0000</pubDate>
+<title>Hanoun Brass Band + Sari Jordan — Okay Bar</title>
+<link>https://www.wwoz.org/events/1369161</link>
+<guid isPermaLink="false">8e9bb5e326bfddf6b08712945003087e017b6c9c</guid>
+<description>Venue: Okay Bar | Date: Thursday, July 16 | Time: 9:00pm</description>
+<pubDate>Thu, 16 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Chambre Noir with Paco — Santos Bar</title>
-<link>https://www.wwoz.org/events/1362271</link>
-<guid isPermaLink="false">e5548db3012b22497f6583b00c9d9afbf18f46c3</guid>
-<description>Venue: Santos Bar | Date: Wednesday, July 15 | Time: 10:00pm</description>
-<pubDate>Wed, 15 Jul 2026 22:00:00 +0000</pubDate>
+<title>Victoria Amato &amp; Sydney McMath + Jim Lockwood &amp; Ben Michaels — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1367521</link>
+<guid isPermaLink="false">c0b95e825ef08117ecab124d7f21f500890db737</guid>
+<description>Venue: Pat O'Brien's | Date: Thursday, July 16 | Time: 4:00pm</description>
+<pubDate>Thu, 16 Jul 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Cicadas + Fake Coffee Club + My Beloved + hey thanks — Saturn Bar</title>
-<link>https://www.wwoz.org/events/1360721</link>
-<guid isPermaLink="false">a0b7e0680c341d2665e04e5ca1c846d37d5888fd</guid>
-<description>Venue: Saturn Bar | Date: Wednesday, July 15 | Time: 9:00pm</description>
-<pubDate>Wed, 15 Jul 2026 21:00:00 +0000</pubDate>
+<title>Da Lovebirds: Robin Barnes &amp; Pat Casey — Peacock Room at the Kimpton Hotel Fontenot</title>
+<link>https://www.wwoz.org/events/1320476</link>
+<guid isPermaLink="false">ea042b0dad77d6b95a99ae1598a35f7cd19a85c9</guid>
+<description>Venue: Peacock Room at the Kimpton Hotel Fontenot | Date: Thursday, July 16 | Time: 8:00pm</description>
+<pubDate>Thu, 16 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Desert Nudes — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1362096</link>
-<guid isPermaLink="false">384b55c16dafef3b74fe6eb11e0f9adb5b5464ce</guid>
-<description>Venue: Snug Harbor | Date: Wednesday, July 15 | Time: 5:00pm</description>
-<pubDate>Wed, 15 Jul 2026 17:00:00 +0000</pubDate>
+<title>John Royen — Polo Club at The Windsor Court, The</title>
+<link>https://www.wwoz.org/events/1357731</link>
+<guid isPermaLink="false">05ce7a3ece2236c3a836fb920aa3f5ad5c40ea16</guid>
+<description>Venue: Polo Club at The Windsor Court, The | Date: Thursday, July 16 | Time: 5:30pm</description>
+<pubDate>Thu, 16 Jul 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>The Uptown Jazz Orchestra — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1362141</link>
-<guid isPermaLink="false">a3699ee61fbeb4d274f8e08d04c2e910097f8593</guid>
-<description>Venue: Snug Harbor | Date: Wednesday, July 15 | Time: 7:30pm</description>
-<pubDate>Wed, 15 Jul 2026 19:30:00 +0000</pubDate>
+<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1358521</link>
+<guid isPermaLink="false">0f56f5c6117e9f926a29073fc16dfef76cfc3e12</guid>
+<description>Venue: Preservation Hall | Date: Thursday, July 16 | Time: 5:00pm</description>
+<pubDate>Thu, 16 Jul 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Uptown Jazz Orchestra — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1362116</link>
-<guid isPermaLink="false">e0a5936d39103e29d036e6bdd311d0d269c9495d</guid>
-<description>Venue: Snug Harbor | Date: Wednesday, July 15 | Time: 9:30pm</description>
-<pubDate>Wed, 15 Jul 2026 21:30:00 +0000</pubDate>
+<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1358546</link>
+<guid isPermaLink="false">489a0a546e0b199eab52eb1a264fa4b8a79044cc</guid>
+<description>Venue: Preservation Hall | Date: Thursday, July 16 | Time: 6:15pm</description>
+<pubDate>Thu, 16 Jul 2026 18:15:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1358571</link>
+<guid isPermaLink="false">090875a691fa8dd04ad3dd2cc4b0736cf71b7861</guid>
+<description>Venue: Preservation Hall | Date: Thursday, July 16 | Time: 7:30pm</description>
+<pubDate>Thu, 16 Jul 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1358596</link>
+<guid isPermaLink="false">d151a68df3e4d267ebb2a02fa6e4702882d3eb24</guid>
+<description>Venue: Preservation Hall | Date: Thursday, July 16 | Time: 8:45pm</description>
+<pubDate>Thu, 16 Jul 2026 20:45:00 +0000</pubDate>
+</item>
+<item>
+<title>Free Thursdays with DJ Shlomo — Rabbit Hole, The</title>
+<link>https://www.wwoz.org/events/1361371</link>
+<guid isPermaLink="false">db573a2fec064e2d9414b32fed1b92948e3093ee</guid>
+<description>Venue: Rabbit Hole, The | Date: Thursday, July 16 | Time: 9:00pm</description>
+<pubDate>Thu, 16 Jul 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Reptilia Indie Vinyl Night with DJ Shane Love — Santos Bar</title>
+<link>https://www.wwoz.org/events/1362291</link>
+<guid isPermaLink="false">3ec4a99b12659973099d2a4dcc0bf989a7f2cb96</guid>
+<description>Venue: Santos Bar | Date: Thursday, July 16 | Time: 9:00pm</description>
+<pubDate>Thu, 16 Jul 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Davell Crawford — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1364191</link>
+<guid isPermaLink="false">fb8d37c4fd52bfb5387b13bf8c253523485d7b4d</guid>
+<description>Venue: Snug Harbor | Date: Thursday, July 16 | Time: 7:30pm</description>
+<pubDate>Thu, 16 Jul 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Davell Crawford — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1364186</link>
+<guid isPermaLink="false">e409659dbb483aa0d0704f233903da297fa53e3d</guid>
+<description>Venue: Snug Harbor | Date: Thursday, July 16 | Time: 9:30pm</description>
+<pubDate>Thu, 16 Jul 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Chris Christy Band — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1365681</link>
-<guid isPermaLink="false">8efef955caa1333de3d02cb9d91f8a095e77ab86</guid>
-<description>Venue: Spotted Cat | Date: Wednesday, July 15 | Time: 2:00pm</description>
-<pubDate>Wed, 15 Jul 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1365661</link>
+<guid isPermaLink="false">0d0818c6be188fc39e6b2b716c8d4a322759afde</guid>
+<description>Venue: Spotted Cat | Date: Thursday, July 16 | Time: 2:00pm</description>
+<pubDate>Thu, 16 Jul 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Margie Perez &amp; La Afro Diaspora — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1365916</link>
-<guid isPermaLink="false">a852094f31e9e452201bd9fe52ec97c418812900</guid>
-<description>Venue: Spotted Cat | Date: Wednesday, July 15 | Time: 6:00pm</description>
-<pubDate>Wed, 15 Jul 2026 18:00:00 +0000</pubDate>
+<title>Jenavieve &amp; The Winding Boys — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1365571</link>
+<guid isPermaLink="false">36cf336c5694d15af3f5fb89905241b270eeac06</guid>
+<description>Venue: Spotted Cat | Date: Thursday, July 16 | Time: 6:00pm</description>
+<pubDate>Thu, 16 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Marty Peters &amp; The Party Meters — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1365931</link>
-<guid isPermaLink="false">bffcf470375de89e3b40caf55cb1deca2153c1a5</guid>
-<description>Venue: Spotted Cat | Date: Wednesday, July 15 | Time: 9:30pm</description>
-<pubDate>Wed, 15 Jul 2026 21:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1366466</link>
-<guid isPermaLink="false">fc5f34c6f66eda9b7e2a7a20f266b9d65e18763f</guid>
-<description>Venue: Steamboat Natchez | Date: Wednesday, July 15 | Time: 11:00am</description>
-<pubDate>Wed, 15 Jul 2026 11:00:00 +0000</pubDate>
+<title>Jumbo Shrimp — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1365541</link>
+<guid isPermaLink="false">7ec8cc65d508df4acc1bf15caa7ade33bcf98eb6</guid>
+<description>Venue: Spotted Cat | Date: Thursday, July 16 | Time: 10:00pm</description>
+<pubDate>Thu, 16 Jul 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1366611</link>
-<guid isPermaLink="false">1b31a2afd7479e2dc526c298b2f7cff6524a8dd3</guid>
-<description>Venue: Steamboat Natchez | Date: Wednesday, July 15 | Time: 2:00pm</description>
-<pubDate>Wed, 15 Jul 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1366446</link>
+<guid isPermaLink="false">a57ab08bde072bb70c2901db6ce93545451ddcfd</guid>
+<description>Venue: Steamboat Natchez | Date: Thursday, July 16 | Time: 11:00am</description>
+<pubDate>Thu, 16 Jul 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Steamboat Stompers — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1366626</link>
+<guid isPermaLink="false">16a4e70841e77aaf277f13a923346b399a475f98</guid>
+<description>Venue: Steamboat Natchez | Date: Thursday, July 16 | Time: 2:00pm</description>
+<pubDate>Thu, 16 Jul 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dukes of Dixieland — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1366756</link>
-<guid isPermaLink="false">428227569d670b8bc96c701dfdfefe3caf793b44</guid>
-<description>Venue: Steamboat Natchez | Date: Wednesday, July 15 | Time: 6:00pm</description>
-<pubDate>Wed, 15 Jul 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1366731</link>
+<guid isPermaLink="false">3e325a8064d6976bf3bb88f2de311e048baf734b</guid>
+<description>Venue: Steamboat Natchez | Date: Thursday, July 16 | Time: 6:00pm</description>
+<pubDate>Thu, 16 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Kid Merv &amp; All That Jazz — Tipsy Trumpet</title>
-<link>https://www.wwoz.org/events/1367091</link>
-<guid isPermaLink="false">f98297580475394855473a14b92d10b78aa0de89</guid>
-<description>Venue: Tipsy Trumpet | Date: Wednesday, July 15 | Time: 12:00pm</description>
-<pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
+<title>Audrey LeCrone Trio — Three Muses</title>
+<link>https://www.wwoz.org/events/1369081</link>
+<guid isPermaLink="false">7510eeaa64fac7a549b57af78e1b144f8d12ae44</guid>
+<description>Venue: Three Muses | Date: Thursday, July 16 | Time: 8:00pm</description>
+<pubDate>Thu, 16 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dave Ferrato — Tropical Isle Bourbon</title>
-<link>https://www.wwoz.org/events/1363146</link>
-<guid isPermaLink="false">79682bcbe11ee63d2b4ab044c489986f63985614</guid>
-<description>Venue: Tropical Isle Bourbon | Date: Wednesday, July 15 | Time: 7:00pm</description>
-<pubDate>Wed, 15 Jul 2026 19:00:00 +0000</pubDate>
+<title>Mark Barrett &amp; The First Calls — Tropical Isle Bourbon</title>
+<link>https://www.wwoz.org/events/1362431</link>
+<guid isPermaLink="false">75fc16c4fab84ab0af79376a015e6171cd7d1a04</guid>
+<description>Venue: Tropical Isle Bourbon | Date: Thursday, July 16 | Time: 5:00pm</description>
+<pubDate>Thu, 16 Jul 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>"Sinners" Party ft. Mark Barrett &amp; The First Calls — Vampire Apothecary</title>
-<link>https://www.wwoz.org/events/1362476</link>
-<guid isPermaLink="false">9fff1d6fc725e0cfb629c993c87b81c409f51e2b</guid>
-<description>Venue: Vampire Apothecary | Date: Wednesday, July 15 | Time: 8:00pm</description>
-<pubDate>Wed, 15 Jul 2026 20:00:00 +0000</pubDate>
+<title>Corey Henry &amp; The Treme Funktet — Vaughan's Lounge</title>
+<link>https://www.wwoz.org/events/1354481</link>
+<guid isPermaLink="false">a26525fdf4be67dc167607530e201d3486ef8fe3</guid>
+<description>Venue: Vaughan's Lounge | Date: Thursday, July 16 | Time: 10:30pm</description>
+<pubDate>Thu, 16 Jul 2026 22:30:00 +0000</pubDate>
+</item>
+<item>
+<title>ScatterJazz presents Rob Wagner, Klaas Hubner &amp; James Alsanders + More! — Zeitgeist Multi-Disciplinary Arts Center</title>
+<link>https://www.wwoz.org/events/1368666</link>
+<guid isPermaLink="false">5a849a23c9bc52a9b2ab0dc0588ad812c949aece</guid>
+<description>Venue: Zeitgeist Multi-Disciplinary Arts Center | Date: Thursday, July 16 | Time: 7:30pm</description>
+<pubDate>Thu, 16 Jul 2026 19:30:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
