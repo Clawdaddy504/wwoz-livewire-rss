@@ -1,7 +1,7 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-07-18T13:48:04.897646+00:00",
+  "generated_at": "2026-07-18T16:10:07.975538+00:00",
   "count": 91,
   "events": [
     {
@@ -281,6 +281,18 @@
       "description": "Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Saturday, July 18 | Time: 8:00pm"
     },
     {
+      "id": "cebb46e1a746e5fa30f8f8435439475922314579",
+      "source": "wwoz",
+      "title": "Columbia NOLA Fest",
+      "venue": "Broadside (Outdoor Stage)",
+      "venue_url": "https://www.wwoz.org/organizations/broadside-outdoor-stage",
+      "event_url": "https://www.wwoz.org/events/1369491",
+      "date_text": "Saturday, July 18",
+      "time_text": "3:00pm",
+      "start": "2026-07-18T15:00:00+00:00",
+      "description": "Venue: Broadside (Outdoor Stage) | Date: Saturday, July 18 | Time: 3:00pm"
+    },
+    {
       "id": "4026778fb3504fa953da1c92cddfce550816e695",
       "source": "wwoz",
       "title": "Gage Rhodes with The Dead Magnolia String Band",
@@ -447,18 +459,6 @@
       "time_text": "9:00pm",
       "start": "2026-07-18T21:00:00+00:00",
       "description": "Venue: Dos Jefes | Date: Saturday, July 18 | Time: 9:00pm"
-    },
-    {
-      "id": "27bf6c8f57e52a8c70a1ec8495edbbe381a6925a",
-      "source": "wwoz",
-      "title": "Sean Riley",
-      "venue": "Double Dealer at Orpheum Theater",
-      "venue_url": "https://www.wwoz.org/organizations/double-dealer-orpheum-theater",
-      "event_url": "https://www.wwoz.org/events/1361281",
-      "date_text": "Saturday, July 18",
-      "time_text": "9:30pm",
-      "start": "2026-07-18T21:30:00+00:00",
-      "description": "Venue: Double Dealer at Orpheum Theater | Date: Saturday, July 18 | Time: 9:30pm"
     },
     {
       "id": "8ae4612c5c1c90cd2080feedb5ec0c3cdfb73ba6",

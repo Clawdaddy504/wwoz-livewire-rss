@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 18 Jul 2026 13:48:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 16:10:07 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
@@ -169,6 +169,13 @@
 <pubDate>Sat, 18 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Columbia NOLA Fest — Broadside (Outdoor Stage)</title>
+<link>https://www.wwoz.org/events/1369491</link>
+<guid isPermaLink="false">cebb46e1a746e5fa30f8f8435439475922314579</guid>
+<description>Venue: Broadside (Outdoor Stage) | Date: Saturday, July 18 | Time: 3:00pm</description>
+<pubDate>Sat, 18 Jul 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Gage Rhodes with The Dead Magnolia String Band — Buffa's</title>
 <link>https://www.wwoz.org/events/1363381</link>
 <guid isPermaLink="false">4026778fb3504fa953da1c92cddfce550816e695</guid>
@@ -265,13 +272,6 @@
 <guid isPermaLink="false">fb9fa2115eb8e308880b826362722da34f9944e8</guid>
 <description>Venue: Dos Jefes | Date: Saturday, July 18 | Time: 9:00pm</description>
 <pubDate>Sat, 18 Jul 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Sean Riley — Double Dealer at Orpheum Theater</title>
-<link>https://www.wwoz.org/events/1361281</link>
-<guid isPermaLink="false">27bf6c8f57e52a8c70a1ec8495edbbe381a6925a</guid>
-<description>Venue: Double Dealer at Orpheum Theater | Date: Saturday, July 18 | Time: 9:30pm</description>
-<pubDate>Sat, 18 Jul 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Dead Men Don't Play Jazz — Favela Chic</title>
