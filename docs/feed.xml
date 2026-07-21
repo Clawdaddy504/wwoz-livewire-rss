@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 21 Jul 2026 19:50:07 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 22:11:59 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Coyote Anderson — 21st Amendment</title>
@@ -279,6 +279,13 @@
 <guid isPermaLink="false">552f0b9da747aa13a5881a676c16893e3c28a6cf</guid>
 <description>Venue: Rabbit Hole, The | Date: Tuesday, July 21 | Time: 10:00pm</description>
 <pubDate>Tue, 21 Jul 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Double Whisky — Salon Salon</title>
+<link>https://www.wwoz.org/events/1370401</link>
+<guid isPermaLink="false">a712745c3b60b10add8e0606d45b1544d5ce0991</guid>
+<description>Venue: Salon Salon | Date: Tuesday, July 21 | Time: 7:00pm</description>
+<pubDate>Tue, 21 Jul 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Deadharrie + Kelly Duplex — Siberia</title>

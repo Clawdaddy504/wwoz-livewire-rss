@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-07-21T19:50:07.501303+00:00",
-  "count": 50,
+  "generated_at": "2026-07-21T22:11:59.048065+00:00",
+  "count": 51,
   "events": [
     {
       "id": "3a892e0753e334f7bb50eabacc4f8b22d3495dc0",
@@ -471,6 +471,18 @@
       "time_text": "10:00pm",
       "start": "2026-07-21T22:00:00+00:00",
       "description": "Venue: Rabbit Hole, The | Date: Tuesday, July 21 | Time: 10:00pm"
+    },
+    {
+      "id": "a712745c3b60b10add8e0606d45b1544d5ce0991",
+      "source": "wwoz",
+      "title": "Double Whisky",
+      "venue": "Salon Salon",
+      "venue_url": "https://www.wwoz.org/organizations/salon-salon",
+      "event_url": "https://www.wwoz.org/events/1370401",
+      "date_text": "Tuesday, July 21",
+      "time_text": "7:00pm",
+      "start": "2026-07-21T19:00:00+00:00",
+      "description": "Venue: Salon Salon | Date: Tuesday, July 21 | Time: 7:00pm"
     },
     {
       "id": "f9a009a07fe0692f9e67173d0b95c8bcf0b4b3ed",
