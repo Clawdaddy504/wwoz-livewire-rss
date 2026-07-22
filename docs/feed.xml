@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 22 Jul 2026 19:42:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 22:15:24 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dr. Sick — 21st Amendment</title>
@@ -377,6 +377,13 @@
 <guid isPermaLink="false">3a6ccd7e643e82a30359f9a3dbeeddff3bcb1d02</guid>
 <description>Venue: Steamboat Natchez | Date: Wednesday, July 22 | Time: 6:00pm</description>
 <pubDate>Wed, 22 Jul 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Ryan Robertson — Three Muses</title>
+<link>https://www.wwoz.org/events/1370841</link>
+<guid isPermaLink="false">f304f506704bd13a533e90f42a709448416d52dc</guid>
+<description>Venue: Three Muses | Date: Wednesday, July 22 | Time: 9:00pm</description>
+<pubDate>Wed, 22 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Kid Merv &amp; All That Jazz — Tipsy Trumpet</title>
