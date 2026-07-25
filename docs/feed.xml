@@ -5,623 +5,686 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 25 Jul 2026 03:35:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 08:22:57 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
-<title>Big Joe Kennedy Duo — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1365016</link>
-<guid isPermaLink="false">32a16c559ed56c4ccf93d3f5b8ecb3f72ead5f11</guid>
-<description>Venue: 21st Amendment | Date: Friday, July 24 | Time: 3:00pm</description>
-<pubDate>Fri, 24 Jul 2026 15:00:00 +0000</pubDate>
+<title>John Lisi &amp; Delta Funk — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1364941</link>
+<guid isPermaLink="false">06f0adf857f48a0589a81c67f59ff2a1a209e026</guid>
+<description>Venue: 21st Amendment | Date: Saturday, July 25 | Time: 3:00pm</description>
+<pubDate>Sat, 25 Jul 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Funky Soles — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1364876</link>
-<guid isPermaLink="false">a7da220a8d16dd51413dd4555530ddd413374200</guid>
-<description>Venue: 21st Amendment | Date: Friday, July 24 | Time: 8:00pm</description>
-<pubDate>Fri, 24 Jul 2026 20:00:00 +0000</pubDate>
+<title>The Sleazeball Orchestra — 30/90</title>
+<link>https://www.wwoz.org/events/1366201</link>
+<guid isPermaLink="false">29fbd886bfdd7cb10267edb7fa43b5b1e5a9aad5</guid>
+<description>Venue: 30/90 | Date: Saturday, July 25 | Time: 5:00pm</description>
+<pubDate>Sat, 25 Jul 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Scotty Yost &amp; The Most — 30/90</title>
-<link>https://www.wwoz.org/events/1366161</link>
-<guid isPermaLink="false">231d7ff18b36988b96367d699abb3d18085bce0a</guid>
-<description>Venue: 30/90 | Date: Friday, July 24 | Time: 5:00pm</description>
-<pubDate>Fri, 24 Jul 2026 17:00:00 +0000</pubDate>
+<title>Tyler Kinchen &amp; The Right Pieces — 30/90</title>
+<link>https://www.wwoz.org/events/1366206</link>
+<guid isPermaLink="false">b775af804f35dc9d5edb105fe2de3189ca296e47</guid>
+<description>Venue: 30/90 | Date: Saturday, July 25 | Time: 8:00pm</description>
+<pubDate>Sat, 25 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Half Shell Boogie — 30/90</title>
-<link>https://www.wwoz.org/events/1366166</link>
-<guid isPermaLink="false">7c8f3b01ef8700f150da109bc2dbbd8c7292bc71</guid>
-<description>Venue: 30/90 | Date: Friday, July 24 | Time: 8:00pm</description>
-<pubDate>Fri, 24 Jul 2026 20:00:00 +0000</pubDate>
+<title>T. Cherrelle &amp; Lou's Bayou — 30/90</title>
+<link>https://www.wwoz.org/events/1366211</link>
+<guid isPermaLink="false">5f7fe9d45a0a0374a4c03ef2368b6f7b957b0894</guid>
+<description>Venue: 30/90 | Date: Saturday, July 25 | Time: 11:00pm</description>
+<pubDate>Sat, 25 Jul 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Caitie B &amp; The Hand Me Downs — 30/90</title>
-<link>https://www.wwoz.org/events/1366171</link>
-<guid isPermaLink="false">8f122e7ce842c124fc29914662c8fc8c3e01d828</guid>
-<description>Venue: 30/90 | Date: Friday, July 24 | Time: 11:00pm</description>
-<pubDate>Fri, 24 Jul 2026 23:00:00 +0000</pubDate>
+<title>Aren’t We — Avenue Pub</title>
+<link>https://www.wwoz.org/events/1367146</link>
+<guid isPermaLink="false">2357a0566e7e304647a97178c5837b6cb71da5bb</guid>
+<description>Venue: Avenue Pub | Date: Saturday, July 25 | Time: 9:00pm</description>
+<pubDate>Sat, 25 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Miss Angie Z Presents: New Orleans High Society Hour (Live Jazz &amp; Burlesque) — AllWays Lounge</title>
-<link>https://www.wwoz.org/events/1355026</link>
-<guid isPermaLink="false">9da1a78888bc4995a969b815322b603954200ff4</guid>
-<description>Venue: AllWays Lounge | Date: Friday, July 24 | Time: 8:00pm</description>
-<pubDate>Fri, 24 Jul 2026 20:00:00 +0000</pubDate>
+<title>Miles Berry — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1364736</link>
+<guid isPermaLink="false">dc12f50cc42099ffcc72ecef1400a18586dcbfb5</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Saturday, July 25 | Time: 7:00pm</description>
+<pubDate>Sat, 25 Jul 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>David Sigler — Bacchanal (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1364666</link>
-<guid isPermaLink="false">e0dd11a33cfd954e928fc0d098c5616b31c3905e</guid>
-<description>Venue: Bacchanal (OUTDOORS) | Date: Friday, July 24 | Time: 1:00pm</description>
-<pubDate>Fri, 24 Jul 2026 13:00:00 +0000</pubDate>
+<title>Aaron Levinson &amp; Friends — Bamboula's</title>
+<link>https://www.wwoz.org/events/1368811</link>
+<guid isPermaLink="false">f76c8f9804c28885d6db8ffae88b0edc82f6521f</guid>
+<description>Venue: Bamboula's | Date: Saturday, July 25 | Time: 11:00am</description>
+<pubDate>Sat, 25 Jul 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Willie Green III — Bacchanal (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1364656</link>
-<guid isPermaLink="false">63c956ad72c878164fbcc79a2c4693daa16f5eb1</guid>
-<description>Venue: Bacchanal (OUTDOORS) | Date: Friday, July 24 | Time: 7:00pm</description>
-<pubDate>Fri, 24 Jul 2026 19:00:00 +0000</pubDate>
+<title>Jon Roniger &amp; The Good For Nothin' Band — Bamboula's</title>
+<link>https://www.wwoz.org/events/1368816</link>
+<guid isPermaLink="false">3fb0638bdfaebb7c74cb9309f781149a966d7dde</guid>
+<description>Venue: Bamboula's | Date: Saturday, July 25 | Time: 2:15pm</description>
+<pubDate>Sat, 25 Jul 2026 14:15:00 +0000</pubDate>
 </item>
 <item>
-<title>The New Orleans Rug Cutters — Bamboula's</title>
-<link>https://www.wwoz.org/events/1367206</link>
-<guid isPermaLink="false">117a60958565dd6b480ac6547789e282514c489e</guid>
-<description>Venue: Bamboula's | Date: Friday, July 24 | Time: 11:00am</description>
-<pubDate>Fri, 24 Jul 2026 11:00:00 +0000</pubDate>
+<title>James McClaskey &amp; the Rhythm Band — Bamboula's</title>
+<link>https://www.wwoz.org/events/1368796</link>
+<guid isPermaLink="false">75b082b4ccae349f0369d60cfe953ef83cfe5517</guid>
+<description>Venue: Bamboula's | Date: Saturday, July 25 | Time: 6:30pm</description>
+<pubDate>Sat, 25 Jul 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Felipe Antonio Quarteto — Bamboula's</title>
-<link>https://www.wwoz.org/events/1368766</link>
-<guid isPermaLink="false">fd63ba3727d754941d741d4c00fdba41be391a64</guid>
-<description>Venue: Bamboula's | Date: Friday, July 24 | Time: 2:15pm</description>
-<pubDate>Fri, 24 Jul 2026 14:15:00 +0000</pubDate>
-</item>
-<item>
-<title>Les Getrex &amp; Creole Cookin' — Bamboula's</title>
-<link>https://www.wwoz.org/events/1368781</link>
-<guid isPermaLink="false">cf488896fb9ff8f451f368125d3b5fa03401be6a</guid>
-<description>Venue: Bamboula's | Date: Friday, July 24 | Time: 6:30pm</description>
-<pubDate>Fri, 24 Jul 2026 18:30:00 +0000</pubDate>
+<title>Paggy Prine &amp; Southern Soul — Bamboula's</title>
+<link>https://www.wwoz.org/events/1368826</link>
+<guid isPermaLink="false">b683761faf86db47b9d196de31b980fb1290682c</guid>
+<description>Venue: Bamboula's | Date: Saturday, July 25 | Time: 10:00pm</description>
+<pubDate>Sat, 25 Jul 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Mark Appleford — Bamboula's - Festival Hall</title>
-<link>https://www.wwoz.org/events/1359921</link>
-<guid isPermaLink="false">152dc6049ccda3d3e4c389a9e79124f8026978f4</guid>
-<description>Venue: Bamboula's - Festival Hall | Date: Friday, July 24 | Time: 7:00pm</description>
-<pubDate>Fri, 24 Jul 2026 19:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1359976</link>
+<guid isPermaLink="false">4f8faea061952b55b67d409afd8d7d79e7508363</guid>
+<description>Venue: Bamboula's - Festival Hall | Date: Saturday, July 25 | Time: 7:00pm</description>
+<pubDate>Sat, 25 Jul 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Domenic Fusca Honest Man Happy Hour Show — Banks Street Bar</title>
-<link>https://www.wwoz.org/events/1365071</link>
-<guid isPermaLink="false">ec524c2f2556069c0f82614749e1a5cc0fb5045a</guid>
-<description>Venue: Banks Street Bar | Date: Friday, July 24 | Time: 4:00pm</description>
-<pubDate>Fri, 24 Jul 2026 16:00:00 +0000</pubDate>
+<title>T Marie Duo — Batture, The (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1359856</link>
+<guid isPermaLink="false">122164f9e87d4d9ffdd290e621b73ce8da4a294a</guid>
+<description>Venue: Batture, The (OUTDOORS) | Date: Saturday, July 25 | Time: 6:00pm</description>
+<pubDate>Sat, 25 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Oh Yeah! ft. Peter Harris, Ed Perkins, Wes "Warmdaddy" Anderson, Joe Ashlar, and Gerald Watkins — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1366326</link>
-<guid isPermaLink="false">4d12de1bcac850f9b26c286541d02fec37a8fcba</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Friday, July 24 | Time: 8:00pm</description>
-<pubDate>Fri, 24 Jul 2026 20:00:00 +0000</pubDate>
+<title>Solid Harmony ft. Peter Harris, Yolanda Robinson, Jolynda "Kiki" Chapman &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1366336</link>
+<guid isPermaLink="false">da5d62a2a5fb91dab11fbc4d314e874232757282</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Saturday, July 25 | Time: 8:00pm</description>
+<pubDate>Sat, 25 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Oh Yeah! ft. Peter Harris, Ed Perkins, Wes "Warmdaddy" Anderson, Joe Ashlar, and Gerald Watkins — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1366331</link>
-<guid isPermaLink="false">43eb9fe5c39dd8039137d2d4b803e33a24f37806</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Friday, July 24 | Time: 10:00pm</description>
-<pubDate>Fri, 24 Jul 2026 22:00:00 +0000</pubDate>
+<title>Solid Harmony ft. Peter Harris, Yolanda Robinson, Jolynda "Kiki" Chapman &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1366341</link>
+<guid isPermaLink="false">c93c87aa939123cd74c126883495349c7e6b6fa0</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Saturday, July 25 | Time: 10:00pm</description>
+<pubDate>Sat, 25 Jul 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Louis Michot &amp; Leyla McCalla — BJ's Lounge</title>
-<link>https://www.wwoz.org/events/1367431</link>
-<guid isPermaLink="false">8c37edc53dfafe3014bd900d86ab1c58a9517b1c</guid>
-<description>Venue: BJ's Lounge | Date: Friday, July 24 | Time: 9:00pm</description>
-<pubDate>Fri, 24 Jul 2026 21:00:00 +0000</pubDate>
+<title>Blue Horse Blue Mountain Release Party + Bruisey Peets + Maddy Kirgo — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1367436</link>
+<guid isPermaLink="false">f9f641240ec4fd4c8b40f2e98e9234e20e19f233</guid>
+<description>Venue: BJ's Lounge | Date: Saturday, July 25 | Time: 9:00pm</description>
+<pubDate>Sat, 25 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Kermit Ruffins &amp; the BBQ Swingers — Blue Nile</title>
-<link>https://www.wwoz.org/events/1363496</link>
-<guid isPermaLink="false">b95d430fdd468b4cb3a760f66614e3d51fa0fc6c</guid>
-<description>Venue: Blue Nile | Date: Friday, July 24 | Time: 10:00pm</description>
-<pubDate>Fri, 24 Jul 2026 22:00:00 +0000</pubDate>
+<title>The Caesar Brothers' FunkBox — Blue Nile</title>
+<link>https://www.wwoz.org/events/1363586</link>
+<guid isPermaLink="false">ea955c6008f738bc60b8244bdeac227199277657</guid>
+<description>Venue: Blue Nile | Date: Saturday, July 25 | Time: 7:30pm</description>
+<pubDate>Sat, 25 Jul 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Chore Boys — Blue Nile - Balcony Room</title>
-<link>https://www.wwoz.org/events/1363511</link>
-<guid isPermaLink="false">8ac4061f79465f93abc079407930881bb48f8937</guid>
-<description>Venue: Blue Nile - Balcony Room | Date: Friday, July 24 | Time: 10:00pm</description>
-<pubDate>Fri, 24 Jul 2026 22:00:00 +0000</pubDate>
+<title>The Soul Rebels — Blue Nile</title>
+<link>https://www.wwoz.org/events/1363601</link>
+<guid isPermaLink="false">d6bff2df21e3f4a3a00f45662f54b435f4ac0726</guid>
+<description>Venue: Blue Nile | Date: Saturday, July 25 | Time: 11:00pm</description>
+<pubDate>Sat, 25 Jul 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dick Deluxe &amp; Dale Spalding — B Mac's (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1370461</link>
-<guid isPermaLink="false">3ebe1b9869b57da7ff1f26199ad1fb562e94d167</guid>
-<description>Venue: B Mac's (OUTDOORS) | Date: Friday, July 24 | Time: 7:00pm</description>
-<pubDate>Fri, 24 Jul 2026 19:00:00 +0000</pubDate>
+<title>Afrobeat NOLA — Blue Nile - Balcony Room</title>
+<link>https://www.wwoz.org/events/1363611</link>
+<guid isPermaLink="false">f8a9d70dadf0a3005dc0b4ea5bbcfd7ed684f642</guid>
+<description>Venue: Blue Nile - Balcony Room | Date: Saturday, July 25 | Time: 10:00pm</description>
+<pubDate>Sat, 25 Jul 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mother Ruckus — BMC</title>
-<link>https://www.wwoz.org/events/1360796</link>
-<guid isPermaLink="false">1e63501ecc461781da2e805cf92e8c456b1ac1bc</guid>
-<description>Venue: BMC | Date: Friday, July 24 | Time: 6:00pm</description>
-<pubDate>Fri, 24 Jul 2026 18:00:00 +0000</pubDate>
+<title>Joey Houck Duo — B Mac's (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1370466</link>
+<guid isPermaLink="false">3133996531a278f2e2d6cef7338109a2e8f81067</guid>
+<description>Venue: B Mac's (OUTDOORS) | Date: Saturday, July 25 | Time: 6:00pm</description>
+<pubDate>Sat, 25 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Big Mike &amp; The R&amp;B Kings — BMC</title>
-<link>https://www.wwoz.org/events/1360881</link>
-<guid isPermaLink="false">62cd2f9a04464f410f01c37baae693aa9c4827f1</guid>
-<description>Venue: BMC | Date: Friday, July 24 | Time: 9:00pm</description>
-<pubDate>Fri, 24 Jul 2026 21:00:00 +0000</pubDate>
+<title>Andre Lovett Band — BMC</title>
+<link>https://www.wwoz.org/events/1360891</link>
+<guid isPermaLink="false">2946eabe20f178adba224e25bb922f3b8e05461a</guid>
+<description>Venue: BMC | Date: Saturday, July 25 | Time: 3:00pm</description>
+<pubDate>Sat, 25 Jul 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>April Spain — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1366946</link>
-<guid isPermaLink="false">a2207ee2d4da377901b9b30ff0e8c6e01afef179</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Friday, July 24 | Time: 4:00pm</description>
-<pubDate>Fri, 24 Jul 2026 16:00:00 +0000</pubDate>
+<title>Sugar &amp; The Daddies — BMC</title>
+<link>https://www.wwoz.org/events/1360911</link>
+<guid isPermaLink="false">bbc6de6dd778a407530053985dc97164dd5f56bb</guid>
+<description>Venue: BMC | Date: Saturday, July 25 | Time: 6:00pm</description>
+<pubDate>Sat, 25 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Kid Merv &amp; All That Jazz — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1366961</link>
-<guid isPermaLink="false">1560841d7a2e83759ad546b62a84136a67d514b2</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Friday, July 24 | Time: 8:00pm</description>
-<pubDate>Fri, 24 Jul 2026 20:00:00 +0000</pubDate>
+<title>Fleurtations — BMC</title>
+<link>https://www.wwoz.org/events/1360916</link>
+<guid isPermaLink="false">5f8c2a206dd8090165c2d63569e37128eec5e790</guid>
+<description>Venue: BMC | Date: Saturday, July 25 | Time: 9:00pm</description>
+<pubDate>Sat, 25 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Cedric Burnside &amp; Garry Burnside: Burnside Exploration 2 — Broadside</title>
-<link>https://www.wwoz.org/events/1365411</link>
-<guid isPermaLink="false">44cfc67caef05340f6fb47974830fe7125075738</guid>
-<description>Venue: Broadside | Date: Friday, July 24 | Time: 8:00pm</description>
-<pubDate>Fri, 24 Jul 2026 20:00:00 +0000</pubDate>
+<title>Brian Wingard — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1366986</link>
+<guid isPermaLink="false">79c42683e66dd3fa2fb55aa4619d3c9a385720ad</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Saturday, July 25 | Time: 4:00pm</description>
+<pubDate>Sat, 25 Jul 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Eliza Sonneschein — Brutto Americano</title>
-<link>https://www.wwoz.org/events/1359836</link>
-<guid isPermaLink="false">304e0ad362b6ac28541f98c7bfcea9dfede5344e</guid>
-<description>Venue: Brutto Americano | Date: Friday, July 24 | Time: 6:00pm</description>
-<pubDate>Fri, 24 Jul 2026 18:00:00 +0000</pubDate>
+<title>The Blues Masters — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1367001</link>
+<guid isPermaLink="false">16bc00f1dbda4696533e186db89de9a4affce193</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Saturday, July 25 | Time: 8:00pm</description>
+<pubDate>Sat, 25 Jul 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Brother Tyrone &amp; The Mindbenders with Special Guests — Brothers Three Lounge</title>
+<link>https://www.wwoz.org/events/1369076</link>
+<guid isPermaLink="false">5dc9e8a46278db2317c7a8460061002ba91649d8</guid>
+<description>Venue: Brothers Three Lounge | Date: Saturday, July 25 | Time: 9:30pm</description>
+<pubDate>Sat, 25 Jul 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Ariella &amp; Nicolaas — Buffa's</title>
-<link>https://www.wwoz.org/events/1363396</link>
-<guid isPermaLink="false">00efa27fc70716fcb270371f66ce2f4ff93b3bd8</guid>
-<description>Venue: Buffa's | Date: Friday, July 24 | Time: 8:00pm</description>
-<pubDate>Fri, 24 Jul 2026 20:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1363401</link>
+<guid isPermaLink="false">9a4090ec20bfdbd31fe29b1f8123a34abdd6c54e</guid>
+<description>Venue: Buffa's | Date: Saturday, July 25 | Time: 8:00pm</description>
+<pubDate>Sat, 25 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dana Abbott Band — Café Negril</title>
-<link>https://www.wwoz.org/events/1360386</link>
-<guid isPermaLink="false">9ea02f9666ba9fe4c6381ba23d6760266e3d6461</guid>
-<description>Venue: Café Negril | Date: Friday, July 24 | Time: 6:30pm</description>
-<pubDate>Fri, 24 Jul 2026 18:30:00 +0000</pubDate>
+<title>Soul of the Monsoon ft. Siddarth Shankar, Dipak Chakraborty &amp; More! — Café Istanbul</title>
+<link>https://www.wwoz.org/events/1365281</link>
+<guid isPermaLink="false">54fa20844d5a122e66e933b8c96926b7c8072a89</guid>
+<description>Venue: Café Istanbul | Date: Saturday, July 25 | Time: 7:30pm</description>
+<pubDate>Sat, 25 Jul 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Higher Heights — Café Negril</title>
-<link>https://www.wwoz.org/events/1360411</link>
-<guid isPermaLink="false">93191d31d3388dcfcc16b114331c36a46e4ba014</guid>
-<description>Venue: Café Negril | Date: Friday, July 24 | Time: 10:00pm</description>
-<pubDate>Fri, 24 Jul 2026 22:00:00 +0000</pubDate>
+<title>Decaturadio — Café Negril</title>
+<link>https://www.wwoz.org/events/1360531</link>
+<guid isPermaLink="false">295cdd61a6502684101ef1b96dc19e49c0f2c03a</guid>
+<description>Venue: Café Negril | Date: Saturday, July 25 | Time: 1:30pm</description>
+<pubDate>Sat, 25 Jul 2026 13:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Big 6 Brass Band — Candlelight Lounge</title>
-<link>https://www.wwoz.org/events/1355281</link>
-<guid isPermaLink="false">04916315cbd9fa1e82031399f2c777847f335373</guid>
-<description>Venue: Candlelight Lounge | Date: Friday, July 24 | Time: 9:00pm</description>
-<pubDate>Fri, 24 Jul 2026 21:00:00 +0000</pubDate>
+<title>Sunny Side Jazz Band — Café Negril</title>
+<link>https://www.wwoz.org/events/1360541</link>
+<guid isPermaLink="false">ee95d4b2fe239d34640cad992808fe080067fc54</guid>
+<description>Venue: Café Negril | Date: Saturday, July 25 | Time: 6:00pm</description>
+<pubDate>Sat, 25 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Royal Street Brass Band — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
-<link>https://www.wwoz.org/events/1367776</link>
-<guid isPermaLink="false">7bb72b898ae8d88838fc71e2726e9c99968cae61</guid>
-<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Friday, July 24 | Time: 12:30pm</description>
-<pubDate>Fri, 24 Jul 2026 12:30:00 +0000</pubDate>
+<title>Ado Soul &amp; The Tribe — Café Negril</title>
+<link>https://www.wwoz.org/events/1360556</link>
+<guid isPermaLink="false">93d5df705fd4156adc7ece5c30f0d08443fad65d</guid>
+<description>Venue: Café Negril | Date: Saturday, July 25 | Time: 10:00pm</description>
+<pubDate>Sat, 25 Jul 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Richard "Piano" Scott Trio — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
-<link>https://www.wwoz.org/events/1370481</link>
-<guid isPermaLink="false">d215941d094e0670a8f0c62941ba6b59008236bb</guid>
-<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Friday, July 24 | Time: 4:00pm</description>
-<pubDate>Fri, 24 Jul 2026 16:00:00 +0000</pubDate>
+<title>Big Joe Kennedy — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1370491</link>
+<guid isPermaLink="false">ece16258de4dcbe671b5d36ad620aaa4685177b4</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Saturday, July 25 | Time: 2:00pm</description>
+<pubDate>Sat, 25 Jul 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Nayo Jones Experience — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
-<link>https://www.wwoz.org/events/1367761</link>
-<guid isPermaLink="false">99e8c43c14aa92180787177a89f8d1f926ff33e1</guid>
-<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Friday, July 24 | Time: 9:00pm</description>
-<pubDate>Fri, 24 Jul 2026 21:00:00 +0000</pubDate>
+<title>Al "Lil' Fats" Jackson Trio — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1370496</link>
+<guid isPermaLink="false">5faaa340860674f3d58018af66c251126a81f38a</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Saturday, July 25 | Time: 5:30pm</description>
+<pubDate>Sat, 25 Jul 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>John Lisi &amp; Delta Funk — d.b.a.</title>
-<link>https://www.wwoz.org/events/1367891</link>
-<guid isPermaLink="false">1a7b71aa1226d513e755947e9f650a1dd8dd526b</guid>
-<description>Venue: d.b.a. | Date: Friday, July 24 | Time: 6:00pm</description>
-<pubDate>Fri, 24 Jul 2026 18:00:00 +0000</pubDate>
+<title>Lena Prima &amp; Her Band — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1365356</link>
+<guid isPermaLink="false">77878dafb6e93063f93bfdaeaade7550d5a3e50a</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Saturday, July 25 | Time: 9:00pm</description>
+<pubDate>Sat, 25 Jul 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Sariyah Idan Duo — Courtyard Brewery</title>
+<link>https://www.wwoz.org/events/1371666</link>
+<guid isPermaLink="false">6fec7ade613657b16d0e3cced53a86dacda5aab1</guid>
+<description>Venue: Courtyard Brewery | Date: Saturday, July 25 | Time: 6:00pm</description>
+<pubDate>Sat, 25 Jul 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Young Lion Showcase — d.b.a.</title>
+<link>https://www.wwoz.org/events/1367906</link>
+<guid isPermaLink="false">6d4a0f5c676f86b802e4296274f3761b7f8c2938</guid>
+<description>Venue: d.b.a. | Date: Saturday, July 25 | Time: 2:30pm</description>
+<pubDate>Sat, 25 Jul 2026 14:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Tuba Skinny — d.b.a.</title>
+<link>https://www.wwoz.org/events/1368006</link>
+<guid isPermaLink="false">6c3ce12b75ea0c9e41e863cb6dfa6ce96f8879bf</guid>
+<description>Venue: d.b.a. | Date: Saturday, July 25 | Time: 6:00pm</description>
+<pubDate>Sat, 25 Jul 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Dwayne Dopsie &amp; the Zydeco Hellraisers — d.b.a.</title>
+<link>https://www.wwoz.org/events/1367986</link>
+<guid isPermaLink="false">08770bb11cd298018f541c8b9b4509f01163392e</guid>
+<description>Venue: d.b.a. | Date: Saturday, July 25 | Time: 10:00pm</description>
+<pubDate>Sat, 25 Jul 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Jeremy Davenport — Davenport Lounge at The Ritz-Carlton</title>
-<link>https://www.wwoz.org/events/1349291</link>
-<guid isPermaLink="false">86724f33dee0c9ccb8afa86920504685bbf1dc5f</guid>
-<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Friday, July 24 | Time: 8:00pm</description>
-<pubDate>Fri, 24 Jul 2026 20:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1349326</link>
+<guid isPermaLink="false">793648577d89a201d11c9f150af8542c65a99594</guid>
+<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Saturday, July 25 | Time: 8:00pm</description>
+<pubDate>Sat, 25 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sunpie &amp; The Louisiana Sunspots — Dos Jefes</title>
-<link>https://www.wwoz.org/events/1364836</link>
-<guid isPermaLink="false">896cceb7c7f41d79dba85ead243660b9f62318ce</guid>
-<description>Venue: Dos Jefes | Date: Friday, July 24 | Time: 9:00pm</description>
-<pubDate>Fri, 24 Jul 2026 21:00:00 +0000</pubDate>
+<title>BassX — Dos Jefes</title>
+<link>https://www.wwoz.org/events/1364841</link>
+<guid isPermaLink="false">c503273442924038f80031278e0be3742f8fff39</guid>
+<description>Venue: Dos Jefes | Date: Saturday, July 25 | Time: 9:00pm</description>
+<pubDate>Sat, 25 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jenavieve Cooke &amp; the Winding Boys — Double Dealer at Orpheum Theater</title>
-<link>https://www.wwoz.org/events/1361291</link>
-<guid isPermaLink="false">0e4e7cae07af29f1142f7493adbf95ec1798557b</guid>
-<description>Venue: Double Dealer at Orpheum Theater | Date: Friday, July 24 | Time: 9:30pm</description>
-<pubDate>Fri, 24 Jul 2026 21:30:00 +0000</pubDate>
+<title>Joey Houck — Double Dealer at Orpheum Theater</title>
+<link>https://www.wwoz.org/events/1361296</link>
+<guid isPermaLink="false">88118923e187d2e73dae3debaf8dcb4fdbdf6b58</guid>
+<description>Venue: Double Dealer at Orpheum Theater | Date: Saturday, July 25 | Time: 9:30pm</description>
+<pubDate>Sat, 25 Jul 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Richard "Piano" Scott — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1361406</link>
-<guid isPermaLink="false">7d93b445c7be66a3d5f62990312b1e6fa343f480</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Friday, July 24 | Time: 12:30pm</description>
-<pubDate>Fri, 24 Jul 2026 12:30:00 +0000</pubDate>
+<title>Dead Men Don't Play Jazz — Favela Chic</title>
+<link>https://www.wwoz.org/events/1356906</link>
+<guid isPermaLink="false">46b6b5dcaa7db69e9c02ea81421095c6c5935e52</guid>
+<description>Venue: Favela Chic | Date: Saturday, July 25 | Time: 4:00pm</description>
+<pubDate>Sat, 25 Jul 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sam Friend Jazz Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1361626</link>
-<guid isPermaLink="false">708f65044bdcc0eb6e9b3524da4776eaba4dc2b3</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Friday, July 24 | Time: 2:30pm</description>
-<pubDate>Fri, 24 Jul 2026 14:30:00 +0000</pubDate>
+<title>Freddie Blue &amp; The Friendship Circle Band — Felix's Restaurant &amp; Oyster Bar - Lakefront</title>
+<link>https://www.wwoz.org/events/1309801</link>
+<guid isPermaLink="false">8db934c8c451aa889ad6ccb8780692c34869bda0</guid>
+<description>Venue: Felix's Restaurant &amp; Oyster Bar - Lakefront | Date: Saturday, July 25 | Time: 2:00pm</description>
+<pubDate>Sat, 25 Jul 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Lange/Woodis Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1361656</link>
-<guid isPermaLink="false">52e95692b337ed2370801f33157315d75b40854e</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Friday, July 24 | Time: 6:00pm</description>
-<pubDate>Fri, 24 Jul 2026 18:00:00 +0000</pubDate>
+<title>Steve DeTroy Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1364381</link>
+<guid isPermaLink="false">8929ade24ca9d4d93d7f5f68ac8b76abbaa9ea5a</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Saturday, July 25 | Time: 1:00pm</description>
+<pubDate>Sat, 25 Jul 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Fritzel's All Star Band with Kevin Ray Clark — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1361491</link>
-<guid isPermaLink="false">ef6f15546e0677a3303c05d979f5d104bf1773d4</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Friday, July 24 | Time: 9:00pm</description>
-<pubDate>Fri, 24 Jul 2026 21:00:00 +0000</pubDate>
+<title>Bourbon Matinee Jazz Band with Chuck Brackman — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1364401</link>
+<guid isPermaLink="false">cdc5d6ff31335fd459ae9756ba3d480e60fb5023</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Saturday, July 25 | Time: 5:00pm</description>
+<pubDate>Sat, 25 Jul 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Band Melrose, Neutral Snap, Donate Your Friends, and Oversight — Gasa Gasa</title>
-<link>https://www.wwoz.org/events/1369516</link>
-<guid isPermaLink="false">75495d38f605fdaaeee8a5074e482237cbc88b92</guid>
-<description>Venue: Gasa Gasa | Date: Friday, July 24 | Time: 9:30pm</description>
-<pubDate>Fri, 24 Jul 2026 21:30:00 +0000</pubDate>
+<title>Fritzel's All Star Band with Jamil Sharif — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1364421</link>
+<guid isPermaLink="false">3adbeba5cc371acc9edab08f6473f3908aecc708</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Saturday, July 25 | Time: 9:00pm</description>
+<pubDate>Sat, 25 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Very Cherry — Good Measure at The Barnett</title>
-<link>https://www.wwoz.org/events/1359796</link>
-<guid isPermaLink="false">96e180e8b35ee8eaa992692d7d7bf8669fd09647</guid>
-<description>Venue: Good Measure at The Barnett | Date: Friday, July 24 | Time: 9:00pm</description>
-<pubDate>Fri, 24 Jul 2026 21:00:00 +0000</pubDate>
+<title>Smoker's World — Good Measure at The Barnett</title>
+<link>https://www.wwoz.org/events/1359801</link>
+<guid isPermaLink="false">422ba91e0980c9a42efe5e52895f515af0670dea</guid>
+<description>Venue: Good Measure at The Barnett | Date: Saturday, July 25 | Time: 9:00pm</description>
+<pubDate>Sat, 25 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>DJ Reverend Robert Sinewave — Holy Diver</title>
-<link>https://www.wwoz.org/events/1362041</link>
-<guid isPermaLink="false">499eae88b2f012862dbc4437a0718139175fcfc2</guid>
-<description>Venue: Holy Diver | Date: Friday, July 24 | Time: 10:00pm</description>
-<pubDate>Fri, 24 Jul 2026 22:00:00 +0000</pubDate>
+<title>Exformation, Dead Centered &amp; With Fire Came Disparity — Holy Diver</title>
+<link>https://www.wwoz.org/events/1362036</link>
+<guid isPermaLink="false">5e0ec3ba30470d371f7a692beaa12274cf6c7694</guid>
+<description>Venue: Holy Diver | Date: Saturday, July 25 | Time: 9:00pm</description>
+<pubDate>Sat, 25 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Rio Da Yung OG — House of Blues</title>
-<link>https://www.wwoz.org/events/1352261</link>
-<guid isPermaLink="false">95d536f019a72acdd1a6ef3f7c3a83dbbc655e15</guid>
-<description>Venue: House of Blues | Date: Friday, July 24 | Time: 8:00pm</description>
-<pubDate>Fri, 24 Jul 2026 20:00:00 +0000</pubDate>
+<title>The Nayo Jones Experience — Jazz Playhouse</title>
+<link>https://www.wwoz.org/events/1368126</link>
+<guid isPermaLink="false">d16f20ad73d089e4ddd41743aa89aa0455bd441b</guid>
+<description>Venue: Jazz Playhouse | Date: Saturday, July 25 | Time: 7:30pm</description>
+<pubDate>Sat, 25 Jul 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Trixie Minx's Burlesque Ballroom ft. Romy Kaye on Vocals — Jazz Playhouse</title>
-<link>https://www.wwoz.org/events/1368086</link>
-<guid isPermaLink="false">74a5201e777e12c9b9ec3c7277c0ce98823fa642</guid>
-<description>Venue: Jazz Playhouse | Date: Friday, July 24 | Time: 7:30pm</description>
-<pubDate>Fri, 24 Jul 2026 19:30:00 +0000</pubDate>
+<title>The Nayo Jones Experience — Jazz Playhouse</title>
+<link>https://www.wwoz.org/events/1368141</link>
+<guid isPermaLink="false">8f1ddb3cdefe146bbd1bdd669c048b8f63a3f102</guid>
+<description>Venue: Jazz Playhouse | Date: Saturday, July 25 | Time: 9:00pm</description>
+<pubDate>Sat, 25 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Trixie Minx's Burlesque Ballroom ft. Romy Kaye on Vocals — Jazz Playhouse</title>
-<link>https://www.wwoz.org/events/1368101</link>
-<guid isPermaLink="false">d78e86dca571422a3be29b628aebaaeeb05e240f</guid>
-<description>Venue: Jazz Playhouse | Date: Friday, July 24 | Time: 9:00pm</description>
-<pubDate>Fri, 24 Jul 2026 21:00:00 +0000</pubDate>
+<title>Kermit Ruffins &amp; the Barbecue Swingers — Kermit's Tremé Mother-in-Law Lounge</title>
+<link>https://www.wwoz.org/events/1357511</link>
+<guid isPermaLink="false">94119fe01ec2154d2455f22ab57a458a4726901b</guid>
+<description>Venue: Kermit's Tremé Mother-in-Law Lounge | Date: Saturday, July 25 | Time: 6:00pm</description>
+<pubDate>Sat, 25 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Patrick Cooper — Kerry Irish Pub</title>
-<link>https://www.wwoz.org/events/1361081</link>
-<guid isPermaLink="false">6a80e34f40d370566ed435c0d545a377f250c35f</guid>
-<description>Venue: Kerry Irish Pub | Date: Friday, July 24 | Time: 9:00pm</description>
-<pubDate>Fri, 24 Jul 2026 21:00:00 +0000</pubDate>
+<title>Mike Doussan &amp; Co. — Le Bon Temps Roulé</title>
+<link>https://www.wwoz.org/events/1352476</link>
+<guid isPermaLink="false">124bd8ab35044a2b250f7795e53935cfc8ca0a40</guid>
+<description>Venue: Le Bon Temps Roulé | Date: Saturday, July 25 | Time: 11:00pm</description>
+<pubDate>Sat, 25 Jul 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Aren't We — Le Bon Temps Roulé</title>
-<link>https://www.wwoz.org/events/1352471</link>
-<guid isPermaLink="false">ceccbe85a15e3ea7d4b8ca481539091398867e56</guid>
-<description>Venue: Le Bon Temps Roulé | Date: Friday, July 24 | Time: 11:00pm</description>
-<pubDate>Fri, 24 Jul 2026 23:00:00 +0000</pubDate>
+<title>Nat &amp; Kat Cajun String Band — Little House, The</title>
+<link>https://www.wwoz.org/events/1367276</link>
+<guid isPermaLink="false">deeb428c4db775956492240df1aca137ea82d754</guid>
+<description>Venue: Little House, The | Date: Saturday, July 25 | Time: 6:00pm</description>
+<pubDate>Sat, 25 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Raphael Bas — Lobby Lounge at JW Marriott</title>
-<link>https://www.wwoz.org/events/1361136</link>
-<guid isPermaLink="false">2c9db5638005d8a71b926812eb2ba8aee5e2e3d5</guid>
-<description>Venue: Lobby Lounge at JW Marriott | Date: Friday, July 24 | Time: 6:00pm</description>
-<pubDate>Fri, 24 Jul 2026 18:00:00 +0000</pubDate>
+<title>Stephen Walker N'em — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1363001</link>
+<guid isPermaLink="false">aa7f2ab81dbdb84114fd66db0c23b492e05c8fc6</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Saturday, July 25 | Time: 3:00pm</description>
+<pubDate>Sat, 25 Jul 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>New Orleans International Piano Competition : Final Round, Solo Recitalists — Loyola University - Louis J. Roussel Performance Hall</title>
-<link>https://www.wwoz.org/events/1349916</link>
-<guid isPermaLink="false">5a81740112cc1e7633561274e999a24749cf86b4</guid>
-<description>Venue: Loyola University - Louis J. Roussel Performance Hall | Date: Friday, July 24 | Time: 7:00pm</description>
-<pubDate>Fri, 24 Jul 2026 19:00:00 +0000</pubDate>
+<title>Gerald French Trio — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1363016</link>
+<guid isPermaLink="false">2dec1823ab14135e922e626008590e370c269ec3</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Saturday, July 25 | Time: 7:00pm</description>
+<pubDate>Sat, 25 Jul 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Khris Royal Trio — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1362911</link>
-<guid isPermaLink="false">fc5bc90a6895d1798965ebf2417b895dc73e225e</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Friday, July 24 | Time: 3:00pm</description>
-<pubDate>Fri, 24 Jul 2026 15:00:00 +0000</pubDate>
+<title>Mahogany Hall Jazz Band ft. Kid Chocolate — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1362846</link>
+<guid isPermaLink="false">e9d6167c8ad817d6a53d7d13f3ddb28fd6f51248</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Saturday, July 25 | Time: 9:30pm</description>
+<pubDate>Sat, 25 Jul 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>The New Orleans Catahoulas — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1363086</link>
-<guid isPermaLink="false">93329ebba37bc4aab1af2cd1c87456d9306d21b8</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Friday, July 24 | Time: 7:00pm</description>
-<pubDate>Fri, 24 Jul 2026 19:00:00 +0000</pubDate>
+<title>NOLA Sweethearts — Maison, The</title>
+<link>https://www.wwoz.org/events/1363746</link>
+<guid isPermaLink="false">7912d945c1995739e446f482ca84dc9666177d94</guid>
+<description>Venue: Maison, The | Date: Saturday, July 25 | Time: 1:00pm</description>
+<pubDate>Sat, 25 Jul 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mahogany Hall Jazz Band ft. Mike Fulton — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1362811</link>
-<guid isPermaLink="false">7ea1158a9868ad1302a474eb5d2f36f58752d4f3</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Friday, July 24 | Time: 9:30pm</description>
-<pubDate>Fri, 24 Jul 2026 21:30:00 +0000</pubDate>
+<title>Smoking Time Jazz Club — Maison, The</title>
+<link>https://www.wwoz.org/events/1363936</link>
+<guid isPermaLink="false">ff398d58193f8cf7ef2912a4a50d9d0c6ba83e69</guid>
+<description>Venue: Maison, The | Date: Saturday, July 25 | Time: 4:00pm</description>
+<pubDate>Sat, 25 Jul 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>NOLA Rug Cutters — Maison, The</title>
-<link>https://www.wwoz.org/events/1363796</link>
-<guid isPermaLink="false">372da83c79a76fb032d598348e22be7240c46f4b</guid>
-<description>Venue: Maison, The | Date: Friday, July 24 | Time: 5:00pm</description>
-<pubDate>Fri, 24 Jul 2026 17:00:00 +0000</pubDate>
+<title>SingleMaltPlease — Maison, The</title>
+<link>https://www.wwoz.org/events/1363761</link>
+<guid isPermaLink="false">2c3cf4dd34e967e6600a02dbd6377017c855cde9</guid>
+<description>Venue: Maison, The | Date: Saturday, July 25 | Time: 8:00pm</description>
+<pubDate>Sat, 25 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Street Lyfe — Maison, The</title>
-<link>https://www.wwoz.org/events/1363721</link>
-<guid isPermaLink="false">a31f79b3e2782c66df16fa7049ebd226330ef553</guid>
-<description>Venue: Maison, The | Date: Friday, July 24 | Time: 8:00pm</description>
-<pubDate>Fri, 24 Jul 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Kid Merv &amp; All That Jazz — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1367121</link>
-<guid isPermaLink="false">b6a0b5c19cd253aea70ba0c573b52414b8737525</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Friday, July 24 | Time: 2:00pm</description>
-<pubDate>Fri, 24 Jul 2026 14:00:00 +0000</pubDate>
+<title>DJ RQ Away — Maison, The</title>
+<link>https://www.wwoz.org/events/1363776</link>
+<guid isPermaLink="false">d0e0eedcf34c75c33566243f4017e2077b212aa5</guid>
+<description>Venue: Maison, The | Date: Saturday, July 25 | Time: 11:00pm</description>
+<pubDate>Sat, 25 Jul 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
 <title>The Leroy Marshall Band — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1362576</link>
-<guid isPermaLink="false">4ead50433210f08b0e171f8059d034cfc52181e3</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Friday, July 24 | Time: 8:15pm</description>
-<pubDate>Fri, 24 Jul 2026 20:15:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1362586</link>
+<guid isPermaLink="false">739a5502b68d19803b49dc4c85d38181270af670</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Saturday, July 25 | Time: 3:15pm</description>
+<pubDate>Sat, 25 Jul 2026 15:15:00 +0000</pubDate>
 </item>
 <item>
-<title>Jackson's Flying Circus — Maple Leaf</title>
-<link>https://www.wwoz.org/events/1363256</link>
-<guid isPermaLink="false">e865aa1de329e7edca01912be00465e0f75a4257</guid>
-<description>Venue: Maple Leaf | Date: Friday, July 24 | Time: 9:00pm</description>
-<pubDate>Fri, 24 Jul 2026 21:00:00 +0000</pubDate>
+<title>Danny Rubio &amp; the Catahoula Music Company ft. Jeff Kreis — Maison Bourbon Jazz Club</title>
+<link>https://www.wwoz.org/events/1364096</link>
+<guid isPermaLink="false">0ddc5ec082e520d116249064178ccb3866d8b8f6</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Saturday, July 25 | Time: 8:00pm</description>
+<pubDate>Sat, 25 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Ellis Dyson &amp; The Current Five — May Baily's Place</title>
-<link>https://www.wwoz.org/events/1359491</link>
-<guid isPermaLink="false">46a5109edc0b68cf076318eb0117e30bda665846</guid>
-<description>Venue: May Baily's Place | Date: Friday, July 24 | Time: 8:30pm</description>
-<pubDate>Fri, 24 Jul 2026 20:30:00 +0000</pubDate>
+<title>Sporty's Brass Band — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1363266</link>
+<guid isPermaLink="false">50f39ab06af58497b5ca67b60428e6a9eb6c6fce</guid>
+<description>Venue: Maple Leaf | Date: Saturday, July 25 | Time: 10:00pm</description>
+<pubDate>Sat, 25 Jul 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Peyton Falgoust Band — Mid-City Lanes Rock 'n' Bowl</title>
-<link>https://www.wwoz.org/events/1355451</link>
-<guid isPermaLink="false">4910dd9d2a11f47eb1145549e5d75db6f7b04347</guid>
-<description>Venue: Mid-City Lanes Rock 'n' Bowl | Date: Friday, July 24 | Time: 8:30pm</description>
-<pubDate>Fri, 24 Jul 2026 20:30:00 +0000</pubDate>
+<title>Giselle Anguizola Trio — May Baily's Place</title>
+<link>https://www.wwoz.org/events/1359496</link>
+<guid isPermaLink="false">a6522240ac2d04896a6e72a7ec40a390d80a95c4</guid>
+<description>Venue: May Baily's Place | Date: Saturday, July 25 | Time: 8:30pm</description>
+<pubDate>Sat, 25 Jul 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Saskia Walker Trio — New Orleans Jazz National Historical Park</title>
-<link>https://www.wwoz.org/events/1360146</link>
-<guid isPermaLink="false">a7d2619e7b7448e2d0787552507d713bdd4b2ba9</guid>
-<description>Venue: New Orleans Jazz National Historical Park | Date: Friday, July 24 | Time: 3:00pm</description>
-<pubDate>Fri, 24 Jul 2026 15:00:00 +0000</pubDate>
+<title>Yacht-Sea — Mid-City Lanes Rock 'n' Bowl</title>
+<link>https://www.wwoz.org/events/1355456</link>
+<guid isPermaLink="false">360c139c9a2d5da566aca10a5943d3c171fc327c</guid>
+<description>Venue: Mid-City Lanes Rock 'n' Bowl | Date: Saturday, July 25 | Time: 8:30pm</description>
+<pubDate>Sat, 25 Jul 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Sean Riley Trio — NOLA Brewing</title>
-<link>https://www.wwoz.org/events/1368586</link>
-<guid isPermaLink="false">a7202aef40c7d896c641e6697ff3f6deb45b6b36</guid>
-<description>Venue: NOLA Brewing | Date: Friday, July 24 | Time: 7:00pm</description>
-<pubDate>Fri, 24 Jul 2026 19:00:00 +0000</pubDate>
+<title>Que Rico Saturdays with VDJ Emotion by Sábado Gigante — New Orleans Jazz &amp; Blues Market</title>
+<link>https://www.wwoz.org/events/1369601</link>
+<guid isPermaLink="false">b1b842730f06fdf3e26af6e0852b51160eea53a8</guid>
+<description>Venue: New Orleans Jazz &amp; Blues Market | Date: Saturday, July 25 | Time: 11:00pm</description>
+<pubDate>Sat, 25 Jul 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sea Shanty Sing-a-long with the Scurvy Baratarians — Oak Street Brewery</title>
-<link>https://www.wwoz.org/events/1369581</link>
-<guid isPermaLink="false">bdedada9a791705390b625cdea4eac8cc4034851</guid>
-<description>Venue: Oak Street Brewery | Date: Friday, July 24 | Time: 7:00pm</description>
-<pubDate>Fri, 24 Jul 2026 19:00:00 +0000</pubDate>
+<title>Drum Circle with Mama Jamilah — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1362416</link>
+<guid isPermaLink="false">6581c401648e7b6b416218cf8f2ba78f9ccbc8b3</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Saturday, July 25 | Time: 10:30am</description>
+<pubDate>Sat, 25 Jul 2026 10:30:00 +0000</pubDate>
 </item>
 <item>
-<title>T Marie &amp; Bayou Juju + Dance Workshop — Old Point Bar</title>
-<link>https://www.wwoz.org/events/1359851</link>
-<guid isPermaLink="false">fabecc9206f4b410dbf5705520d4b1d91e8437a5</guid>
-<description>Venue: Old Point Bar | Date: Friday, July 24 | Time: 7:15pm</description>
-<pubDate>Fri, 24 Jul 2026 19:15:00 +0000</pubDate>
+<title>Grayson Brockamp &amp; the New Orleans Wildlife Band — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1360156</link>
+<guid isPermaLink="false">506a9ee856b490c3c262d6ae4566760be8705f86</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Saturday, July 25 | Time: 3:00pm</description>
+<pubDate>Sat, 25 Jul 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Manny Arteaga &amp; Tony Seville — Origen Bistro</title>
-<link>https://www.wwoz.org/events/1370941</link>
-<guid isPermaLink="false">191b39264e73a53061ef28e3f62a5e83328e6750</guid>
-<description>Venue: Origen Bistro | Date: Friday, July 24 | Time: 7:00pm</description>
-<pubDate>Fri, 24 Jul 2026 19:00:00 +0000</pubDate>
+<title>Kaytraaaa! Club! — No Dice</title>
+<link>https://www.wwoz.org/events/1359591</link>
+<guid isPermaLink="false">35b52860e8b7f5c54950ffdfb95ec86d00ce6899</guid>
+<description>Venue: No Dice | Date: Saturday, July 25 | Time: 9:00pm</description>
+<pubDate>Sat, 25 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Victoria Amato + Emelie Guidry — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1367561</link>
-<guid isPermaLink="false">5602adc3922474ebc5575e321f4f9816606bfd6b</guid>
-<description>Venue: Pat O'Brien's | Date: Friday, July 24 | Time: 1:00pm</description>
-<pubDate>Fri, 24 Jul 2026 13:00:00 +0000</pubDate>
+<title>Been Around Band — NOLA Brewing</title>
+<link>https://www.wwoz.org/events/1368591</link>
+<guid isPermaLink="false">b629295d6e821247af15ef9aa0b26a249f94c2c2</guid>
+<description>Venue: NOLA Brewing | Date: Saturday, July 25 | Time: 7:00pm</description>
+<pubDate>Sat, 25 Jul 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Ben Michaels &amp; Natalie Mae + Lisa Bittick-Lowe &amp; Matt Hayden — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1367566</link>
-<guid isPermaLink="false">5a68fcc73f3738c5c9cd12da3db148bd66d43783</guid>
-<description>Venue: Pat O'Brien's | Date: Friday, July 24 | Time: 6:00pm</description>
-<pubDate>Fri, 24 Jul 2026 18:00:00 +0000</pubDate>
+<title>Martha &amp; the Good Time Gang — Old Point Bar</title>
+<link>https://www.wwoz.org/events/1369201</link>
+<guid isPermaLink="false">236b98d6c4b41a65a94f64644b03b431d2e9e0c0</guid>
+<description>Venue: Old Point Bar | Date: Saturday, July 25 | Time: 9:00pm</description>
+<pubDate>Sat, 25 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>David Boeddinghaus — Polo Club at The Windsor Court, The</title>
-<link>https://www.wwoz.org/events/1357896</link>
-<guid isPermaLink="false">e3dfd854087f91431894d2864fcbce2a44d3c873</guid>
-<description>Venue: Polo Club at The Windsor Court, The | Date: Friday, July 24 | Time: 5:30pm</description>
-<pubDate>Fri, 24 Jul 2026 17:30:00 +0000</pubDate>
+<title>Victoria Amato + Natalie Mae — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1367571</link>
+<guid isPermaLink="false">d3afdb8ca498be37c45a18c9b95f56f9bc190d7c</guid>
+<description>Venue: Pat O'Brien's | Date: Saturday, July 25 | Time: 1:00pm</description>
+<pubDate>Sat, 25 Jul 2026 13:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Matt Hayden &amp; Emelie Guidry + Lisa Bittick-Lowe &amp; Ben Michaels — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1367576</link>
+<guid isPermaLink="false">6678d519420772e381b499037834a25b9dca1285</guid>
+<description>Venue: Pat O'Brien's | Date: Saturday, July 25 | Time: 6:00pm</description>
+<pubDate>Sat, 25 Jul 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>John Royen — Polo Club at The Windsor Court, The</title>
+<link>https://www.wwoz.org/events/1357786</link>
+<guid isPermaLink="false">8e4bb950558a4d35993597033c7c63adb0312cd6</guid>
+<description>Venue: Polo Club at The Windsor Court, The | Date: Saturday, July 25 | Time: 5:30pm</description>
+<pubDate>Sat, 25 Jul 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Bean N' The Boys — Polo Club at The Windsor Court, The</title>
-<link>https://www.wwoz.org/events/1358031</link>
-<guid isPermaLink="false">b98400db09108c2c37a5c121f619973a0f23294d</guid>
-<description>Venue: Polo Club at The Windsor Court, The | Date: Friday, July 24 | Time: 9:00pm</description>
-<pubDate>Fri, 24 Jul 2026 21:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1358066</link>
+<guid isPermaLink="false">32deea9fb4bb697e8535f522d18cb1f904bad466</guid>
+<description>Venue: Polo Club at The Windsor Court, The | Date: Saturday, July 25 | Time: 9:00pm</description>
+<pubDate>Sat, 25 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1358926</link>
-<guid isPermaLink="false">2056bde141a8babf6de9f321d236c5529d711eb6</guid>
-<description>Venue: Preservation Hall | Date: Friday, July 24 | Time: 5:00pm</description>
-<pubDate>Fri, 24 Jul 2026 17:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1358931</link>
+<guid isPermaLink="false">5d42cc28f5b8892531e754cd3504df2725d6fb26</guid>
+<description>Venue: Preservation Hall | Date: Saturday, July 25 | Time: 5:00pm</description>
+<pubDate>Sat, 25 Jul 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1358921</link>
-<guid isPermaLink="false">e8fd5fc2f09652ab9963580917782a32db42a26f</guid>
-<description>Venue: Preservation Hall | Date: Friday, July 24 | Time: 6:15pm</description>
-<pubDate>Fri, 24 Jul 2026 18:15:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1358936</link>
+<guid isPermaLink="false">23c31bd60a69de4e61e879104f010edded533b14</guid>
+<description>Venue: Preservation Hall | Date: Saturday, July 25 | Time: 6:15pm</description>
+<pubDate>Sat, 25 Jul 2026 18:15:00 +0000</pubDate>
 </item>
 <item>
 <title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1358916</link>
-<guid isPermaLink="false">70f37cb939f23c729fa8e8da4b7b00704ff78c7e</guid>
-<description>Venue: Preservation Hall | Date: Friday, July 24 | Time: 7:30pm</description>
-<pubDate>Fri, 24 Jul 2026 19:30:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1358941</link>
+<guid isPermaLink="false">b95c8c2da6fd295a9d19719e3b75811290c17897</guid>
+<description>Venue: Preservation Hall | Date: Saturday, July 25 | Time: 7:30pm</description>
+<pubDate>Sat, 25 Jul 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1358911</link>
-<guid isPermaLink="false">7aaabccc89db5e56f39dd1cfb634c47d4b06c759</guid>
-<description>Venue: Preservation Hall | Date: Friday, July 24 | Time: 8:45pm</description>
-<pubDate>Fri, 24 Jul 2026 20:45:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1358946</link>
+<guid isPermaLink="false">55d4f6f11414e3ed0330405f21fd904173eb153b</guid>
+<description>Venue: Preservation Hall | Date: Saturday, July 25 | Time: 8:45pm</description>
+<pubDate>Sat, 25 Jul 2026 20:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Where You Are with DJs Dr. Jax, Tchoupo &amp; Xsomnia — Rabbit Hole, The</title>
-<link>https://www.wwoz.org/events/1369416</link>
-<guid isPermaLink="false">0166765d60c5058a0606da18289e39ac2a49924c</guid>
-<description>Venue: Rabbit Hole, The | Date: Friday, July 24 | Time: 10:00pm</description>
-<pubDate>Fri, 24 Jul 2026 22:00:00 +0000</pubDate>
+<title>House of Disco — Rabbit Hole, The</title>
+<link>https://www.wwoz.org/events/1369421</link>
+<guid isPermaLink="false">6d033ecef923fffee689e94ea3785bd0474cabf2</guid>
+<description>Venue: Rabbit Hole, The | Date: Saturday, July 25 | Time: 10:00pm</description>
+<pubDate>Sat, 25 Jul 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Melting Point ft. Maximo, Marco, Holly Jean, Aiheadzz &amp; Tchoupo — Santos Bar</title>
-<link>https://www.wwoz.org/events/1362336</link>
-<guid isPermaLink="false">078fee859ee85035bc6611560bab849ef3025eab</guid>
-<description>Venue: Santos Bar | Date: Friday, July 24 | Time: 10:00pm</description>
-<pubDate>Fri, 24 Jul 2026 22:00:00 +0000</pubDate>
+<title>Lord Huron with The Army, The Navy — Saenger Theatre</title>
+<link>https://www.wwoz.org/events/1351311</link>
+<guid isPermaLink="false">5a1c3df7acab2f38b2f41663693cea3e2c9cfc03</guid>
+<description>Venue: Saenger Theatre | Date: Saturday, July 25 | Time: 8:00pm</description>
+<pubDate>Sat, 25 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Gatsu EP Release Show + Fen Magus + Brethren Hogg — Siberia</title>
-<link>https://www.wwoz.org/events/1367641</link>
-<guid isPermaLink="false">43386db705ba7d5108a44a843463caf8f6f88622</guid>
-<description>Venue: Siberia | Date: Friday, July 24 | Time: 9:00pm</description>
-<pubDate>Fri, 24 Jul 2026 21:00:00 +0000</pubDate>
+<title>RAVE ft. Space Disco — Santos Bar</title>
+<link>https://www.wwoz.org/events/1362341</link>
+<guid isPermaLink="false">99981968de582aaa7c258ad91d32b3341cda114c</guid>
+<description>Venue: Santos Bar | Date: Saturday, July 25 | Time: 9:00pm</description>
+<pubDate>Sat, 25 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Living Room: A Songwriter Showcase ft. Paul Faith &amp; Friends — Skeeta Hawk Brewing</title>
-<link>https://www.wwoz.org/events/1365501</link>
-<guid isPermaLink="false">ba4c62e1ce48b221d01855a46cb77102f529b85c</guid>
-<description>Venue: Skeeta Hawk Brewing | Date: Friday, July 24 | Time: 6:00pm</description>
-<pubDate>Fri, 24 Jul 2026 18:00:00 +0000</pubDate>
+<title>Sari Jordan with Martin Masakowski — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1362211</link>
+<guid isPermaLink="false">e8cd6257e46f18b17e22aa5611024cebc05d5d59</guid>
+<description>Venue: Snug Harbor | Date: Saturday, July 25 | Time: 4:30pm</description>
+<pubDate>Sat, 25 Jul 2026 16:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Alexey Martí &amp; AfroGumbo — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1364246</link>
-<guid isPermaLink="false">95e5a509834ba4a0293872a2df15e86ddd440d02</guid>
-<description>Venue: Snug Harbor | Date: Friday, July 24 | Time: 7:30pm</description>
-<pubDate>Fri, 24 Jul 2026 19:30:00 +0000</pubDate>
+<title>Herlin Riley Quartet — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1364251</link>
+<guid isPermaLink="false">2d424b4d4c496de927b3f197769a449ce073cd99</guid>
+<description>Venue: Snug Harbor | Date: Saturday, July 25 | Time: 7:30pm</description>
+<pubDate>Sat, 25 Jul 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Alexey Martí &amp; AfroGumbo — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1364341</link>
-<guid isPermaLink="false">5f00c7e0631aa6a825eae008c998809feb4b1584</guid>
-<description>Venue: Snug Harbor | Date: Friday, July 24 | Time: 9:30pm</description>
-<pubDate>Fri, 24 Jul 2026 21:30:00 +0000</pubDate>
+<title>Herlin Riley Quartet — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1364256</link>
+<guid isPermaLink="false">dc5f05e0aab030cec76784d30671de740e5d51c8</guid>
+<description>Venue: Snug Harbor | Date: Saturday, July 25 | Time: 9:30pm</description>
+<pubDate>Sat, 25 Jul 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Paradise Jazz Band — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1365766</link>
-<guid isPermaLink="false">c35f6ca82f91a2b7cb936b0fbdd311eadaa6368c</guid>
-<description>Venue: Spotted Cat | Date: Friday, July 24 | Time: 2:00pm</description>
-<pubDate>Fri, 24 Jul 2026 14:00:00 +0000</pubDate>
+<title>Jay Anderson — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1365776</link>
+<guid isPermaLink="false">7c3a3f78a3e90d8110b28e7979280ae6a36aca65</guid>
+<description>Venue: Spotted Cat | Date: Saturday, July 25 | Time: 6:00pm</description>
+<pubDate>Sat, 25 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The New Orleans Cottonmouth Kings — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1365636</link>
-<guid isPermaLink="false">85aae8fdf62b01b55939a3190a36fa20fa5bb487</guid>
-<description>Venue: Spotted Cat | Date: Friday, July 24 | Time: 6:00pm</description>
-<pubDate>Fri, 24 Jul 2026 18:00:00 +0000</pubDate>
+<title>Dr. Sick &amp; The Late Greats — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1365801</link>
+<guid isPermaLink="false">98fe1c6dfdbe5e26942465460b53414e0234d784</guid>
+<description>Venue: Spotted Cat | Date: Saturday, July 25 | Time: 10:00pm</description>
+<pubDate>Sat, 25 Jul 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Smoking Time Jazz Club — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1370506</link>
-<guid isPermaLink="false">8828348384b01c48e9606175fed6308fdbe0d784</guid>
-<description>Venue: Spotted Cat | Date: Friday, July 24 | Time: 10:00pm</description>
-<pubDate>Fri, 24 Jul 2026 22:00:00 +0000</pubDate>
+<title>JGI presents Deep Dish Listening Session: Louisiana Creole Music with hosts Bruce "Sunpie" Barnes &amp; Cole Williams — St. Luke's Episcopal Church</title>
+<link>https://www.wwoz.org/events/1367036</link>
+<guid isPermaLink="false">73071faeb9ec3a2661cf4bf3f61b0908a618000f</guid>
+<description>Venue: St. Luke's Episcopal Church | Date: Saturday, July 25 | Time: 6:00pm</description>
+<pubDate>Sat, 25 Jul 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Melatauns — St. Roch Tavern</title>
+<link>https://www.wwoz.org/events/1370831</link>
+<guid isPermaLink="false">ea5321edb5191da4abd81bb70e5565b928a68500</guid>
+<description>Venue: St. Roch Tavern | Date: Saturday, July 25 | Time: 9:00pm</description>
+<pubDate>Sat, 25 Jul 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1366416</link>
-<guid isPermaLink="false">c16a81242744c5fd99b4c0743706ecf83ee60a13</guid>
-<description>Venue: Steamboat Natchez | Date: Friday, July 24 | Time: 11:00am</description>
-<pubDate>Fri, 24 Jul 2026 11:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1366436</link>
+<guid isPermaLink="false">21f41905e4a7767bbfda6ecc9d87076df0ee875a</guid>
+<description>Venue: Steamboat Natchez | Date: Saturday, July 25 | Time: 11:00am</description>
+<pubDate>Sat, 25 Jul 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1366656</link>
-<guid isPermaLink="false">ba9508984d7e920eff9129c5bc78ad02e979307f</guid>
-<description>Venue: Steamboat Natchez | Date: Friday, July 24 | Time: 2:00pm</description>
-<pubDate>Fri, 24 Jul 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1366681</link>
+<guid isPermaLink="false">a8a951d1d0070ad14aed6030241bba3cc4f23bb2</guid>
+<description>Venue: Steamboat Natchez | Date: Saturday, July 25 | Time: 2:00pm</description>
+<pubDate>Sat, 25 Jul 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dukes of Dixieland — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1366706</link>
-<guid isPermaLink="false">ff66e586e8954c9fa1ee6c6db8993ec7be643fac</guid>
-<description>Venue: Steamboat Natchez | Date: Friday, July 24 | Time: 6:00pm</description>
-<pubDate>Fri, 24 Jul 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1366696</link>
+<guid isPermaLink="false">a4f4ac724959b5d25ac160eef688077e95723abb</guid>
+<description>Venue: Steamboat Natchez | Date: Saturday, July 25 | Time: 6:00pm</description>
+<pubDate>Sat, 25 Jul 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Bad Penny Pleasuremakers — Three Muses</title>
-<link>https://www.wwoz.org/events/1370851</link>
-<guid isPermaLink="false">7fa9dd3163d96f63e1d5e458d584fd2022e931b0</guid>
-<description>Venue: Three Muses | Date: Friday, July 24 | Time: 7:30pm</description>
-<pubDate>Fri, 24 Jul 2026 19:30:00 +0000</pubDate>
+<title>Nat Lawrence — Three Muses</title>
+<link>https://www.wwoz.org/events/1370856</link>
+<guid isPermaLink="false">7654a956ca6ba02a3736e0ac4101bdb37539e963</guid>
+<description>Venue: Three Muses | Date: Saturday, July 25 | Time: 7:30pm</description>
+<pubDate>Sat, 25 Jul 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Free Fridays Concert Series ft. Soul Brass Band + The Next Level Band — Tipitina's</title>
-<link>https://www.wwoz.org/events/1335691</link>
-<guid isPermaLink="false">3fa42e627629bd0c8718a87b8659e611410e354c</guid>
-<description>Venue: Tipitina's | Date: Friday, July 24 | Time: 9:00pm</description>
-<pubDate>Fri, 24 Jul 2026 21:00:00 +0000</pubDate>
+<title>The Return of the Banana Hand Pie Celebration ft. Big Chief Juan Pardo &amp; The Golden Comanche + Dave Jordan &amp; The NIA — Tipitina's</title>
+<link>https://www.wwoz.org/events/1368681</link>
+<guid isPermaLink="false">9bf056a4ebd0caa7d1a245bc2c065808d7b30211</guid>
+<description>Venue: Tipitina's | Date: Saturday, July 25 | Time: 8:00pm</description>
+<pubDate>Sat, 25 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mullitt — True South</title>
-<link>https://www.wwoz.org/events/1369176</link>
-<guid isPermaLink="false">23cd7ceefe134bae80b3caa0de3a242a2ffa63d1</guid>
-<description>Venue: True South | Date: Friday, July 24 | Time: 8:00pm</description>
-<pubDate>Fri, 24 Jul 2026 20:00:00 +0000</pubDate>
+<title>Alfred Banks B-Day Show &amp; Album Release Party with Luther Vandals, GLBL Wrmng &amp; Kaye the Beast — Toulouse Theatre</title>
+<link>https://www.wwoz.org/events/1348926</link>
+<guid isPermaLink="false">73c00f7558418e50658e1c9ea9029c4aa2c16b32</guid>
+<description>Venue: Toulouse Theatre | Date: Saturday, July 25 | Time: 8:00pm</description>
+<pubDate>Sat, 25 Jul 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Mark Barrett &amp; The First Calls — Tropical Isle Bourbon</title>
+<link>https://www.wwoz.org/events/1362461</link>
+<guid isPermaLink="false">e531a3d3623dfab502e03557f7851aee6fa9c5ae</guid>
+<description>Venue: Tropical Isle Bourbon | Date: Saturday, July 25 | Time: 7:00pm</description>
+<pubDate>Sat, 25 Jul 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Scratch Brothers, Robert Eustis and David Schwartz — True South</title>
+<link>https://www.wwoz.org/events/1367156</link>
+<guid isPermaLink="false">722d75c2f24659b839136931fc810ce5768a33ac</guid>
+<description>Venue: True South | Date: Saturday, July 25 | Time: 4:00pm</description>
+<pubDate>Sat, 25 Jul 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Stone Cold Hippies with Ugly Rumors — True South</title>
+<link>https://www.wwoz.org/events/1361051</link>
+<guid isPermaLink="false">673beed99cb816441c3c24acd25d151ceaec5b29</guid>
+<description>Venue: True South | Date: Saturday, July 25 | Time: 8:00pm</description>
+<pubDate>Sat, 25 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
