@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-07-26T13:55:32.319696+00:00",
-  "count": 67,
+  "generated_at": "2026-07-26T16:13:58.699354+00:00",
+  "count": 68,
   "events": [
     {
       "id": "4820b72c65a51054eeb86950d978ab7087de7698",
@@ -807,6 +807,18 @@
       "time_text": "8:00pm",
       "start": "2026-07-26T20:00:00+00:00",
       "description": "Venue: Three Muses | Date: Sunday, July 26 | Time: 8:00pm"
+    },
+    {
+      "id": "74387bdbe4d47b15497515b6ca332d475578a398",
+      "source": "wwoz",
+      "title": "Jumbo Dominoes",
+      "venue": "Vaughan's Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/vaughans-lounge",
+      "event_url": "https://www.wwoz.org/events/1371691",
+      "date_text": "Sunday, July 26",
+      "time_text": "8:00pm",
+      "start": "2026-07-26T20:00:00+00:00",
+      "description": "Venue: Vaughan's Lounge | Date: Sunday, July 26 | Time: 8:00pm"
     }
   ]
 }

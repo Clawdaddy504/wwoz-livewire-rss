@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 26 Jul 2026 13:55:32 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 16:13:58 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>The Coyote Anderson Organ Trio — 21st Amendment</title>
@@ -474,6 +474,13 @@
 <link>https://www.wwoz.org/events/1370866</link>
 <guid isPermaLink="false">ee4674a86ec95cf5122709cd748c72eefc8791b1</guid>
 <description>Venue: Three Muses | Date: Sunday, July 26 | Time: 8:00pm</description>
+<pubDate>Sun, 26 Jul 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jumbo Dominoes — Vaughan's Lounge</title>
+<link>https://www.wwoz.org/events/1371691</link>
+<guid isPermaLink="false">74387bdbe4d47b15497515b6ca332d475578a398</guid>
+<description>Venue: Vaughan's Lounge | Date: Sunday, July 26 | Time: 8:00pm</description>
 <pubDate>Sun, 26 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 </channel>
