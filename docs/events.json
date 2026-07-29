@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-07-29T14:30:15.269663+00:00",
-  "count": 49,
+  "generated_at": "2026-07-29T16:38:22.524159+00:00",
+  "count": 50,
   "events": [
     {
       "id": "6cc7ebdc3446b742ec11be503802a6934a76a20e",
@@ -243,6 +243,18 @@
       "time_text": "8:30pm",
       "start": "2026-07-29T20:30:00+00:00",
       "description": "Venue: Dos Jefes | Date: Wednesday, July 29 | Time: 8:30pm"
+    },
+    {
+      "id": "8ca818938d95d0b3381fca0ac7aa52f970253720",
+      "source": "wwoz",
+      "title": "Better Late Than Jake",
+      "venue": "Favela Chic",
+      "venue_url": "https://www.wwoz.org/organizations/favela-chic",
+      "event_url": "https://www.wwoz.org/events/1371901",
+      "date_text": "Wednesday, July 29",
+      "time_text": "8:00pm",
+      "start": "2026-07-29T20:00:00+00:00",
+      "description": "Venue: Favela Chic | Date: Wednesday, July 29 | Time: 8:00pm"
     },
     {
       "id": "e8c57535f1def1fb74f364b07afdf54d330c5e86",

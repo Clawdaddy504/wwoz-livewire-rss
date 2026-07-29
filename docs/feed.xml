@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 29 Jul 2026 14:30:15 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 16:38:22 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dr. Sick — 21st Amendment</title>
@@ -146,6 +146,13 @@
 <guid isPermaLink="false">1c53cc9e44fb975de1810145f27e350925960b70</guid>
 <description>Venue: Dos Jefes | Date: Wednesday, July 29 | Time: 8:30pm</description>
 <pubDate>Wed, 29 Jul 2026 20:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Better Late Than Jake — Favela Chic</title>
+<link>https://www.wwoz.org/events/1371901</link>
+<guid isPermaLink="false">8ca818938d95d0b3381fca0ac7aa52f970253720</guid>
+<description>Venue: Favela Chic | Date: Wednesday, July 29 | Time: 8:00pm</description>
+<pubDate>Wed, 29 Jul 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Richard "Piano" Scott — Fritzel's Jazz Club</title>
