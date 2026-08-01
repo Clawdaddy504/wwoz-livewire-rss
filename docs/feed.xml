@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 31 Jul 2026 22:15:02 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 03:48:47 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
@@ -92,6 +92,13 @@
 <pubDate>Fri, 31 Jul 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
+<title>T Marie &amp; Bayou Juju + Mariachi los Primos Krewe De Mayahuel — Beanlandia</title>
+<link>https://www.wwoz.org/events/1373626</link>
+<guid isPermaLink="false">5b6663c1fe8023f6537541baac4ba22d79d11fb0</guid>
+<description>Venue: Beanlandia | Date: Friday, July 31 | Time: 6:00pm</description>
+<pubDate>Fri, 31 Jul 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Miss Martha &amp; Her Goodtime Gang + Giddy Up Two Step — BJ's Lounge</title>
 <link>https://www.wwoz.org/events/1367446</link>
 <guid isPermaLink="false">dec71b69f2964aa095a898ee7557a0fdc41237ea</guid>
@@ -172,6 +179,13 @@
 <title>T Marie Stories &amp; Songs — Buffa's</title>
 <link>https://www.wwoz.org/events/1359861</link>
 <guid isPermaLink="false">599674f98dc407848e09ba169d7ea3551c82c4f4</guid>
+<description>Venue: Buffa's | Date: Friday, July 31 | Time: 8:00pm</description>
+<pubDate>Fri, 31 Jul 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>T Marie Trio, Stories &amp; Songs — Buffa's</title>
+<link>https://www.wwoz.org/events/1373631</link>
+<guid isPermaLink="false">b4b62a62170bf4fcf722f09af969a5e71f5b9044</guid>
 <description>Venue: Buffa's | Date: Friday, July 31 | Time: 8:00pm</description>
 <pubDate>Fri, 31 Jul 2026 20:00:00 +0000</pubDate>
 </item>

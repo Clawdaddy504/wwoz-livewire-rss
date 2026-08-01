@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-07-31T22:15:02.799716+00:00",
-  "count": 84,
+  "generated_at": "2026-08-01T03:48:47.106869+00:00",
+  "count": 86,
   "events": [
     {
       "id": "cc70c20ed89672c33cd15462cf71606826f31c47",
@@ -149,6 +149,18 @@
       "description": "Venue: Bayou Bar at the Pontchartrain | Date: Friday, July 31 | Time: 10:00pm"
     },
     {
+      "id": "5b6663c1fe8023f6537541baac4ba22d79d11fb0",
+      "source": "wwoz",
+      "title": "T Marie & Bayou Juju + Mariachi los Primos Krewe De Mayahuel",
+      "venue": "Beanlandia",
+      "venue_url": "https://www.wwoz.org/organizations/beanlandia",
+      "event_url": "https://www.wwoz.org/events/1373626",
+      "date_text": "Friday, July 31",
+      "time_text": "6:00pm",
+      "start": "2026-07-31T18:00:00+00:00",
+      "description": "Venue: Beanlandia | Date: Friday, July 31 | Time: 6:00pm"
+    },
+    {
       "id": "dec71b69f2964aa095a898ee7557a0fdc41237ea",
       "source": "wwoz",
       "title": "Miss Martha & Her Goodtime Gang + Giddy Up Two Step",
@@ -287,6 +299,18 @@
       "venue": "Buffa's",
       "venue_url": "https://www.wwoz.org/organizations/buffas",
       "event_url": "https://www.wwoz.org/events/1359861",
+      "date_text": "Friday, July 31",
+      "time_text": "8:00pm",
+      "start": "2026-07-31T20:00:00+00:00",
+      "description": "Venue: Buffa's | Date: Friday, July 31 | Time: 8:00pm"
+    },
+    {
+      "id": "b4b62a62170bf4fcf722f09af969a5e71f5b9044",
+      "source": "wwoz",
+      "title": "T Marie Trio, Stories & Songs",
+      "venue": "Buffa's",
+      "venue_url": "https://www.wwoz.org/organizations/buffas",
+      "event_url": "https://www.wwoz.org/events/1373631",
       "date_text": "Friday, July 31",
       "time_text": "8:00pm",
       "start": "2026-07-31T20:00:00+00:00",
