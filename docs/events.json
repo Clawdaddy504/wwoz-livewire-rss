@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-08-03T10:04:24.296080+00:00",
-  "count": 26,
+  "generated_at": "2026-08-03T15:14:52.198157+00:00",
+  "count": 30,
   "events": [
     {
       "id": "945fc1a4ae5482ee4963a5e4c32753de50bd441e",
@@ -39,6 +39,18 @@
       "time_text": "9:00pm",
       "start": "2026-08-03T21:00:00+00:00",
       "description": "Venue: BJ's Lounge | Date: Monday, August 3 | Time: 9:00pm"
+    },
+    {
+      "id": "6c2df56ce5e8c1db0b8d3298d340424d02c957f5",
+      "source": "wwoz",
+      "title": "Keva Holiday",
+      "venue": "Bourbon Square Jazz Bar",
+      "venue_url": "https://www.wwoz.org/organizations/bourbon-square-jazz-bar",
+      "event_url": "https://www.wwoz.org/events/1374361",
+      "date_text": "Monday, August 3",
+      "time_text": "12:00pm",
+      "start": "2026-08-03T12:00:00+00:00",
+      "description": "Venue: Bourbon Square Jazz Bar | Date: Monday, August 3 | Time: 12:00pm"
     },
     {
       "id": "47454e29022fc28aa93c2ba9785cce5cb890580a",
@@ -303,6 +315,42 @@
       "time_text": "9:00pm",
       "start": "2026-08-03T21:00:00+00:00",
       "description": "Venue: St. Roch Tavern | Date: Monday, August 3 | Time: 9:00pm"
+    },
+    {
+      "id": "600f25388ad96d030819d8bbdf8737e20449552d",
+      "source": "wwoz",
+      "title": "Steamboat Stompers",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1374776",
+      "date_text": "Monday, August 3",
+      "time_text": "11:00am",
+      "start": "2026-08-03T11:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Monday, August 3 | Time: 11:00am"
+    },
+    {
+      "id": "046244970bf867996f17aa05925df6f4b028cfc6",
+      "source": "wwoz",
+      "title": "Steamboat Stompers",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1374806",
+      "date_text": "Monday, August 3",
+      "time_text": "2:00pm",
+      "start": "2026-08-03T14:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Monday, August 3 | Time: 2:00pm"
+    },
+    {
+      "id": "1b476054b26126a19c9213b06db04ed7ceb719de",
+      "source": "wwoz",
+      "title": "Dukes of Dixieland",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1374506",
+      "date_text": "Monday, August 3",
+      "time_text": "6:00pm",
+      "start": "2026-08-03T18:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Monday, August 3 | Time: 6:00pm"
     },
     {
       "id": "aab0402d7eff55159ab20b8eb8cb5843b15bea4e",

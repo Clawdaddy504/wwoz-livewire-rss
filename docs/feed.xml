@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 03 Aug 2026 10:04:24 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 15:14:52 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Mike &amp; the R&amp;B Kings — 21st Amendment</title>
@@ -27,6 +27,13 @@
 <guid isPermaLink="false">70c0c92338a188cd862afe6bd255b4f8fce47bee</guid>
 <description>Venue: BJ's Lounge | Date: Monday, August 3 | Time: 9:00pm</description>
 <pubDate>Mon, 03 Aug 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Keva Holiday — Bourbon Square Jazz Bar</title>
+<link>https://www.wwoz.org/events/1374361</link>
+<guid isPermaLink="false">6c2df56ce5e8c1db0b8d3298d340424d02c957f5</guid>
+<description>Venue: Bourbon Square Jazz Bar | Date: Monday, August 3 | Time: 12:00pm</description>
+<pubDate>Mon, 03 Aug 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>David Doucet — Buffa's</title>
@@ -181,6 +188,27 @@
 <guid isPermaLink="false">ed35f3b78bb593784c6edf74512820a2f3301513</guid>
 <description>Venue: St. Roch Tavern | Date: Monday, August 3 | Time: 9:00pm</description>
 <pubDate>Mon, 03 Aug 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Steamboat Stompers — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1374776</link>
+<guid isPermaLink="false">600f25388ad96d030819d8bbdf8737e20449552d</guid>
+<description>Venue: Steamboat Natchez | Date: Monday, August 3 | Time: 11:00am</description>
+<pubDate>Mon, 03 Aug 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Steamboat Stompers — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1374806</link>
+<guid isPermaLink="false">046244970bf867996f17aa05925df6f4b028cfc6</guid>
+<description>Venue: Steamboat Natchez | Date: Monday, August 3 | Time: 2:00pm</description>
+<pubDate>Mon, 03 Aug 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Dukes of Dixieland — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1374506</link>
+<guid isPermaLink="false">1b476054b26126a19c9213b06db04ed7ceb719de</guid>
+<description>Venue: Steamboat Natchez | Date: Monday, August 3 | Time: 6:00pm</description>
+<pubDate>Mon, 03 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dave Ferrato — Tropical Isle Original</title>
