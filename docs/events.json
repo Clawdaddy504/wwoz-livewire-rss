@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-08-04T17:02:42.078612+00:00",
-  "count": 34,
+  "generated_at": "2026-08-04T19:55:28.190506+00:00",
+  "count": 36,
   "events": [
     {
       "id": "f59114e6cce2fb064de86e6bc85a1428f0766921",
@@ -219,6 +219,30 @@
       "time_text": "8:00pm",
       "start": "2026-08-04T20:00:00+00:00",
       "description": "Venue: Mahogany Jazz Hall | Date: Tuesday, August 4 | Time: 8:00pm"
+    },
+    {
+      "id": "ede886048f945fd397ad30d19d65309777d8860d",
+      "source": "wwoz",
+      "title": "Jacky Blaire",
+      "venue": "Maison, The",
+      "venue_url": "https://www.wwoz.org/organizations/maison",
+      "event_url": "https://www.wwoz.org/events/1376371",
+      "date_text": "Tuesday, August 4",
+      "time_text": "5:00pm",
+      "start": "2026-08-04T17:00:00+00:00",
+      "description": "Venue: Maison, The | Date: Tuesday, August 4 | Time: 5:00pm"
+    },
+    {
+      "id": "f391f1c360ac3e4f8685c0fc4297b0736eb92788",
+      "source": "wwoz",
+      "title": "Paradise Jazz Band",
+      "venue": "Maison, The",
+      "venue_url": "https://www.wwoz.org/organizations/maison",
+      "event_url": "https://www.wwoz.org/events/1376391",
+      "date_text": "Tuesday, August 4",
+      "time_text": "8:00pm",
+      "start": "2026-08-04T20:00:00+00:00",
+      "description": "Venue: Maison, The | Date: Tuesday, August 4 | Time: 8:00pm"
     },
     {
       "id": "c341164b36cf393d72c4088fb205ed8177b033d7",

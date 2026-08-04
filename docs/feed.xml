@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 04 Aug 2026 17:02:42 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 19:55:28 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Coyote Anderson — 21st Amendment</title>
@@ -131,6 +131,20 @@
 <link>https://www.wwoz.org/events/1370721</link>
 <guid isPermaLink="false">45353f647f6cb7757cc8735e220a6ed55452788c</guid>
 <description>Venue: Mahogany Jazz Hall | Date: Tuesday, August 4 | Time: 8:00pm</description>
+<pubDate>Tue, 04 Aug 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jacky Blaire — Maison, The</title>
+<link>https://www.wwoz.org/events/1376371</link>
+<guid isPermaLink="false">ede886048f945fd397ad30d19d65309777d8860d</guid>
+<description>Venue: Maison, The | Date: Tuesday, August 4 | Time: 5:00pm</description>
+<pubDate>Tue, 04 Aug 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Paradise Jazz Band — Maison, The</title>
+<link>https://www.wwoz.org/events/1376391</link>
+<guid isPermaLink="false">f391f1c360ac3e4f8685c0fc4297b0736eb92788</guid>
+<description>Venue: Maison, The | Date: Tuesday, August 4 | Time: 8:00pm</description>
 <pubDate>Tue, 04 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
