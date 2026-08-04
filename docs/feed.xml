@@ -5,217 +5,245 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 04 Aug 2026 03:35:35 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 09:05:54 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
-<title>Big Mike &amp; the R&amp;B Kings — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1372036</link>
-<guid isPermaLink="false">945fc1a4ae5482ee4963a5e4c32753de50bd441e</guid>
-<description>Venue: 21st Amendment | Date: Monday, August 3 | Time: 8:00pm</description>
-<pubDate>Mon, 03 Aug 2026 20:00:00 +0000</pubDate>
+<title>Coyote Anderson — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1372041</link>
+<guid isPermaLink="false">f59114e6cce2fb064de86e6bc85a1428f0766921</guid>
+<description>Venue: 21st Amendment | Date: Tuesday, August 4 | Time: 8:00pm</description>
+<pubDate>Tue, 04 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Juan Tigre — Bacchanal (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1371981</link>
-<guid isPermaLink="false">bd34979d48d4dc2ef261f2b53f8aeef691f93d8d</guid>
-<description>Venue: Bacchanal (OUTDOORS) | Date: Monday, August 3 | Time: 6:00pm</description>
-<pubDate>Mon, 03 Aug 2026 18:00:00 +0000</pubDate>
+<title>Blake Amos — Audubon Clubhouse by Dickie Brennan</title>
+<link>https://www.wwoz.org/events/1365126</link>
+<guid isPermaLink="false">8f6516ef8b6e42464493ece69448b2bf44a74c20</guid>
+<description>Venue: Audubon Clubhouse by Dickie Brennan | Date: Tuesday, August 4 | Time: 4:30pm</description>
+<pubDate>Tue, 04 Aug 2026 16:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Red Beans &amp; Blues with Washboard Chaz &amp; Jonathan Freilich — BJ's Lounge</title>
-<link>https://www.wwoz.org/events/1367381</link>
-<guid isPermaLink="false">70c0c92338a188cd862afe6bd255b4f8fce47bee</guid>
-<description>Venue: BJ's Lounge | Date: Monday, August 3 | Time: 9:00pm</description>
-<pubDate>Mon, 03 Aug 2026 21:00:00 +0000</pubDate>
+<title>Tangiers Combo — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1371986</link>
+<guid isPermaLink="false">0823db2400bd9af9a5e06df492bcf8654c68f0f4</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Tuesday, August 4 | Time: 6:00pm</description>
+<pubDate>Tue, 04 Aug 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Band for Life ft. Amari Ansari, Oscar Rossignoli, Peter Varnado &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1366281</link>
+<guid isPermaLink="false">08e5ca1080a353ceb0ab32a996a42ef0c4be486c</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Tuesday, August 4 | Time: 8:00pm</description>
+<pubDate>Tue, 04 Aug 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Band for Life ft. Amari Ansari, Oscar Rossignoli, Peter Varnado &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1372286</link>
+<guid isPermaLink="false">ac8ad442f1c69ac591300b96dac8cc63c283d710</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Tuesday, August 4 | Time: 10:00pm</description>
+<pubDate>Tue, 04 Aug 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Bruisey's Bottoms Up Open Mic — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1371791</link>
+<guid isPermaLink="false">58acec288fac87b11ad34c08adcd3160ad488b4a</guid>
+<description>Venue: BJ's Lounge | Date: Tuesday, August 4 | Time: 9:00pm</description>
+<pubDate>Tue, 04 Aug 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Charles Holmes from The Blues Masters — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1375871</link>
+<guid isPermaLink="false">53d6dca641c48921f7ff9305e26e414f6cfc135f</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Tuesday, August 4 | Time: 8:00pm</description>
+<pubDate>Tue, 04 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Keva Holiday — Bourbon Square Jazz Bar</title>
-<link>https://www.wwoz.org/events/1374361</link>
-<guid isPermaLink="false">6c2df56ce5e8c1db0b8d3298d340424d02c957f5</guid>
-<description>Venue: Bourbon Square Jazz Bar | Date: Monday, August 3 | Time: 12:00pm</description>
-<pubDate>Mon, 03 Aug 2026 12:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1374366</link>
+<guid isPermaLink="false">0963b5605345c9625b5f97345dee0342d2126697</guid>
+<description>Venue: Bourbon Square Jazz Bar | Date: Tuesday, August 4 | Time: 12:00pm</description>
+<pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>David Doucet — Buffa's</title>
-<link>https://www.wwoz.org/events/1372361</link>
-<guid isPermaLink="false">47454e29022fc28aa93c2ba9785cce5cb890580a</guid>
-<description>Venue: Buffa's | Date: Monday, August 3 | Time: 7:00pm</description>
-<pubDate>Mon, 03 Aug 2026 19:00:00 +0000</pubDate>
+<title>Alex McMurray — Buffa's</title>
+<link>https://www.wwoz.org/events/1372386</link>
+<guid isPermaLink="false">0df757f31fa52bafbf49b3e74bc4f4cf76bde4aa</guid>
+<description>Venue: Buffa's | Date: Tuesday, August 4 | Time: 7:00pm</description>
+<pubDate>Tue, 04 Aug 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Super-Most-Fantastic-Blues-N-Such Jam — Café Negril</title>
+<link>https://www.wwoz.org/events/1372101</link>
+<guid isPermaLink="false">00186378eec9e73616beb523bd3a56a09f67a777</guid>
+<description>Venue: Café Negril | Date: Tuesday, August 4 | Time: 7:00pm</description>
+<pubDate>Tue, 04 Aug 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Les Getrex — Cajun Boil House</title>
-<link>https://www.wwoz.org/events/1372221</link>
-<guid isPermaLink="false">24b2516c451c1d6f428ad1a9e7f19d41cc9def3d</guid>
-<description>Venue: Cajun Boil House | Date: Monday, August 3 | Time: 3:00pm</description>
-<pubDate>Mon, 03 Aug 2026 15:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1372226</link>
+<guid isPermaLink="false">05ba78f30c5280836851059afe834fb82ee811fe</guid>
+<description>Venue: Cajun Boil House | Date: Tuesday, August 4 | Time: 3:00pm</description>
+<pubDate>Tue, 04 Aug 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Biscuits n' Jam with Meryl Zimmerman &amp; Friends — Carrollton Station</title>
-<link>https://www.wwoz.org/events/1372631</link>
-<guid isPermaLink="false">d5b5b599a55ee3e0026ec17d40b52928efd9fe22</guid>
-<description>Venue: Carrollton Station | Date: Monday, August 3 | Time: 10:00pm</description>
-<pubDate>Mon, 03 Aug 2026 22:00:00 +0000</pubDate>
+<title>Tom Hook — Dos Jefes</title>
+<link>https://www.wwoz.org/events/1372121</link>
+<guid isPermaLink="false">850aad19dbb95708d6f5563fac1e93043fec0ef2</guid>
+<description>Venue: Dos Jefes | Date: Tuesday, August 4 | Time: 8:30pm</description>
+<pubDate>Tue, 04 Aug 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Sporty's Brass Band — Da Jump Off Lounge</title>
-<link>https://www.wwoz.org/events/1357541</link>
-<guid isPermaLink="false">d375ca4ce973141cc2fc1cd01e7f8941c3a7d213</guid>
-<description>Venue: Da Jump Off Lounge | Date: Monday, August 3 | Time: 9:30pm</description>
-<pubDate>Mon, 03 Aug 2026 21:30:00 +0000</pubDate>
+<title>Richard "Piano" Scott — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1371231</link>
+<guid isPermaLink="false">c52f39bbe5f0ac1f21617b18606d9ed0441e73ee</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Tuesday, August 4 | Time: 1:00pm</description>
+<pubDate>Tue, 04 Aug 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Papa Mali — Dos Jefes</title>
-<link>https://www.wwoz.org/events/1372116</link>
-<guid isPermaLink="false">3de3a818a0daf59cce6229a2e8ba08792c57a6f3</guid>
-<description>Venue: Dos Jefes | Date: Monday, August 3 | Time: 8:30pm</description>
-<pubDate>Mon, 03 Aug 2026 20:30:00 +0000</pubDate>
+<title>Colin Myers Orchestra — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1371251</link>
+<guid isPermaLink="false">6b5c6fdb534358c41b7ada1be5ed5d7042291b86</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Tuesday, August 4 | Time: 5:00pm</description>
+<pubDate>Tue, 04 Aug 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Open Jazz Jam Session with Matinee All Stars Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1371156</link>
-<guid isPermaLink="false">ac267c45c3b6df0c2d31493035fc2a9612596e47</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Monday, August 3 | Time: 1:00pm</description>
-<pubDate>Mon, 03 Aug 2026 13:00:00 +0000</pubDate>
+<title>Fritzel's All Star Band with Jamil Sharif — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1371271</link>
+<guid isPermaLink="false">2c19c276cfa74620c48412bbd87a407245808e41</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Tuesday, August 4 | Time: 8:00pm</description>
+<pubDate>Tue, 04 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Tin Men — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1371181</link>
-<guid isPermaLink="false">6fa7b0db7201c54a4a74f19425dec03318ca6bcf</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Monday, August 3 | Time: 5:00pm</description>
-<pubDate>Mon, 03 Aug 2026 17:00:00 +0000</pubDate>
+<title>International &amp; Irrational with DJ Chrischarge — Holy Diver</title>
+<link>https://www.wwoz.org/events/1372461</link>
+<guid isPermaLink="false">c5e7ab6db0ea3c73d8084d8323084078aa234337</guid>
+<description>Venue: Holy Diver | Date: Tuesday, August 4 | Time: 10:00pm</description>
+<pubDate>Tue, 04 Aug 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Richard Scott &amp; Friends — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1371206</link>
-<guid isPermaLink="false">8cf327e504aa94c270cee69dc9725d9e7a8efc2f</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Monday, August 3 | Time: 8:00pm</description>
-<pubDate>Mon, 03 Aug 2026 20:00:00 +0000</pubDate>
+<title>Big Joe Kennedy — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1370641</link>
+<guid isPermaLink="false">acb51ede8dc4e5f6cbcea60139cef5a5ccefed9f</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Tuesday, August 4 | Time: 6:00pm</description>
+<pubDate>Tue, 04 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Nuclear Tomb, Eyecatcher, Moral Disorder &amp; SLAB — Holy Diver</title>
-<link>https://www.wwoz.org/events/1372456</link>
-<guid isPermaLink="false">5409b201001fcfe5e6c15267e2beea205bb53d17</guid>
-<description>Venue: Holy Diver | Date: Monday, August 3 | Time: 10:00pm</description>
-<pubDate>Mon, 03 Aug 2026 22:00:00 +0000</pubDate>
+<title>Kevin Louis &amp; the Home Team — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1370721</link>
+<guid isPermaLink="false">45353f647f6cb7757cc8735e220a6ed55452788c</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Tuesday, August 4 | Time: 8:00pm</description>
+<pubDate>Tue, 04 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>VetJams — Le Bon Temps Roulé</title>
-<link>https://www.wwoz.org/events/1367161</link>
-<guid isPermaLink="false">d5b4f7cc68620b53d5de319d100be36f51a83ada</guid>
-<description>Venue: Le Bon Temps Roulé | Date: Monday, August 3 | Time: 7:00pm</description>
-<pubDate>Mon, 03 Aug 2026 19:00:00 +0000</pubDate>
+<title>Danny Rubio &amp; the Catahoula Music Company ft. Jeff Kreis — Maison Bourbon Jazz Club</title>
+<link>https://www.wwoz.org/events/1364081</link>
+<guid isPermaLink="false">c341164b36cf393d72c4088fb205ed8177b033d7</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Tuesday, August 4 | Time: 8:00pm</description>
+<pubDate>Tue, 04 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Victor Campbell — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1370691</link>
-<guid isPermaLink="false">d54e54618a344070d83698f0c1f493c1ad65271c</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Monday, August 3 | Time: 6:00pm</description>
-<pubDate>Mon, 03 Aug 2026 18:00:00 +0000</pubDate>
+<title>Vincent Hsu Concert — New Orleans Jazz Museum</title>
+<link>https://www.wwoz.org/events/1370871</link>
+<guid isPermaLink="false">fa72b64170babc7376aa682ad8ae643643f4072b</guid>
+<description>Venue: New Orleans Jazz Museum | Date: Tuesday, August 4 | Time: 2:00pm</description>
+<pubDate>Tue, 04 Aug 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Original Tuxedo Jazz Band — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1370701</link>
-<guid isPermaLink="false">bf9112a83e63dd963e9af827185d7eb57a102ce8</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Monday, August 3 | Time: 8:00pm</description>
-<pubDate>Mon, 03 Aug 2026 20:00:00 +0000</pubDate>
+<title>Arrowhead Jazz Band with Autumn Dominguez — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1372306</link>
+<guid isPermaLink="false">cff7f56cbe9de5a730bd64146bc16aa9069ccd64</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Tuesday, August 4 | Time: 3:00pm</description>
+<pubDate>Tue, 04 Aug 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Danny Rubio &amp; the Catahoula Music Company ft. Jack Pritchett — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1364006</link>
-<guid isPermaLink="false">caec6f7884de680c1f48e6860ac919cf0056243a</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Monday, August 3 | Time: 8:00pm</description>
-<pubDate>Mon, 03 Aug 2026 20:00:00 +0000</pubDate>
+<title>John Royen — Polo Club at The Windsor Court, The</title>
+<link>https://www.wwoz.org/events/1357681</link>
+<guid isPermaLink="false">beba353a5f959f9689acc42455f2c228d6cb7383</guid>
+<description>Venue: Polo Club at The Windsor Court, The | Date: Tuesday, August 4 | Time: 5:30pm</description>
+<pubDate>Tue, 04 Aug 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>NOLA Pickin’ Party Bluegrass Jam — NOLA Brewing</title>
-<link>https://www.wwoz.org/events/1312856</link>
-<guid isPermaLink="false">726c21b3b85a34a60d89b6b3d44b55888412af0c</guid>
-<description>Venue: NOLA Brewing | Date: Monday, August 3 | Time: 7:00pm</description>
-<pubDate>Mon, 03 Aug 2026 19:00:00 +0000</pubDate>
+<title>The Preservation All-Stars — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1369731</link>
+<guid isPermaLink="false">727b9b37b05fb0364e649b54fec47960ae9b3c17</guid>
+<description>Venue: Preservation Hall | Date: Tuesday, August 4 | Time: 5:00pm</description>
+<pubDate>Tue, 04 Aug 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jim Lockwood + Lisa Bittick-Lowe — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1372771</link>
-<guid isPermaLink="false">fae05eeac35ff4c207f3b4a2ce0505e2ebb38133</guid>
-<description>Venue: Pat O'Brien's | Date: Monday, August 3 | Time: 6:00pm</description>
-<pubDate>Mon, 03 Aug 2026 18:00:00 +0000</pubDate>
+<title>The Preservation All-Stars — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1369741</link>
+<guid isPermaLink="false">714b03df99f6ecce85431dfbbf7fdac03235cef6</guid>
+<description>Venue: Preservation Hall | Date: Tuesday, August 4 | Time: 6:15pm</description>
+<pubDate>Tue, 04 Aug 2026 18:15:00 +0000</pubDate>
 </item>
 <item>
-<title>David Boeddinghaus — Polo Club at The Windsor Court, The</title>
-<link>https://www.wwoz.org/events/1358111</link>
-<guid isPermaLink="false">5d72395e2ef3f652e6a49d8253ab66180bc6baf5</guid>
-<description>Venue: Polo Club at The Windsor Court, The | Date: Monday, August 3 | Time: 5:30pm</description>
-<pubDate>Mon, 03 Aug 2026 17:30:00 +0000</pubDate>
+<title>The Preservation All-Stars — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1369751</link>
+<guid isPermaLink="false">41412ca6da4ceaa2868bedf7dfb2e8322a1ebdfa</guid>
+<description>Venue: Preservation Hall | Date: Tuesday, August 4 | Time: 7:30pm</description>
+<pubDate>Tue, 04 Aug 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation Brass — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1370051</link>
-<guid isPermaLink="false">ff796f2ad83141d64840638350019d5f5248a0d6</guid>
-<description>Venue: Preservation Hall | Date: Monday, August 3 | Time: 5:00pm</description>
-<pubDate>Mon, 03 Aug 2026 17:00:00 +0000</pubDate>
+<title>The Preservation All-Stars — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1369761</link>
+<guid isPermaLink="false">98ce4d7a2cf408fae45259f7dea1707bbd9154b5</guid>
+<description>Venue: Preservation Hall | Date: Tuesday, August 4 | Time: 8:45pm</description>
+<pubDate>Tue, 04 Aug 2026 20:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation Brass — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1370076</link>
-<guid isPermaLink="false">00b8ac8021ea610f4e4348c362067689d436c28a</guid>
-<description>Venue: Preservation Hall | Date: Monday, August 3 | Time: 6:15pm</description>
-<pubDate>Mon, 03 Aug 2026 18:15:00 +0000</pubDate>
+<title>Rebirth Brass Band — Rabbit Hole, The</title>
+<link>https://www.wwoz.org/events/1361361</link>
+<guid isPermaLink="false">17897bb2062311194d299163ff90943cb8ee6c2b</guid>
+<description>Venue: Rabbit Hole, The | Date: Tuesday, August 4 | Time: 10:00pm</description>
+<pubDate>Tue, 04 Aug 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation Brass — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1370101</link>
-<guid isPermaLink="false">386124b3c1c2348662f6956ecb602b05ee8bffc5</guid>
-<description>Venue: Preservation Hall | Date: Monday, August 3 | Time: 7:30pm</description>
-<pubDate>Mon, 03 Aug 2026 19:30:00 +0000</pubDate>
+<title>Jérémie Henan — Salon Salon</title>
+<link>https://www.wwoz.org/events/1370421</link>
+<guid isPermaLink="false">a975b5b03eb86fc9dd1b7b48145610d3799b4bd9</guid>
+<description>Venue: Salon Salon | Date: Tuesday, August 4 | Time: 7:00pm</description>
+<pubDate>Tue, 04 Aug 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation Brass — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1370126</link>
-<guid isPermaLink="false">33801043b1c6341d90996e8adfac4b562d5b7df7</guid>
-<description>Venue: Preservation Hall | Date: Monday, August 3 | Time: 8:45pm</description>
-<pubDate>Mon, 03 Aug 2026 20:45:00 +0000</pubDate>
+<title>Naach the Night Away Dance Party: South Asian Beats &amp; Global Diaspora Sounds — Saturn Bar</title>
+<link>https://www.wwoz.org/events/1374491</link>
+<guid isPermaLink="false">a825cf19e258f18321cbbf36b3e0235831233455</guid>
+<description>Venue: Saturn Bar | Date: Tuesday, August 4 | Time: 8:00pm</description>
+<pubDate>Tue, 04 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Trhä + Saidan + Barbelith + Burial Gift — Siberia</title>
-<link>https://www.wwoz.org/events/1348246</link>
-<guid isPermaLink="false">2390265132a7290cf40efd4c0bb04b1083d197ac</guid>
-<description>Venue: Siberia | Date: Monday, August 3 | Time: 9:00pm</description>
-<pubDate>Mon, 03 Aug 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Tyson Webb's Outlaw Boogie + Jonathan Henley Band — St. Roch Tavern</title>
-<link>https://www.wwoz.org/events/1371916</link>
-<guid isPermaLink="false">ed35f3b78bb593784c6edf74512820a2f3301513</guid>
-<description>Venue: St. Roch Tavern | Date: Monday, August 3 | Time: 9:00pm</description>
-<pubDate>Mon, 03 Aug 2026 21:00:00 +0000</pubDate>
+<title>Tommy Oeffling with Lyla George — Siberia</title>
+<link>https://www.wwoz.org/events/1348251</link>
+<guid isPermaLink="false">0da56e2bb023d1882f64b0531f5d4fcb48cfc5de</guid>
+<description>Venue: Siberia | Date: Tuesday, August 4 | Time: 9:00pm</description>
+<pubDate>Tue, 04 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1374776</link>
-<guid isPermaLink="false">600f25388ad96d030819d8bbdf8737e20449552d</guid>
-<description>Venue: Steamboat Natchez | Date: Monday, August 3 | Time: 11:00am</description>
-<pubDate>Mon, 03 Aug 2026 11:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1374736</link>
+<guid isPermaLink="false">5406ee81b69b848bb9fe047cb695488730d0fe3b</guid>
+<description>Venue: Steamboat Natchez | Date: Tuesday, August 4 | Time: 11:00am</description>
+<pubDate>Tue, 04 Aug 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1374806</link>
-<guid isPermaLink="false">046244970bf867996f17aa05925df6f4b028cfc6</guid>
-<description>Venue: Steamboat Natchez | Date: Monday, August 3 | Time: 2:00pm</description>
-<pubDate>Mon, 03 Aug 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1374856</link>
+<guid isPermaLink="false">2960fc0bd5d31209b0a0c26c1f98bbefce66f800</guid>
+<description>Venue: Steamboat Natchez | Date: Tuesday, August 4 | Time: 2:00pm</description>
+<pubDate>Tue, 04 Aug 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dukes of Dixieland — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1374506</link>
-<guid isPermaLink="false">1b476054b26126a19c9213b06db04ed7ceb719de</guid>
-<description>Venue: Steamboat Natchez | Date: Monday, August 3 | Time: 6:00pm</description>
-<pubDate>Mon, 03 Aug 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1374511</link>
+<guid isPermaLink="false">a7498fde2c083ccb9b67b36353a63f506fccf4a7</guid>
+<description>Venue: Steamboat Natchez | Date: Tuesday, August 4 | Time: 6:00pm</description>
+<pubDate>Tue, 04 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dave Ferrato — Tropical Isle Original</title>
-<link>https://www.wwoz.org/events/1372156</link>
-<guid isPermaLink="false">aab0402d7eff55159ab20b8eb8cb5843b15bea4e</guid>
-<description>Venue: Tropical Isle Original | Date: Monday, August 3 | Time: 7:00pm</description>
-<pubDate>Mon, 03 Aug 2026 19:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1372161</link>
+<guid isPermaLink="false">95961b0a806e707aeb6ae718dcf7b82c8029a34d</guid>
+<description>Venue: Tropical Isle Original | Date: Tuesday, August 4 | Time: 7:00pm</description>
+<pubDate>Tue, 04 Aug 2026 19:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
