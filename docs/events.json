@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-08-05T14:31:46.470438+00:00",
-  "count": 44,
+  "generated_at": "2026-08-05T16:52:20.900270+00:00",
+  "count": 52,
   "events": [
     {
       "id": "bd773bfaacf625e778746a4820e6158bd3212b60",
@@ -15,6 +15,30 @@
       "time_text": "8:00pm",
       "start": "2026-08-05T20:00:00+00:00",
       "description": "Venue: 21st Amendment | Date: Wednesday, August 5 | Time: 8:00pm"
+    },
+    {
+      "id": "e45300a9ab8b637b28586c9f998e0ace87c1116e",
+      "source": "wwoz",
+      "title": "Tetrad",
+      "venue": "30/90",
+      "venue_url": "https://www.wwoz.org/organizations/30-90",
+      "event_url": "https://www.wwoz.org/events/1377221",
+      "date_text": "Wednesday, August 5",
+      "time_text": "6:00pm",
+      "start": "2026-08-05T18:00:00+00:00",
+      "description": "Venue: 30/90 | Date: Wednesday, August 5 | Time: 6:00pm"
+    },
+    {
+      "id": "c7f30bd3d1e7c8baca4781e2e5bdb3ff09cc8046",
+      "source": "wwoz",
+      "title": "The Magicians Band",
+      "venue": "30/90",
+      "venue_url": "https://www.wwoz.org/organizations/30-90",
+      "event_url": "https://www.wwoz.org/events/1377226",
+      "date_text": "Wednesday, August 5",
+      "time_text": "9:00pm",
+      "start": "2026-08-05T21:00:00+00:00",
+      "description": "Venue: 30/90 | Date: Wednesday, August 5 | Time: 9:00pm"
     },
     {
       "id": "36a1f2ec074effb930a22a3c268726c1a2192006",
@@ -111,6 +135,18 @@
       "time_text": "3:00pm",
       "start": "2026-08-05T15:00:00+00:00",
       "description": "Venue: Cajun Boil House | Date: Wednesday, August 5 | Time: 3:00pm"
+    },
+    {
+      "id": "60be10e37f18d3bcf1ec6eaf61c94b2bbb6ca116",
+      "source": "wwoz",
+      "title": "The Next Level Band",
+      "venue": "d.b.a.",
+      "venue_url": "https://www.wwoz.org/organizations/dba",
+      "event_url": "https://www.wwoz.org/events/1377191",
+      "date_text": "Wednesday, August 5",
+      "time_text": "8:00pm",
+      "start": "2026-08-05T20:00:00+00:00",
+      "description": "Venue: d.b.a. | Date: Wednesday, August 5 | Time: 8:00pm"
     },
     {
       "id": "0d1d75add9af2ba4fb6208ef70f0e66137550ef6",
@@ -219,6 +255,18 @@
       "time_text": "8:00pm",
       "start": "2026-08-05T20:00:00+00:00",
       "description": "Venue: Holy Diver | Date: Wednesday, August 5 | Time: 8:00pm"
+    },
+    {
+      "id": "cab25ed39fb3d90646b2704ef14f2874b696aca2",
+      "source": "wwoz",
+      "title": "Funkin' It Up with Big Sam",
+      "venue": "Jazz Playhouse",
+      "venue_url": "https://www.wwoz.org/organizations/jazz-playhouse",
+      "event_url": "https://www.wwoz.org/events/1377211",
+      "date_text": "Wednesday, August 5",
+      "time_text": "7:30pm",
+      "start": "2026-08-05T19:30:00+00:00",
+      "description": "Venue: Jazz Playhouse | Date: Wednesday, August 5 | Time: 7:30pm"
     },
     {
       "id": "240e70188908f49ce3a6ecd6aae515d1bf3e1660",
@@ -485,6 +533,42 @@
       "description": "Venue: Snug Harbor | Date: Wednesday, August 5 | Time: 9:30pm"
     },
     {
+      "id": "c7dc5928ce7138a926d2dda4fdc36218e2e50957",
+      "source": "wwoz",
+      "title": "Brett Gallo Jazz Band",
+      "venue": "Spotted Cat",
+      "venue_url": "https://www.wwoz.org/organizations/spotted-cat",
+      "event_url": "https://www.wwoz.org/events/1377136",
+      "date_text": "Wednesday, August 5",
+      "time_text": "2:00pm",
+      "start": "2026-08-05T14:00:00+00:00",
+      "description": "Venue: Spotted Cat | Date: Wednesday, August 5 | Time: 2:00pm"
+    },
+    {
+      "id": "646eb4c0e2edb681526c3dbd838decded114fe3d",
+      "source": "wwoz",
+      "title": "Shotgun Jazz Band",
+      "venue": "Spotted Cat",
+      "venue_url": "https://www.wwoz.org/organizations/spotted-cat",
+      "event_url": "https://www.wwoz.org/events/1377131",
+      "date_text": "Wednesday, August 5",
+      "time_text": "6:00pm",
+      "start": "2026-08-05T18:00:00+00:00",
+      "description": "Venue: Spotted Cat | Date: Wednesday, August 5 | Time: 6:00pm"
+    },
+    {
+      "id": "b08ee0e0655c5440faad33bcb9b57bd3c07ae62a",
+      "source": "wwoz",
+      "title": "Marty Peters & The Party Meters",
+      "venue": "Spotted Cat",
+      "venue_url": "https://www.wwoz.org/organizations/spotted-cat",
+      "event_url": "https://www.wwoz.org/events/1377126",
+      "date_text": "Wednesday, August 5",
+      "time_text": "9:30pm",
+      "start": "2026-08-05T21:30:00+00:00",
+      "description": "Venue: Spotted Cat | Date: Wednesday, August 5 | Time: 9:30pm"
+    },
+    {
       "id": "7f995508b72348be8c3d36c3e273cadc6127dab7",
       "source": "wwoz",
       "title": "Steamboat Stompers",
@@ -531,6 +615,18 @@
       "time_text": "7:00pm",
       "start": "2026-08-05T19:00:00+00:00",
       "description": "Venue: Tropical Isle Bourbon | Date: Wednesday, August 5 | Time: 7:00pm"
+    },
+    {
+      "id": "3551a4d14b55819863f11a7f4f54a6cd3d7be428",
+      "source": "wwoz",
+      "title": "Robin Rapuzzi's Glo Worm Trio",
+      "venue": "Vaughan's Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/vaughans-lounge",
+      "event_url": "https://www.wwoz.org/events/1377076",
+      "date_text": "Wednesday, August 5",
+      "time_text": "8:30pm",
+      "start": "2026-08-05T20:30:00+00:00",
+      "description": "Venue: Vaughan's Lounge | Date: Wednesday, August 5 | Time: 8:30pm"
     }
   ]
 }

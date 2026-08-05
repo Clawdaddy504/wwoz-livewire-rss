@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 05 Aug 2026 14:31:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 16:52:20 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dr. Sick — 21st Amendment</title>
@@ -13,6 +13,20 @@
 <guid isPermaLink="false">bd773bfaacf625e778746a4820e6158bd3212b60</guid>
 <description>Venue: 21st Amendment | Date: Wednesday, August 5 | Time: 8:00pm</description>
 <pubDate>Wed, 05 Aug 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Tetrad — 30/90</title>
+<link>https://www.wwoz.org/events/1377221</link>
+<guid isPermaLink="false">e45300a9ab8b637b28586c9f998e0ace87c1116e</guid>
+<description>Venue: 30/90 | Date: Wednesday, August 5 | Time: 6:00pm</description>
+<pubDate>Wed, 05 Aug 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Magicians Band — 30/90</title>
+<link>https://www.wwoz.org/events/1377226</link>
+<guid isPermaLink="false">c7f30bd3d1e7c8baca4781e2e5bdb3ff09cc8046</guid>
+<description>Venue: 30/90 | Date: Wednesday, August 5 | Time: 9:00pm</description>
+<pubDate>Wed, 05 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Jesse Morrow — Bacchanal (OUTDOORS)</title>
@@ -69,6 +83,13 @@
 <guid isPermaLink="false">6585e7e2c5e136bd1b5fdcae4cf36ae24a8a5ff3</guid>
 <description>Venue: Cajun Boil House | Date: Wednesday, August 5 | Time: 3:00pm</description>
 <pubDate>Wed, 05 Aug 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Next Level Band — d.b.a.</title>
+<link>https://www.wwoz.org/events/1377191</link>
+<guid isPermaLink="false">60be10e37f18d3bcf1ec6eaf61c94b2bbb6ca116</guid>
+<description>Venue: d.b.a. | Date: Wednesday, August 5 | Time: 8:00pm</description>
+<pubDate>Wed, 05 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Jeremy Davenport — Davenport Lounge at The Ritz-Carlton</title>
@@ -132,6 +153,13 @@
 <guid isPermaLink="false">41302e9effa6bb9ccfad37dcf93b4dbc488b8339</guid>
 <description>Venue: Holy Diver | Date: Wednesday, August 5 | Time: 8:00pm</description>
 <pubDate>Wed, 05 Aug 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Funkin' It Up with Big Sam — Jazz Playhouse</title>
+<link>https://www.wwoz.org/events/1377211</link>
+<guid isPermaLink="false">cab25ed39fb3d90646b2704ef14f2874b696aca2</guid>
+<description>Venue: Jazz Playhouse | Date: Wednesday, August 5 | Time: 7:30pm</description>
+<pubDate>Wed, 05 Aug 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Raphael Bas — Lobby Lounge at JW Marriott</title>
@@ -288,6 +316,27 @@
 <pubDate>Wed, 05 Aug 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
+<title>Brett Gallo Jazz Band — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1377136</link>
+<guid isPermaLink="false">c7dc5928ce7138a926d2dda4fdc36218e2e50957</guid>
+<description>Venue: Spotted Cat | Date: Wednesday, August 5 | Time: 2:00pm</description>
+<pubDate>Wed, 05 Aug 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Shotgun Jazz Band — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1377131</link>
+<guid isPermaLink="false">646eb4c0e2edb681526c3dbd838decded114fe3d</guid>
+<description>Venue: Spotted Cat | Date: Wednesday, August 5 | Time: 6:00pm</description>
+<pubDate>Wed, 05 Aug 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Marty Peters &amp; The Party Meters — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1377126</link>
+<guid isPermaLink="false">b08ee0e0655c5440faad33bcb9b57bd3c07ae62a</guid>
+<description>Venue: Spotted Cat | Date: Wednesday, August 5 | Time: 9:30pm</description>
+<pubDate>Wed, 05 Aug 2026 21:30:00 +0000</pubDate>
+</item>
+<item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
 <link>https://www.wwoz.org/events/1374731</link>
 <guid isPermaLink="false">7f995508b72348be8c3d36c3e273cadc6127dab7</guid>
@@ -314,6 +363,13 @@
 <guid isPermaLink="false">339c688b2c4e167f3909bba70e3d03fce48cf2db</guid>
 <description>Venue: Tropical Isle Bourbon | Date: Wednesday, August 5 | Time: 7:00pm</description>
 <pubDate>Wed, 05 Aug 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Robin Rapuzzi's Glo Worm Trio — Vaughan's Lounge</title>
+<link>https://www.wwoz.org/events/1377076</link>
+<guid isPermaLink="false">3551a4d14b55819863f11a7f4f54a6cd3d7be428</guid>
+<description>Venue: Vaughan's Lounge | Date: Wednesday, August 5 | Time: 8:30pm</description>
+<pubDate>Wed, 05 Aug 2026 20:30:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
