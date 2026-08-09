@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 09 Aug 2026 15:45:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 18:59:41 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Blues Brunch with Eric Johanson — 100 Men Hall - Bay St. Louis</title>
@@ -43,7 +43,7 @@
 <pubDate>Sun, 09 Aug 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>J.A.M Brass Band — BMC</title>
+<title>Sugar &amp; the Daddies — BMC</title>
 <link>https://www.wwoz.org/events/1375456</link>
 <guid isPermaLink="false">110378eba014eec22ffcc936ed2ab76ed0a44964</guid>
 <description>Venue: BMC | Date: Sunday, August 9 | Time: 6:00pm</description>
