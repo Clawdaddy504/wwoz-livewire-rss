@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-08-09T21:47:08.504246+00:00",
-  "count": 49,
+  "generated_at": "2026-08-10T02:33:29.939110+00:00",
+  "count": 50,
   "events": [
     {
       "id": "cbefbe831265bdcf362d628916e879fd5a5e8904",
@@ -39,6 +39,18 @@
       "time_text": "7:00pm",
       "start": "2026-08-09T19:00:00+00:00",
       "description": "Venue: Bacchanal (OUTDOORS) | Date: Sunday, August 9 | Time: 7:00pm"
+    },
+    {
+      "id": "28129dd3ce8f827747e597eb17d5f3ce2e906603",
+      "source": "wwoz",
+      "title": "The New Orleans Rug Cutters",
+      "venue": "Bamboula's",
+      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
+      "event_url": "https://www.wwoz.org/events/1377536",
+      "date_text": "Sunday, August 9",
+      "time_text": "9:00pm",
+      "start": "2026-08-09T21:00:00+00:00",
+      "description": "Venue: Bamboula's | Date: Sunday, August 9 | Time: 9:00pm"
     },
     {
       "id": "0819b46631810613b63745e2de5d83d760c603e7",
