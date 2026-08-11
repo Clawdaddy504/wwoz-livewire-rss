@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 11 Aug 2026 19:19:11 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 22:03:47 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Sugar &amp; The Daddies — 30/90</title>
@@ -15,7 +15,7 @@
 <pubDate>Tue, 11 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mikayla Braun &amp; Stephen Bohnstengel — Audubon Clubhouse by Dickie Brennan</title>
+<title>Burris &amp; Stephen Bohnstengel — Audubon Clubhouse by Dickie Brennan</title>
 <link>https://www.wwoz.org/events/1365131</link>
 <guid isPermaLink="false">ef85c514a273f42c8f760a9fec0b9e1b6bcf4e13</guid>
 <description>Venue: Audubon Clubhouse by Dickie Brennan | Date: Tuesday, August 11 | Time: 4:30pm</description>
@@ -216,6 +216,27 @@
 <guid isPermaLink="false">8f901198e457e60ae2ab287a4a6fe85b4dd0c6c5</guid>
 <description>Venue: Salon Salon | Date: Tuesday, August 11 | Time: 7:00pm</description>
 <pubDate>Tue, 11 Aug 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Brett Gallo Jazz Band — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1378266</link>
+<guid isPermaLink="false">f32594834c99f8838cac329596e5794db726b523</guid>
+<description>Venue: Spotted Cat | Date: Tuesday, August 11 | Time: 2:00pm</description>
+<pubDate>Tue, 11 Aug 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Sweetie Pies of New Orleans — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1378251</link>
+<guid isPermaLink="false">3f764e4c5428136467c210a161722855af5f74ca</guid>
+<description>Venue: Spotted Cat | Date: Tuesday, August 11 | Time: 6:00pm</description>
+<pubDate>Tue, 11 Aug 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Smoking Time Jazz Club — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1378236</link>
+<guid isPermaLink="false">198665e5d5dea489b9b2720fe4ba8a093db478f9</guid>
+<description>Venue: Spotted Cat | Date: Tuesday, August 11 | Time: 9:30pm</description>
+<pubDate>Tue, 11 Aug 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>

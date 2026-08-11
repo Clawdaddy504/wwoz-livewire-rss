@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-08-11T19:19:11.646696+00:00",
-  "count": 35,
+  "generated_at": "2026-08-11T22:03:47.283352+00:00",
+  "count": 38,
   "events": [
     {
       "id": "14313aacbc1ff6e1f8e8ff246038a5993d5d438d",
@@ -19,7 +19,7 @@
     {
       "id": "ef85c514a273f42c8f760a9fec0b9e1b6bcf4e13",
       "source": "wwoz",
-      "title": "Mikayla Braun & Stephen Bohnstengel",
+      "title": "Burris & Stephen Bohnstengel",
       "venue": "Audubon Clubhouse by Dickie Brennan",
       "venue_url": "https://www.wwoz.org/organizations/audubon-clubhouse-dickie-brennan",
       "event_url": "https://www.wwoz.org/events/1365131",
@@ -363,6 +363,42 @@
       "time_text": "7:00pm",
       "start": "2026-08-11T19:00:00+00:00",
       "description": "Venue: Salon Salon | Date: Tuesday, August 11 | Time: 7:00pm"
+    },
+    {
+      "id": "f32594834c99f8838cac329596e5794db726b523",
+      "source": "wwoz",
+      "title": "Brett Gallo Jazz Band",
+      "venue": "Spotted Cat",
+      "venue_url": "https://www.wwoz.org/organizations/spotted-cat",
+      "event_url": "https://www.wwoz.org/events/1378266",
+      "date_text": "Tuesday, August 11",
+      "time_text": "2:00pm",
+      "start": "2026-08-11T14:00:00+00:00",
+      "description": "Venue: Spotted Cat | Date: Tuesday, August 11 | Time: 2:00pm"
+    },
+    {
+      "id": "3f764e4c5428136467c210a161722855af5f74ca",
+      "source": "wwoz",
+      "title": "Sweetie Pies of New Orleans",
+      "venue": "Spotted Cat",
+      "venue_url": "https://www.wwoz.org/organizations/spotted-cat",
+      "event_url": "https://www.wwoz.org/events/1378251",
+      "date_text": "Tuesday, August 11",
+      "time_text": "6:00pm",
+      "start": "2026-08-11T18:00:00+00:00",
+      "description": "Venue: Spotted Cat | Date: Tuesday, August 11 | Time: 6:00pm"
+    },
+    {
+      "id": "198665e5d5dea489b9b2720fe4ba8a093db478f9",
+      "source": "wwoz",
+      "title": "Smoking Time Jazz Club",
+      "venue": "Spotted Cat",
+      "venue_url": "https://www.wwoz.org/organizations/spotted-cat",
+      "event_url": "https://www.wwoz.org/events/1378236",
+      "date_text": "Tuesday, August 11",
+      "time_text": "9:30pm",
+      "start": "2026-08-11T21:30:00+00:00",
+      "description": "Venue: Spotted Cat | Date: Tuesday, August 11 | Time: 9:30pm"
     },
     {
       "id": "b50eae63321a1c9c047846c8c687de5327552c1d",
