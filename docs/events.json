@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-08-12T16:08:15.162358+00:00",
-  "count": 46,
+  "generated_at": "2026-08-12T19:19:16.826691+00:00",
+  "count": 47,
   "events": [
     {
       "id": "683e8b80affbc4bc8a270e5d671c7f74d525fea3",
@@ -555,6 +555,18 @@
       "time_text": "8:30pm",
       "start": "2026-08-12T20:30:00+00:00",
       "description": "Venue: Vaughan's Lounge | Date: Wednesday, August 12 | Time: 8:30pm"
+    },
+    {
+      "id": "cd43a351320efe8048001a440fc814c9e0e02570",
+      "source": "wwoz",
+      "title": "Leaux Fye Tribe",
+      "venue": "Virgin Hotels New Orleans",
+      "venue_url": "https://www.wwoz.org/organizations/virgin-hotels-new-orleans",
+      "event_url": "https://www.wwoz.org/events/1378556",
+      "date_text": "Wednesday, August 12",
+      "time_text": "6:00pm",
+      "start": "2026-08-12T18:00:00+00:00",
+      "description": "Venue: Virgin Hotels New Orleans | Date: Wednesday, August 12 | Time: 6:00pm"
     }
   ]
 }

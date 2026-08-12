@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 12 Aug 2026 16:08:15 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 19:19:16 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Jesse Morrow — Bacchanal (OUTDOORS)</title>
@@ -328,6 +328,13 @@
 <guid isPermaLink="false">05065bab2aadeebb8b3cc8f640bcba0b9291bbe6</guid>
 <description>Venue: Vaughan's Lounge | Date: Wednesday, August 12 | Time: 8:30pm</description>
 <pubDate>Wed, 12 Aug 2026 20:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Leaux Fye Tribe — Virgin Hotels New Orleans</title>
+<link>https://www.wwoz.org/events/1378556</link>
+<guid isPermaLink="false">cd43a351320efe8048001a440fc814c9e0e02570</guid>
+<description>Venue: Virgin Hotels New Orleans | Date: Wednesday, August 12 | Time: 6:00pm</description>
+<pubDate>Wed, 12 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
