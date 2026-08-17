@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 17 Aug 2026 18:56:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 21:39:37 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>The Jelly Roll Stompers — 21st Amendment</title>
@@ -134,7 +134,7 @@
 <pubDate>Mon, 17 Aug 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Subterranean Songwriter Night — Howlin' Wolf - The Den</title>
+<title>Subterranean Songwriter Night ft. Patrick Cooper, Aura Bishop &amp; More! — Howlin' Wolf - The Den</title>
 <link>https://www.wwoz.org/events/1346061</link>
 <guid isPermaLink="false">eb2dcccafbc401195ddca22fce1b5c5f55c972b2</guid>
 <description>Venue: Howlin' Wolf - The Den | Date: Monday, August 17 | Time: 7:00pm</description>
@@ -272,6 +272,13 @@
 <guid isPermaLink="false">a16efb1008a99dd8216ac22446d7ae0f4b56218d</guid>
 <description>Venue: Steamboat Natchez | Date: Monday, August 17 | Time: 6:00pm</description>
 <pubDate>Mon, 17 Aug 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Johanna Rose — Three Muses</title>
+<link>https://www.wwoz.org/events/1378926</link>
+<guid isPermaLink="false">74e6c65e2429d591c6cc758a817935a1c2a6481e</guid>
+<description>Venue: Three Muses | Date: Monday, August 17 | Time: 7:30pm</description>
+<pubDate>Mon, 17 Aug 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Dave Ferrato — Tropical Isle Original</title>

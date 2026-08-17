@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-08-17T18:56:18.737788+00:00",
-  "count": 39,
+  "generated_at": "2026-08-17T21:39:37.135240+00:00",
+  "count": 40,
   "events": [
     {
       "id": "8ec60842de129877eecd9b0099e011539d451d88",
@@ -223,7 +223,7 @@
     {
       "id": "eb2dcccafbc401195ddca22fce1b5c5f55c972b2",
       "source": "wwoz",
-      "title": "Subterranean Songwriter Night",
+      "title": "Subterranean Songwriter Night ft. Patrick Cooper, Aura Bishop & More!",
       "venue": "Howlin' Wolf - The Den",
       "venue_url": "https://www.wwoz.org/organizations/howlin-wolf-den",
       "event_url": "https://www.wwoz.org/events/1346061",
@@ -459,6 +459,18 @@
       "time_text": "6:00pm",
       "start": "2026-08-17T18:00:00+00:00",
       "description": "Venue: Steamboat Natchez | Date: Monday, August 17 | Time: 6:00pm"
+    },
+    {
+      "id": "74e6c65e2429d591c6cc758a817935a1c2a6481e",
+      "source": "wwoz",
+      "title": "Johanna Rose",
+      "venue": "Three Muses",
+      "venue_url": "https://www.wwoz.org/organizations/three-muses",
+      "event_url": "https://www.wwoz.org/events/1378926",
+      "date_text": "Monday, August 17",
+      "time_text": "7:30pm",
+      "start": "2026-08-17T19:30:00+00:00",
+      "description": "Venue: Three Muses | Date: Monday, August 17 | Time: 7:30pm"
     },
     {
       "id": "dd998f79fabe2626c9a1cccb2e89800371c945ad",
