@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-08-19T18:52:19.645346+00:00",
-  "count": 49,
+  "generated_at": "2026-08-19T21:39:54.392173+00:00",
+  "count": 50,
   "events": [
     {
       "id": "6009ddae1bbeadc3ff236ecf721acdf0108d144d",
@@ -63,6 +63,18 @@
       "time_text": "12:00pm",
       "start": "2026-08-19T12:00:00+00:00",
       "description": "Venue: Bourbon Square Jazz Bar | Date: Wednesday, August 19 | Time: 12:00pm"
+    },
+    {
+      "id": "38447a6e9fe799f96a4392fb0c136b1f07f06cae",
+      "source": "wwoz",
+      "title": "Creo Groove ft. Brookecita + Jerrad",
+      "venue": "Broadside, The",
+      "venue_url": "https://www.wwoz.org/organizations/broadside",
+      "event_url": "https://www.wwoz.org/events/1379181",
+      "date_text": "Wednesday, August 19",
+      "time_text": "6:00pm",
+      "start": "2026-08-19T18:00:00+00:00",
+      "description": "Venue: Broadside, The | Date: Wednesday, August 19 | Time: 6:00pm"
     },
     {
       "id": "0d61b7068a5df50d8b0c2ab7c68d9b7d8a1f400f",

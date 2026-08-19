@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 19 Aug 2026 18:52:19 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 21:39:54 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Lobelia Jazz Band — 21st Amendment</title>
@@ -41,6 +41,13 @@
 <guid isPermaLink="false">c5306258fa75fa8708f1ab9c9f671f5536879db6</guid>
 <description>Venue: Bourbon Square Jazz Bar | Date: Wednesday, August 19 | Time: 12:00pm</description>
 <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Creo Groove ft. Brookecita + Jerrad — Broadside, The</title>
+<link>https://www.wwoz.org/events/1379181</link>
+<guid isPermaLink="false">38447a6e9fe799f96a4392fb0c136b1f07f06cae</guid>
+<description>Venue: Broadside, The | Date: Wednesday, August 19 | Time: 6:00pm</description>
+<pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Joe Krown — Buffa's</title>
