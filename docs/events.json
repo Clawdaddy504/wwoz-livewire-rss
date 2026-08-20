@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-08-20T18:58:09.613097+00:00",
-  "count": 65,
+  "generated_at": "2026-08-20T21:42:46.022602+00:00",
+  "count": 66,
   "events": [
     {
       "id": "9d3cc7a7a1e48bae5ca7652aaa2e189f2d1e3011",
@@ -111,6 +111,18 @@
       "time_text": "11:00pm",
       "start": "2026-08-20T23:00:00+00:00",
       "description": "Venue: Blue Nile | Date: Thursday, August 20 | Time: 11:00pm"
+    },
+    {
+      "id": "43183ac0b8d89be396295f43ce724b143ecbdd17",
+      "source": "wwoz",
+      "title": "Open Musicians Jam Hosted by Christian Coleman & the B Mac's Family Band",
+      "venue": "B Mac's (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/b-macs-outdoors",
+      "event_url": "https://www.wwoz.org/events/1379331",
+      "date_text": "Thursday, August 20",
+      "time_text": "7:00pm",
+      "start": "2026-08-20T19:00:00+00:00",
+      "description": "Venue: B Mac's (OUTDOORS) | Date: Thursday, August 20 | Time: 7:00pm"
     },
     {
       "id": "18d16367ec612ff66aefbefb07a3c0671cce585d",

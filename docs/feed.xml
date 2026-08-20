@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 20 Aug 2026 18:58:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 21:42:46 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy — 21st Amendment</title>
@@ -69,6 +69,13 @@
 <guid isPermaLink="false">e0b4818ee3146c15195b6ef367ea24d40887eb21</guid>
 <description>Venue: Blue Nile | Date: Thursday, August 20 | Time: 11:00pm</description>
 <pubDate>Thu, 20 Aug 2026 23:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Open Musicians Jam Hosted by Christian Coleman &amp; the B Mac's Family Band — B Mac's (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1379331</link>
+<guid isPermaLink="false">43183ac0b8d89be396295f43ce724b143ecbdd17</guid>
+<description>Venue: B Mac's (OUTDOORS) | Date: Thursday, August 20 | Time: 7:00pm</description>
+<pubDate>Thu, 20 Aug 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dapper Dandies — BMC</title>
