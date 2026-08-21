@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 21 Aug 2026 18:54:46 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 21:37:30 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
@@ -524,6 +524,13 @@
 <guid isPermaLink="false">c1a66e176f9187ee505533901322c25f9dcedf09</guid>
 <description>Venue: Steamboat Natchez | Date: Friday, August 21 | Time: 6:00pm</description>
 <pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Bad Penny Pleasuremakers — Three Muses</title>
+<link>https://www.wwoz.org/events/1379531</link>
+<guid isPermaLink="false">d0bd451b9b0352af32f5604b50501a1e37a2da7b</guid>
+<description>Venue: Three Muses | Date: Friday, August 21 | Time: 7:30pm</description>
+<pubDate>Fri, 21 Aug 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Free Fridays Concert Series ft. Steve Kelly + Zoomst — Tipitina's</title>

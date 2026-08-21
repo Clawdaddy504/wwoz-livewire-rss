@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-08-21T18:54:46.984068+00:00",
-  "count": 76,
+  "generated_at": "2026-08-21T21:37:30.134788+00:00",
+  "count": 77,
   "events": [
     {
       "id": "582c2fd297e0e0bf5499de853fc1fb79ab393d93",
@@ -891,6 +891,18 @@
       "time_text": "6:00pm",
       "start": "2026-08-21T18:00:00+00:00",
       "description": "Venue: Steamboat Natchez | Date: Friday, August 21 | Time: 6:00pm"
+    },
+    {
+      "id": "d0bd451b9b0352af32f5604b50501a1e37a2da7b",
+      "source": "wwoz",
+      "title": "Bad Penny Pleasuremakers",
+      "venue": "Three Muses",
+      "venue_url": "https://www.wwoz.org/organizations/three-muses",
+      "event_url": "https://www.wwoz.org/events/1379531",
+      "date_text": "Friday, August 21",
+      "time_text": "7:30pm",
+      "start": "2026-08-21T19:30:00+00:00",
+      "description": "Venue: Three Muses | Date: Friday, August 21 | Time: 7:30pm"
     },
     {
       "id": "451d2e49b20921a86100a24382c44ab8b9c032ba",
