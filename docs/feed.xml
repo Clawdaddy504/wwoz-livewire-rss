@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 21 Aug 2026 15:47:49 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 18:54:46 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
@@ -132,6 +132,13 @@
 <guid isPermaLink="false">946e47ad6bb7b4688dbd554f4d055d42fa30dd72</guid>
 <description>Venue: Bourbon Square Jazz Bar | Date: Friday, August 21 | Time: 12:00pm</description>
 <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Audrey LeCrone Trio — Brutto Americano</title>
+<link>https://www.wwoz.org/events/1379381</link>
+<guid isPermaLink="false">75840d6124733eec10a8c63748ac62c66ea4b196</guid>
+<description>Venue: Brutto Americano | Date: Friday, August 21 | Time: 6:00pm</description>
+<pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>T Marie Trio Stories &amp; Songs — Buffa's</title>
@@ -293,6 +300,13 @@
 <guid isPermaLink="false">766081666c6852ae845f8e79970ecc12f4adec07</guid>
 <description>Venue: Kerry Irish Pub | Date: Friday, August 21 | Time: 5:00pm</description>
 <pubDate>Fri, 21 Aug 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Guitar Joel — Kerry Irish Pub</title>
+<link>https://www.wwoz.org/events/1379436</link>
+<guid isPermaLink="false">8ba32d396d1d3f4338dd6a2dfcb759c872ff61cc</guid>
+<description>Venue: Kerry Irish Pub | Date: Friday, August 21 | Time: 9:00pm</description>
+<pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Personal Space — Le Bon Temps Roulé</title>

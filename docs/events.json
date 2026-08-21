@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-08-21T15:47:49.754549+00:00",
-  "count": 74,
+  "generated_at": "2026-08-21T18:54:46.984068+00:00",
+  "count": 76,
   "events": [
     {
       "id": "582c2fd297e0e0bf5499de853fc1fb79ab393d93",
@@ -219,6 +219,18 @@
       "time_text": "12:00pm",
       "start": "2026-08-21T12:00:00+00:00",
       "description": "Venue: Bourbon Square Jazz Bar | Date: Friday, August 21 | Time: 12:00pm"
+    },
+    {
+      "id": "75840d6124733eec10a8c63748ac62c66ea4b196",
+      "source": "wwoz",
+      "title": "Audrey LeCrone Trio",
+      "venue": "Brutto Americano",
+      "venue_url": "https://www.wwoz.org/organizations/brutto-americano",
+      "event_url": "https://www.wwoz.org/events/1379381",
+      "date_text": "Friday, August 21",
+      "time_text": "6:00pm",
+      "start": "2026-08-21T18:00:00+00:00",
+      "description": "Venue: Brutto Americano | Date: Friday, August 21 | Time: 6:00pm"
     },
     {
       "id": "0ba322d4ec416aa0e3bd8dce54e2fd145d5cb752",
@@ -495,6 +507,18 @@
       "time_text": "5:00pm",
       "start": "2026-08-21T17:00:00+00:00",
       "description": "Venue: Kerry Irish Pub | Date: Friday, August 21 | Time: 5:00pm"
+    },
+    {
+      "id": "8ba32d396d1d3f4338dd6a2dfcb759c872ff61cc",
+      "source": "wwoz",
+      "title": "Guitar Joel",
+      "venue": "Kerry Irish Pub",
+      "venue_url": "https://www.wwoz.org/organizations/kerry-irish-pub",
+      "event_url": "https://www.wwoz.org/events/1379436",
+      "date_text": "Friday, August 21",
+      "time_text": "9:00pm",
+      "start": "2026-08-21T21:00:00+00:00",
+      "description": "Venue: Kerry Irish Pub | Date: Friday, August 21 | Time: 9:00pm"
     },
     {
       "id": "df8a5bda507245a08b790f8d6d3b8dc76c189994",
