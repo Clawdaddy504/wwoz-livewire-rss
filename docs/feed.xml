@@ -5,469 +5,525 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 21 Aug 2026 03:59:53 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 07:06:24 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
-<title>Big Joe Kennedy — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1375321</link>
-<guid isPermaLink="false">9d3cc7a7a1e48bae5ca7652aaa2e189f2d1e3011</guid>
-<description>Venue: 21st Amendment | Date: Thursday, August 20 | Time: 3:00pm</description>
-<pubDate>Thu, 20 Aug 2026 15:00:00 +0000</pubDate>
+<title>John Lisi &amp; Delta Funk — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1375331</link>
+<guid isPermaLink="false">582c2fd297e0e0bf5499de853fc1fb79ab393d93</guid>
+<description>Venue: 21st Amendment | Date: Friday, August 21 | Time: 3:00pm</description>
+<pubDate>Fri, 21 Aug 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Marty Peters &amp; the Party Meters — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1375326</link>
-<guid isPermaLink="false">8415af737121ee16d33d8ed73666c0d927a94be4</guid>
-<description>Venue: 21st Amendment | Date: Thursday, August 20 | Time: 8:00pm</description>
-<pubDate>Thu, 20 Aug 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Davis Rogan — 4141 NOLA</title>
-<link>https://www.wwoz.org/events/1372616</link>
-<guid isPermaLink="false">88654fda6d25da242b59d3e7306c4900970460a7</guid>
-<description>Venue: 4141 NOLA | Date: Thursday, August 20 | Time: 6:30pm</description>
-<pubDate>Thu, 20 Aug 2026 18:30:00 +0000</pubDate>
+<title>Marty Peters Gets Organized — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1375336</link>
+<guid isPermaLink="false">eed88ed28b0c95e0c4a4f5776ffc95861f05aeb7</guid>
+<description>Venue: 21st Amendment | Date: Friday, August 21 | Time: 8:00pm</description>
+<pubDate>Fri, 21 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Bubbles Brown — Apple Barrel</title>
-<link>https://www.wwoz.org/events/1379036</link>
-<guid isPermaLink="false">2a6ccaf55f4787ee1688877a1606c485526ca4a1</guid>
-<description>Venue: Apple Barrel | Date: Thursday, August 20 | Time: 6:00pm</description>
-<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1379041</link>
+<guid isPermaLink="false">cb008034b1c8aba61291a1e52894af0689a85d28</guid>
+<description>Venue: Apple Barrel | Date: Friday, August 21 | Time: 6:00pm</description>
+<pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Raphael Bas — Bacchanal (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1373296</link>
-<guid isPermaLink="false">767399f9053b78599185234107cd6562d34d80ab</guid>
-<description>Venue: Bacchanal (OUTDOORS) | Date: Thursday, August 20 | Time: 6:00pm</description>
-<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<title>Willie Green III — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1373351</link>
+<guid isPermaLink="false">c142878d0e0dca5a2474f4b17ca8a0fef98f97c8</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Friday, August 21 | Time: 7:00pm</description>
+<pubDate>Fri, 21 Aug 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Cryptic ft. Peter Harris, Ricardo Pascal, and Jamison Ross — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1375126</link>
-<guid isPermaLink="false">7afad200211f2e03038910366477ad324f77d2fe</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Thursday, August 20 | Time: 8:00pm</description>
-<pubDate>Thu, 20 Aug 2026 20:00:00 +0000</pubDate>
+<title>The New Orleans Rug Cutters — Bamboula's</title>
+<link>https://www.wwoz.org/events/1377566</link>
+<guid isPermaLink="false">cf2f970718671b0cb37338be5a365985ed344da7</guid>
+<description>Venue: Bamboula's | Date: Friday, August 21 | Time: 11:00am</description>
+<pubDate>Fri, 21 Aug 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Cryptic ft. Peter Harris, Ricardo Pascal, and Jamison Ross — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1375131</link>
-<guid isPermaLink="false">4a4026edecef5c6cb2816ac47712caf378ae839f</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Thursday, August 20 | Time: 10:00pm</description>
-<pubDate>Thu, 20 Aug 2026 22:00:00 +0000</pubDate>
+<title>Mark Appleford — Bamboula's - Festival Hall</title>
+<link>https://www.wwoz.org/events/1359941</link>
+<guid isPermaLink="false">40b8addd0fff51036f36fd623f8a96b6fbf92f88</guid>
+<description>Venue: Bamboula's - Festival Hall | Date: Friday, August 21 | Time: 7:00pm</description>
+<pubDate>Fri, 21 Aug 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Da Voodoo Kingz — BJ's Lounge</title>
-<link>https://www.wwoz.org/events/1371866</link>
-<guid isPermaLink="false">5700c2f57bc829381fe60812a9ed6f7786f304be</guid>
-<description>Venue: BJ's Lounge | Date: Thursday, August 20 | Time: 9:00pm</description>
-<pubDate>Thu, 20 Aug 2026 21:00:00 +0000</pubDate>
+<title>Oh Yeah! ft. Peter Harris, Ed Perkins, Wes "Warmdaddy" Anderson &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1375141</link>
+<guid isPermaLink="false">0e11c8d36e9c6bef72324997ac771a748a67bdc3</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Friday, August 21 | Time: 8:00pm</description>
+<pubDate>Fri, 21 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Reggae Night with DJ T-Roy — Blue Nile</title>
-<link>https://www.wwoz.org/events/1375601</link>
-<guid isPermaLink="false">e0b4818ee3146c15195b6ef367ea24d40887eb21</guid>
-<description>Venue: Blue Nile | Date: Thursday, August 20 | Time: 11:00pm</description>
-<pubDate>Thu, 20 Aug 2026 23:00:00 +0000</pubDate>
+<title>Oh Yeah! ft. Peter Harris, Ed Perkins, Wes "Warmdaddy" Anderson &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1375136</link>
+<guid isPermaLink="false">001fba9631e970ca1df26ddeddb6c669d3599f45</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Friday, August 21 | Time: 10:00pm</description>
+<pubDate>Fri, 21 Aug 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Open Musicians Jam Hosted by Christian Coleman &amp; the B Mac's Family Band — B Mac's (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1379331</link>
-<guid isPermaLink="false">43183ac0b8d89be396295f43ce724b143ecbdd17</guid>
-<description>Venue: B Mac's (OUTDOORS) | Date: Thursday, August 20 | Time: 7:00pm</description>
-<pubDate>Thu, 20 Aug 2026 19:00:00 +0000</pubDate>
+<title>Rosy &amp; the Rabbit Fangs — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1371871</link>
+<guid isPermaLink="false">7944de828b5d0458b9f83355568da094162eb8c9</guid>
+<description>Venue: BJ's Lounge | Date: Friday, August 21 | Time: 9:00pm</description>
+<pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dapper Dandies — BMC</title>
-<link>https://www.wwoz.org/events/1375501</link>
-<guid isPermaLink="false">18d16367ec612ff66aefbefb07a3c0671cce585d</guid>
-<description>Venue: BMC | Date: Thursday, August 20 | Time: 6:00pm</description>
-<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<title>The Rozes (Caribbean Funk) — Blue Nile</title>
+<link>https://www.wwoz.org/events/1375636</link>
+<guid isPermaLink="false">04f8057bac3b92033b75cd039fe86069a1fc2907</guid>
+<description>Venue: Blue Nile | Date: Friday, August 21 | Time: 8:00pm</description>
+<pubDate>Fri, 21 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Maurice Cade &amp; ESS — BMC</title>
-<link>https://www.wwoz.org/events/1375506</link>
-<guid isPermaLink="false">273557e723bfcfaa1fe5cf406c9ec4a1b72733dd</guid>
-<description>Venue: BMC | Date: Thursday, August 20 | Time: 9:00pm</description>
-<pubDate>Thu, 20 Aug 2026 21:00:00 +0000</pubDate>
+<title>The Next Level Band — Blue Nile</title>
+<link>https://www.wwoz.org/events/1375706</link>
+<guid isPermaLink="false">8ca0a36f107ac68106f3870a4d5c5df3ecc93b1b</guid>
+<description>Venue: Blue Nile | Date: Friday, August 21 | Time: 10:00pm</description>
+<pubDate>Fri, 21 Aug 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Big Mike from Big Mike &amp; the R&amp;B Kings — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1375826</link>
-<guid isPermaLink="false">ab8f5d17e0ddedaf680f2466ca88df8ec13ebcff</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Thursday, August 20 | Time: 8:00pm</description>
-<pubDate>Thu, 20 Aug 2026 20:00:00 +0000</pubDate>
+<title>DJ FTK — Blue Nile - Balcony Room</title>
+<link>https://www.wwoz.org/events/1375616</link>
+<guid isPermaLink="false">72ab5764bb26bc702eff0d33824c90cb264c8daf</guid>
+<description>Venue: Blue Nile - Balcony Room | Date: Friday, August 21 | Time: 10:00pm</description>
+<pubDate>Fri, 21 Aug 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Ashley Hamner — B Mac's (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1379336</link>
+<guid isPermaLink="false">0447bd249eebf8c4b2b89b05e8a3812426c3e7dd</guid>
+<description>Venue: B Mac's (OUTDOORS) | Date: Friday, August 21 | Time: 7:00pm</description>
+<pubDate>Fri, 21 Aug 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Josh Benitez Band — BMC</title>
+<link>https://www.wwoz.org/events/1375511</link>
+<guid isPermaLink="false">593d203a7d6150d79fb3d75deaee5b09c3877f42</guid>
+<description>Venue: BMC | Date: Friday, August 21 | Time: 6:00pm</description>
+<pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Big Mike &amp; the R&amp;B Kings — BMC</title>
+<link>https://www.wwoz.org/events/1375516</link>
+<guid isPermaLink="false">6d8637610536fbee890984a56f151c70d6a8c5d5</guid>
+<description>Venue: BMC | Date: Friday, August 21 | Time: 9:00pm</description>
+<pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>April Spain — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1375801</link>
+<guid isPermaLink="false">b3471e5248b5214ad5052f812cdd2ce16df9047b</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Friday, August 21 | Time: 4:00pm</description>
+<pubDate>Fri, 21 Aug 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Kid Merv &amp; All That Jazz — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1375941</link>
+<guid isPermaLink="false">1df2df826b96225f8d2813fb7f61f30207ba5eab</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Friday, August 21 | Time: 8:00pm</description>
+<pubDate>Fri, 21 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Keva Holiday — Bourbon Square Jazz Bar</title>
-<link>https://www.wwoz.org/events/1374436</link>
-<guid isPermaLink="false">058710373ce8a795ade3a549223243a3e2bd5e28</guid>
-<description>Venue: Bourbon Square Jazz Bar | Date: Thursday, August 20 | Time: 12:00pm</description>
-<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1374441</link>
+<guid isPermaLink="false">946e47ad6bb7b4688dbd554f4d055d42fa30dd72</guid>
+<description>Venue: Bourbon Square Jazz Bar | Date: Friday, August 21 | Time: 12:00pm</description>
+<pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jamie Bernstein with Teena May and Jamey St. Pierre — Buffa's</title>
-<link>https://www.wwoz.org/events/1375751</link>
-<guid isPermaLink="false">b74afd1a92a1eac63d68bed17fe4ea9e68e9b095</guid>
-<description>Venue: Buffa's | Date: Thursday, August 20 | Time: 7:00pm</description>
-<pubDate>Thu, 20 Aug 2026 19:00:00 +0000</pubDate>
+<title>T Marie Trio Stories &amp; Songs — Buffa's</title>
+<link>https://www.wwoz.org/events/1359866</link>
+<guid isPermaLink="false">0ba322d4ec416aa0e3bd8dce54e2fd145d5cb752</guid>
+<description>Venue: Buffa's | Date: Friday, August 21 | Time: 8:00pm</description>
+<pubDate>Fri, 21 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Red Afro Queen Ms. Silky Sol — Café Negril</title>
-<link>https://www.wwoz.org/events/1372996</link>
-<guid isPermaLink="false">a643051ffae4fd4854400c90506a2d4cc1f03a89</guid>
-<description>Venue: Café Negril | Date: Thursday, August 20 | Time: 6:30pm</description>
-<pubDate>Thu, 20 Aug 2026 18:30:00 +0000</pubDate>
+<title>Adam Pearce — Café Hope at Timberlane Golf &amp; Recreation</title>
+<link>https://www.wwoz.org/events/1371736</link>
+<guid isPermaLink="false">3a3863b652e1dc70d8f5090b8bb52197baf7ad17</guid>
+<description>Venue: Café Hope at Timberlane Golf &amp; Recreation | Date: Friday, August 21 | Time: 6:00pm</description>
+<pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Armani Smith &amp; Soul Ties — Café Negril</title>
-<link>https://www.wwoz.org/events/1373041</link>
-<guid isPermaLink="false">0ff32ca25ece8758e0c0c6426b7b2e0f1fa66e4a</guid>
-<description>Venue: Café Negril | Date: Thursday, August 20 | Time: 10:00pm</description>
-<pubDate>Thu, 20 Aug 2026 22:00:00 +0000</pubDate>
+<title>Higher Heights — Café Negril</title>
+<link>https://www.wwoz.org/events/1373156</link>
+<guid isPermaLink="false">27c75f7d03e33caea19a43ec29fd21ffcf9aa212</guid>
+<description>Venue: Café Negril | Date: Friday, August 21 | Time: 10:00pm</description>
+<pubDate>Fri, 21 Aug 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Leslie Martin — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
-<link>https://www.wwoz.org/events/1369246</link>
-<guid isPermaLink="false">b11db00ff1e1805cc0c67563f091a21c45481eeb</guid>
-<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Thursday, August 20 | Time: 5:30pm</description>
-<pubDate>Thu, 20 Aug 2026 17:30:00 +0000</pubDate>
+<title>Big 6 Brass Band — Candlelight Lounge</title>
+<link>https://www.wwoz.org/events/1355301</link>
+<guid isPermaLink="false">6eb75515127a2ddfc25194fc9e85b256983d3614</guid>
+<description>Venue: Candlelight Lounge | Date: Friday, August 21 | Time: 9:00pm</description>
+<pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Lena Prima &amp; Her Band — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
-<link>https://www.wwoz.org/events/1365321</link>
-<guid isPermaLink="false">0474d0b47b0ac725294d8b1d6f47bb736c964186</guid>
-<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Thursday, August 20 | Time: 9:00pm</description>
-<pubDate>Thu, 20 Aug 2026 21:00:00 +0000</pubDate>
+<title>Third Fridays ft. Sweet Magnolia + Minos the Saint — Carrollton Station</title>
+<link>https://www.wwoz.org/events/1372691</link>
+<guid isPermaLink="false">9004586dfdb058e03c0f9a6080519460583ae5e2</guid>
+<description>Venue: Carrollton Station | Date: Friday, August 21 | Time: 9:00pm</description>
+<pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Daffodyl &amp; Friends — Carrollton Station</title>
-<link>https://www.wwoz.org/events/1372686</link>
-<guid isPermaLink="false">ef300d06d495c478c548b266d8bb7f85cc8b3d81</guid>
-<description>Venue: Carrollton Station | Date: Thursday, August 20 | Time: 9:00pm</description>
-<pubDate>Thu, 20 Aug 2026 21:00:00 +0000</pubDate>
+<title>Fùnké — Chapel Club at Hotel St. Vincent</title>
+<link>https://www.wwoz.org/events/1376856</link>
+<guid isPermaLink="false">a3388cbf952845776bf131030783d0c25ec3657a</guid>
+<description>Venue: Chapel Club at Hotel St. Vincent | Date: Friday, August 21 | Time: 9:00pm</description>
+<pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Vegas Cola — d.b.a.</title>
-<link>https://www.wwoz.org/events/1378106</link>
-<guid isPermaLink="false">6409c592398d74e6c31781b4c5df10f3ec5881a8</guid>
-<description>Venue: d.b.a. | Date: Thursday, August 20 | Time: 8:00pm</description>
-<pubDate>Thu, 20 Aug 2026 20:00:00 +0000</pubDate>
+<title>Atomic Broad, Bored Shortz &amp; All Hell Mary — Crypt, The</title>
+<link>https://www.wwoz.org/events/1379351</link>
+<guid isPermaLink="false">9799485135ec5b1c8132f7796b125381594aaf84</guid>
+<description>Venue: Crypt, The | Date: Friday, August 21 | Time: 8:00pm</description>
+<pubDate>Fri, 21 Aug 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jenavieve Cooke &amp; the Winding Boys — d.b.a.</title>
+<link>https://www.wwoz.org/events/1378111</link>
+<guid isPermaLink="false">c2be2029a9328b68cd347986358107db019f79cb</guid>
+<description>Venue: d.b.a. | Date: Friday, August 21 | Time: 6:00pm</description>
+<pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Jeremy Davenport — Davenport Lounge at The Ritz-Carlton</title>
-<link>https://www.wwoz.org/events/1349226</link>
-<guid isPermaLink="false">46e2d6a6afde0edbcb630a5f69ccb352a582301d</guid>
-<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Thursday, August 20 | Time: 5:30pm</description>
-<pubDate>Thu, 20 Aug 2026 17:30:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1349271</link>
+<guid isPermaLink="false">81dcc48f1fb348f6e6e00324715ce641ea551be6</guid>
+<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Friday, August 21 | Time: 8:00pm</description>
+<pubDate>Fri, 21 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jazz Night at the Degas House - 30 Years Anniversary Concert ft. Jérémie Henan &amp; More! — Degas House</title>
-<link>https://www.wwoz.org/events/1378956</link>
-<guid isPermaLink="false">29802ff9afa469a4272727eab736ef3f8ab7ab25</guid>
-<description>Venue: Degas House | Date: Thursday, August 20 | Time: 7:00pm</description>
-<pubDate>Thu, 20 Aug 2026 19:00:00 +0000</pubDate>
+<title>The Joe Krown Trio — Dos Jefes</title>
+<link>https://www.wwoz.org/events/1373531</link>
+<guid isPermaLink="false">54cc93cbad1fcd6ad48b15a38f79608f6b324d60</guid>
+<description>Venue: Dos Jefes | Date: Friday, August 21 | Time: 9:00pm</description>
+<pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Mark Coleman Band — Dos Jefes</title>
-<link>https://www.wwoz.org/events/1373596</link>
-<guid isPermaLink="false">6eb3d4ea8cf48f104d0341aedaa2ddb43f46cfaf</guid>
-<description>Venue: Dos Jefes | Date: Thursday, August 20 | Time: 8:30pm</description>
-<pubDate>Thu, 20 Aug 2026 20:30:00 +0000</pubDate>
+<title>A.L.T. Soul — Double Dealer at Orpheum Theater</title>
+<link>https://www.wwoz.org/events/1376106</link>
+<guid isPermaLink="false">bc586133b8fcd7e140a559fa867067fe721beb84</guid>
+<description>Venue: Double Dealer at Orpheum Theater | Date: Friday, August 21 | Time: 9:00pm</description>
+<pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Whitenoise — Double Dealer at Orpheum Theater</title>
-<link>https://www.wwoz.org/events/1376101</link>
-<guid isPermaLink="false">07e7237d5d9049a724824e7df192b232ab37d9f7</guid>
-<description>Venue: Double Dealer at Orpheum Theater | Date: Thursday, August 20 | Time: 9:00pm</description>
-<pubDate>Thu, 20 Aug 2026 21:00:00 +0000</pubDate>
+<title>J.A.M. Brass Band — Favela Chic</title>
+<link>https://www.wwoz.org/events/1377781</link>
+<guid isPermaLink="false">f4a00ea01ba08b93d982b580db17da5ec4b6f012</guid>
+<description>Venue: Favela Chic | Date: Friday, August 21 | Time: 7:00pm</description>
+<pubDate>Fri, 21 Aug 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Porchside Performances ft. Rockin' Dopsie &amp; The Zydeco Twisters — Ernest N. Morial Convention Center</title>
-<link>https://www.wwoz.org/events/1368611</link>
-<guid isPermaLink="false">9c59454702c2c4164cf7b18966a18188034d81ce</guid>
-<description>Venue: Ernest N. Morial Convention Center | Date: Thursday, August 20 | Time: 5:30pm</description>
-<pubDate>Thu, 20 Aug 2026 17:30:00 +0000</pubDate>
+<title>Hypno Nun — Favela Chic</title>
+<link>https://www.wwoz.org/events/1377796</link>
+<guid isPermaLink="false">c2c661e60a1abea25632df31e4d1f8ab7a112aa3</guid>
+<description>Venue: Favela Chic | Date: Friday, August 21 | Time: 10:00pm</description>
+<pubDate>Fri, 21 Aug 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Robin Rapuzzi Solo Mandolino — Fausto's Italian Bistro</title>
-<link>https://www.wwoz.org/events/1377101</link>
-<guid isPermaLink="false">1f4d5ab871a9525527b28919aaca89f9084f7e91</guid>
-<description>Venue: Fausto's Italian Bistro | Date: Thursday, August 20 | Time: 6:30pm</description>
-<pubDate>Thu, 20 Aug 2026 18:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Josh Benitez — Favela Chic</title>
-<link>https://www.wwoz.org/events/1377766</link>
-<guid isPermaLink="false">633a985d969e0c74a60ed198f37c44ae776d6919</guid>
-<description>Venue: Favela Chic | Date: Thursday, August 20 | Time: 8:00pm</description>
-<pubDate>Thu, 20 Aug 2026 20:00:00 +0000</pubDate>
+<title>La Fiesta del Verano ft. Magic Juan — Fillmore, The</title>
+<link>https://www.wwoz.org/events/1371756</link>
+<guid isPermaLink="false">d1a6fb804f8f81e45593ded77ae5583768317d01</guid>
+<description>Venue: Fillmore, The | Date: Friday, August 21 | Time: 10:00pm</description>
+<pubDate>Fri, 21 Aug 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Richard "Piano" Scott — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1371361</link>
-<guid isPermaLink="false">8808cdc5111f798e24adc509e8e723598b310351</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Thursday, August 20 | Time: 12:00pm</description>
-<pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1371441</link>
+<guid isPermaLink="false">8b2f9b5b0528cac9b9276b41c387ff456758fe1e</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Friday, August 21 | Time: 12:30pm</description>
+<pubDate>Fri, 21 Aug 2026 12:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Doyle Cooper — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1371381</link>
-<guid isPermaLink="false">10890a74b6e3c36e1a44c499ccd09b8beb0d7ac5</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Thursday, August 20 | Time: 2:00pm</description>
-<pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
+<title>Owen Callahan Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1371461</link>
+<guid isPermaLink="false">33b9678438226d4b5959b0389f389d6af0f7f97d</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Friday, August 21 | Time: 2:30pm</description>
+<pubDate>Fri, 21 Aug 2026 14:30:00 +0000</pubDate>
 </item>
 <item>
-<title>John Saavedra Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1371401</link>
-<guid isPermaLink="false">8ff6b45ab9d2d77a9b37f06426ee68094a2a0907</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Thursday, August 20 | Time: 5:00pm</description>
-<pubDate>Thu, 20 Aug 2026 17:00:00 +0000</pubDate>
+<title>Sam Lobley Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1371481</link>
+<guid isPermaLink="false">962730172a198ee219c442fc33e47d55227de390</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Friday, August 21 | Time: 6:00pm</description>
+<pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Fritzel's All Star Band with Kevin Ray Clark — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1371421</link>
-<guid isPermaLink="false">73ef24e4c338aa47be5f04119751913d1f03bc8d</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Thursday, August 20 | Time: 8:00pm</description>
-<pubDate>Thu, 20 Aug 2026 20:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1371501</link>
+<guid isPermaLink="false">88c97099cd0db914b9626b3d2bfe751c3448e580</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Friday, August 21 | Time: 9:00pm</description>
+<pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>THEBROSFRESH + PellowTalk + Congress the Band — Gasa Gasa</title>
-<link>https://www.wwoz.org/events/1369541</link>
-<guid isPermaLink="false">6feefd7d6f0dbd3a7b5d9330666fae693c1fea92</guid>
-<description>Venue: Gasa Gasa | Date: Thursday, August 20 | Time: 9:00pm</description>
-<pubDate>Thu, 20 Aug 2026 21:00:00 +0000</pubDate>
+<title>West End Motel + Woorms + The Abusements — Gasa Gasa</title>
+<link>https://www.wwoz.org/events/1369546</link>
+<guid isPermaLink="false">e5de18a347c09680eaefb1f223dc4e278d9e7460</guid>
+<description>Venue: Gasa Gasa | Date: Friday, August 21 | Time: 9:00pm</description>
+<pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Saskia Says! — Good Measure at The Barnett</title>
-<link>https://www.wwoz.org/events/1369666</link>
-<guid isPermaLink="false">152ac1b27c5c3b17e0092ad3ef5670cb49ea2e1c</guid>
-<description>Venue: Good Measure at The Barnett | Date: Thursday, August 20 | Time: 8:00pm</description>
-<pubDate>Thu, 20 Aug 2026 20:00:00 +0000</pubDate>
+<title>Gov't Majik — Good Measure at The Barnett</title>
+<link>https://www.wwoz.org/events/1369671</link>
+<guid isPermaLink="false">4fee0aac4ccc6b2ae971907257fb385462072f51</guid>
+<description>Venue: Good Measure at The Barnett | Date: Friday, August 21 | Time: 9:00pm</description>
+<pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Rockin’1000 Jam — Hard Rock Cafe</title>
-<link>https://www.wwoz.org/events/1376881</link>
-<guid isPermaLink="false">373016dd4932e45936359242a3465a324f529111</guid>
-<description>Venue: Hard Rock Cafe | Date: Thursday, August 20 | Time: 8:00pm</description>
-<pubDate>Thu, 20 Aug 2026 20:00:00 +0000</pubDate>
+<title>DarkLounge Ministries — Holy Diver</title>
+<link>https://www.wwoz.org/events/1372496</link>
+<guid isPermaLink="false">c5b82d37e84694f06cedb6ecbadf79c778cdc902</guid>
+<description>Venue: Holy Diver | Date: Friday, August 21 | Time: 8:00pm</description>
+<pubDate>Fri, 21 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Pogo Mojo Underground Dance Party with DJ Chrischarge — Holy Diver</title>
-<link>https://www.wwoz.org/events/1369696</link>
-<guid isPermaLink="false">5f583453a168379fc764f6aeccdfafc4ee4ae3ec</guid>
-<description>Venue: Holy Diver | Date: Thursday, August 20 | Time: 9:00pm</description>
-<pubDate>Thu, 20 Aug 2026 21:00:00 +0000</pubDate>
+<title>Badzy Record Release Party — Holy Diver</title>
+<link>https://www.wwoz.org/events/1372531</link>
+<guid isPermaLink="false">39b6a54d31b6a408246de79c0865b7cedc19d0dd</guid>
+<description>Venue: Holy Diver | Date: Friday, August 21 | Time: 10:00pm</description>
+<pubDate>Fri, 21 Aug 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Manny Arteaga (..of the Lunch Truck Specials Band) — La Carreta - Magazine St.</title>
-<link>https://www.wwoz.org/events/1370976</link>
-<guid isPermaLink="false">2af777007d2c9d53e09b22dad8c8a62a5a4225ea</guid>
-<description>Venue: La Carreta - Magazine St. | Date: Thursday, August 20 | Time: 6:00pm</description>
-<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<title>Patrick Cooper — Kerry Irish Pub</title>
+<link>https://www.wwoz.org/events/1370386</link>
+<guid isPermaLink="false">766081666c6852ae845f8e79970ecc12f4adec07</guid>
+<description>Venue: Kerry Irish Pub | Date: Friday, August 21 | Time: 5:00pm</description>
+<pubDate>Fri, 21 Aug 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Soul Rebels — Le Bon Temps Roulé</title>
-<link>https://www.wwoz.org/events/1369036</link>
-<guid isPermaLink="false">4ffccd985a0994d3fa6bf2df83da3bfc83b20b4f</guid>
-<description>Venue: Le Bon Temps Roulé | Date: Thursday, August 20 | Time: 11:00pm</description>
-<pubDate>Thu, 20 Aug 2026 23:00:00 +0000</pubDate>
+<title>Personal Space — Le Bon Temps Roulé</title>
+<link>https://www.wwoz.org/events/1356831</link>
+<guid isPermaLink="false">df8a5bda507245a08b790f8d6d3b8dc76c189994</guid>
+<description>Venue: Le Bon Temps Roulé | Date: Friday, August 21 | Time: 11:00pm</description>
+<pubDate>Fri, 21 Aug 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Champagniacs — Maison, The</title>
-<link>https://www.wwoz.org/events/1376586</link>
-<guid isPermaLink="false">b4f3db06c7f239eb9eb96d8b02ce7be0ac7b78f1</guid>
-<description>Venue: Maison, The | Date: Thursday, August 20 | Time: 4:30pm</description>
-<pubDate>Thu, 20 Aug 2026 16:30:00 +0000</pubDate>
+<title>Manny Artega — Le Ponce</title>
+<link>https://www.wwoz.org/events/1379121</link>
+<guid isPermaLink="false">217f758db305697519f14f367869cf54b15fd0f5</guid>
+<description>Venue: Le Ponce | Date: Friday, August 21 | Time: 8:00am</description>
+<pubDate>Fri, 21 Aug 2026 08:00:00 +0000</pubDate>
 </item>
 <item>
-<title>St. Julien X — Maison, The</title>
-<link>https://www.wwoz.org/events/1376636</link>
-<guid isPermaLink="false">8214ab90edafbcd37092a596152f17c51d01b03a</guid>
-<description>Venue: Maison, The | Date: Thursday, August 20 | Time: 8:30pm</description>
-<pubDate>Thu, 20 Aug 2026 20:30:00 +0000</pubDate>
+<title>Raphael Bas — Lobby Lounge at JW Marriott</title>
+<link>https://www.wwoz.org/events/1361721</link>
+<guid isPermaLink="false">e2bef7923d496aa00c5973a3c7f625cb11869c22</guid>
+<description>Venue: Lobby Lounge at JW Marriott | Date: Friday, August 21 | Time: 6:00pm</description>
+<pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Danny Rubio &amp; the Catahoula Music Company ft. Jack Pritchett — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1364026</link>
-<guid isPermaLink="false">3d32116c28d0504708216d72588e81779616d5db</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Thursday, August 20 | Time: 8:00pm</description>
-<pubDate>Thu, 20 Aug 2026 20:00:00 +0000</pubDate>
+<title>Shotgun Jazz Band — Maison, The</title>
+<link>https://www.wwoz.org/events/1376466</link>
+<guid isPermaLink="false">dce0997c3cf60f5745ce826b21ec943931bd39e0</guid>
+<description>Venue: Maison, The | Date: Friday, August 21 | Time: 5:00pm</description>
+<pubDate>Fri, 21 Aug 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Booker &amp; Beyond Piano Series with Ross Hoppe — Maple Leaf</title>
-<link>https://www.wwoz.org/events/1378731</link>
-<guid isPermaLink="false">e4850fae25915f8cbad33168d63c33117d8dcf86</guid>
-<description>Venue: Maple Leaf | Date: Thursday, August 20 | Time: 8:00pm</description>
-<pubDate>Thu, 20 Aug 2026 20:00:00 +0000</pubDate>
+<title>The Kazzettes — Maison, The</title>
+<link>https://www.wwoz.org/events/1376581</link>
+<guid isPermaLink="false">f1153864b77bb871052ad6d174cb2655290212ec</guid>
+<description>Venue: Maison, The | Date: Friday, August 21 | Time: 9:00pm</description>
+<pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Johnny Vidacovich Trio ft. Ashlin Parker &amp; Joe Ashlar — Maple Leaf</title>
-<link>https://www.wwoz.org/events/1378736</link>
-<guid isPermaLink="false">4ac30e28656c9ce1cebab047e908b887b631e87a</guid>
-<description>Venue: Maple Leaf | Date: Thursday, August 20 | Time: 8:00pm</description>
-<pubDate>Thu, 20 Aug 2026 20:00:00 +0000</pubDate>
+<title>The Leroy Marshall Band — Maison Bourbon Jazz Club</title>
+<link>https://www.wwoz.org/events/1362691</link>
+<guid isPermaLink="false">1fa3a39e88373112acf97d89515950f546a9a5db</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Friday, August 21 | Time: 7:15pm</description>
+<pubDate>Fri, 21 Aug 2026 19:15:00 +0000</pubDate>
 </item>
 <item>
-<title>The Triad — May Baily's Place</title>
-<link>https://www.wwoz.org/events/1377036</link>
-<guid isPermaLink="false">81850f98aae3cb2f2e8620553316259b563fb5c1</guid>
-<description>Venue: May Baily's Place | Date: Thursday, August 20 | Time: 8:30pm</description>
-<pubDate>Thu, 20 Aug 2026 20:30:00 +0000</pubDate>
+<title>Gavin Eckler Organ Trio — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1378761</link>
+<guid isPermaLink="false">82ecb23fef6b9d150de34ba84d19496e6d153a7a</guid>
+<description>Venue: Maple Leaf | Date: Friday, August 21 | Time: 8:00pm</description>
+<pubDate>Fri, 21 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Steve Pistorius &amp; His Porch Pals — New Orleans Jazz National Historical Park</title>
-<link>https://www.wwoz.org/events/1375251</link>
-<guid isPermaLink="false">66acab37130a0000729933ee35293ed10bf6937b</guid>
-<description>Venue: New Orleans Jazz National Historical Park | Date: Thursday, August 20 | Time: 3:00pm</description>
-<pubDate>Thu, 20 Aug 2026 15:00:00 +0000</pubDate>
+<title>Bayou Manouche — May Baily's Place</title>
+<link>https://www.wwoz.org/events/1377031</link>
+<guid isPermaLink="false">0b0c2ba345a2d7769f8f039810f089a3144bd88c</guid>
+<description>Venue: May Baily's Place | Date: Friday, August 21 | Time: 8:30pm</description>
+<pubDate>Fri, 21 Aug 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Kristin Diable — Ogden Museum of Southern Art</title>
-<link>https://www.wwoz.org/events/1371896</link>
-<guid isPermaLink="false">c8cb979e5c9bc46e1ac9a37e6d92779a77de2877</guid>
-<description>Venue: Ogden Museum of Southern Art | Date: Thursday, August 20 | Time: 6:00pm</description>
-<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<title>Saskia Walker, Marcello Gleason &amp; Sean Clark — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1375256</link>
+<guid isPermaLink="false">2e381561b679ec0530d556c32e203437f3a2bc57</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Friday, August 21 | Time: 3:00pm</description>
+<pubDate>Fri, 21 Aug 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Victoria Amato &amp; Ben Michaels + Jim Lockwood &amp; Lisa Bittick-Lowe — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1376751</link>
-<guid isPermaLink="false">4bf51150cd3f0934c52ff2863cb408fcb8974894</guid>
-<description>Venue: Pat O'Brien's | Date: Thursday, August 20 | Time: 4:00pm</description>
-<pubDate>Thu, 20 Aug 2026 16:00:00 +0000</pubDate>
+<title>Danny Ray &amp; the Electric Barrelhouse — Old Point Bar</title>
+<link>https://www.wwoz.org/events/1376656</link>
+<guid isPermaLink="false">77613be46aa8a17e0faea895b4bccc60afc520c2</guid>
+<description>Venue: Old Point Bar | Date: Friday, August 21 | Time: 9:00pm</description>
+<pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Ted Hefko — Paulie's</title>
-<link>https://www.wwoz.org/events/1373866</link>
-<guid isPermaLink="false">bcbaecd8033d932a523e82e15070fba93b893a1d</guid>
-<description>Venue: Paulie's | Date: Thursday, August 20 | Time: 6:00pm</description>
-<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<title>Victoria Amato + Jim Lockwood — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1376756</link>
+<guid isPermaLink="false">ac901a85637fc1edd1c4aa2d86b875fc1dc314ac</guid>
+<description>Venue: Pat O'Brien's | Date: Friday, August 21 | Time: 1:00pm</description>
+<pubDate>Fri, 21 Aug 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Da Lovebirds: Robin Barnes &amp; Pat Casey — Peacock Room at the Kimpton Hotel Fontenot</title>
-<link>https://www.wwoz.org/events/1320501</link>
-<guid isPermaLink="false">8e89d817c14d70819acea0fc3871e91277f8208e</guid>
-<description>Venue: Peacock Room at the Kimpton Hotel Fontenot | Date: Thursday, August 20 | Time: 8:00pm</description>
-<pubDate>Thu, 20 Aug 2026 20:00:00 +0000</pubDate>
+<title>Ben Michaels &amp; Hannah Kreiger-Benson + Matt Hayden &amp; Lisa Bittick-Lowe — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1376761</link>
+<guid isPermaLink="false">96f75b6e9598245b807b010815fb58567693bf19</guid>
+<description>Venue: Pat O'Brien's | Date: Friday, August 21 | Time: 6:00pm</description>
+<pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>John Royen — Polo Club at The Windsor Court, The</title>
-<link>https://www.wwoz.org/events/1357706</link>
-<guid isPermaLink="false">d708f0e45d4218c94bfa6e3626edbea489386deb</guid>
-<description>Venue: Polo Club at The Windsor Court, The | Date: Thursday, August 20 | Time: 5:30pm</description>
-<pubDate>Thu, 20 Aug 2026 17:30:00 +0000</pubDate>
+<title>David Boeddinghaus — Polo Club at The Windsor Court, The</title>
+<link>https://www.wwoz.org/events/1357876</link>
+<guid isPermaLink="false">110603d03a18d80e793fa0bfa13b4ef2b6f69af2</guid>
+<description>Venue: Polo Club at The Windsor Court, The | Date: Friday, August 21 | Time: 5:30pm</description>
+<pubDate>Fri, 21 Aug 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>The Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1370236</link>
-<guid isPermaLink="false">20585214262db84d89d31fe64da8ce071adfbfad</guid>
-<description>Venue: Preservation Hall | Date: Thursday, August 20 | Time: 5:00pm</description>
-<pubDate>Thu, 20 Aug 2026 17:00:00 +0000</pubDate>
+<title>Bean N' The Boys — Polo Club at The Windsor Court, The</title>
+<link>https://www.wwoz.org/events/1357986</link>
+<guid isPermaLink="false">be360784111b0e5237f2bab60e83299860e6266b</guid>
+<description>Venue: Polo Club at The Windsor Court, The | Date: Friday, August 21 | Time: 9:00pm</description>
+<pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1370261</link>
-<guid isPermaLink="false">3307fc74dc3dbc35b0dbf29789f58def8b9a19dd</guid>
-<description>Venue: Preservation Hall | Date: Thursday, August 20 | Time: 6:15pm</description>
-<pubDate>Thu, 20 Aug 2026 18:15:00 +0000</pubDate>
+<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1370326</link>
+<guid isPermaLink="false">91c2ff4fcd981e76707d2ff7c83a593f2b833d65</guid>
+<description>Venue: Preservation Hall | Date: Friday, August 21 | Time: 5:00pm</description>
+<pubDate>Fri, 21 Aug 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1370276</link>
-<guid isPermaLink="false">3b357563ff4aa93853edfedd1ca1c56fd15ea73b</guid>
-<description>Venue: Preservation Hall | Date: Thursday, August 20 | Time: 7:30pm</description>
-<pubDate>Thu, 20 Aug 2026 19:30:00 +0000</pubDate>
+<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1369936</link>
+<guid isPermaLink="false">d0ea77f2ccd50dbd93ea5afe86f9d192b21835c4</guid>
+<description>Venue: Preservation Hall | Date: Friday, August 21 | Time: 6:15pm</description>
+<pubDate>Fri, 21 Aug 2026 18:15:00 +0000</pubDate>
 </item>
 <item>
-<title>The Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1370296</link>
-<guid isPermaLink="false">75f00ad531a713e821c4ee9c429f65d6987aa242</guid>
-<description>Venue: Preservation Hall | Date: Thursday, August 20 | Time: 8:45pm</description>
-<pubDate>Thu, 20 Aug 2026 20:45:00 +0000</pubDate>
+<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1370321</link>
+<guid isPermaLink="false">9e904587c92e2328e60210c9f80f078b409c9e96</guid>
+<description>Venue: Preservation Hall | Date: Friday, August 21 | Time: 7:30pm</description>
+<pubDate>Fri, 21 Aug 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>LAN Party Featuring DJ DPAD — Santos Bar</title>
-<link>https://www.wwoz.org/events/1376036</link>
-<guid isPermaLink="false">5c316ac3def95fdb1e782f3fa36ca101c31df9e5</guid>
-<description>Venue: Santos Bar | Date: Thursday, August 20 | Time: 9:00pm</description>
-<pubDate>Thu, 20 Aug 2026 21:00:00 +0000</pubDate>
+<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1370331</link>
+<guid isPermaLink="false">dfb6937d46e58c65a9864ad2ae42286768170ac2</guid>
+<description>Venue: Preservation Hall | Date: Friday, August 21 | Time: 8:45pm</description>
+<pubDate>Fri, 21 Aug 2026 20:45:00 +0000</pubDate>
 </item>
 <item>
-<title>The Well + Moon Destroys + High Black River — Siberia</title>
-<link>https://www.wwoz.org/events/1367651</link>
-<guid isPermaLink="false">6e65be28e571f5ce1537e4377f6aac765ac5ba06</guid>
-<description>Venue: Siberia | Date: Thursday, August 20 | Time: 9:00pm</description>
-<pubDate>Thu, 20 Aug 2026 21:00:00 +0000</pubDate>
+<title>Promiscuous - A 2000's Club Bangers Throwbacks Party — Rabbit Hole, The</title>
+<link>https://www.wwoz.org/events/1369426</link>
+<guid isPermaLink="false">389c7c39eba6ea0691c61607b7a258c094aa6aaa</guid>
+<description>Venue: Rabbit Hole, The | Date: Friday, August 21 | Time: 10:00pm</description>
+<pubDate>Fri, 21 Aug 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Karen Shiraishi Quartet — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1376266</link>
-<guid isPermaLink="false">8fc09732e645deb69fe90cc3f1334b4df0e87e07</guid>
-<description>Venue: Snug Harbor | Date: Thursday, August 20 | Time: 7:30pm</description>
-<pubDate>Thu, 20 Aug 2026 19:30:00 +0000</pubDate>
+<title>Victoria Doutón Trio — San Lorenzo Restaurant at Hotel St. Vincent</title>
+<link>https://www.wwoz.org/events/1376836</link>
+<guid isPermaLink="false">c8471bba056f4f8413e07c0114c68506f7a87760</guid>
+<description>Venue: San Lorenzo Restaurant at Hotel St. Vincent | Date: Friday, August 21 | Time: 12:00pm</description>
+<pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Karen Shiraishi Quartet — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1376261</link>
-<guid isPermaLink="false">848966dae56a384133ea496c18c6dedcdbd97222</guid>
-<description>Venue: Snug Harbor | Date: Thursday, August 20 | Time: 9:30pm</description>
-<pubDate>Thu, 20 Aug 2026 21:30:00 +0000</pubDate>
+<title>Dipsh*t Fest Night 1: B.O.A., Savage Attack, Miss Amerikan Vampyre, Banana Creems, Boots On the Ground &amp; Trash Night — Santos Bar</title>
+<link>https://www.wwoz.org/events/1376041</link>
+<guid isPermaLink="false">25b9681cb166549a921f167edd30f5f8c9650b34</guid>
+<description>Venue: Santos Bar | Date: Friday, August 21 | Time: 9:00pm</description>
+<pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Brett Gallo Jazz Band — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1378296</link>
-<guid isPermaLink="false">d3dddf1be6c3a7d5d432c91183e0acdf169233a4</guid>
-<description>Venue: Spotted Cat | Date: Thursday, August 20 | Time: 2:00pm</description>
-<pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
+<title>Craig Cortello, The “Canine Crooner” — Second Line Brewing</title>
+<link>https://www.wwoz.org/events/1371931</link>
+<guid isPermaLink="false">454f7fc1c7bd0284b300dd131075d97226f544ff</guid>
+<description>Venue: Second Line Brewing | Date: Friday, August 21 | Time: 6:00pm</description>
+<pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jenavieve Cooke &amp; the Winding Boys — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1378366</link>
-<guid isPermaLink="false">170d544fbcace5289a6b0ac85dfd4e08b8c7723f</guid>
-<description>Venue: Spotted Cat | Date: Thursday, August 20 | Time: 6:00pm</description>
-<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<title>The Living Room: A Songwriter Showcase ft. Paul Faith &amp; Friends — Skeeta Hawk Brewing</title>
+<link>https://www.wwoz.org/events/1365516</link>
+<guid isPermaLink="false">cf6889e9e4129d10d3f3ceb2a52465ffe005c459</guid>
+<description>Venue: Skeeta Hawk Brewing | Date: Friday, August 21 | Time: 6:00pm</description>
+<pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jumbo Shrimp Jazz Band — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1378346</link>
-<guid isPermaLink="false">70ddfa2e9d103898135f76fce2b1db79dbc82b57</guid>
-<description>Venue: Spotted Cat | Date: Thursday, August 20 | Time: 10:00pm</description>
-<pubDate>Thu, 20 Aug 2026 22:00:00 +0000</pubDate>
+<title>Victor Goines Quartet — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1376276</link>
+<guid isPermaLink="false">61c23b454878d7930a011209b8b777a325cee566</guid>
+<description>Venue: Snug Harbor | Date: Friday, August 21 | Time: 7:30pm</description>
+<pubDate>Fri, 21 Aug 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Victor Goines Quartet — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1376271</link>
+<guid isPermaLink="false">9ec865b0c0326bbab1bb8229eb90c790536aa4bd</guid>
+<description>Venue: Snug Harbor | Date: Friday, August 21 | Time: 9:30pm</description>
+<pubDate>Fri, 21 Aug 2026 21:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Paradise Jazz Band — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1378391</link>
+<guid isPermaLink="false">9ac67702d7134d76dc59aa0e171b7ef5d8b573bb</guid>
+<description>Venue: Spotted Cat | Date: Friday, August 21 | Time: 2:00pm</description>
+<pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>New Orleans Cottonmouth Kings — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1378376</link>
+<guid isPermaLink="false">5b30f1c2f89ae5489214394bba90b718cb7b3b76</guid>
+<description>Venue: Spotted Cat | Date: Friday, August 21 | Time: 6:00pm</description>
+<pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Sporty's Brass Band — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1379021</link>
+<guid isPermaLink="false">025d021736125c20d4eb839f8da1fe3a08cca8a7</guid>
+<description>Venue: Spotted Cat | Date: Friday, August 21 | Time: 10:00pm</description>
+<pubDate>Fri, 21 Aug 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1374706</link>
-<guid isPermaLink="false">d84335db1398cc824d0a05f712a9ae50595e18ea</guid>
-<description>Venue: Steamboat Natchez | Date: Thursday, August 20 | Time: 11:00am</description>
-<pubDate>Thu, 20 Aug 2026 11:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1374681</link>
+<guid isPermaLink="false">9a2eae10f9f7c82bcfca1ca3e81d6cfc29fb2224</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, August 21 | Time: 11:00am</description>
+<pubDate>Fri, 21 Aug 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1374906</link>
-<guid isPermaLink="false">985d156608ece51ce652551d3c7de20d2ce3afd8</guid>
-<description>Venue: Steamboat Natchez | Date: Thursday, August 20 | Time: 2:00pm</description>
-<pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1374926</link>
+<guid isPermaLink="false">bff2844dccc1eb45a45107764c4b6484a22d1c11</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, August 21 | Time: 2:00pm</description>
+<pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dukes of Dixieland — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1374621</link>
-<guid isPermaLink="false">a7cf094579cbf28940ac4295e9390b69a6a96f02</guid>
-<description>Venue: Steamboat Natchez | Date: Thursday, August 20 | Time: 6:00pm</description>
-<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1374631</link>
+<guid isPermaLink="false">c1a66e176f9187ee505533901322c25f9dcedf09</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, August 21 | Time: 6:00pm</description>
+<pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Corey Henry &amp; The Treme Funktet — Vaughan's Lounge</title>
-<link>https://www.wwoz.org/events/1354761</link>
-<guid isPermaLink="false">645b5ad6d21946a2b553bc3c4af88145697829f9</guid>
-<description>Venue: Vaughan's Lounge | Date: Thursday, August 20 | Time: 10:30pm</description>
-<pubDate>Thu, 20 Aug 2026 22:30:00 +0000</pubDate>
+<title>Free Fridays Concert Series ft. Steve Kelly + Zoomst — Tipitina's</title>
+<link>https://www.wwoz.org/events/1335711</link>
+<guid isPermaLink="false">451d2e49b20921a86100a24382c44ab8b9c032ba</guid>
+<description>Venue: Tipitina's | Date: Friday, August 21 | Time: 9:00pm</description>
+<pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Rob Wagner, Klaas Hübner, Zach Lange &amp; More! — Zeitgeist Multi-Disciplinary Arts Center</title>
-<link>https://www.wwoz.org/events/1378961</link>
-<guid isPermaLink="false">6b61ca83eb2eda0854b373f624378d0ba2079a13</guid>
-<description>Venue: Zeitgeist Multi-Disciplinary Arts Center | Date: Thursday, August 20 | Time: 8:00pm</description>
-<pubDate>Thu, 20 Aug 2026 20:00:00 +0000</pubDate>
+<title>Nell Simmons-Bradley — Virgin Hotels New Orleans</title>
+<link>https://www.wwoz.org/events/1378581</link>
+<guid isPermaLink="false">b15b79665b57799b1943ba04434538cda6c1c67e</guid>
+<description>Venue: Virgin Hotels New Orleans | Date: Friday, August 21 | Time: 7:00pm</description>
+<pubDate>Fri, 21 Aug 2026 19:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
