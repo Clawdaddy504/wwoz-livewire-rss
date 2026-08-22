@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 22 Aug 2026 18:47:54 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 21:34:27 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>David Doucet — .Streaming Only</title>
@@ -132,6 +132,13 @@
 <guid isPermaLink="false">33dcdb572bd250d5bb4f48553a45c09232760b6e</guid>
 <description>Venue: Bourbon Square Jazz Bar | Date: Saturday, August 22 | Time: 12:00pm</description>
 <pubDate>Sat, 22 Aug 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Sambalaya - A Benefit for the Capoeira &amp; Brazilian Cultural Arts Center — Broadside (Outdoor Stage)</title>
+<link>https://www.wwoz.org/events/1380451</link>
+<guid isPermaLink="false">7b6d09b30be94d803f0c25f9584a006a0899d978</guid>
+<description>Venue: Broadside (Outdoor Stage) | Date: Saturday, August 22 | Time: 6:00pm</description>
+<pubDate>Sat, 22 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Buffapalooza with James Rose, Christian Coleman, Chris Cubed &amp; More! — Buffa's</title>
