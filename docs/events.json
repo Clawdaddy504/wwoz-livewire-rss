@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-08-27T14:11:22.778778+00:00",
-  "count": 69,
+  "generated_at": "2026-08-28T00:24:54.940887+00:00",
+  "count": 70,
   "events": [
     {
       "id": "8d039a64c792905ab9447f9f27efaae2b498f4d1",
@@ -795,6 +795,18 @@
       "time_text": "6:00pm",
       "start": "2026-08-27T18:00:00+00:00",
       "description": "Venue: Steamboat Natchez | Date: Thursday, August 27 | Time: 6:00pm"
+    },
+    {
+      "id": "7fc2830362678ce159967c1faaa05bf53e98a17a",
+      "source": "wwoz",
+      "title": "Johanna Rose",
+      "venue": "Three Muses",
+      "venue_url": "https://www.wwoz.org/organizations/three-muses",
+      "event_url": "https://www.wwoz.org/events/1382231",
+      "date_text": "Thursday, August 27",
+      "time_text": "7:30pm",
+      "start": "2026-08-27T19:30:00+00:00",
+      "description": "Venue: Three Muses | Date: Thursday, August 27 | Time: 7:30pm"
     },
     {
       "id": "1ee66752c5f2aee8c547c7de4cdc511ac9bdf0f2",

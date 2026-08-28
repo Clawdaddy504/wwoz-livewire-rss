@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 27 Aug 2026 14:11:22 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Aug 2026 00:24:54 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy — 21st Amendment</title>
@@ -468,6 +468,13 @@
 <guid isPermaLink="false">54ece4ba52d10334fc7b28a769a3fc2f9cc5a120</guid>
 <description>Venue: Steamboat Natchez | Date: Thursday, August 27 | Time: 6:00pm</description>
 <pubDate>Thu, 27 Aug 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Johanna Rose — Three Muses</title>
+<link>https://www.wwoz.org/events/1382231</link>
+<guid isPermaLink="false">7fc2830362678ce159967c1faaa05bf53e98a17a</guid>
+<description>Venue: Three Muses | Date: Thursday, August 27 | Time: 7:30pm</description>
+<pubDate>Thu, 27 Aug 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Patrick Cooper &amp; Mark Carroll — True South</title>
