@@ -5,686 +5,455 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 29 Aug 2026 23:18:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 05:23:21 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
-<title>David Doucet — .Streaming Only</title>
-<link>https://www.wwoz.org/events/1378031</link>
-<guid isPermaLink="false">82dea58b6124550e2c6af74bd836a9a21a9ad6c7</guid>
-<description>Venue: .Streaming Only | Date: Saturday, August 29 | Time: 12:00pm</description>
-<pubDate>Sat, 29 Aug 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>John Lisi &amp; Delta Funk — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1375396</link>
-<guid isPermaLink="false">017dc5e13479826f0cfc4e7a637c06c6e340f6c7</guid>
-<description>Venue: 21st Amendment | Date: Saturday, August 29 | Time: 3:00pm</description>
-<pubDate>Sat, 29 Aug 2026 15:00:00 +0000</pubDate>
+<title>Lobelia Jazz Band — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1375406</link>
+<guid isPermaLink="false">f674a096528d7e0f80480de2b5028320d8478499</guid>
+<description>Venue: 21st Amendment | Date: Sunday, August 30 | Time: 3:00pm</description>
+<pubDate>Sun, 30 Aug 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Big Mike &amp; the R&amp;B Kings — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1375401</link>
-<guid isPermaLink="false">46c667a022691133ce926863427ac0e1fe5b71a7</guid>
-<description>Venue: 21st Amendment | Date: Saturday, August 29 | Time: 8:00pm</description>
-<pubDate>Sat, 29 Aug 2026 20:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1375411</link>
+<guid isPermaLink="false">1d5d51e38703380bc9c1e693564f96717ad5a2eb</guid>
+<description>Venue: 21st Amendment | Date: Sunday, August 30 | Time: 8:00pm</description>
+<pubDate>Sun, 30 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Team Players — Avenue Pub</title>
-<link>https://www.wwoz.org/events/1370366</link>
-<guid isPermaLink="false">8cbbb235b479f3224999bfe8bb49d77a5459d628</guid>
-<description>Venue: Avenue Pub | Date: Saturday, August 29 | Time: 9:00pm</description>
-<pubDate>Sat, 29 Aug 2026 21:00:00 +0000</pubDate>
+<title>Sunday Swing with Old Growth Jazz Band — AllWays Lounge</title>
+<link>https://www.wwoz.org/events/1372971</link>
+<guid isPermaLink="false">fa4b556b9b45025abbe70ab33fe187e1805b1249</guid>
+<description>Venue: AllWays Lounge | Date: Sunday, August 30 | Time: 8:00pm</description>
+<pubDate>Sun, 30 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Raphael Bas — Bacchanal (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1373316</link>
-<guid isPermaLink="false">50655fa328ffc1a1648d408a0f62c35216080fc9</guid>
-<description>Venue: Bacchanal (OUTDOORS) | Date: Saturday, August 29 | Time: 7:00pm</description>
-<pubDate>Sat, 29 Aug 2026 19:00:00 +0000</pubDate>
+<title>T Marie Duo — Apple Barrel</title>
+<link>https://www.wwoz.org/events/1360036</link>
+<guid isPermaLink="false">da5b6620ff2fc5234647159e0bc5fe52cbcf4234</guid>
+<description>Venue: Apple Barrel | Date: Sunday, August 30 | Time: 6:30pm</description>
+<pubDate>Sun, 30 Aug 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Mark Appleford — Bamboula's - Festival Hall</title>
-<link>https://www.wwoz.org/events/1359951</link>
-<guid isPermaLink="false">3406b2362464a5e4e52efdaf4dcaf6e46284d74b</guid>
-<description>Venue: Bamboula's - Festival Hall | Date: Saturday, August 29 | Time: 7:00pm</description>
-<pubDate>Sat, 29 Aug 2026 19:00:00 +0000</pubDate>
+<title>Noah Young — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1373301</link>
+<guid isPermaLink="false">7a3791aeb2bd7d52c80bbc3198380f3136deece6</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Sunday, August 30 | Time: 7:00pm</description>
+<pubDate>Sun, 30 Aug 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Matthew Looney — Banks Street Bar</title>
-<link>https://www.wwoz.org/events/1378971</link>
-<guid isPermaLink="false">b2f423b4e24790ca3dac19ccfcff9c7846dbaaa3</guid>
-<description>Venue: Banks Street Bar | Date: Saturday, August 29 | Time: 8:00pm</description>
-<pubDate>Sat, 29 Aug 2026 20:00:00 +0000</pubDate>
+<title>James McClaskey &amp; the Rhythm Band — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1371846</link>
+<guid isPermaLink="false">8118bbc801853f1e7326d5333d900253580057b6</guid>
+<description>Venue: BJ's Lounge | Date: Sunday, August 30 | Time: 9:00pm</description>
+<pubDate>Sun, 30 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dirty Rotten Snake In The Grass + Stumps Duh Clown — Bar Redux</title>
-<link>https://www.wwoz.org/events/1378951</link>
-<guid isPermaLink="false">7f63d4761136a211e443598fd2ee488a2c6e0077</guid>
-<description>Venue: Bar Redux | Date: Saturday, August 29 | Time: 9:00pm</description>
-<pubDate>Sat, 29 Aug 2026 21:00:00 +0000</pubDate>
+<title>Tropical Weather — BMC</title>
+<link>https://www.wwoz.org/events/1375576</link>
+<guid isPermaLink="false">55bb38aa3ea71f5db8357a874cae680b5fd20ce6</guid>
+<description>Venue: BMC | Date: Sunday, August 30 | Time: 3:00pm</description>
+<pubDate>Sun, 30 Aug 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Malevitus + Norco Lapalco — BJ's Lounge</title>
-<link>https://www.wwoz.org/events/1371891</link>
-<guid isPermaLink="false">5ad5ff802ef52cc7ee8386a6cc88d24e8136521e</guid>
-<description>Venue: BJ's Lounge | Date: Saturday, August 29 | Time: 9:00pm</description>
-<pubDate>Sat, 29 Aug 2026 21:00:00 +0000</pubDate>
+<title>Lynn Drury — BMC</title>
+<link>https://www.wwoz.org/events/1375581</link>
+<guid isPermaLink="false">73c676457c3a1e99344a7e8875b42537431c43a6</guid>
+<description>Venue: BMC | Date: Sunday, August 30 | Time: 6:00pm</description>
+<pubDate>Sun, 30 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Caesar Brothers' FunkBox — Blue Nile</title>
-<link>https://www.wwoz.org/events/1375716</link>
-<guid isPermaLink="false">869114e76256476b8dfe89f3dc75c9b383b6ca1b</guid>
-<description>Venue: Blue Nile | Date: Saturday, August 29 | Time: 7:30pm</description>
-<pubDate>Sat, 29 Aug 2026 19:30:00 +0000</pubDate>
+<title>Mother Ruckus — BMC</title>
+<link>https://www.wwoz.org/events/1377401</link>
+<guid isPermaLink="false">d3021a2e95a75b801299bdbf670db8f3867c2756</guid>
+<description>Venue: BMC | Date: Sunday, August 30 | Time: 9:00pm</description>
+<pubDate>Sun, 30 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Afrobeat NOLA — Blue Nile</title>
-<link>https://www.wwoz.org/events/1375686</link>
-<guid isPermaLink="false">62d85a9806c640bba1f69e913bfeb75c8a957140</guid>
-<description>Venue: Blue Nile | Date: Saturday, August 29 | Time: 10:00pm</description>
-<pubDate>Sat, 29 Aug 2026 22:00:00 +0000</pubDate>
+<title>Shawan Rice — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1375986</link>
+<guid isPermaLink="false">2521a86fc04c5cb0f83c15a6c1a76a4a4fe65728</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Sunday, August 30 | Time: 4:00pm</description>
+<pubDate>Sun, 30 Aug 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jamey St. Pierre — B Mac's (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1381371</link>
-<guid isPermaLink="false">4f538bffc39d097850d97e4c77e4f469187b13a2</guid>
-<description>Venue: B Mac's (OUTDOORS) | Date: Saturday, August 29 | Time: 6:00pm</description>
-<pubDate>Sat, 29 Aug 2026 18:00:00 +0000</pubDate>
+<title>Justin Donovan — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1375906</link>
+<guid isPermaLink="false">b2b5af0ed2df151276fa7df77af4e4514714ce07</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Sunday, August 30 | Time: 8:00pm</description>
+<pubDate>Sun, 30 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Andre Lovett Band — BMC</title>
-<link>https://www.wwoz.org/events/1375566</link>
-<guid isPermaLink="false">76139c7a3064696c26ddf225d5c09a0f0a9a449b</guid>
-<description>Venue: BMC | Date: Saturday, August 29 | Time: 3:00pm</description>
-<pubDate>Sat, 29 Aug 2026 15:00:00 +0000</pubDate>
+<title>Keva Holiday — Bourbon Square Jazz Bar</title>
+<link>https://www.wwoz.org/events/1374481</link>
+<guid isPermaLink="false">7920ce8ea0df11a2949afc8bb72d040db1dd3ae8</guid>
+<description>Venue: Bourbon Square Jazz Bar | Date: Sunday, August 30 | Time: 3:00pm</description>
+<pubDate>Sun, 30 Aug 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sugar &amp; The Daddies — BMC</title>
-<link>https://www.wwoz.org/events/1373721</link>
-<guid isPermaLink="false">d2955ddb279c4ad78393afa902dd0ac1e49f0745</guid>
-<description>Venue: BMC | Date: Saturday, August 29 | Time: 6:00pm</description>
-<pubDate>Sat, 29 Aug 2026 18:00:00 +0000</pubDate>
+<title>Adam Pearce — Brass Monkey, The</title>
+<link>https://www.wwoz.org/events/1371726</link>
+<guid isPermaLink="false">2aa97daa03f72f69dd23b45675ffa44087c1be96</guid>
+<description>Venue: Brass Monkey, The | Date: Sunday, August 30 | Time: 7:00pm</description>
+<pubDate>Sun, 30 Aug 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Piano Man 'G' — BMC</title>
-<link>https://www.wwoz.org/events/1375571</link>
-<guid isPermaLink="false">6bc4d40552b61f6e15dcdd9eaf32c8b6226ce66d</guid>
-<description>Venue: BMC | Date: Saturday, August 29 | Time: 9:00pm</description>
-<pubDate>Sat, 29 Aug 2026 21:00:00 +0000</pubDate>
+<title>Some Like It Hot! — Buffa's</title>
+<link>https://www.wwoz.org/events/1372436</link>
+<guid isPermaLink="false">98cdd0a3aa505ecbddac9dcbc7b6ca615e16ff50</guid>
+<description>Venue: Buffa's | Date: Sunday, August 30 | Time: 11:00am</description>
+<pubDate>Sun, 30 Aug 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Brian Wingard — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1375856</link>
-<guid isPermaLink="false">e78913df89fe0da2e474f2220ec22ec4b5d47962</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Saturday, August 29 | Time: 4:00pm</description>
-<pubDate>Sat, 29 Aug 2026 16:00:00 +0000</pubDate>
+<title>John Lisi &amp; Delta Funk — Café Negril</title>
+<link>https://www.wwoz.org/events/1373176</link>
+<guid isPermaLink="false">38515694c5f387d0ee650718fc41866557456f15</guid>
+<description>Venue: Café Negril | Date: Sunday, August 30 | Time: 4:00pm</description>
+<pubDate>Sun, 30 Aug 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Blues Masters — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1376011</link>
-<guid isPermaLink="false">acd862039ac3ade08536e4d409c8c742549c0181</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Saturday, August 29 | Time: 8:00pm</description>
-<pubDate>Sat, 29 Aug 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>JAMericana Fête ft. Dan the Lion, Tomb of Nick Cage, Marc Stone &amp; More! — Broadside, The</title>
-<link>https://www.wwoz.org/events/1379506</link>
-<guid isPermaLink="false">eaddfb8622462b815b5c73c40e423ce7f9adf262</guid>
-<description>Venue: Broadside, The | Date: Saturday, August 29 | Time: 2:00pm</description>
-<pubDate>Sat, 29 Aug 2026 14:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Cutting Edge Conference Showcase : SpringBoard/WeGetArtists Presents (Multiple Artists) — Brutto Americano</title>
-<link>https://www.wwoz.org/events/1379496</link>
-<guid isPermaLink="false">674086f51241a4ce81ee02b44a52eb429a482893</guid>
-<description>Venue: Brutto Americano | Date: Saturday, August 29 | Time: 2:00pm</description>
-<pubDate>Sat, 29 Aug 2026 14:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Cutting Edge Conference Artist Showcase ft. Sean Collins, Paris Harris &amp; More! — Brutto Americano</title>
-<link>https://www.wwoz.org/events/1379501</link>
-<guid isPermaLink="false">aa8a8d4a0e3fbe58ee6d56791355bebc7ea0cf55</guid>
-<description>Venue: Brutto Americano | Date: Saturday, August 29 | Time: 8:15pm</description>
-<pubDate>Sat, 29 Aug 2026 20:15:00 +0000</pubDate>
-</item>
-<item>
-<title>Uriel — Buffa's</title>
-<link>https://www.wwoz.org/events/1375786</link>
-<guid isPermaLink="false">0d68718a66d7e6568a878fdc02b19a358e3c9e61</guid>
-<description>Venue: Buffa's | Date: Saturday, August 29 | Time: 8:00pm</description>
-<pubDate>Sat, 29 Aug 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Merlot Music &amp; Friends ft. Ronnie Coleman — Café Istanbul</title>
-<link>https://www.wwoz.org/events/1382071</link>
-<guid isPermaLink="false">cb375b1bf3d08a85737785d441b6840f7ba50f41</guid>
-<description>Venue: Café Istanbul | Date: Saturday, August 29 | Time: 7:00pm</description>
-<pubDate>Sat, 29 Aug 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>The Rumpshakers — Café Negril</title>
-<link>https://www.wwoz.org/events/1373106</link>
-<guid isPermaLink="false">5f695cbb6554da6d65b1bdc169a527c334986d58</guid>
-<description>Venue: Café Negril | Date: Saturday, August 29 | Time: 1:30pm</description>
-<pubDate>Sat, 29 Aug 2026 13:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Dana Abbott Band — Café Negril</title>
-<link>https://www.wwoz.org/events/1373121</link>
-<guid isPermaLink="false">403aef9954d6886e4c6591de5367c0a9bd8a5c3f</guid>
-<description>Venue: Café Negril | Date: Saturday, August 29 | Time: 6:00pm</description>
-<pubDate>Sat, 29 Aug 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Zena Moses &amp; Rue Fiya — Café Negril</title>
-<link>https://www.wwoz.org/events/1378941</link>
-<guid isPermaLink="false">763d4aa3644cc81742f5d55f2adb2b7fa38a766c</guid>
-<description>Venue: Café Negril | Date: Saturday, August 29 | Time: 10:00pm</description>
-<pubDate>Sat, 29 Aug 2026 22:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Lena Prima &amp; Her Band — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
-<link>https://www.wwoz.org/events/1365331</link>
-<guid isPermaLink="false">1489c95464ed189f11ae88bfd555f571ff4eb4e8</guid>
-<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Saturday, August 29 | Time: 9:00pm</description>
-<pubDate>Sat, 29 Aug 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Mid Summer Mardi Gras: KOOM After Party ft. Bakey's Brew + HollyRock — Carrollton Station</title>
-<link>https://www.wwoz.org/events/1372701</link>
-<guid isPermaLink="false">2ba94dacccdb5e00d2b251747fa152f451eef01a</guid>
-<description>Venue: Carrollton Station | Date: Saturday, August 29 | Time: 9:00pm</description>
-<pubDate>Sat, 29 Aug 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Gene’s Mini Music Machine — Crescent City Brewhouse</title>
-<link>https://www.wwoz.org/events/1380556</link>
-<guid isPermaLink="false">3c07a0a5d84b5e4abcc32e34dfa36515037d57b1</guid>
-<description>Venue: Crescent City Brewhouse | Date: Saturday, August 29 | Time: 12:00pm</description>
-<pubDate>Sat, 29 Aug 2026 12:00:00 +0000</pubDate>
+<title>Maurice Cade &amp; the E.S.S. Band — Café Negril</title>
+<link>https://www.wwoz.org/events/1373096</link>
+<guid isPermaLink="false">8b4ddefc527f13a3ed8c81931cf21afba8e81860</guid>
+<description>Venue: Café Negril | Date: Sunday, August 30 | Time: 9:00pm</description>
+<pubDate>Sun, 30 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Andrew Salow Jazz Quartet — Crescent City Brewhouse</title>
-<link>https://www.wwoz.org/events/1380561</link>
-<guid isPermaLink="false">a19361aeb197c1a93a521941e848e615a5d89236</guid>
-<description>Venue: Crescent City Brewhouse | Date: Saturday, August 29 | Time: 6:00pm</description>
-<pubDate>Sat, 29 Aug 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1380566</link>
+<guid isPermaLink="false">76f244337a6f40458fa86ee2e8333047d72eaf2c</guid>
+<description>Venue: Crescent City Brewhouse | Date: Sunday, August 30 | Time: 12:00pm</description>
+<pubDate>Sun, 30 Aug 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Young Lion Showcase — d.b.a.</title>
-<link>https://www.wwoz.org/events/1378151</link>
-<guid isPermaLink="false">fb2dd1827e9dd7b1f7eeb23a69ae11fff42d18aa</guid>
-<description>Venue: d.b.a. | Date: Saturday, August 29 | Time: 2:30pm</description>
-<pubDate>Sat, 29 Aug 2026 14:30:00 +0000</pubDate>
+<title>Anna Helms Jazz Trio — Crescent City Brewhouse</title>
+<link>https://www.wwoz.org/events/1380571</link>
+<guid isPermaLink="false">09e2451d2f0aff0413dd901b3601113397895d7d</guid>
+<description>Venue: Crescent City Brewhouse | Date: Sunday, August 30 | Time: 6:00pm</description>
+<pubDate>Sun, 30 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Next Level Band — d.b.a.</title>
-<link>https://www.wwoz.org/events/1381146</link>
-<guid isPermaLink="false">03b4c35530cea78635ae4a6e5dd32fd55a93e06f</guid>
-<description>Venue: d.b.a. | Date: Saturday, August 29 | Time: 6:00pm</description>
-<pubDate>Sat, 29 Aug 2026 18:00:00 +0000</pubDate>
+<title>Ryan Robertson Jazz Quintet — d.b.a.</title>
+<link>https://www.wwoz.org/events/1378171</link>
+<guid isPermaLink="false">a3447c002495f4bed4a997ed69bdf98a462362af</guid>
+<description>Venue: d.b.a. | Date: Sunday, August 30 | Time: 6:00pm</description>
+<pubDate>Sun, 30 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Kortana — d.b.a.</title>
-<link>https://www.wwoz.org/events/1381151</link>
-<guid isPermaLink="false">2cbfd490e7550754af85eb53f3fd8a16044121c2</guid>
-<description>Venue: d.b.a. | Date: Saturday, August 29 | Time: 10:00pm</description>
-<pubDate>Sat, 29 Aug 2026 22:00:00 +0000</pubDate>
+<title>The Jump Hounds — d.b.a.</title>
+<link>https://www.wwoz.org/events/1378186</link>
+<guid isPermaLink="false">a478cf71ec378632e47f7f7f74774e7f8c0798ae</guid>
+<description>Venue: d.b.a. | Date: Sunday, August 30 | Time: 9:30pm</description>
+<pubDate>Sun, 30 Aug 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Jeremy Davenport — Davenport Lounge at The Ritz-Carlton</title>
-<link>https://www.wwoz.org/events/1349241</link>
-<guid isPermaLink="false">30d2eddfc3dcd775e7fe2bfb12112e7ea46cbe5e</guid>
-<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Saturday, August 29 | Time: 8:00pm</description>
-<pubDate>Sat, 29 Aug 2026 20:00:00 +0000</pubDate>
+<title>Basch Jernigan — Dos Jefes</title>
+<link>https://www.wwoz.org/events/1373546</link>
+<guid isPermaLink="false">f7259c64e445dc633573ff971107f338ee7281ec</guid>
+<description>Venue: Dos Jefes | Date: Sunday, August 30 | Time: 8:00pm</description>
+<pubDate>Sun, 30 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Ratchet Jazz Night ft. Shamarr Allen &amp; Cupid — Dew Drop Inn Hotel &amp; Lounge</title>
-<link>https://www.wwoz.org/events/1379556</link>
-<guid isPermaLink="false">7258c830576106280bcf1d303e5b87b8d463203e</guid>
-<description>Venue: Dew Drop Inn Hotel &amp; Lounge | Date: Saturday, August 29 | Time: 8:00pm</description>
-<pubDate>Sat, 29 Aug 2026 20:00:00 +0000</pubDate>
+<title>The New Orleans Harp Society Annual Concert — East Bank Regional Library</title>
+<link>https://www.wwoz.org/events/1379006</link>
+<guid isPermaLink="false">7f2f5de2d2d324ff620c1e27b943c208afcc8020</guid>
+<description>Venue: East Bank Regional Library | Date: Sunday, August 30 | Time: 2:30pm</description>
+<pubDate>Sun, 30 Aug 2026 14:30:00 +0000</pubDate>
 </item>
 <item>
-<title>The Afrodiziac's Jazz — Dos Jefes</title>
-<link>https://www.wwoz.org/events/1373566</link>
-<guid isPermaLink="false">c608449a9535e110b6a32852cb096cf6f46c1d2c</guid>
-<description>Venue: Dos Jefes | Date: Saturday, August 29 | Time: 9:00pm</description>
-<pubDate>Sat, 29 Aug 2026 21:00:00 +0000</pubDate>
+<title>Christian Coleman &amp; His Band — Favela Chic</title>
+<link>https://www.wwoz.org/events/1374996</link>
+<guid isPermaLink="false">b97957dea48c4eb8639e2c96bcb0e056a4c20d4b</guid>
+<description>Venue: Favela Chic | Date: Sunday, August 30 | Time: 8:00pm</description>
+<pubDate>Sun, 30 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Shawan Rice — Double Dealer at the Orpheum Theater</title>
-<link>https://www.wwoz.org/events/1376121</link>
-<guid isPermaLink="false">805acd67f1d0953592227e822633307b67e7d150</guid>
-<description>Venue: Double Dealer at the Orpheum Theater | Date: Saturday, August 29 | Time: 9:30pm</description>
-<pubDate>Sat, 29 Aug 2026 21:30:00 +0000</pubDate>
+<title>Doyle Cooper Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1371101</link>
+<guid isPermaLink="false">0caaa9630cd68b7ee9cfc3e3619a83f77317eea7</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Sunday, August 30 | Time: 1:00pm</description>
+<pubDate>Sun, 30 Aug 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Ghost Rider &amp; the Jefferson Parish Library present a Premiere of Original Songs by Local Songwriters — East Bank Regional Library</title>
-<link>https://www.wwoz.org/events/1381866</link>
-<guid isPermaLink="false">a3d1e6fc3a1e882de5ef353d72610a0905f98539</guid>
-<description>Venue: East Bank Regional Library | Date: Saturday, August 29 | Time: 1:00pm</description>
-<pubDate>Sat, 29 Aug 2026 13:00:00 +0000</pubDate>
+<title>Sazerac Jazz Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1371126</link>
+<guid isPermaLink="false">8da8139d2db26b37bff7ae48621936e6cc6eaf6f</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Sunday, August 30 | Time: 5:00pm</description>
+<pubDate>Sun, 30 Aug 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dead Men Don't Play Jazz — Favela Chic</title>
-<link>https://www.wwoz.org/events/1377811</link>
-<guid isPermaLink="false">5783e00fc7a234ac1873a9779ca51a8d9f296b4f</guid>
-<description>Venue: Favela Chic | Date: Saturday, August 29 | Time: 4:00pm</description>
-<pubDate>Sat, 29 Aug 2026 16:00:00 +0000</pubDate>
+<title>Fritzel's All Star Band with Mike Fulton — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1371151</link>
+<guid isPermaLink="false">8bb910dfca8e4c5710e9d097339cd4e29da697ac</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Sunday, August 30 | Time: 8:00pm</description>
+<pubDate>Sun, 30 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jass Hysteria — Favela Chic</title>
-<link>https://www.wwoz.org/events/1378551</link>
-<guid isPermaLink="false">d0e42bb09c179341ae7cacda08a207e04edfacb2</guid>
-<description>Venue: Favela Chic | Date: Saturday, August 29 | Time: 7:00pm</description>
-<pubDate>Sat, 29 Aug 2026 19:00:00 +0000</pubDate>
+<title>Aaniyah Anderson + Mac Infinity + Kai De Lua — Gasa Gasa</title>
+<link>https://www.wwoz.org/events/1369566</link>
+<guid isPermaLink="false">3a5c8c658ae92dc62dd1ca2b3f44ef98d183c45d</guid>
+<description>Venue: Gasa Gasa | Date: Sunday, August 30 | Time: 6:00pm</description>
+<pubDate>Sun, 30 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Thee Tim Brown Arrangement — Favela Chic</title>
-<link>https://www.wwoz.org/events/1377831</link>
-<guid isPermaLink="false">01c35842699170ba8b303c2b25d79dff41542969</guid>
-<description>Venue: Favela Chic | Date: Saturday, August 29 | Time: 10:00pm</description>
-<pubDate>Sat, 29 Aug 2026 22:00:00 +0000</pubDate>
+<title>Paul Faith The Barstool Prophets + The St. Claude Serenaders — Gasa Gasa</title>
+<link>https://www.wwoz.org/events/1378921</link>
+<guid isPermaLink="false">5e65b9fd2437373a8c41daec52b549277f0c2dea</guid>
+<description>Venue: Gasa Gasa | Date: Sunday, August 30 | Time: 9:00pm</description>
+<pubDate>Sun, 30 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Don McLean — Fillmore, The</title>
-<link>https://www.wwoz.org/events/1335751</link>
-<guid isPermaLink="false">3dda7ced58a78cf193a74eb64dd8b1f660af99c6</guid>
-<description>Venue: Fillmore, The | Date: Saturday, August 29 | Time: 8:00pm</description>
-<pubDate>Sat, 29 Aug 2026 20:00:00 +0000</pubDate>
+<title>Mean Habit, Swarm, Spare &amp; Quilt — Holy Diver</title>
+<link>https://www.wwoz.org/events/1372551</link>
+<guid isPermaLink="false">a97d65770830992d10aa89c5b90a3194ad87edbb</guid>
+<description>Venue: Holy Diver | Date: Sunday, August 30 | Time: 9:00pm</description>
+<pubDate>Sun, 30 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Steve DeTroy Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1371531</link>
-<guid isPermaLink="false">bda5eca2f44f454d57c832e9a8887ab400354332</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Saturday, August 29 | Time: 1:00pm</description>
-<pubDate>Sat, 29 Aug 2026 13:00:00 +0000</pubDate>
+<title>Hot 8 Brass Band — Howlin' Wolf</title>
+<link>https://www.wwoz.org/events/1359081</link>
+<guid isPermaLink="false">a57d84e626f3026d95e4d185ee6677a98e378146</guid>
+<description>Venue: Howlin' Wolf | Date: Sunday, August 30 | Time: 10:30pm</description>
+<pubDate>Sun, 30 Aug 2026 22:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Bourbon Matinee Jazz Band with Chuck Brackman — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1371556</link>
-<guid isPermaLink="false">d3c69f02c9d3a631e0a7aaa3789011424a5d9249</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Saturday, August 29 | Time: 5:00pm</description>
-<pubDate>Sat, 29 Aug 2026 17:00:00 +0000</pubDate>
+<title>Manny Arteaga (..of the Lunch Truck Specials Band) — La Carreta - Magazine St.</title>
+<link>https://www.wwoz.org/events/1371006</link>
+<guid isPermaLink="false">124bcd1ca06bb00ea943a7cbc0354645092e27ab</guid>
+<description>Venue: La Carreta - Magazine St. | Date: Sunday, August 30 | Time: 6:00pm</description>
+<pubDate>Sun, 30 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Fritzel's All Star Band with Zach Lange — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1371581</link>
-<guid isPermaLink="false">22952ce7dc594d2c7e7211f782eae4300afdde68</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Saturday, August 29 | Time: 9:00pm</description>
-<pubDate>Sat, 29 Aug 2026 21:00:00 +0000</pubDate>
+<title>Smoking Time Jazz Club — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1370631</link>
+<guid isPermaLink="false">ba0c791d8deefa2a591aa64d7701f86643a4c3af</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Sunday, August 30 | Time: 2:30pm</description>
+<pubDate>Sun, 30 Aug 2026 14:30:00 +0000</pubDate>
 </item>
 <item>
-<title>SOUP ft. Elliot from Earth &amp; More! — Gasa Gasa</title>
-<link>https://www.wwoz.org/events/1378916</link>
-<guid isPermaLink="false">c3ea2847ad4fafe4b1fcf7acd15917ebaaa10817</guid>
-<description>Venue: Gasa Gasa | Date: Saturday, August 29 | Time: 10:00pm</description>
-<pubDate>Sat, 29 Aug 2026 22:00:00 +0000</pubDate>
+<title>Big Joe Kennedy — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1370666</link>
+<guid isPermaLink="false">9d11570a85f64e309413a6be7bd08d65a9ec4c3f</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Sunday, August 30 | Time: 6:00pm</description>
+<pubDate>Sun, 30 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Cutting Edge Conference Showcase : SpringBoard/WeGetArtists Show (Multiple Artist) — Good Measure at The Barnett</title>
-<link>https://www.wwoz.org/events/1379481</link>
-<guid isPermaLink="false">bcb2ee022afbe5cb327f023a889dbde153105f65</guid>
-<description>Venue: Good Measure at The Barnett | Date: Saturday, August 29 | Time: 2:00pm</description>
-<pubDate>Sat, 29 Aug 2026 14:00:00 +0000</pubDate>
+<title>Mahogany Hall Swingsters ft. Roderick Paulin — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1370686</link>
+<guid isPermaLink="false">d4586d886f58bd67f884fff6a86e08013f9ab93a</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Sunday, August 30 | Time: 8:00pm</description>
+<pubDate>Sun, 30 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Cutting Edge Conference Showcase ft. Cook the Hard Way, Brianna, Beni &amp; More! — Good Measure at The Barnett</title>
-<link>https://www.wwoz.org/events/1379486</link>
-<guid isPermaLink="false">edaf48eaa5a4624d641a017df3b09acef33798ac</guid>
-<description>Venue: Good Measure at The Barnett | Date: Saturday, August 29 | Time: 8:00pm</description>
-<pubDate>Sat, 29 Aug 2026 20:00:00 +0000</pubDate>
+<title>Eight Dice Cloth — Maison, The</title>
+<link>https://www.wwoz.org/events/1376606</link>
+<guid isPermaLink="false">aa609b53f3824d1c340d5a377eaba14ac74866b3</guid>
+<description>Venue: Maison, The | Date: Sunday, August 30 | Time: 4:00pm</description>
+<pubDate>Sun, 30 Aug 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Sky Imposed Its Will, Dreams Without Colours, Walkingonsunshine &amp; Spirit of Possibility — Holy Diver</title>
-<link>https://www.wwoz.org/events/1372546</link>
-<guid isPermaLink="false">474423c1c217b6ba9454fa21397571949c1d2ade</guid>
-<description>Venue: Holy Diver | Date: Saturday, August 29 | Time: 9:00pm</description>
-<pubDate>Sat, 29 Aug 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>The Pretty Reckless — House of Blues</title>
-<link>https://www.wwoz.org/events/1343706</link>
-<guid isPermaLink="false">ffa5bc97f61532debd45e3c5fc3f692916b2cefc</guid>
-<description>Venue: House of Blues | Date: Saturday, August 29 | Time: 8:00pm</description>
-<pubDate>Sat, 29 Aug 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Kermit Ruffins &amp; the Barbecue Swingers — Kermit's Tremé Mother-in-Law Lounge</title>
-<link>https://www.wwoz.org/events/1357536</link>
-<guid isPermaLink="false">c55c597841b00cd571d087cc1ab38d6dd71af14d</guid>
-<description>Venue: Kermit's Tremé Mother-in-Law Lounge | Date: Saturday, August 29 | Time: 6:00pm</description>
-<pubDate>Sat, 29 Aug 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Guitar Joel — Kerry Irish Pub</title>
-<link>https://www.wwoz.org/events/1379441</link>
-<guid isPermaLink="false">aeb250a4741d9621e72ef897c878c42c03248230</guid>
-<description>Venue: Kerry Irish Pub | Date: Saturday, August 29 | Time: 9:00pm</description>
-<pubDate>Sat, 29 Aug 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Grits &amp; Greens — Le Bon Temps Roulé</title>
-<link>https://www.wwoz.org/events/1369306</link>
-<guid isPermaLink="false">ca63cab54413455fede2e2c3b7155cc8b583ad2f</guid>
-<description>Venue: Le Bon Temps Roulé | Date: Saturday, August 29 | Time: 11:00pm</description>
-<pubDate>Sat, 29 Aug 2026 23:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Nat &amp; Kat Cajun String Band + Dance Lesson with LA Dance Roots — Little House, The</title>
-<link>https://www.wwoz.org/events/1377891</link>
-<guid isPermaLink="false">19ddfbdbee8056a30fbec587c20511281a85bee4</guid>
-<description>Venue: Little House, The | Date: Saturday, August 29 | Time: 5:30pm</description>
-<pubDate>Sat, 29 Aug 2026 17:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Stephen Walker N'em — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1370566</link>
-<guid isPermaLink="false">a34f00fc3fb971ea3b98a9dd8a7e4faf96397817</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Saturday, August 29 | Time: 3:00pm</description>
-<pubDate>Sat, 29 Aug 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Gerald French Trio — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1370586</link>
-<guid isPermaLink="false">bb5c8b2965031c559ae30a2df036bb7251656e26</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Saturday, August 29 | Time: 7:00pm</description>
-<pubDate>Sat, 29 Aug 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Mahogany Hall Jazz Band ft. Kid Chocolate with Midnight Burlesque — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1370601</link>
-<guid isPermaLink="false">43790095672ed79673fda5d455cea056f0e5677c</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Saturday, August 29 | Time: 9:30pm</description>
-<pubDate>Sat, 29 Aug 2026 21:30:00 +0000</pubDate>
-</item>
-<item>
-<title>NOLA Axe Men — Maison, The</title>
-<link>https://www.wwoz.org/events/1376501</link>
-<guid isPermaLink="false">5e857d5c5d73ec1700222f67d22ff69a3065f4ce</guid>
-<description>Venue: Maison, The | Date: Saturday, August 29 | Time: 1:00pm</description>
-<pubDate>Sat, 29 Aug 2026 13:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Smoking Time Jazz Club — Maison, The</title>
-<link>https://www.wwoz.org/events/1376526</link>
-<guid isPermaLink="false">5030fe4679ec61b6dbedc90250e1afe4e3d22ddf</guid>
-<description>Venue: Maison, The | Date: Saturday, August 29 | Time: 4:00pm</description>
-<pubDate>Sat, 29 Aug 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Tyler Kinchen &amp; the Right Pieces — Maison, The</title>
-<link>https://www.wwoz.org/events/1376536</link>
-<guid isPermaLink="false">3288714f92913dbc017c13969f6a38e95cf5135d</guid>
-<description>Venue: Maison, The | Date: Saturday, August 29 | Time: 8:00pm</description>
-<pubDate>Sat, 29 Aug 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>DJ B Dot (Dot Dunnie) — Maison, The</title>
-<link>https://www.wwoz.org/events/1376556</link>
-<guid isPermaLink="false">bbcf3cddeca87f1ecbd468a541ee6efa9857fcf5</guid>
-<description>Venue: Maison, The | Date: Saturday, August 29 | Time: 11:00pm</description>
-<pubDate>Sat, 29 Aug 2026 23:00:00 +0000</pubDate>
+<title>Jenavieve &amp; The Winding Boys — Maison, The</title>
+<link>https://www.wwoz.org/events/1376626</link>
+<guid isPermaLink="false">d0bd62d96912060efd58d8db51b9aac4a73cf158</guid>
+<description>Venue: Maison, The | Date: Sunday, August 30 | Time: 7:00pm</description>
+<pubDate>Sun, 30 Aug 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>The Leroy Marshall Band — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1362656</link>
-<guid isPermaLink="false">5c7f4972c154ed0b5f41ad30e0c3b782537cca0f</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Saturday, August 29 | Time: 3:15pm</description>
-<pubDate>Sat, 29 Aug 2026 15:15:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1362651</link>
+<guid isPermaLink="false">c09e48d2a79bf83733f6622f2349728ac73897e4</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Sunday, August 30 | Time: 7:15pm</description>
+<pubDate>Sun, 30 Aug 2026 19:15:00 +0000</pubDate>
 </item>
 <item>
-<title>Danny Rubio &amp; the Catahoula Music Company ft. Jeff Kreis — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1364046</link>
-<guid isPermaLink="false">7485d191b51b1b895660bafd75fa4343116a9700</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Saturday, August 29 | Time: 8:00pm</description>
-<pubDate>Sat, 29 Aug 2026 20:00:00 +0000</pubDate>
+<title>Pastor J Funky Revival — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1378756</link>
+<guid isPermaLink="false">90fb587c2a02491cb5b991e9e864e2ab135f1610</guid>
+<description>Venue: Maple Leaf | Date: Sunday, August 30 | Time: 8:00pm</description>
+<pubDate>Sun, 30 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>(Outdoor Stage) Mid-Summer Mardi Gras with Legacy Coalition — Maple Leaf</title>
-<link>https://www.wwoz.org/events/1382136</link>
-<guid isPermaLink="false">02e0b7e43320fa6c537c6b68a3691b2798fd8b21</guid>
-<description>Venue: Maple Leaf | Date: Saturday, August 29 | Time: 9:00pm</description>
-<pubDate>Sat, 29 Aug 2026 21:00:00 +0000</pubDate>
+<title>Washboard Chaz Blues Trio — NOLA Brewing</title>
+<link>https://www.wwoz.org/events/1379661</link>
+<guid isPermaLink="false">e60ca9edd6414453ad0465da634785f8c473c849</guid>
+<description>Venue: NOLA Brewing | Date: Sunday, August 30 | Time: 7:00pm</description>
+<pubDate>Sun, 30 Aug 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Nanci Zee Trio — May Baily's Place</title>
-<link>https://www.wwoz.org/events/1377056</link>
-<guid isPermaLink="false">8c98064de8bbb31b54c25bf323adc90fc605e0a5</guid>
-<description>Venue: May Baily's Place | Date: Saturday, August 29 | Time: 8:30pm</description>
-<pubDate>Sat, 29 Aug 2026 20:30:00 +0000</pubDate>
+<title>Redundant Korpse + Offal Lettuce + Safe Word + More! — Okay Bar</title>
+<link>https://www.wwoz.org/events/1369396</link>
+<guid isPermaLink="false">38b0be25824921bb94322988327f03f681e439c2</guid>
+<description>Venue: Okay Bar | Date: Sunday, August 30 | Time: 7:00pm</description>
+<pubDate>Sun, 30 Aug 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Que Rico Saturdays with VDJ Emotion by Sábado Gigante — New Orleans Jazz &amp; Blues Market</title>
-<link>https://www.wwoz.org/events/1369626</link>
-<guid isPermaLink="false">e1211c401105761db91173ad842927f76aa6fac7</guid>
-<description>Venue: New Orleans Jazz &amp; Blues Market | Date: Saturday, August 29 | Time: 11:00pm</description>
-<pubDate>Sat, 29 Aug 2026 23:00:00 +0000</pubDate>
+<title>Open Mic Night with Guest Host Amity Rose — Old Arabi Lighthouse Records &amp; Books</title>
+<link>https://www.wwoz.org/events/1372861</link>
+<guid isPermaLink="false">b2e17bda782bc983ed67b334d459fb12b4ffae84</guid>
+<description>Venue: Old Arabi Lighthouse Records &amp; Books | Date: Sunday, August 30 | Time: 6:00pm</description>
+<pubDate>Sun, 30 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Drum Circle with Solomon Isreal &amp; Judah Mason — New Orleans Jazz National Historical Park</title>
-<link>https://www.wwoz.org/events/1375291</link>
-<guid isPermaLink="false">5be92e407a4ac7d2fdae464f96c22ac98289f0bf</guid>
-<description>Venue: New Orleans Jazz National Historical Park | Date: Saturday, August 29 | Time: 10:30am</description>
-<pubDate>Sat, 29 Aug 2026 10:30:00 +0000</pubDate>
+<title>Joe Krown — Old Point Bar</title>
+<link>https://www.wwoz.org/events/1376681</link>
+<guid isPermaLink="false">0a4d0ac8bf33d212e938196e2ec2cd503101526a</guid>
+<description>Venue: Old Point Bar | Date: Sunday, August 30 | Time: 3:00pm</description>
+<pubDate>Sun, 30 Aug 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dylan Decker Trio — New Orleans Jazz National Historical Park</title>
-<link>https://www.wwoz.org/events/1377351</link>
-<guid isPermaLink="false">f3a0ff2e3978886df27db4fee8e1ce6aa0a88b46</guid>
-<description>Venue: New Orleans Jazz National Historical Park | Date: Saturday, August 29 | Time: 3:00pm</description>
-<pubDate>Sat, 29 Aug 2026 15:00:00 +0000</pubDate>
+<title>Gary Clark Jr. — Orpheum Theater</title>
+<link>https://www.wwoz.org/events/1357601</link>
+<guid isPermaLink="false">835d759240fe4fa4faeb37020fe89a779769f9d2</guid>
+<description>Venue: Orpheum Theater | Date: Sunday, August 30 | Time: 7:00pm</description>
+<pubDate>Sun, 30 Aug 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Natasha Snachez and Joe Adragna (of the Junior League) — NOLA 'Nacular Art Gallery</title>
-<link>https://www.wwoz.org/events/1372451</link>
-<guid isPermaLink="false">6e6f1daeb88d2f76578506c722bbc7f9db734e49</guid>
-<description>Venue: NOLA 'Nacular Art Gallery | Date: Saturday, August 29 | Time: 6:00pm</description>
-<pubDate>Sat, 29 Aug 2026 18:00:00 +0000</pubDate>
+<title>Emelie Guidry, Matt Hayden &amp; Natalie Mae — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1376816</link>
+<guid isPermaLink="false">787b032d32fbc8a554c858d441aa577176a5b20a</guid>
+<description>Venue: Pat O'Brien's | Date: Sunday, August 30 | Time: 5:30pm</description>
+<pubDate>Sun, 30 Aug 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Funk Monkey — NOLA Brewing</title>
-<link>https://www.wwoz.org/events/1379656</link>
-<guid isPermaLink="false">d0c18f0f2349cf90094df52fea35f7102ec47cad</guid>
-<description>Venue: NOLA Brewing | Date: Saturday, August 29 | Time: 7:00pm</description>
-<pubDate>Sat, 29 Aug 2026 19:00:00 +0000</pubDate>
+<title>The Preservation Legacy Band ft. Gregg Stafford — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1369971</link>
+<guid isPermaLink="false">e3c66a13a8d18a2e6356e1535c1cc5b973d53153</guid>
+<description>Venue: Preservation Hall | Date: Sunday, August 30 | Time: 5:00pm</description>
+<pubDate>Sun, 30 Aug 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Gal Holiday — Old Point Bar</title>
-<link>https://www.wwoz.org/events/1376676</link>
-<guid isPermaLink="false">64d18852b4edd478cba30c0647181d2874402985</guid>
-<description>Venue: Old Point Bar | Date: Saturday, August 29 | Time: 9:00pm</description>
-<pubDate>Sat, 29 Aug 2026 21:00:00 +0000</pubDate>
+<title>The Preservation Legacy Band ft. Gregg Stafford — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1369996</link>
+<guid isPermaLink="false">23a2b09c0683dc414db3052320406c74fb81bdf3</guid>
+<description>Venue: Preservation Hall | Date: Sunday, August 30 | Time: 6:15pm</description>
+<pubDate>Sun, 30 Aug 2026 18:15:00 +0000</pubDate>
 </item>
 <item>
-<title>Emelie Guidry + Sydney McMath — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1376806</link>
-<guid isPermaLink="false">eadf445f6490149a11afc77cd29b21b7861a0fdd</guid>
-<description>Venue: Pat O'Brien's | Date: Saturday, August 29 | Time: 1:00pm</description>
-<pubDate>Sat, 29 Aug 2026 13:00:00 +0000</pubDate>
+<title>The Preservation Legacy Band ft. Gregg Stafford — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1370021</link>
+<guid isPermaLink="false">addb5c33e8565193acbab21adae18662d312eadf</guid>
+<description>Venue: Preservation Hall | Date: Sunday, August 30 | Time: 7:30pm</description>
+<pubDate>Sun, 30 Aug 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Matt Hayden &amp; Natalie Mae + Ben Michaels &amp; Lisa Bittick-Lowe — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1376811</link>
-<guid isPermaLink="false">4457265f2266c9c5ed94c206544776f8431a0dc0</guid>
-<description>Venue: Pat O'Brien's | Date: Saturday, August 29 | Time: 6:00pm</description>
-<pubDate>Sat, 29 Aug 2026 18:00:00 +0000</pubDate>
+<title>The Preservation Legacy Band ft. Gregg Stafford — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1370046</link>
+<guid isPermaLink="false">b45a2363e9e5d651d58b9d3ed18b2358a7a4e154</guid>
+<description>Venue: Preservation Hall | Date: Sunday, August 30 | Time: 8:45pm</description>
+<pubDate>Sun, 30 Aug 2026 20:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Ian Cunningham — Paulie's</title>
-<link>https://www.wwoz.org/events/1373881</link>
-<guid isPermaLink="false">9f81b08e01ccdeddfdb5fb076579927c6863afa2</guid>
-<description>Venue: Paulie's | Date: Saturday, August 29 | Time: 11:00am</description>
-<pubDate>Sat, 29 Aug 2026 11:00:00 +0000</pubDate>
+<title>Last Sunday with DJ MIJITA and an Open Decks party — Santos Bar</title>
+<link>https://www.wwoz.org/events/1376066</link>
+<guid isPermaLink="false">e3b1590bb6a8e3fc8c4b8b31395faff8ae8e6b87</guid>
+<description>Venue: Santos Bar | Date: Sunday, August 30 | Time: 9:00pm</description>
+<pubDate>Sun, 30 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Paulie’s Heart Of Gold Midsummer Mardi Gras Band — Paulie's</title>
-<link>https://www.wwoz.org/events/1382141</link>
-<guid isPermaLink="false">c2d8941524bdc17763d91eebea095742bd11403d</guid>
-<description>Venue: Paulie's | Date: Saturday, August 29 | Time: 5:00pm</description>
-<pubDate>Sat, 29 Aug 2026 17:00:00 +0000</pubDate>
+<title>Ruff Cutz Ethical Music Collective + Leaux Fye Tribe — Saturn Bar</title>
+<link>https://www.wwoz.org/events/1378851</link>
+<guid isPermaLink="false">deac3f5b749a8a616141874e3d576ea9ad1665ca</guid>
+<description>Venue: Saturn Bar | Date: Sunday, August 30 | Time: 8:00pm</description>
+<pubDate>Sun, 30 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>John Royen — Polo Club at The Windsor Court, The</title>
-<link>https://www.wwoz.org/events/1357811</link>
-<guid isPermaLink="false">e216e7fb6405a90bf07fff9486fff838c3ac22d4</guid>
-<description>Venue: Polo Club at The Windsor Court, The | Date: Saturday, August 29 | Time: 5:30pm</description>
-<pubDate>Sat, 29 Aug 2026 17:30:00 +0000</pubDate>
+<title>Goth Line Dancing with Giddy Up Two Step — Siberia</title>
+<link>https://www.wwoz.org/events/1377616</link>
+<guid isPermaLink="false">58268f356912f2b7486266439348724dd7f7d353</guid>
+<description>Venue: Siberia | Date: Sunday, August 30 | Time: 6:30pm</description>
+<pubDate>Sun, 30 Aug 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Bean N' The Boys — Polo Club at The Windsor Court, The</title>
-<link>https://www.wwoz.org/events/1358001</link>
-<guid isPermaLink="false">0969d9be6cd2bb0381806032c863ff88b71fa643</guid>
-<description>Venue: Polo Club at The Windsor Court, The | Date: Saturday, August 29 | Time: 9:00pm</description>
-<pubDate>Sat, 29 Aug 2026 21:00:00 +0000</pubDate>
+<title>John Fohl — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1376351</link>
+<guid isPermaLink="false">1a80077693fd4ea141fb664910e2252a7c701f0e</guid>
+<description>Venue: Snug Harbor | Date: Sunday, August 30 | Time: 4:30pm</description>
+<pubDate>Sun, 30 Aug 2026 16:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Oatmeal Dubs — Poolside at Hotel St. Vincent (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1376866</link>
-<guid isPermaLink="false">77a5001817a8bc55ecb31750e656322175b21506</guid>
-<description>Venue: Poolside at Hotel St. Vincent (OUTDOORS) | Date: Saturday, August 29 | Time: 12:00pm</description>
-<pubDate>Sat, 29 Aug 2026 12:00:00 +0000</pubDate>
+<title>Brad Walker Birthday Party with Special Guests — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1376361</link>
+<guid isPermaLink="false">2095e3db431b9e08ffcb98c5be9d9e4543ce8b3c</guid>
+<description>Venue: Snug Harbor | Date: Sunday, August 30 | Time: 7:30pm</description>
+<pubDate>Sun, 30 Aug 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>The Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1369816</link>
-<guid isPermaLink="false">b2efc93e569212c37f9484d2e7852771e3ba49c2</guid>
-<description>Venue: Preservation Hall | Date: Saturday, August 29 | Time: 5:00pm</description>
-<pubDate>Sat, 29 Aug 2026 17:00:00 +0000</pubDate>
+<title>Brad Walker Birthday Party with Special Guests — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1376356</link>
+<guid isPermaLink="false">454e2ebfcba53420d36784a79cae32466b7f95db</guid>
+<description>Venue: Snug Harbor | Date: Sunday, August 30 | Time: 9:30pm</description>
+<pubDate>Sun, 30 Aug 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>The Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1369841</link>
-<guid isPermaLink="false">a7f488998adb08ef8ff1f770ecc64c58179b29d4</guid>
-<description>Venue: Preservation Hall | Date: Saturday, August 29 | Time: 6:15pm</description>
-<pubDate>Sat, 29 Aug 2026 18:15:00 +0000</pubDate>
+<title>Jacky Blaire &amp; the Hot Biscuits — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1378451</link>
+<guid isPermaLink="false">5fa0e6a421f8a67f88f35a02327a0e902cbed7eb</guid>
+<description>Venue: Spotted Cat | Date: Sunday, August 30 | Time: 2:00pm</description>
+<pubDate>Sun, 30 Aug 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1369876</link>
-<guid isPermaLink="false">3c3477f10440c7535f77e02865cdedadf6cf2862</guid>
-<description>Venue: Preservation Hall | Date: Saturday, August 29 | Time: 7:30pm</description>
-<pubDate>Sat, 29 Aug 2026 19:30:00 +0000</pubDate>
+<title>Treme Brass Band — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1378476</link>
+<guid isPermaLink="false">4bfe554a76d7185f6045b18d50361eee37803884</guid>
+<description>Venue: Spotted Cat | Date: Sunday, August 30 | Time: 6:00pm</description>
+<pubDate>Sun, 30 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1369896</link>
-<guid isPermaLink="false">ea8de19182217ea880057611fe14173f5bb7672d</guid>
-<description>Venue: Preservation Hall | Date: Saturday, August 29 | Time: 8:45pm</description>
-<pubDate>Sat, 29 Aug 2026 20:45:00 +0000</pubDate>
-</item>
-<item>
-<title>Pure Intentions Presents: Off the Record with Dr. Jax &amp; Friends — Rabbit Hole, The</title>
-<link>https://www.wwoz.org/events/1382091</link>
-<guid isPermaLink="false">2206af506830c5ed95d5d60ff14b61f5549e3a20</guid>
-<description>Venue: Rabbit Hole, The | Date: Saturday, August 29 | Time: 10:30pm</description>
-<pubDate>Sat, 29 Aug 2026 22:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Space Disco Presents: RAVE! — Santos Bar</title>
-<link>https://www.wwoz.org/events/1376061</link>
-<guid isPermaLink="false">40c81aa23bd856c1a4d921c2d6d9e3ae53827c4a</guid>
-<description>Venue: Santos Bar | Date: Saturday, August 29 | Time: 9:00pm</description>
-<pubDate>Sat, 29 Aug 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Kult Desastre + Flender + Walmart2 + Traum — Siberia</title>
-<link>https://www.wwoz.org/events/1377611</link>
-<guid isPermaLink="false">5ebc5a138b8d89790725d0712544044f7157615c</guid>
-<description>Venue: Siberia | Date: Saturday, August 29 | Time: 9:00pm</description>
-<pubDate>Sat, 29 Aug 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Shea Siraj — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1376336</link>
-<guid isPermaLink="false">ba9aeb8803a52d45873a18d4ff485aaf68a7db58</guid>
-<description>Venue: Snug Harbor | Date: Saturday, August 29 | Time: 4:30pm</description>
-<pubDate>Sat, 29 Aug 2026 16:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Herlin Riley Quartet — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1376346</link>
-<guid isPermaLink="false">8e0a77656dc9c44e9813a1aaea621256917a2085</guid>
-<description>Venue: Snug Harbor | Date: Saturday, August 29 | Time: 7:30pm</description>
-<pubDate>Sat, 29 Aug 2026 19:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Herlin Riley Quartet — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1376341</link>
-<guid isPermaLink="false">69edfe70a18e94b69920b4d3528b5477f4d8ba14</guid>
-<description>Venue: Snug Harbor | Date: Saturday, August 29 | Time: 9:30pm</description>
-<pubDate>Sat, 29 Aug 2026 21:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Twerk Thomson Band — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1378521</link>
-<guid isPermaLink="false">d2ebe81b395a51bb896f7d164f4d00ca4ba2183a</guid>
-<description>Venue: Spotted Cat | Date: Saturday, August 29 | Time: 2:00pm</description>
-<pubDate>Sat, 29 Aug 2026 14:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Panorama Jazz Band — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1378426</link>
-<guid isPermaLink="false">984617d0e56e597e6f748160457a0facfd0b4fc1</guid>
-<description>Venue: Spotted Cat | Date: Saturday, August 29 | Time: 6:00pm</description>
-<pubDate>Sat, 29 Aug 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Dominick Grillo &amp; the Frenchmen Street All-Stars — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1378421</link>
-<guid isPermaLink="false">e833acdfac7b584284172687bf14997a3671b436</guid>
-<description>Venue: Spotted Cat | Date: Saturday, August 29 | Time: 10:00pm</description>
-<pubDate>Sat, 29 Aug 2026 22:00:00 +0000</pubDate>
+<title>Pat Casey &amp; the New Sound — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1378446</link>
+<guid isPermaLink="false">17c70b22d1a91b723ed9400d00cb23383fb2d200</guid>
+<description>Venue: Spotted Cat | Date: Sunday, August 30 | Time: 9:00pm</description>
+<pubDate>Sun, 30 Aug 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1374671</link>
-<guid isPermaLink="false">6abd24cac0a5d3aeb4d425f29d05e2227e01b857</guid>
-<description>Venue: Steamboat Natchez | Date: Saturday, August 29 | Time: 11:00am</description>
-<pubDate>Sat, 29 Aug 2026 11:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1374801</link>
+<guid isPermaLink="false">0a57b55550e4abaaa848d8d5f5a9a1adee69a659</guid>
+<description>Venue: Steamboat Natchez | Date: Sunday, August 30 | Time: 11:00am</description>
+<pubDate>Sun, 30 Aug 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1374956</link>
-<guid isPermaLink="false">eeccc139eba3ae0bdb1e85eab51bda6a6a1d3726</guid>
-<description>Venue: Steamboat Natchez | Date: Saturday, August 29 | Time: 2:00pm</description>
-<pubDate>Sat, 29 Aug 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1374851</link>
+<guid isPermaLink="false">1bb3173869da7b8c781a6d5fe469c2bb37b87c46</guid>
+<description>Venue: Steamboat Natchez | Date: Sunday, August 30 | Time: 2:00pm</description>
+<pubDate>Sun, 30 Aug 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dukes of Dixieland — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1374646</link>
-<guid isPermaLink="false">cebccf09371a38668742cdb020b5610d07039bcd</guid>
-<description>Venue: Steamboat Natchez | Date: Saturday, August 29 | Time: 6:00pm</description>
-<pubDate>Sat, 29 Aug 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1374581</link>
+<guid isPermaLink="false">54edcb5fbc17f5bcdaa913289446b9933d05cb6d</guid>
+<description>Venue: Steamboat Natchez | Date: Sunday, August 30 | Time: 6:00pm</description>
+<pubDate>Sun, 30 Aug 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Johanna Rose — Three Muses</title>
-<link>https://www.wwoz.org/events/1382236</link>
-<guid isPermaLink="false">634436f8d149f06d1419342ff0765a0e2dd8c38e</guid>
-<description>Venue: Three Muses | Date: Saturday, August 29 | Time: 7:30pm</description>
-<pubDate>Sat, 29 Aug 2026 19:30:00 +0000</pubDate>
+<title>Don Vappie &amp; Dr. Ben Redwine — Tchefuncte’s Restaurant - Madisonville</title>
+<link>https://www.wwoz.org/events/1369351</link>
+<guid isPermaLink="false">9203801d72b09af73304b912926f9189a8ae4b4d</guid>
+<description>Venue: Tchefuncte’s Restaurant - Madisonville | Date: Sunday, August 30 | Time: 11:00am</description>
+<pubDate>Sun, 30 Aug 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Phoush - A New Orleans Phish Tribute — Tipitina's</title>
-<link>https://www.wwoz.org/events/1377276</link>
-<guid isPermaLink="false">d4c5fb6d44965f06838cc4550963a7862cb008ad</guid>
-<description>Venue: Tipitina's | Date: Saturday, August 29 | Time: 9:00pm</description>
-<pubDate>Sat, 29 Aug 2026 21:00:00 +0000</pubDate>
+<title>Ryan Long — Three Muses</title>
+<link>https://www.wwoz.org/events/1382246</link>
+<guid isPermaLink="false">52bd5b0e55362d8d7b9f5fee7bc7ca7ed3ec4635</guid>
+<description>Venue: Three Muses | Date: Sunday, August 30 | Time: 8:00pm</description>
+<pubDate>Sun, 30 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Stone Cold Hippies + Freudian Slips — True South</title>
-<link>https://www.wwoz.org/events/1382036</link>
-<guid isPermaLink="false">d57ded0c497382e030d54c4bb4a015d41561ca45</guid>
-<description>Venue: True South | Date: Saturday, August 29 | Time: 8:00pm</description>
-<pubDate>Sat, 29 Aug 2026 20:00:00 +0000</pubDate>
+<title>New Orleans Blues Society Competition — True South</title>
+<link>https://www.wwoz.org/events/1382041</link>
+<guid isPermaLink="false">bc7b952b0643bb0428e8ec2f15e6dabfafd7f585</guid>
+<description>Venue: True South | Date: Sunday, August 30 | Time: 2:00pm</description>
+<pubDate>Sun, 30 Aug 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Uncut ft. Vegas Cola — Venue Vapaille</title>
-<link>https://www.wwoz.org/events/1379406</link>
-<guid isPermaLink="false">38038bee84b6e8d6e4a7d3a5f54a0075990794d0</guid>
-<description>Venue: Venue Vapaille | Date: Saturday, August 29 | Time: 7:00pm</description>
-<pubDate>Sat, 29 Aug 2026 19:00:00 +0000</pubDate>
+<title>Phlegm (DJ Sets) — Virgin Hotels New Orleans</title>
+<link>https://www.wwoz.org/events/1378591</link>
+<guid isPermaLink="false">111d797e06746069d7e94497ca832ab45180046d</guid>
+<description>Venue: Virgin Hotels New Orleans | Date: Sunday, August 30 | Time: 3:00pm</description>
+<pubDate>Sun, 30 Aug 2026 15:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
