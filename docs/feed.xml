@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 31 Aug 2026 13:48:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 20:49:48 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Jerry Dugger — 21st Amendment</title>
@@ -195,6 +195,13 @@
 <guid isPermaLink="false">8c3c20b0719a0a92926b6daac8d33c21a379a0aa</guid>
 <description>Venue: NOLA Brewing | Date: Monday, August 31 | Time: 7:00pm</description>
 <pubDate>Mon, 31 Aug 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Bellringer + Rosie's Rabbit Fangs — Okay Bar</title>
+<link>https://www.wwoz.org/events/1385276</link>
+<guid isPermaLink="false">9f9c9e6772f7caf87b909cd8466808bc44f12a86</guid>
+<description>Venue: Okay Bar | Date: Monday, August 31 | Time: 8:00pm</description>
+<pubDate>Mon, 31 Aug 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Sydney Mcmath + Matt Hayden — Pat O'Brien's</title>

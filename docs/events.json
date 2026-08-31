@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-08-31T13:48:25.494146+00:00",
-  "count": 43,
+  "generated_at": "2026-08-31T20:49:48.363883+00:00",
+  "count": 44,
   "events": [
     {
       "id": "c62e7ba34c260f09b2c8131c4d46ec94c5db89bf",
@@ -327,6 +327,18 @@
       "time_text": "7:00pm",
       "start": "2026-08-31T19:00:00+00:00",
       "description": "Venue: NOLA Brewing | Date: Monday, August 31 | Time: 7:00pm"
+    },
+    {
+      "id": "9f9c9e6772f7caf87b909cd8466808bc44f12a86",
+      "source": "wwoz",
+      "title": "Bellringer + Rosie's Rabbit Fangs",
+      "venue": "Okay Bar",
+      "venue_url": "https://www.wwoz.org/organizations/okay-bar",
+      "event_url": "https://www.wwoz.org/events/1385276",
+      "date_text": "Monday, August 31",
+      "time_text": "8:00pm",
+      "start": "2026-08-31T20:00:00+00:00",
+      "description": "Venue: Okay Bar | Date: Monday, August 31 | Time: 8:00pm"
     },
     {
       "id": "a140e0933d3d6993d41c4d8282ab24cc12dad1f3",
