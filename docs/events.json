@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-02T16:33:50.621111+00:00",
-  "count": 44,
+  "generated_at": "2026-09-02T21:02:10.778731+00:00",
+  "count": 45,
   "events": [
     {
       "id": "fdddae532a41b4ca5b8f52a5f945d673898a95b0",
@@ -363,6 +363,18 @@
       "time_text": "5:00pm",
       "start": "2026-09-02T17:00:00+00:00",
       "description": "Venue: Picnic Provisions & Whiskey (OUTDOORS) | Date: Wednesday, September 2 | Time: 5:00pm"
+    },
+    {
+      "id": "74a34c40c4bff326061f32a89755013942ffb50d",
+      "source": "wwoz",
+      "title": "David Boeddinghaus",
+      "venue": "Polo Club at The Windsor Court, The",
+      "venue_url": "https://www.wwoz.org/organizations/polo-club-windsor-court",
+      "event_url": "https://www.wwoz.org/events/1385906",
+      "date_text": "Wednesday, September 2",
+      "time_text": "5:30pm",
+      "start": "2026-09-02T17:30:00+00:00",
+      "description": "Venue: Polo Club at The Windsor Court, The | Date: Wednesday, September 2 | Time: 5:30pm"
     },
     {
       "id": "b4221b131f2e53b05d223d2f9dff87ffa10f7109",

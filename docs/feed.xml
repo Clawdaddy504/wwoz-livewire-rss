@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 02 Sep 2026 16:33:50 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 21:02:10 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Aubrey Linda &amp; the Rumpshakers — 21st Amendment</title>
@@ -216,6 +216,13 @@
 <guid isPermaLink="false">b201f36bd14325a5ccea19541f0606de884d35fa</guid>
 <description>Venue: Picnic Provisions &amp; Whiskey (OUTDOORS) | Date: Wednesday, September 2 | Time: 5:00pm</description>
 <pubDate>Wed, 02 Sep 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>David Boeddinghaus — Polo Club at The Windsor Court, The</title>
+<link>https://www.wwoz.org/events/1385906</link>
+<guid isPermaLink="false">74a34c40c4bff326061f32a89755013942ffb50d</guid>
+<description>Venue: Polo Club at The Windsor Court, The | Date: Wednesday, September 2 | Time: 5:30pm</description>
+<pubDate>Wed, 02 Sep 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Preservation All-Stars ft. Branden Lewis — Preservation Hall</title>
