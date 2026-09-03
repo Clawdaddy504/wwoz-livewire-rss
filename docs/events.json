@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-03T11:13:24.557901+00:00",
-  "count": 52,
+  "generated_at": "2026-09-03T16:24:47.424297+00:00",
+  "count": 55,
   "events": [
     {
       "id": "10692193d9ac5f9ef4afa152ceb175cf1fe8f984",
@@ -305,6 +305,18 @@
       "description": "Venue: Fritzel's Jazz Club | Date: Thursday, September 3 | Time: 8:00pm"
     },
     {
+      "id": "9b92e786bd59537d2e21d942e247dba98af2c9b7",
+      "source": "wwoz",
+      "title": "Ben Kenney (of Incubus & The Roots)",
+      "venue": "Gasa Gasa",
+      "venue_url": "https://www.wwoz.org/organizations/gasa-gasa",
+      "event_url": "https://www.wwoz.org/events/1386321",
+      "date_text": "Thursday, September 3",
+      "time_text": "9:00pm",
+      "start": "2026-09-03T21:00:00+00:00",
+      "description": "Venue: Gasa Gasa | Date: Thursday, September 3 | Time: 9:00pm"
+    },
+    {
       "id": "1534f229b06154872ed55852b2525200312de7d7",
       "source": "wwoz",
       "title": "Chlo\u00e9 Marie",
@@ -331,7 +343,7 @@
     {
       "id": "1c9753357102241d4fc639c9d2fcb9eec9c4a64b",
       "source": "wwoz",
-      "title": "Laurie D",
+      "title": "Laurie D & Friends",
       "venue": "Howlin' Wolf - The Den",
       "venue_url": "https://www.wwoz.org/organizations/howlin-wolf-den",
       "event_url": "https://www.wwoz.org/events/1359341",
@@ -387,6 +399,30 @@
       "time_text": "8:00pm",
       "start": "2026-09-03T20:00:00+00:00",
       "description": "Venue: Mahogany Jazz Hall | Date: Thursday, September 3 | Time: 8:00pm"
+    },
+    {
+      "id": "778c1d97798b5c2669ee3c6fe2161935a3eff64d",
+      "source": "wwoz",
+      "title": "Booker & Beyond Piano Series with Josh Paxton",
+      "venue": "Maple Leaf",
+      "venue_url": "https://www.wwoz.org/organizations/maple-leaf",
+      "event_url": "https://www.wwoz.org/events/1386076",
+      "date_text": "Thursday, September 3",
+      "time_text": "6:00pm",
+      "start": "2026-09-03T18:00:00+00:00",
+      "description": "Venue: Maple Leaf | Date: Thursday, September 3 | Time: 6:00pm"
+    },
+    {
+      "id": "6def62dce10b1a0943fb97a4cf74401eda8308d5",
+      "source": "wwoz",
+      "title": "Johnny Vidacovich Trio with Sam Kuslan & Max Moran",
+      "venue": "Maple Leaf",
+      "venue_url": "https://www.wwoz.org/organizations/maple-leaf",
+      "event_url": "https://www.wwoz.org/events/1386106",
+      "date_text": "Thursday, September 3",
+      "time_text": "8:00pm",
+      "start": "2026-09-03T20:00:00+00:00",
+      "description": "Venue: Maple Leaf | Date: Thursday, September 3 | Time: 8:00pm"
     },
     {
       "id": "3dc21a4bef8236bd7205cf7e19f5f9c2e23ab492",

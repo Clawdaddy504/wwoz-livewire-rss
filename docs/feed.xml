@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 03 Sep 2026 11:13:24 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 16:24:47 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy — 21st Amendment</title>
@@ -183,6 +183,13 @@
 <pubDate>Thu, 03 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Ben Kenney (of Incubus &amp; The Roots) — Gasa Gasa</title>
+<link>https://www.wwoz.org/events/1386321</link>
+<guid isPermaLink="false">9b92e786bd59537d2e21d942e247dba98af2c9b7</guid>
+<description>Venue: Gasa Gasa | Date: Thursday, September 3 | Time: 9:00pm</description>
+<pubDate>Thu, 03 Sep 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Chloé Marie — Good Measure at The Barnett</title>
 <link>https://www.wwoz.org/events/1382541</link>
 <guid isPermaLink="false">1534f229b06154872ed55852b2525200312de7d7</guid>
@@ -197,7 +204,7 @@
 <pubDate>Thu, 03 Sep 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Laurie D — Howlin' Wolf - The Den</title>
+<title>Laurie D &amp; Friends — Howlin' Wolf - The Den</title>
 <link>https://www.wwoz.org/events/1359341</link>
 <guid isPermaLink="false">1c9753357102241d4fc639c9d2fcb9eec9c4a64b</guid>
 <description>Venue: Howlin' Wolf - The Den | Date: Thursday, September 3 | Time: 7:00pm</description>
@@ -229,6 +236,20 @@
 <link>https://www.wwoz.org/events/1382861</link>
 <guid isPermaLink="false">2a153352c64a55cf43c1c332909cdaad5fd5a859</guid>
 <description>Venue: Mahogany Jazz Hall | Date: Thursday, September 3 | Time: 8:00pm</description>
+<pubDate>Thu, 03 Sep 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Booker &amp; Beyond Piano Series with Josh Paxton — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1386076</link>
+<guid isPermaLink="false">778c1d97798b5c2669ee3c6fe2161935a3eff64d</guid>
+<description>Venue: Maple Leaf | Date: Thursday, September 3 | Time: 6:00pm</description>
+<pubDate>Thu, 03 Sep 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Johnny Vidacovich Trio with Sam Kuslan &amp; Max Moran — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1386106</link>
+<guid isPermaLink="false">6def62dce10b1a0943fb97a4cf74401eda8308d5</guid>
+<description>Venue: Maple Leaf | Date: Thursday, September 3 | Time: 8:00pm</description>
 <pubDate>Thu, 03 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
