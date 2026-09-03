@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 03 Sep 2026 21:01:15 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 23:16:15 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy — 21st Amendment</title>
@@ -20,6 +20,13 @@
 <guid isPermaLink="false">ff9fb11279604b968eba8f40894a3e8f7e245d4b</guid>
 <description>Venue: 21st Amendment | Date: Thursday, September 3 | Time: 8:00pm</description>
 <pubDate>Thu, 03 Sep 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Tiffany Pollack — 4141 NOLA</title>
+<link>https://www.wwoz.org/events/1386656</link>
+<guid isPermaLink="false">8a091e31f697bca2c5079117eefe8f89c82bd56a</guid>
+<description>Venue: 4141 NOLA | Date: Thursday, September 3 | Time: 6:30pm</description>
+<pubDate>Thu, 03 Sep 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Bubbles Brown — Apple Barrel</title>
@@ -78,7 +85,7 @@
 <pubDate>Thu, 03 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Tom McDermott &amp; Tim Laughlin — Buffa's</title>
+<title>(CANCELLED) Tom McDermott &amp; Tim Laughlin — Buffa's</title>
 <link>https://www.wwoz.org/events/1384301</link>
 <guid isPermaLink="false">a6794342ad48d4c4e6272206464d5f0dc9eed6e5</guid>
 <description>Venue: Buffa's | Date: Thursday, September 3 | Time: 7:00pm</description>
@@ -377,6 +384,13 @@
 <guid isPermaLink="false">90cdf21066536b9d496cdac9aeea57cff5fdcede</guid>
 <description>Venue: Spotted Cat | Date: Thursday, September 3 | Time: 10:00pm</description>
 <pubDate>Thu, 03 Sep 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Rosalynn deRoos — Three Muses</title>
+<link>https://www.wwoz.org/events/1386636</link>
+<guid isPermaLink="false">d38357c1b5bc4eaad0ec7e4e41d8dbb9b4c849f4</guid>
+<description>Venue: Three Muses | Date: Thursday, September 3 | Time: 8:00pm</description>
+<pubDate>Thu, 03 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Mark Barrett &amp; The First Calls — Tropical Isle Bourbon</title>

@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-03T21:01:15.043566+00:00",
-  "count": 55,
+  "generated_at": "2026-09-03T23:16:15.223295+00:00",
+  "count": 57,
   "events": [
     {
       "id": "10692193d9ac5f9ef4afa152ceb175cf1fe8f984",
@@ -27,6 +27,18 @@
       "time_text": "8:00pm",
       "start": "2026-09-03T20:00:00+00:00",
       "description": "Venue: 21st Amendment | Date: Thursday, September 3 | Time: 8:00pm"
+    },
+    {
+      "id": "8a091e31f697bca2c5079117eefe8f89c82bd56a",
+      "source": "wwoz",
+      "title": "Tiffany Pollack",
+      "venue": "4141 NOLA",
+      "venue_url": "https://www.wwoz.org/organizations/4141-nola",
+      "event_url": "https://www.wwoz.org/events/1386656",
+      "date_text": "Thursday, September 3",
+      "time_text": "6:30pm",
+      "start": "2026-09-03T18:30:00+00:00",
+      "description": "Venue: 4141 NOLA | Date: Thursday, September 3 | Time: 6:30pm"
     },
     {
       "id": "14b2388122314732077602be32b2736d11f5fdf5",
@@ -127,7 +139,7 @@
     {
       "id": "a6794342ad48d4c4e6272206464d5f0dc9eed6e5",
       "source": "wwoz",
-      "title": "Tom McDermott & Tim Laughlin",
+      "title": "(CANCELLED) Tom McDermott & Tim Laughlin",
       "venue": "Buffa's",
       "venue_url": "https://www.wwoz.org/organizations/buffas",
       "event_url": "https://www.wwoz.org/events/1384301",
@@ -639,6 +651,18 @@
       "time_text": "10:00pm",
       "start": "2026-09-03T22:00:00+00:00",
       "description": "Venue: Spotted Cat | Date: Thursday, September 3 | Time: 10:00pm"
+    },
+    {
+      "id": "d38357c1b5bc4eaad0ec7e4e41d8dbb9b4c849f4",
+      "source": "wwoz",
+      "title": "Rosalynn deRoos",
+      "venue": "Three Muses",
+      "venue_url": "https://www.wwoz.org/organizations/three-muses",
+      "event_url": "https://www.wwoz.org/events/1386636",
+      "date_text": "Thursday, September 3",
+      "time_text": "8:00pm",
+      "start": "2026-09-03T20:00:00+00:00",
+      "description": "Venue: Three Muses | Date: Thursday, September 3 | Time: 8:00pm"
     },
     {
       "id": "38b3aa27ec492c65277c8043c462f5a20c820daf",
