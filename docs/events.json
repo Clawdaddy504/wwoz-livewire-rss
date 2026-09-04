@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-04T16:20:42.636424+00:00",
-  "count": 71,
+  "generated_at": "2026-09-04T20:44:55.629850+00:00",
+  "count": 75,
   "events": [
     {
       "id": "7e5871b1a926d7deb2156563a3ce440ebb745127",
@@ -291,6 +291,18 @@
       "time_text": "6:00pm",
       "start": "2026-09-04T18:00:00+00:00",
       "description": "Venue: d.b.a. | Date: Friday, September 4 | Time: 6:00pm"
+    },
+    {
+      "id": "d9aba8186a38d75b5b2b2f3c05b2d0bfe2a766f2",
+      "source": "wwoz",
+      "title": "Jeremy Davenport",
+      "venue": "Davenport Lounge at The Ritz-Carlton",
+      "venue_url": "https://www.wwoz.org/organizations/davenport-lounge-ritz-carlton",
+      "event_url": "https://www.wwoz.org/events/1387206",
+      "date_text": "Friday, September 4",
+      "time_text": "8:00pm",
+      "start": "2026-09-04T20:00:00+00:00",
+      "description": "Venue: Davenport Lounge at The Ritz-Carlton | Date: Friday, September 4 | Time: 8:00pm"
     },
     {
       "id": "109da580142ea5973ff59ac8c5e61244bfe02c8e",
@@ -653,28 +665,28 @@
       "description": "Venue: Pat O'Brien's | Date: Friday, September 4 | Time: 6:00pm"
     },
     {
-      "id": "b4c02b352f39139789093254c97dc8ec7d8d97d0",
+      "id": "25b69058f4c04dfc15aa678645bc299577a6efb0",
       "source": "wwoz",
       "title": "David Boeddinghaus",
-      "venue": "Polo Club at The Windsor Court, The",
+      "venue": "Polo Club at Windsor Court, The",
       "venue_url": "https://www.wwoz.org/organizations/polo-club-windsor-court",
       "event_url": "https://www.wwoz.org/events/1385931",
       "date_text": "Friday, September 4",
       "time_text": "5:30pm",
       "start": "2026-09-04T17:30:00+00:00",
-      "description": "Venue: Polo Club at The Windsor Court, The | Date: Friday, September 4 | Time: 5:30pm"
+      "description": "Venue: Polo Club at Windsor Court, The | Date: Friday, September 4 | Time: 5:30pm"
     },
     {
-      "id": "7a0823d499f7b29af475cb84011ed8a093f2d268",
+      "id": "bc34b239741443272eecf597dc8ee28f85e59f65",
       "source": "wwoz",
       "title": "Bean 'N The Boys",
-      "venue": "Polo Club at The Windsor Court, The",
+      "venue": "Polo Club at Windsor Court, The",
       "venue_url": "https://www.wwoz.org/organizations/polo-club-windsor-court",
       "event_url": "https://www.wwoz.org/events/1386031",
       "date_text": "Friday, September 4",
       "time_text": "9:00pm",
       "start": "2026-09-04T21:00:00+00:00",
-      "description": "Venue: Polo Club at The Windsor Court, The | Date: Friday, September 4 | Time: 9:00pm"
+      "description": "Venue: Polo Club at Windsor Court, The | Date: Friday, September 4 | Time: 9:00pm"
     },
     {
       "id": "a53b826b58144c9cee0ebe4055f2c6601aacbc6a",
@@ -831,6 +843,42 @@
       "time_text": "10:00pm",
       "start": "2026-09-04T22:00:00+00:00",
       "description": "Venue: Spotted Cat | Date: Friday, September 4 | Time: 10:00pm"
+    },
+    {
+      "id": "7d0402550b3f08a34ed0546c23f3ef470ca3ef9f",
+      "source": "wwoz",
+      "title": "Steamboat Stompers",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1386756",
+      "date_text": "Friday, September 4",
+      "time_text": "11:00am",
+      "start": "2026-09-04T11:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Friday, September 4 | Time: 11:00am"
+    },
+    {
+      "id": "e68211fcd61df0c7c59f744cfad37d116f3417bf",
+      "source": "wwoz",
+      "title": "Steamboat Stompers",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1386926",
+      "date_text": "Friday, September 4",
+      "time_text": "2:00pm",
+      "start": "2026-09-04T14:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Friday, September 4 | Time: 2:00pm"
+    },
+    {
+      "id": "6dc3b042d1a0b9da8336fa83ac247405291f98d6",
+      "source": "wwoz",
+      "title": "Dukes of Dixieland",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1387101",
+      "date_text": "Friday, September 4",
+      "time_text": "6:00pm",
+      "start": "2026-09-04T18:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Friday, September 4 | Time: 6:00pm"
     },
     {
       "id": "51ae25e0003aa37d11f6896f306daa98663c5cba",

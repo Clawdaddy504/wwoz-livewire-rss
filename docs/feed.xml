@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 04 Sep 2026 16:20:42 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 20:44:55 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy Duo — 21st Amendment</title>
@@ -174,6 +174,13 @@
 <guid isPermaLink="false">25072eb12854fe0b0673eb7e8a01cb18962be7d6</guid>
 <description>Venue: d.b.a. | Date: Friday, September 4 | Time: 6:00pm</description>
 <pubDate>Fri, 04 Sep 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jeremy Davenport — Davenport Lounge at The Ritz-Carlton</title>
+<link>https://www.wwoz.org/events/1387206</link>
+<guid isPermaLink="false">d9aba8186a38d75b5b2b2f3c05b2d0bfe2a766f2</guid>
+<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Friday, September 4 | Time: 8:00pm</description>
+<pubDate>Fri, 04 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>The Joe Krown Trio — Dos Jefes</title>
@@ -386,17 +393,17 @@
 <pubDate>Fri, 04 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>David Boeddinghaus — Polo Club at The Windsor Court, The</title>
+<title>David Boeddinghaus — Polo Club at Windsor Court, The</title>
 <link>https://www.wwoz.org/events/1385931</link>
-<guid isPermaLink="false">b4c02b352f39139789093254c97dc8ec7d8d97d0</guid>
-<description>Venue: Polo Club at The Windsor Court, The | Date: Friday, September 4 | Time: 5:30pm</description>
+<guid isPermaLink="false">25b69058f4c04dfc15aa678645bc299577a6efb0</guid>
+<description>Venue: Polo Club at Windsor Court, The | Date: Friday, September 4 | Time: 5:30pm</description>
 <pubDate>Fri, 04 Sep 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Bean 'N The Boys — Polo Club at The Windsor Court, The</title>
+<title>Bean 'N The Boys — Polo Club at Windsor Court, The</title>
 <link>https://www.wwoz.org/events/1386031</link>
-<guid isPermaLink="false">7a0823d499f7b29af475cb84011ed8a093f2d268</guid>
-<description>Venue: Polo Club at The Windsor Court, The | Date: Friday, September 4 | Time: 9:00pm</description>
+<guid isPermaLink="false">bc34b239741443272eecf597dc8ee28f85e59f65</guid>
+<description>Venue: Polo Club at Windsor Court, The | Date: Friday, September 4 | Time: 9:00pm</description>
 <pubDate>Fri, 04 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
@@ -489,6 +496,27 @@
 <guid isPermaLink="false">60d5962001d56718554d0d6bba122a0268231640</guid>
 <description>Venue: Spotted Cat | Date: Friday, September 4 | Time: 10:00pm</description>
 <pubDate>Fri, 04 Sep 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Steamboat Stompers — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1386756</link>
+<guid isPermaLink="false">7d0402550b3f08a34ed0546c23f3ef470ca3ef9f</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, September 4 | Time: 11:00am</description>
+<pubDate>Fri, 04 Sep 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Steamboat Stompers — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1386926</link>
+<guid isPermaLink="false">e68211fcd61df0c7c59f744cfad37d116f3417bf</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, September 4 | Time: 2:00pm</description>
+<pubDate>Fri, 04 Sep 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Dukes of Dixieland — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1387101</link>
+<guid isPermaLink="false">6dc3b042d1a0b9da8336fa83ac247405291f98d6</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, September 4 | Time: 6:00pm</description>
+<pubDate>Fri, 04 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Bad Penny Pleasuremakers — Three Muses</title>
