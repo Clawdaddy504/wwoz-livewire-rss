@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-05T20:19:39.080135+00:00",
-  "count": 85,
+  "generated_at": "2026-09-05T22:54:44.248526+00:00",
+  "count": 89,
   "events": [
     {
       "id": "341c554ff8721a0d5a6305e0cf8ceb054eb4fcd1",
@@ -89,6 +89,42 @@
       "description": "Venue: Bacchanal (OUTDOORS) | Date: Saturday, September 5 | Time: 7:00pm"
     },
     {
+      "id": "be7b04425344c1cbeb8a5cb8fceae411a2a944a5",
+      "source": "wwoz",
+      "title": "Aaron Levinson & Friends",
+      "venue": "Bamboula's",
+      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
+      "event_url": "https://www.wwoz.org/events/1388311",
+      "date_text": "Saturday, September 5",
+      "time_text": "11:00am",
+      "start": "2026-09-05T11:00:00+00:00",
+      "description": "Venue: Bamboula's | Date: Saturday, September 5 | Time: 11:00am"
+    },
+    {
+      "id": "bf29e6f7008edd8ae444680cc52add0a89060eb6",
+      "source": "wwoz",
+      "title": "James McClaskey & The Rhythm Band",
+      "venue": "Bamboula's",
+      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
+      "event_url": "https://www.wwoz.org/events/1388341",
+      "date_text": "Saturday, September 5",
+      "time_text": "2:15pm",
+      "start": "2026-09-05T14:15:00+00:00",
+      "description": "Venue: Bamboula's | Date: Saturday, September 5 | Time: 2:15pm"
+    },
+    {
+      "id": "05e44f0bbc5f396db6648e558f1acef3a7f2bf60",
+      "source": "wwoz",
+      "title": "Paggy Prine & Southern Soul",
+      "venue": "Bamboula's",
+      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
+      "event_url": "https://www.wwoz.org/events/1388366",
+      "date_text": "Saturday, September 5",
+      "time_text": "10:00pm",
+      "start": "2026-09-05T22:00:00+00:00",
+      "description": "Venue: Bamboula's | Date: Saturday, September 5 | Time: 10:00pm"
+    },
+    {
       "id": "d1cb67acc165bd3866428c4a7cc765d94314f72c",
       "source": "wwoz",
       "title": "Sky Choice + Moon Soda + Lyla DiPaul",
@@ -135,6 +171,18 @@
       "time_text": "9:00pm",
       "start": "2026-09-05T21:00:00+00:00",
       "description": "Venue: BJ's Lounge | Date: Saturday, September 5 | Time: 9:00pm"
+    },
+    {
+      "id": "761030bbe1da5cda2b71d5eaeca0e149758b525c",
+      "source": "wwoz",
+      "title": "The Caesar Brothers' FunkBox",
+      "venue": "Blue Nile",
+      "venue_url": "https://www.wwoz.org/organizations/blue-nile",
+      "event_url": "https://www.wwoz.org/events/1388556",
+      "date_text": "Saturday, September 5",
+      "time_text": "7:30pm",
+      "start": "2026-09-05T19:30:00+00:00",
+      "description": "Venue: Blue Nile | Date: Saturday, September 5 | Time: 7:30pm"
     },
     {
       "id": "03ad500129f760b7f0f7836ccdb228a7b848bf1b",

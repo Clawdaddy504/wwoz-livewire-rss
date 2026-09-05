@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 05 Sep 2026 20:19:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 22:54:44 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
@@ -57,6 +57,27 @@
 <pubDate>Sat, 05 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Aaron Levinson &amp; Friends — Bamboula's</title>
+<link>https://www.wwoz.org/events/1388311</link>
+<guid isPermaLink="false">be7b04425344c1cbeb8a5cb8fceae411a2a944a5</guid>
+<description>Venue: Bamboula's | Date: Saturday, September 5 | Time: 11:00am</description>
+<pubDate>Sat, 05 Sep 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>James McClaskey &amp; The Rhythm Band — Bamboula's</title>
+<link>https://www.wwoz.org/events/1388341</link>
+<guid isPermaLink="false">bf29e6f7008edd8ae444680cc52add0a89060eb6</guid>
+<description>Venue: Bamboula's | Date: Saturday, September 5 | Time: 2:15pm</description>
+<pubDate>Sat, 05 Sep 2026 14:15:00 +0000</pubDate>
+</item>
+<item>
+<title>Paggy Prine &amp; Southern Soul — Bamboula's</title>
+<link>https://www.wwoz.org/events/1388366</link>
+<guid isPermaLink="false">05e44f0bbc5f396db6648e558f1acef3a7f2bf60</guid>
+<description>Venue: Bamboula's | Date: Saturday, September 5 | Time: 10:00pm</description>
+<pubDate>Sat, 05 Sep 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Sky Choice + Moon Soda + Lyla DiPaul — Banks Street Bar</title>
 <link>https://www.wwoz.org/events/1378981</link>
 <guid isPermaLink="false">d1cb67acc165bd3866428c4a7cc765d94314f72c</guid>
@@ -83,6 +104,13 @@
 <guid isPermaLink="false">e64f6c793b86a68059737006574647f30b77c361</guid>
 <description>Venue: BJ's Lounge | Date: Saturday, September 5 | Time: 9:00pm</description>
 <pubDate>Sat, 05 Sep 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Caesar Brothers' FunkBox — Blue Nile</title>
+<link>https://www.wwoz.org/events/1388556</link>
+<guid isPermaLink="false">761030bbe1da5cda2b71d5eaeca0e149758b525c</guid>
+<description>Venue: Blue Nile | Date: Saturday, September 5 | Time: 7:30pm</description>
+<pubDate>Sat, 05 Sep 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Afrobeat NOLA — Blue Nile</title>
