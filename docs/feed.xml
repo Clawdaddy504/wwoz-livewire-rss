@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 05 Sep 2026 17:20:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 20:19:39 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
@@ -83,6 +83,20 @@
 <guid isPermaLink="false">e64f6c793b86a68059737006574647f30b77c361</guid>
 <description>Venue: BJ's Lounge | Date: Saturday, September 5 | Time: 9:00pm</description>
 <pubDate>Sat, 05 Sep 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Afrobeat NOLA — Blue Nile</title>
+<link>https://www.wwoz.org/events/1387891</link>
+<guid isPermaLink="false">03ad500129f760b7f0f7836ccdb228a7b848bf1b</guid>
+<description>Venue: Blue Nile | Date: Saturday, September 5 | Time: 10:00pm</description>
+<pubDate>Sat, 05 Sep 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>An Evening with Sam Price &amp; the True Believers — B Mac's (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1387836</link>
+<guid isPermaLink="false">c20fb90198b332a204d4692c8f73d9faa77c515a</guid>
+<description>Venue: B Mac's (OUTDOORS) | Date: Saturday, September 5 | Time: 7:00pm</description>
+<pubDate>Sat, 05 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Andre Lovett Band — BMC</title>
@@ -232,6 +246,27 @@
 <pubDate>Sat, 05 Sep 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
+<title>Dead Men Don't Play Jazz — Favela Chic</title>
+<link>https://www.wwoz.org/events/1387756</link>
+<guid isPermaLink="false">57a537702be3189249206c55c27dab656d688445</guid>
+<description>Venue: Favela Chic | Date: Saturday, September 5 | Time: 4:00pm</description>
+<pubDate>Sat, 05 Sep 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jay Dufour &amp; The Strange Gang — Favela Chic</title>
+<link>https://www.wwoz.org/events/1387776</link>
+<guid isPermaLink="false">197ef60c54ba234d1160bf404dbfeea4fbd5e5fe</guid>
+<description>Venue: Favela Chic | Date: Saturday, September 5 | Time: 7:00pm</description>
+<pubDate>Sat, 05 Sep 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Thee Tim Brown Arrangement — Favela Chic</title>
+<link>https://www.wwoz.org/events/1387796</link>
+<guid isPermaLink="false">12cb7b4bb6c50f717d0b1c6d5cdcc2c4cb97b3de</guid>
+<description>Venue: Favela Chic | Date: Saturday, September 5 | Time: 10:00pm</description>
+<pubDate>Sat, 05 Sep 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Steve DeTroy Band — Fritzel's Jazz Club</title>
 <link>https://www.wwoz.org/events/1383596</link>
 <guid isPermaLink="false">6b0f475f956d6a6a74de0149ca3429c2e0fa8a33</guid>
@@ -321,6 +356,34 @@
 <guid isPermaLink="false">c32f97112f4812c5c57883dd98779b2a1450093b</guid>
 <description>Venue: Mahogany Jazz Hall | Date: Saturday, September 5 | Time: 9:30pm</description>
 <pubDate>Sat, 05 Sep 2026 21:30:00 +0000</pubDate>
+</item>
+<item>
+<title>NOLA Axe Men — Maison, The</title>
+<link>https://www.wwoz.org/events/1387456</link>
+<guid isPermaLink="false">bea3a8d5a07696b16a43c31fea239a7d19cb4b07</guid>
+<description>Venue: Maison, The | Date: Saturday, September 5 | Time: 1:00pm</description>
+<pubDate>Sat, 05 Sep 2026 13:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Smoking Time Jazz Club — Maison, The</title>
+<link>https://www.wwoz.org/events/1387476</link>
+<guid isPermaLink="false">d37c6049f56e29abc7e881c3e9f4a97591c98ea3</guid>
+<description>Venue: Maison, The | Date: Saturday, September 5 | Time: 4:00pm</description>
+<pubDate>Sat, 05 Sep 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Street Lyfe — Maison, The</title>
+<link>https://www.wwoz.org/events/1387491</link>
+<guid isPermaLink="false">574569c689297607a00937379a79a11df419ae18</guid>
+<description>Venue: Maison, The | Date: Saturday, September 5 | Time: 8:00pm</description>
+<pubDate>Sat, 05 Sep 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>DJ B Dot — Maison, The</title>
+<link>https://www.wwoz.org/events/1387506</link>
+<guid isPermaLink="false">45042cfb28638d53f1702bb094353de0fd995c0d</guid>
+<description>Venue: Maison, The | Date: Saturday, September 5 | Time: 10:30pm</description>
+<pubDate>Sat, 05 Sep 2026 22:30:00 +0000</pubDate>
 </item>
 <item>
 <title>The Quickening — Maple Leaf</title>

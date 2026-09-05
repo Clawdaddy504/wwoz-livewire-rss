@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-05T17:20:48.320162+00:00",
-  "count": 76,
+  "generated_at": "2026-09-05T20:19:39.080135+00:00",
+  "count": 85,
   "events": [
     {
       "id": "341c554ff8721a0d5a6305e0cf8ceb054eb4fcd1",
@@ -135,6 +135,30 @@
       "time_text": "9:00pm",
       "start": "2026-09-05T21:00:00+00:00",
       "description": "Venue: BJ's Lounge | Date: Saturday, September 5 | Time: 9:00pm"
+    },
+    {
+      "id": "03ad500129f760b7f0f7836ccdb228a7b848bf1b",
+      "source": "wwoz",
+      "title": "Afrobeat NOLA",
+      "venue": "Blue Nile",
+      "venue_url": "https://www.wwoz.org/organizations/blue-nile",
+      "event_url": "https://www.wwoz.org/events/1387891",
+      "date_text": "Saturday, September 5",
+      "time_text": "10:00pm",
+      "start": "2026-09-05T22:00:00+00:00",
+      "description": "Venue: Blue Nile | Date: Saturday, September 5 | Time: 10:00pm"
+    },
+    {
+      "id": "c20fb90198b332a204d4692c8f73d9faa77c515a",
+      "source": "wwoz",
+      "title": "An Evening with Sam Price & the True Believers",
+      "venue": "B Mac's (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/b-macs-outdoors",
+      "event_url": "https://www.wwoz.org/events/1387836",
+      "date_text": "Saturday, September 5",
+      "time_text": "7:00pm",
+      "start": "2026-09-05T19:00:00+00:00",
+      "description": "Venue: B Mac's (OUTDOORS) | Date: Saturday, September 5 | Time: 7:00pm"
     },
     {
       "id": "a3370580da1108a37d693fdb186fc5894730f393",
@@ -389,6 +413,42 @@
       "description": "Venue: Double Dealer at the Orpheum Theater | Date: Saturday, September 5 | Time: 9:30pm"
     },
     {
+      "id": "57a537702be3189249206c55c27dab656d688445",
+      "source": "wwoz",
+      "title": "Dead Men Don't Play Jazz",
+      "venue": "Favela Chic",
+      "venue_url": "https://www.wwoz.org/organizations/favela-chic",
+      "event_url": "https://www.wwoz.org/events/1387756",
+      "date_text": "Saturday, September 5",
+      "time_text": "4:00pm",
+      "start": "2026-09-05T16:00:00+00:00",
+      "description": "Venue: Favela Chic | Date: Saturday, September 5 | Time: 4:00pm"
+    },
+    {
+      "id": "197ef60c54ba234d1160bf404dbfeea4fbd5e5fe",
+      "source": "wwoz",
+      "title": "Jay Dufour & The Strange Gang",
+      "venue": "Favela Chic",
+      "venue_url": "https://www.wwoz.org/organizations/favela-chic",
+      "event_url": "https://www.wwoz.org/events/1387776",
+      "date_text": "Saturday, September 5",
+      "time_text": "7:00pm",
+      "start": "2026-09-05T19:00:00+00:00",
+      "description": "Venue: Favela Chic | Date: Saturday, September 5 | Time: 7:00pm"
+    },
+    {
+      "id": "12cb7b4bb6c50f717d0b1c6d5cdcc2c4cb97b3de",
+      "source": "wwoz",
+      "title": "Thee Tim Brown Arrangement",
+      "venue": "Favela Chic",
+      "venue_url": "https://www.wwoz.org/organizations/favela-chic",
+      "event_url": "https://www.wwoz.org/events/1387796",
+      "date_text": "Saturday, September 5",
+      "time_text": "10:00pm",
+      "start": "2026-09-05T22:00:00+00:00",
+      "description": "Venue: Favela Chic | Date: Saturday, September 5 | Time: 10:00pm"
+    },
+    {
       "id": "6b0f475f956d6a6a74de0149ca3429c2e0fa8a33",
       "source": "wwoz",
       "title": "Steve DeTroy Band",
@@ -543,6 +603,54 @@
       "time_text": "9:30pm",
       "start": "2026-09-05T21:30:00+00:00",
       "description": "Venue: Mahogany Jazz Hall | Date: Saturday, September 5 | Time: 9:30pm"
+    },
+    {
+      "id": "bea3a8d5a07696b16a43c31fea239a7d19cb4b07",
+      "source": "wwoz",
+      "title": "NOLA Axe Men",
+      "venue": "Maison, The",
+      "venue_url": "https://www.wwoz.org/organizations/maison",
+      "event_url": "https://www.wwoz.org/events/1387456",
+      "date_text": "Saturday, September 5",
+      "time_text": "1:00pm",
+      "start": "2026-09-05T13:00:00+00:00",
+      "description": "Venue: Maison, The | Date: Saturday, September 5 | Time: 1:00pm"
+    },
+    {
+      "id": "d37c6049f56e29abc7e881c3e9f4a97591c98ea3",
+      "source": "wwoz",
+      "title": "Smoking Time Jazz Club",
+      "venue": "Maison, The",
+      "venue_url": "https://www.wwoz.org/organizations/maison",
+      "event_url": "https://www.wwoz.org/events/1387476",
+      "date_text": "Saturday, September 5",
+      "time_text": "4:00pm",
+      "start": "2026-09-05T16:00:00+00:00",
+      "description": "Venue: Maison, The | Date: Saturday, September 5 | Time: 4:00pm"
+    },
+    {
+      "id": "574569c689297607a00937379a79a11df419ae18",
+      "source": "wwoz",
+      "title": "Street Lyfe",
+      "venue": "Maison, The",
+      "venue_url": "https://www.wwoz.org/organizations/maison",
+      "event_url": "https://www.wwoz.org/events/1387491",
+      "date_text": "Saturday, September 5",
+      "time_text": "8:00pm",
+      "start": "2026-09-05T20:00:00+00:00",
+      "description": "Venue: Maison, The | Date: Saturday, September 5 | Time: 8:00pm"
+    },
+    {
+      "id": "45042cfb28638d53f1702bb094353de0fd995c0d",
+      "source": "wwoz",
+      "title": "DJ B Dot",
+      "venue": "Maison, The",
+      "venue_url": "https://www.wwoz.org/organizations/maison",
+      "event_url": "https://www.wwoz.org/events/1387506",
+      "date_text": "Saturday, September 5",
+      "time_text": "10:30pm",
+      "start": "2026-09-05T22:30:00+00:00",
+      "description": "Venue: Maison, The | Date: Saturday, September 5 | Time: 10:30pm"
     },
     {
       "id": "fabdcb543391534a2db9d8dacbb8ba29a31a0272",
