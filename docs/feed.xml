@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 07 Sep 2026 19:09:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 23:29:18 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>James Beaumont &amp; Coyote Duo — 21st Amendment</title>
@@ -13,6 +13,20 @@
 <guid isPermaLink="false">536170f78fc0a2b88fb2513579d356bec4c5857f</guid>
 <description>Venue: 21st Amendment | Date: Monday, September 7 | Time: 8:00pm</description>
 <pubDate>Mon, 07 Sep 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Margie Perez — 30/90</title>
+<link>https://www.wwoz.org/events/1388881</link>
+<guid isPermaLink="false">dbcb4ea290e110d53b9f9ad06d5d3ffa9c3446dd</guid>
+<description>Venue: 30/90 | Date: Monday, September 7 | Time: 6:00pm</description>
+<pubDate>Mon, 07 Sep 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Piano Man 'G' — 30/90</title>
+<link>https://www.wwoz.org/events/1388891</link>
+<guid isPermaLink="false">968570497e9879441feefc28edcfc2903ac4ce74</guid>
+<description>Venue: 30/90 | Date: Monday, September 7 | Time: 9:00pm</description>
+<pubDate>Mon, 07 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Betsy Propane's Smoke Show Cabaret — AllWays Lounge</title>

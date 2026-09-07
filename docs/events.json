@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-07T19:09:00.969056+00:00",
-  "count": 43,
+  "generated_at": "2026-09-07T23:29:18.876354+00:00",
+  "count": 45,
   "events": [
     {
       "id": "536170f78fc0a2b88fb2513579d356bec4c5857f",
@@ -15,6 +15,30 @@
       "time_text": "8:00pm",
       "start": "2026-09-07T20:00:00+00:00",
       "description": "Venue: 21st Amendment | Date: Monday, September 7 | Time: 8:00pm"
+    },
+    {
+      "id": "dbcb4ea290e110d53b9f9ad06d5d3ffa9c3446dd",
+      "source": "wwoz",
+      "title": "Margie Perez",
+      "venue": "30/90",
+      "venue_url": "https://www.wwoz.org/organizations/30-90",
+      "event_url": "https://www.wwoz.org/events/1388881",
+      "date_text": "Monday, September 7",
+      "time_text": "6:00pm",
+      "start": "2026-09-07T18:00:00+00:00",
+      "description": "Venue: 30/90 | Date: Monday, September 7 | Time: 6:00pm"
+    },
+    {
+      "id": "968570497e9879441feefc28edcfc2903ac4ce74",
+      "source": "wwoz",
+      "title": "Piano Man 'G'",
+      "venue": "30/90",
+      "venue_url": "https://www.wwoz.org/organizations/30-90",
+      "event_url": "https://www.wwoz.org/events/1388891",
+      "date_text": "Monday, September 7",
+      "time_text": "9:00pm",
+      "start": "2026-09-07T21:00:00+00:00",
+      "description": "Venue: 30/90 | Date: Monday, September 7 | Time: 9:00pm"
     },
     {
       "id": "86f557df4364655c50bf46d54f966e35c7543ec4",
