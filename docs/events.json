@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-07T23:29:18.876354+00:00",
-  "count": 45,
+  "generated_at": "2026-09-08T04:34:37.188328+00:00",
+  "count": 47,
   "events": [
     {
       "id": "536170f78fc0a2b88fb2513579d356bec4c5857f",
@@ -365,6 +365,18 @@
       "description": "Venue: Maison, The | Date: Monday, September 7 | Time: 7:00pm"
     },
     {
+      "id": "74b53bab480517331980549deec4cbd6d62867b0",
+      "source": "wwoz",
+      "title": "Danny Rubio & the Catahoula Music Company ft. Jack Pritchett",
+      "venue": "Maison Bourbon Jazz Club",
+      "venue_url": "https://www.wwoz.org/organizations/maison-bourbon-jazz-club",
+      "event_url": "https://www.wwoz.org/events/1389321",
+      "date_text": "Monday, September 7",
+      "time_text": "8:00pm",
+      "start": "2026-09-07T20:00:00+00:00",
+      "description": "Venue: Maison Bourbon Jazz Club | Date: Monday, September 7 | Time: 8:00pm"
+    },
+    {
       "id": "767fccb0014d2c7437f5ce97a3b634cb70b44455",
       "source": "wwoz",
       "title": "George Porter Jr. Trio ft. Chris Adkins",
@@ -495,6 +507,18 @@
       "time_text": "10:00pm",
       "start": "2026-09-07T22:00:00+00:00",
       "description": "Venue: Saturn Bar | Date: Monday, September 7 | Time: 10:00pm"
+    },
+    {
+      "id": "3ab50a91246e8026f0b9d2c65004c48a1d86984a",
+      "source": "wwoz",
+      "title": "Leoni Evans + Gina Leslie",
+      "venue": "St. Roch Tavern",
+      "venue_url": "https://www.wwoz.org/organizations/st-roch-tavern",
+      "event_url": "https://www.wwoz.org/events/1389226",
+      "date_text": "Monday, September 7",
+      "time_text": "9:00pm",
+      "start": "2026-09-07T21:00:00+00:00",
+      "description": "Venue: St. Roch Tavern | Date: Monday, September 7 | Time: 9:00pm"
     },
     {
       "id": "9d0c97e7fb7423029c6416269dd4538c57fde592",
