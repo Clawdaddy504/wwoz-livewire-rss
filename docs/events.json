@@ -1,7 +1,7 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-08T11:17:51.299009+00:00",
+  "generated_at": "2026-09-08T16:37:24.956650+00:00",
   "count": 50,
   "events": [
     {
@@ -437,24 +437,24 @@
       "description": "Venue: Preservation Hall | Date: Tuesday, September 8 | Time: 7:30pm"
     },
     {
-      "id": "ee4f000412fa26c5ed19040745ba1a92d7504594",
-      "source": "wwoz",
-      "title": "Preservation All-Stars",
-      "venue": "Preservation Hall",
-      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
-      "event_url": "https://www.wwoz.org/events/1379886",
-      "date_text": "Tuesday, September 8",
-      "time_text": "8:45pm",
-      "start": "2026-09-08T20:45:00+00:00",
-      "description": "Venue: Preservation Hall | Date: Tuesday, September 8 | Time: 8:45pm"
-    },
-    {
       "id": "f6ff6509a2529904b4b8166d3a5aa28f712b1813",
       "source": "wwoz",
       "title": "Preservation All-Stars",
       "venue": "Preservation Hall",
       "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
       "event_url": "https://www.wwoz.org/events/1379881",
+      "date_text": "Tuesday, September 8",
+      "time_text": "8:45pm",
+      "start": "2026-09-08T20:45:00+00:00",
+      "description": "Venue: Preservation Hall | Date: Tuesday, September 8 | Time: 8:45pm"
+    },
+    {
+      "id": "ee4f000412fa26c5ed19040745ba1a92d7504594",
+      "source": "wwoz",
+      "title": "Preservation All-Stars",
+      "venue": "Preservation Hall",
+      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
+      "event_url": "https://www.wwoz.org/events/1379886",
       "date_text": "Tuesday, September 8",
       "time_text": "8:45pm",
       "start": "2026-09-08T20:45:00+00:00",

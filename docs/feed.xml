@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 08 Sep 2026 11:17:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 16:37:24 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dave Hammer — 21st Amendment</title>
@@ -261,15 +261,15 @@
 </item>
 <item>
 <title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1379886</link>
-<guid isPermaLink="false">ee4f000412fa26c5ed19040745ba1a92d7504594</guid>
+<link>https://www.wwoz.org/events/1379881</link>
+<guid isPermaLink="false">f6ff6509a2529904b4b8166d3a5aa28f712b1813</guid>
 <description>Venue: Preservation Hall | Date: Tuesday, September 8 | Time: 8:45pm</description>
 <pubDate>Tue, 08 Sep 2026 20:45:00 +0000</pubDate>
 </item>
 <item>
 <title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1379881</link>
-<guid isPermaLink="false">f6ff6509a2529904b4b8166d3a5aa28f712b1813</guid>
+<link>https://www.wwoz.org/events/1379886</link>
+<guid isPermaLink="false">ee4f000412fa26c5ed19040745ba1a92d7504594</guid>
 <description>Venue: Preservation Hall | Date: Tuesday, September 8 | Time: 8:45pm</description>
 <pubDate>Tue, 08 Sep 2026 20:45:00 +0000</pubDate>
 </item>
