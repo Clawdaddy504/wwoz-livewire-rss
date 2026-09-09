@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 09 Sep 2026 16:37:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 20:55:23 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dr. Sick — 21st Amendment</title>
@@ -27,6 +27,13 @@
 <guid isPermaLink="false">b5861c0c28161103bdef705ae614e15ab1c1f0ff</guid>
 <description>Venue: 30/90 | Date: Wednesday, September 9 | Time: 9:00pm</description>
 <pubDate>Wed, 09 Sep 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Danica Hart — 100 Men Hall - Bay St. Louis</title>
+<link>https://www.wwoz.org/events/1390046</link>
+<guid isPermaLink="false">9675a326adaee9d66385c2a21b79076b1bded5d9</guid>
+<description>Venue: 100 Men Hall - Bay St. Louis | Date: Wednesday, September 9 | Time: 7:00pm</description>
+<pubDate>Wed, 09 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Jesse Morrow — Bacchanal (OUTDOORS)</title>

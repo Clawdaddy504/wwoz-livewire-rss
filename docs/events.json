@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-09T16:37:35.580716+00:00",
-  "count": 57,
+  "generated_at": "2026-09-09T20:55:23.669943+00:00",
+  "count": 58,
   "events": [
     {
       "id": "4dd68318e96ec80541d729d510b7244856642ded",
@@ -39,6 +39,18 @@
       "time_text": "9:00pm",
       "start": "2026-09-09T21:00:00+00:00",
       "description": "Venue: 30/90 | Date: Wednesday, September 9 | Time: 9:00pm"
+    },
+    {
+      "id": "9675a326adaee9d66385c2a21b79076b1bded5d9",
+      "source": "wwoz",
+      "title": "Danica Hart",
+      "venue": "100 Men Hall - Bay St. Louis",
+      "venue_url": "https://www.wwoz.org/organizations/100-men-hall-bay-st-louis",
+      "event_url": "https://www.wwoz.org/events/1390046",
+      "date_text": "Wednesday, September 9",
+      "time_text": "7:00pm",
+      "start": "2026-09-09T19:00:00+00:00",
+      "description": "Venue: 100 Men Hall - Bay St. Louis | Date: Wednesday, September 9 | Time: 7:00pm"
     },
     {
       "id": "8495e3ea3c4fe54ed961a828a7a1ae2c7340f0cc",
