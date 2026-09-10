@@ -5,413 +5,539 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 10 Sep 2026 04:41:29 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 11:18:30 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
-<title>Dr. Sick — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1381726</link>
-<guid isPermaLink="false">4dd68318e96ec80541d729d510b7244856642ded</guid>
-<description>Venue: 21st Amendment | Date: Wednesday, September 9 | Time: 8:00pm</description>
-<pubDate>Wed, 09 Sep 2026 20:00:00 +0000</pubDate>
+<title>Big Joe Kennedy — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1381591</link>
+<guid isPermaLink="false">cc8a7b87ae8c4c1c3ffcf59204cc733474742268</guid>
+<description>Venue: 21st Amendment | Date: Thursday, September 10 | Time: 3:00pm</description>
+<pubDate>Thu, 10 Sep 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mother Ruckus — 30/90</title>
-<link>https://www.wwoz.org/events/1388946</link>
-<guid isPermaLink="false">c33eed0eb60d98933dcb25df6dfb8939f9f766b9</guid>
-<description>Venue: 30/90 | Date: Wednesday, September 9 | Time: 6:00pm</description>
-<pubDate>Wed, 09 Sep 2026 18:00:00 +0000</pubDate>
+<title>Marty Peters &amp; The Party Meters — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1381616</link>
+<guid isPermaLink="false">a09b566467934d17be6f4cbe1a77bdc3689efd63</guid>
+<description>Venue: 21st Amendment | Date: Thursday, September 10 | Time: 8:00pm</description>
+<pubDate>Thu, 10 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Budz — 30/90</title>
-<link>https://www.wwoz.org/events/1388951</link>
-<guid isPermaLink="false">b5861c0c28161103bdef705ae614e15ab1c1f0ff</guid>
-<description>Venue: 30/90 | Date: Wednesday, September 9 | Time: 9:00pm</description>
-<pubDate>Wed, 09 Sep 2026 21:00:00 +0000</pubDate>
+<title>Dapper Dandies — 30/90</title>
+<link>https://www.wwoz.org/events/1388901</link>
+<guid isPermaLink="false">8e9e188ab56ffa5e259b5720de35e5777aba7be0</guid>
+<description>Venue: 30/90 | Date: Thursday, September 10 | Time: 6:00pm</description>
+<pubDate>Thu, 10 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Danica Hart — 100 Men Hall - Bay St. Louis</title>
-<link>https://www.wwoz.org/events/1390046</link>
-<guid isPermaLink="false">9675a326adaee9d66385c2a21b79076b1bded5d9</guid>
-<description>Venue: 100 Men Hall - Bay St. Louis | Date: Wednesday, September 9 | Time: 7:00pm</description>
-<pubDate>Wed, 09 Sep 2026 19:00:00 +0000</pubDate>
+<title>Where Y'At Brass Band — 30/90</title>
+<link>https://www.wwoz.org/events/1388961</link>
+<guid isPermaLink="false">e4033eab659b5cc50b3e7a9a726709aa724b79f2</guid>
+<description>Venue: 30/90 | Date: Thursday, September 10 | Time: 9:00pm</description>
+<pubDate>Thu, 10 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jesse Morrow — Bacchanal (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1373271</link>
-<guid isPermaLink="false">8495e3ea3c4fe54ed961a828a7a1ae2c7340f0cc</guid>
-<description>Venue: Bacchanal (OUTDOORS) | Date: Wednesday, September 9 | Time: 6:00pm</description>
-<pubDate>Wed, 09 Sep 2026 18:00:00 +0000</pubDate>
+<title>Ross Hoppe — 4141 NOLA</title>
+<link>https://www.wwoz.org/events/1386661</link>
+<guid isPermaLink="false">ad0f79d0c14619a2d60dba7ee1e18a5b373d8f2d</guid>
+<description>Venue: 4141 NOLA | Date: Thursday, September 10 | Time: 6:30pm</description>
+<pubDate>Thu, 10 Sep 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Jacky Blaire &amp; the Hot Biscuits — Bamboula's</title>
-<link>https://www.wwoz.org/events/1388156</link>
-<guid isPermaLink="false">6a2898d866b6bbc7cd06e74150f5c51734652865</guid>
-<description>Venue: Bamboula's | Date: Wednesday, September 9 | Time: 12:00pm</description>
-<pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+<title>Bubbles Brown — Apple Barrel</title>
+<link>https://www.wwoz.org/events/1379076</link>
+<guid isPermaLink="false">5601a7ab41b6d88de3282bd20a5887621263c23b</guid>
+<description>Venue: Apple Barrel | Date: Thursday, September 10 | Time: 6:00pm</description>
+<pubDate>Thu, 10 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Swinging with John Saavedra — Bamboula's</title>
-<link>https://www.wwoz.org/events/1388191</link>
-<guid isPermaLink="false">f8858da331ff4969306d8e5f6b7c7c21f6505943</guid>
-<description>Venue: Bamboula's | Date: Wednesday, September 9 | Time: 4:30pm</description>
-<pubDate>Wed, 09 Sep 2026 16:30:00 +0000</pubDate>
+<title>Johnny Mastro — Apple Barrel</title>
+<link>https://www.wwoz.org/events/1389516</link>
+<guid isPermaLink="false">9107a5afbe144cc9dfecc6f20ef043e406f33132</guid>
+<description>Venue: Apple Barrel | Date: Thursday, September 10 | Time: 10:30pm</description>
+<pubDate>Thu, 10 Sep 2026 22:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Jelly Roll Stompers — Bamboula's</title>
-<link>https://www.wwoz.org/events/1388196</link>
-<guid isPermaLink="false">8048fd83daffecf2b546f66db6d8b876d777f835</guid>
-<description>Venue: Bamboula's | Date: Wednesday, September 9 | Time: 9:00pm</description>
-<pubDate>Wed, 09 Sep 2026 21:00:00 +0000</pubDate>
+<title>Raphael Bas — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1373331</link>
+<guid isPermaLink="false">78e049744043592597ca23ce4c4fba41e932d5f9</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Thursday, September 10 | Time: 6:00pm</description>
+<pubDate>Thu, 10 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Firm Roots ft. Peter Harris, The Groovemaster, Derek Douget, and Dwight Fitch Jr. — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1382371</link>
-<guid isPermaLink="false">286c1b5dd6be5c79d2c4f8b9caa1139aa92e4397</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Wednesday, September 9 | Time: 8:00pm</description>
-<pubDate>Wed, 09 Sep 2026 20:00:00 +0000</pubDate>
+<title>JJ &amp; the A-OKs — Bamboula's</title>
+<link>https://www.wwoz.org/events/1388216</link>
+<guid isPermaLink="false">030b9219771112733537830edd501aee70514783</guid>
+<description>Venue: Bamboula's | Date: Thursday, September 10 | Time: 12:00pm</description>
+<pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Firm Roots ft. Peter Harris, The Groovemaster, Derek Douget, and Dwight Fitch Jr. — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1382376</link>
-<guid isPermaLink="false">e060912560fc8c353cf4d34fd97b8b94db1c5a18</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Wednesday, September 9 | Time: 10:00pm</description>
-<pubDate>Wed, 09 Sep 2026 22:00:00 +0000</pubDate>
+<title>Cristina Kaminis &amp; The Mix — Bamboula's</title>
+<link>https://www.wwoz.org/events/1388231</link>
+<guid isPermaLink="false">d5eafda05bca880af83ba5e282a814493d066c22</guid>
+<description>Venue: Bamboula's | Date: Thursday, September 10 | Time: 4:30pm</description>
+<pubDate>Thu, 10 Sep 2026 16:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Matt Lemmler — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1384476</link>
-<guid isPermaLink="false">699c09824d2c534b254dfbbf26dac2641e4fa25f</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Wednesday, September 9 | Time: 8:00pm</description>
-<pubDate>Wed, 09 Sep 2026 20:00:00 +0000</pubDate>
+<title>Wolfe Johns Blues Band — Bamboula's</title>
+<link>https://www.wwoz.org/events/1388246</link>
+<guid isPermaLink="false">bf24c59c07e109419cfe5dabc01bf255884b7b93</guid>
+<description>Venue: Bamboula's | Date: Thursday, September 10 | Time: 9:00pm</description>
+<pubDate>Thu, 10 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mark Carroll — Buffa's</title>
-<link>https://www.wwoz.org/events/1384341</link>
-<guid isPermaLink="false">1caf603658060d2db2ed6b6f816304db296a255e</guid>
-<description>Venue: Buffa's | Date: Wednesday, September 9 | Time: 7:00pm</description>
-<pubDate>Wed, 09 Sep 2026 19:00:00 +0000</pubDate>
+<title>Special Film Screening of Urgh! A Music War - Followed by Caffeinated Spider with DJs Jumpcut &amp; Johnny Vista — Bar Redux</title>
+<link>https://www.wwoz.org/events/1382271</link>
+<guid isPermaLink="false">e589637bacc231bfa02186ca68ac79f35d75a09f</guid>
+<description>Venue: Bar Redux | Date: Thursday, September 10 | Time: 8:00pm</description>
+<pubDate>Thu, 10 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jam-ilton — Café Negril</title>
-<link>https://www.wwoz.org/events/1384956</link>
-<guid isPermaLink="false">72fab544881b2680f865e20e2934f00003df98b3</guid>
-<description>Venue: Café Negril | Date: Wednesday, September 9 | Time: 7:30pm</description>
-<pubDate>Wed, 09 Sep 2026 19:30:00 +0000</pubDate>
+<title>Cryptic ft. Peter Harris, Ricardo Pascal &amp; Jamison Ross — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1382521</link>
+<guid isPermaLink="false">a1c3e66ad935970912c98e810980a70e6308d0f3</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Thursday, September 10 | Time: 8:00pm</description>
+<pubDate>Thu, 10 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Les Getrex — Cajun Boil House</title>
-<link>https://www.wwoz.org/events/1381426</link>
-<guid isPermaLink="false">6891f8609d62d25c1b2f79de8c8451cde413cf17</guid>
-<description>Venue: Cajun Boil House | Date: Wednesday, September 9 | Time: 3:00pm</description>
-<pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
+<title>Cryptic ft. Peter Harris, Ricardo Pascal &amp; Jamison Ross — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1382526</link>
+<guid isPermaLink="false">fb81e2af7a9ab8da5dd74afb56a1894f97c142ea</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Thursday, September 10 | Time: 10:00pm</description>
+<pubDate>Thu, 10 Sep 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Midnight — Civic Theatre</title>
-<link>https://www.wwoz.org/events/1357301</link>
-<guid isPermaLink="false">894ef1a402932ce23a59571dfef819f4d04e5994</guid>
-<description>Venue: Civic Theatre | Date: Wednesday, September 9 | Time: 8:00pm</description>
-<pubDate>Wed, 09 Sep 2026 20:00:00 +0000</pubDate>
+<title>Swing Night with The New Orleans Rug Cutters — Beanlandia</title>
+<link>https://www.wwoz.org/events/1388786</link>
+<guid isPermaLink="false">ec36093d59ee5c424230c959d845afc684fe8384</guid>
+<description>Venue: Beanlandia | Date: Thursday, September 10 | Time: 7:00pm</description>
+<pubDate>Thu, 10 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Thomas Dunford Jazz Trio — Crescent City Brewhouse</title>
-<link>https://www.wwoz.org/events/1380666</link>
-<guid isPermaLink="false">5a14784de8178fe1c6cd9c514711fe9731abf540</guid>
-<description>Venue: Crescent City Brewhouse | Date: Wednesday, September 9 | Time: 6:00pm</description>
-<pubDate>Wed, 09 Sep 2026 18:00:00 +0000</pubDate>
+<title>The New Orleans Jazz Vipers — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1383281</link>
+<guid isPermaLink="false">1f64d330631b44a9e396e146c9ded576ef88d5a1</guid>
+<description>Venue: BJ's Lounge | Date: Thursday, September 10 | Time: 9:00pm</description>
+<pubDate>Thu, 10 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Next Level Band — d.b.a.</title>
-<link>https://www.wwoz.org/events/1381281</link>
-<guid isPermaLink="false">b068c908a683afebd58c665e52cb5cc0c352ef0b</guid>
-<description>Venue: d.b.a. | Date: Wednesday, September 9 | Time: 8:00pm</description>
-<pubDate>Wed, 09 Sep 2026 20:00:00 +0000</pubDate>
+<title>Irvin Mayfield's Music Church with Special Guests — Blue Nile</title>
+<link>https://www.wwoz.org/events/1387871</link>
+<guid isPermaLink="false">4bb3baeca51d212853308a535c71bc7ae958300c</guid>
+<description>Venue: Blue Nile | Date: Thursday, September 10 | Time: 9:00pm</description>
+<pubDate>Thu, 10 Sep 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Reggae Night with DJ T-Roy — Blue Nile - Balcony Room</title>
+<link>https://www.wwoz.org/events/1387931</link>
+<guid isPermaLink="false">0f89f16c3ae1276464fb1adee4712cc6cb071df1</guid>
+<description>Venue: Blue Nile - Balcony Room | Date: Thursday, September 10 | Time: 10:00pm</description>
+<pubDate>Thu, 10 Sep 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Open Musician Jam — B Mac's (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1388811</link>
+<guid isPermaLink="false">22d51ae777fd0f91d31389c198f52f6688363204</guid>
+<description>Venue: B Mac's (OUTDOORS) | Date: Thursday, September 10 | Time: 7:00pm</description>
+<pubDate>Thu, 10 Sep 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Maurice Cade &amp; E.S.S — BMC</title>
+<link>https://www.wwoz.org/events/1383941</link>
+<guid isPermaLink="false">f7f420f461f3478b75ccdf85bd1b743392b78e5d</guid>
+<description>Venue: BMC | Date: Thursday, September 10 | Time: 6:00pm</description>
+<pubDate>Thu, 10 Sep 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Kat Kiley Experience — BMC</title>
+<link>https://www.wwoz.org/events/1383951</link>
+<guid isPermaLink="false">01673d8a729f8773db6ee317d53e6a91e9c1d869</guid>
+<description>Venue: BMC | Date: Thursday, September 10 | Time: 9:00pm</description>
+<pubDate>Thu, 10 Sep 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Big Mike — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1384491</link>
+<guid isPermaLink="false">64e2585f0736d86515df58f7b13f442840373c39</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Thursday, September 10 | Time: 8:00pm</description>
+<pubDate>Thu, 10 Sep 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Leslie Martin — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1369261</link>
+<guid isPermaLink="false">8c49fafcbd81f03177679571376498331937c026</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Thursday, September 10 | Time: 5:30pm</description>
+<pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Lena Prima &amp; Her Band — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1390201</link>
+<guid isPermaLink="false">e304c9a6eb676012001dcd38f58ab0ceb43cc075</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Thursday, September 10 | Time: 9:00pm</description>
+<pubDate>Thu, 10 Sep 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Alvin Youngblood Hart — Chickie Wah Wah</title>
+<link>https://www.wwoz.org/events/1388681</link>
+<guid isPermaLink="false">61114c18141fc7ebc48387deb08149864423a231</guid>
+<description>Venue: Chickie Wah Wah | Date: Thursday, September 10 | Time: 8:00pm</description>
+<pubDate>Thu, 10 Sep 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>International Dance Festival New Orleans : New Work Premiere by Aina Algère with Live Music by Hannah Kreiger-Benson, Ashley Shabankareh &amp; More! — Contemporary Arts Center</title>
+<link>https://www.wwoz.org/events/1385286</link>
+<guid isPermaLink="false">5c9a517affef6ecf4af0eb1ddda3df7826d765d0</guid>
+<description>Venue: Contemporary Arts Center | Date: Thursday, September 10 | Time: 7:30pm</description>
+<pubDate>Thu, 10 Sep 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Ricky Knight Jazz Trio — Crescent City Brewhouse</title>
+<link>https://www.wwoz.org/events/1380621</link>
+<guid isPermaLink="false">af33107a555a5e260ac1cf316954ee6b3388b6c0</guid>
+<description>Venue: Crescent City Brewhouse | Date: Thursday, September 10 | Time: 6:00pm</description>
+<pubDate>Thu, 10 Sep 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Vegas Cola Band — d.b.a.</title>
+<link>https://www.wwoz.org/events/1381301</link>
+<guid isPermaLink="false">c309d46d6a5e9dfef6872c834327d16c02e00f66</guid>
+<description>Venue: d.b.a. | Date: Thursday, September 10 | Time: 8:00pm</description>
+<pubDate>Thu, 10 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Jeremy Davenport — Davenport Lounge at The Ritz-Carlton</title>
-<link>https://www.wwoz.org/events/1387251</link>
-<guid isPermaLink="false">f90dc75fbdb7fa30b7d84c0a117eac55c3989143</guid>
-<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Wednesday, September 9 | Time: 5:30pm</description>
-<pubDate>Wed, 09 Sep 2026 17:30:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1387276</link>
+<guid isPermaLink="false">6e2e1552398158f8a90681897febf5deeac7046d</guid>
+<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Thursday, September 10 | Time: 5:30pm</description>
+<pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>The Drop Inn Jam Session ft. August Lee Stevens — Dew Drop Inn Hotel &amp; Lounge</title>
-<link>https://www.wwoz.org/events/1388821</link>
-<guid isPermaLink="false">de15bab4ba0eea74b0ba2abc6e26c227603ec3d8</guid>
-<description>Venue: Dew Drop Inn Hotel &amp; Lounge | Date: Wednesday, September 9 | Time: 8:00pm</description>
-<pubDate>Wed, 09 Sep 2026 20:00:00 +0000</pubDate>
+<title>WWOZ Groove Gala ft. Irma Thomas, John Boutté, Big Sam's Funky Nation &amp; More! — Dickie Brennan’s Tableau</title>
+<link>https://www.wwoz.org/events/1360206</link>
+<guid isPermaLink="false">0dc2c10f6522b33bb5e2ddd4c1e8801c7d61b0ba</guid>
+<description>Venue: Dickie Brennan’s Tableau | Date: Thursday, September 10 | Time: 6:30pm</description>
+<pubDate>Thu, 10 Sep 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Z2 — Dos Jefes</title>
-<link>https://www.wwoz.org/events/1381961</link>
-<guid isPermaLink="false">51ad99bba2df334b2fa2f2e72efe14c3185d6542</guid>
-<description>Venue: Dos Jefes | Date: Wednesday, September 9 | Time: 8:30pm</description>
-<pubDate>Wed, 09 Sep 2026 20:30:00 +0000</pubDate>
+<title>Mr. Kohl — Dos Jefes</title>
+<link>https://www.wwoz.org/events/1381966</link>
+<guid isPermaLink="false">21a99b48fc400be61c87e58c4d07035ac910b32b</guid>
+<description>Venue: Dos Jefes | Date: Thursday, September 10 | Time: 8:30pm</description>
+<pubDate>Thu, 10 Sep 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Better Late Than Jake — Favela Chic</title>
-<link>https://www.wwoz.org/events/1387706</link>
-<guid isPermaLink="false">f9ad8688fc966881f53b25e54eed41742ace1e80</guid>
-<description>Venue: Favela Chic | Date: Wednesday, September 9 | Time: 8:00pm</description>
-<pubDate>Wed, 09 Sep 2026 20:00:00 +0000</pubDate>
+<title>John Saavedra — Double Dealer at the Orpheum Theater</title>
+<link>https://www.wwoz.org/events/1384726</link>
+<guid isPermaLink="false">bb1f56dad2750ed472bdbf25899a6e40826282e2</guid>
+<description>Venue: Double Dealer at the Orpheum Theater | Date: Thursday, September 10 | Time: 9:00pm</description>
+<pubDate>Thu, 10 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Chance the Rapper — Fillmore, The</title>
-<link>https://www.wwoz.org/events/1357376</link>
-<guid isPermaLink="false">11ce36d375d679f5866661c0ae7a585b14911aa9</guid>
-<description>Venue: Fillmore, The | Date: Wednesday, September 9 | Time: 8:00pm</description>
-<pubDate>Wed, 09 Sep 2026 20:00:00 +0000</pubDate>
+<title>Daryl Johnson &amp; FunkFix — Favela Chic</title>
+<link>https://www.wwoz.org/events/1387721</link>
+<guid isPermaLink="false">400b738c8ceb6f15363470f84dd1aaa3d2a2e532</guid>
+<description>Venue: Favela Chic | Date: Thursday, September 10 | Time: 8:00pm</description>
+<pubDate>Thu, 10 Sep 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Groovy's House Party ft. DJ Groovy Smooth — Favela Chic</title>
+<link>https://www.wwoz.org/events/1380481</link>
+<guid isPermaLink="false">b0b5a8ea0f0f146f23e661f92ccafbd2dc9267ae</guid>
+<description>Venue: Favela Chic | Date: Thursday, September 10 | Time: 9:00pm</description>
+<pubDate>Thu, 10 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Richard "Piano" Scott — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1383836</link>
-<guid isPermaLink="false">1aabe791d22127051b7fe1b405e0f64b7f23f45c</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Wednesday, September 9 | Time: 1:00pm</description>
-<pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1383506</link>
+<guid isPermaLink="false">f40808473fff554b56d7b1561e9cba196ca3f086</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Thursday, September 10 | Time: 12:00pm</description>
+<pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Bourbon Street Stars — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1383871</link>
-<guid isPermaLink="false">302f605d00f3e283f114c9b39fd0a35b96859a0d</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Wednesday, September 9 | Time: 5:00pm</description>
-<pubDate>Wed, 09 Sep 2026 17:00:00 +0000</pubDate>
+<title>Doyle Cooper Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1383486</link>
+<guid isPermaLink="false">54db15e2800a744179006ebb5275c091aedf973d</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Thursday, September 10 | Time: 2:00pm</description>
+<pubDate>Thu, 10 Sep 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Fritzel's All Star Band with Kevin Ray Clark — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1383876</link>
-<guid isPermaLink="false">7f570bb4c7c4bd339be45e3f767e8cc590b73997</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Wednesday, September 9 | Time: 8:00pm</description>
-<pubDate>Wed, 09 Sep 2026 20:00:00 +0000</pubDate>
+<title>John Saavedra Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1383461</link>
+<guid isPermaLink="false">6e8c1769c823b351ed6edf5cfdbb495aede473c2</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Thursday, September 10 | Time: 5:00pm</description>
+<pubDate>Thu, 10 Sep 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Hard Rock Rising Music Competition ft. Daryl Johnson &amp; Funkfix featuring Stitch | Chris Pryor &amp; The Main Event | She Might Be a Beast — Hard Rock Cafe</title>
-<link>https://www.wwoz.org/events/1385156</link>
-<guid isPermaLink="false">08cbfd5b69cff185df3bac1d38a10d85ea34dab5</guid>
-<description>Venue: Hard Rock Cafe | Date: Wednesday, September 9 | Time: 7:00pm</description>
-<pubDate>Wed, 09 Sep 2026 19:00:00 +0000</pubDate>
+<title>Fritzel's All Star Band with Catie Rogers — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1383441</link>
+<guid isPermaLink="false">dbed0961f0cd136b1f05d0f2fcfe0daaa50a50a0</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Thursday, September 10 | Time: 8:00pm</description>
+<pubDate>Thu, 10 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Amazing Henrietta — Holy Diver</title>
-<link>https://www.wwoz.org/events/1384116</link>
-<guid isPermaLink="false">f03796b66ab3ca4fb9e63f8f19a7076cbc80db01</guid>
-<description>Venue: Holy Diver | Date: Wednesday, September 9 | Time: 8:00pm</description>
-<pubDate>Wed, 09 Sep 2026 20:00:00 +0000</pubDate>
+<title>Arséne DeLay &amp; Charlie Wooton ft. Keiko Komaki — Good Measure at The Barnett</title>
+<link>https://www.wwoz.org/events/1382561</link>
+<guid isPermaLink="false">4f64920390cda28e7120b1724f1b7dc3b5572059</guid>
+<description>Venue: Good Measure at The Barnett | Date: Thursday, September 10 | Time: 8:00pm</description>
+<pubDate>Thu, 10 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Raphael Bas — Lobby Lounge at JW Marriott</title>
-<link>https://www.wwoz.org/events/1361736</link>
-<guid isPermaLink="false">30329ec6c5767aaa859c9548ce4e89ee88b6ba28</guid>
-<description>Venue: Lobby Lounge at JW Marriott | Date: Wednesday, September 9 | Time: 6:00pm</description>
-<pubDate>Wed, 09 Sep 2026 18:00:00 +0000</pubDate>
+<title>The Tail-Gators — Gretna Tavern</title>
+<link>https://www.wwoz.org/events/1381496</link>
+<guid isPermaLink="false">336c279502d60d782a5958ddf41435a3ba38fd06</guid>
+<description>Venue: Gretna Tavern | Date: Thursday, September 10 | Time: 8:30pm</description>
+<pubDate>Thu, 10 Sep 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Paul Longstreth — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1382801</link>
-<guid isPermaLink="false">3c191244474bc4400e5be4debffafb157198ec65</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Wednesday, September 9 | Time: 6:00pm</description>
-<pubDate>Wed, 09 Sep 2026 18:00:00 +0000</pubDate>
+<title>Micro Music Festival-Musician’s Open Mic — Hard Rock Cafe</title>
+<link>https://www.wwoz.org/events/1385171</link>
+<guid isPermaLink="false">f2f18fd40f21f4911d3f5a6f073af329a409255c</guid>
+<description>Venue: Hard Rock Cafe | Date: Thursday, September 10 | Time: 8:00pm</description>
+<pubDate>Thu, 10 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mahogany Hall All Stars ft. Tom Fischer — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1382821</link>
-<guid isPermaLink="false">afa942d94d8bed3fd5b80add9eb79b7891fff17f</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Wednesday, September 9 | Time: 8:00pm</description>
-<pubDate>Wed, 09 Sep 2026 20:00:00 +0000</pubDate>
+<title>Manny Arteaga (..of the Lunch Truck Specials Band) — La Carreta - Magazine St.</title>
+<link>https://www.wwoz.org/events/1370991</link>
+<guid isPermaLink="false">3c189463964610ee56206131042fcd123fce14a4</guid>
+<description>Venue: La Carreta - Magazine St. | Date: Thursday, September 10 | Time: 6:00pm</description>
+<pubDate>Thu, 10 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Gene's Music Machine — Maison, The</title>
-<link>https://www.wwoz.org/events/1387591</link>
-<guid isPermaLink="false">b3c794cbe0831ccd84978304780baffb9bdba1f2</guid>
-<description>Venue: Maison, The | Date: Wednesday, September 9 | Time: 6:00pm</description>
-<pubDate>Wed, 09 Sep 2026 18:00:00 +0000</pubDate>
+<title>The Soul Rebels — Le Bon Temps Roulé</title>
+<link>https://www.wwoz.org/events/1377361</link>
+<guid isPermaLink="false">d4313a57974052b28b28c8fc7c5dd7aeaf51aca3</guid>
+<description>Venue: Le Bon Temps Roulé | Date: Thursday, September 10 | Time: 11:00pm</description>
+<pubDate>Thu, 10 Sep 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Happy Organ Hour — Maple Leaf</title>
-<link>https://www.wwoz.org/events/1386161</link>
-<guid isPermaLink="false">09a2d8f08f477ed2ace9bda7eadaa0f0c5b5cac8</guid>
-<description>Venue: Maple Leaf | Date: Wednesday, September 9 | Time: 8:00pm</description>
-<pubDate>Wed, 09 Sep 2026 20:00:00 +0000</pubDate>
+<title>The New Orleans Catahoulas — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1382846</link>
+<guid isPermaLink="false">e3bf4a31a16c45f0662dbc4dcff0622260774315</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Thursday, September 10 | Time: 6:00pm</description>
+<pubDate>Thu, 10 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Summer Music Series ft. Marc Paradis — New Orleans Jazz &amp; Blues Market</title>
-<link>https://www.wwoz.org/events/1361216</link>
-<guid isPermaLink="false">b2161053e59eb45a1bb993cde29ec412a5afd1bc</guid>
-<description>Venue: New Orleans Jazz &amp; Blues Market | Date: Wednesday, September 9 | Time: 7:00pm</description>
-<pubDate>Wed, 09 Sep 2026 19:00:00 +0000</pubDate>
+<title>Jamil Sharif New Orleans Extravaganza — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1382866</link>
+<guid isPermaLink="false">bb4098098075ed24559302b96a8703da1d1c6869</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Thursday, September 10 | Time: 8:00pm</description>
+<pubDate>Thu, 10 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dylan Deckert Quartet — New Orleans Jazz National Historical Park</title>
-<link>https://www.wwoz.org/events/1384796</link>
-<guid isPermaLink="false">27aae7f58a652f9abab9f9c3ac94b539b13d0c70</guid>
-<description>Venue: New Orleans Jazz National Historical Park | Date: Wednesday, September 9 | Time: 3:00pm</description>
-<pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
+<title>Sugar &amp; the Daddies — Maison, The</title>
+<link>https://www.wwoz.org/events/1385311</link>
+<guid isPermaLink="false">62140c3ba0889ed46f6f40c31dc78d8552b6bbda</guid>
+<description>Venue: Maison, The | Date: Thursday, September 10 | Time: 8:30pm</description>
+<pubDate>Thu, 10 Sep 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Victoria Amato &amp; Jim Lockwood + Ben Michaels &amp; Lisa Bittick-Lowe — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1382651</link>
-<guid isPermaLink="false">4504060ed2aa2f55e9e2b700fe8e12edd2a67241</guid>
-<description>Venue: Pat O'Brien's | Date: Wednesday, September 9 | Time: 4:00pm</description>
-<pubDate>Wed, 09 Sep 2026 16:00:00 +0000</pubDate>
+<title>Danny Rubio &amp; the Catahoula Music Company ft. Jack Pritchett — Maison Bourbon Jazz Club</title>
+<link>https://www.wwoz.org/events/1389246</link>
+<guid isPermaLink="false">7b0dd4d46c2fb3c5b284f97c3c1a733d0a4175c4</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Thursday, September 10 | Time: 8:00pm</description>
+<pubDate>Thu, 10 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>PUPS Jam — Paulie's</title>
-<link>https://www.wwoz.org/events/1381781</link>
-<guid isPermaLink="false">42953c9c61ced8e2e9f6f12282753b73035fa498</guid>
-<description>Venue: Paulie's | Date: Wednesday, September 9 | Time: 8:00pm</description>
-<pubDate>Wed, 09 Sep 2026 20:00:00 +0000</pubDate>
+<title>Booker &amp; Beyond Piano Series with Keiko Komaki — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1386081</link>
+<guid isPermaLink="false">da0171ccc32cdfe2553180e3a5a752d610943bf5</guid>
+<description>Venue: Maple Leaf | Date: Thursday, September 10 | Time: 6:00pm</description>
+<pubDate>Thu, 10 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Hypno Nun — Picnic Provisions &amp; Whiskey (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1382151</link>
-<guid isPermaLink="false">d400bc1a0e11e7f96b751d8636e63b8f81946bcc</guid>
-<description>Venue: Picnic Provisions &amp; Whiskey (OUTDOORS) | Date: Wednesday, September 9 | Time: 5:00pm</description>
-<pubDate>Wed, 09 Sep 2026 17:00:00 +0000</pubDate>
+<title>Alvin Ford Jr. &amp; Friends — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1390101</link>
+<guid isPermaLink="false">529a97356d9d422fdafeb2051edaeb8e8fc6de63</guid>
+<description>Venue: Maple Leaf | Date: Thursday, September 10 | Time: 8:00pm</description>
+<pubDate>Thu, 10 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>David Boeddinghaus — Polo Club at Windsor Court, The</title>
-<link>https://www.wwoz.org/events/1385911</link>
-<guid isPermaLink="false">ddbbe6d69bcfd31ccc0377879a87a23b067f653e</guid>
-<description>Venue: Polo Club at Windsor Court, The | Date: Wednesday, September 9 | Time: 5:30pm</description>
-<pubDate>Wed, 09 Sep 2026 17:30:00 +0000</pubDate>
+<title>Jerry Dugger's Acoustic Blues Duo — May Baily's Place</title>
+<link>https://www.wwoz.org/events/1384661</link>
+<guid isPermaLink="false">c8c2e3ef5ca178aef8bc19098f3d2506811dd01f</guid>
+<description>Venue: May Baily's Place | Date: Thursday, September 10 | Time: 8:30pm</description>
+<pubDate>Thu, 10 Sep 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Branden Lewis — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1379906</link>
-<guid isPermaLink="false">4e4bb88c51f44eff7ffc0ca180b8a3132ef8060b</guid>
-<description>Venue: Preservation Hall | Date: Wednesday, September 9 | Time: 5:00pm</description>
-<pubDate>Wed, 09 Sep 2026 17:00:00 +0000</pubDate>
+<title>Talkin’ Jazz: In Concert - with Fred Kasten featuring James Jordan — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1384871</link>
+<guid isPermaLink="false">dc0dc570198c393b051ba31ba6e988ea301c6353</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Thursday, September 10 | Time: 3:00pm</description>
+<pubDate>Thu, 10 Sep 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Branden Lewis — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1379901</link>
-<guid isPermaLink="false">c43bf946592f890240f5f1a60f5c0ce4c5598fee</guid>
-<description>Venue: Preservation Hall | Date: Wednesday, September 9 | Time: 6:15pm</description>
-<pubDate>Wed, 09 Sep 2026 18:15:00 +0000</pubDate>
+<title>Missing + Delores Galore + Tina Beef — Okay Bar</title>
+<link>https://www.wwoz.org/events/1385736</link>
+<guid isPermaLink="false">81897c0e5f69bf289bbd0ce571a9e7a8aaf9788b</guid>
+<description>Venue: Okay Bar | Date: Thursday, September 10 | Time: 9:00pm</description>
+<pubDate>Thu, 10 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Branden Lewis — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1379896</link>
-<guid isPermaLink="false">327d1c2c741ccae71b640eb428276e425d15c2aa</guid>
-<description>Venue: Preservation Hall | Date: Wednesday, September 9 | Time: 7:30pm</description>
-<pubDate>Wed, 09 Sep 2026 19:30:00 +0000</pubDate>
+<title>Victoria Amato &amp; Matt Hayden + Ben Michaels &amp; Jim Lockwood — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1382656</link>
+<guid isPermaLink="false">0c70a9aca9b546b62dc739b5773691f93a9f9356</guid>
+<description>Venue: Pat O'Brien's | Date: Thursday, September 10 | Time: 4:00pm</description>
+<pubDate>Thu, 10 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Branden Lewis — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1379891</link>
-<guid isPermaLink="false">ca2b7b210fcb3fd6167e08c4d7c438eceda04b06</guid>
-<description>Venue: Preservation Hall | Date: Wednesday, September 9 | Time: 8:45pm</description>
-<pubDate>Wed, 09 Sep 2026 20:45:00 +0000</pubDate>
+<title>James Hausman &amp; Mark Rubin — Paulie's</title>
+<link>https://www.wwoz.org/events/1381811</link>
+<guid isPermaLink="false">fd740d80f2481a48beac7682d7b906bcf705fc33</guid>
+<description>Venue: Paulie's | Date: Thursday, September 10 | Time: 6:00pm</description>
+<pubDate>Thu, 10 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Chambre Noir with Paco — Santos Bar</title>
-<link>https://www.wwoz.org/events/1384206</link>
-<guid isPermaLink="false">ff3cb2f9497decada19416e4634dccf0d9d90760</guid>
-<description>Venue: Santos Bar | Date: Wednesday, September 9 | Time: 10:00pm</description>
-<pubDate>Wed, 09 Sep 2026 22:00:00 +0000</pubDate>
+<title>Da Lovebirds: Robin Barnes &amp; Pat Casey — Peacock Room at the Kimpton Hotel Fontenot</title>
+<link>https://www.wwoz.org/events/1320516</link>
+<guid isPermaLink="false">d9c1bb38bcf9cc27dac1f480aefcbd7e823d923f</guid>
+<description>Venue: Peacock Room at the Kimpton Hotel Fontenot | Date: Thursday, September 10 | Time: 8:00pm</description>
+<pubDate>Thu, 10 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Life of Riley + Butte + Lyla DiPaul — Saturn Bar</title>
-<link>https://www.wwoz.org/events/1379316</link>
-<guid isPermaLink="false">9b95dc77a8422337aa9bb2927882224161413bda</guid>
-<description>Venue: Saturn Bar | Date: Wednesday, September 9 | Time: 9:00pm</description>
-<pubDate>Wed, 09 Sep 2026 21:00:00 +0000</pubDate>
+<title>John Royen — Polo Club at Windsor Court, The</title>
+<link>https://www.wwoz.org/events/1385996</link>
+<guid isPermaLink="false">9d1461876cc2944fac9ca2025317ba3b725b43e5</guid>
+<description>Venue: Polo Club at Windsor Court, The | Date: Thursday, September 10 | Time: 5:30pm</description>
+<pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Powerplant + W-9 + Steef — Siberia</title>
-<link>https://www.wwoz.org/events/1377631</link>
-<guid isPermaLink="false">4d8b047d25f07c17f27e68c77430863834791fc3</guid>
-<description>Venue: Siberia | Date: Wednesday, September 9 | Time: 9:00pm</description>
-<pubDate>Wed, 09 Sep 2026 21:00:00 +0000</pubDate>
+<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1379986</link>
+<guid isPermaLink="false">a509ed028fe07ce7a65d38bb0b8ea75f81bcc4ef</guid>
+<description>Venue: Preservation Hall | Date: Thursday, September 10 | Time: 5:00pm</description>
+<pubDate>Thu, 10 Sep 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jazz Foundation of America presents: Adonis Rose Septet — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1385546</link>
-<guid isPermaLink="false">d2a9634bb44b173e293d72fde5ba316e2e69867a</guid>
-<description>Venue: Snug Harbor | Date: Wednesday, September 9 | Time: 5:00pm</description>
-<pubDate>Wed, 09 Sep 2026 17:00:00 +0000</pubDate>
+<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1379981</link>
+<guid isPermaLink="false">eb8a31dc70d39be497cf9e42e03dd74c6c839c6c</guid>
+<description>Venue: Preservation Hall | Date: Thursday, September 10 | Time: 6:15pm</description>
+<pubDate>Thu, 10 Sep 2026 18:15:00 +0000</pubDate>
 </item>
 <item>
-<title>Delfeayo Marsalis &amp; the Uptown Jazz Orchestra — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1385441</link>
-<guid isPermaLink="false">1eff75412df195903b3b142f9f5429ca065ee692</guid>
-<description>Venue: Snug Harbor | Date: Wednesday, September 9 | Time: 7:30pm</description>
-<pubDate>Wed, 09 Sep 2026 19:30:00 +0000</pubDate>
+<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1379976</link>
+<guid isPermaLink="false">7e9b964ec3759243814db0d0a86ed7fec295c915</guid>
+<description>Venue: Preservation Hall | Date: Thursday, September 10 | Time: 7:30pm</description>
+<pubDate>Thu, 10 Sep 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Delfeayo Marsalis &amp; the Uptown Jazz Orchestra — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1385481</link>
-<guid isPermaLink="false">d7416d66f0f7abafe02e166ce9070ce7ee91a862</guid>
-<description>Venue: Snug Harbor | Date: Wednesday, September 9 | Time: 9:30pm</description>
-<pubDate>Wed, 09 Sep 2026 21:30:00 +0000</pubDate>
+<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1379971</link>
+<guid isPermaLink="false">7daf54da15785d736c9927966b12c6621858b05f</guid>
+<description>Venue: Preservation Hall | Date: Thursday, September 10 | Time: 8:45pm</description>
+<pubDate>Thu, 10 Sep 2026 20:45:00 +0000</pubDate>
+</item>
+<item>
+<title>Pete Olynciw — Salon Salon</title>
+<link>https://www.wwoz.org/events/1388646</link>
+<guid isPermaLink="false">b3cced87bf95ae905eb190ede67188f02f655259</guid>
+<description>Venue: Salon Salon | Date: Thursday, September 10 | Time: 7:00pm</description>
+<pubDate>Thu, 10 Sep 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Rezn + Lockstep — Siberia</title>
+<link>https://www.wwoz.org/events/1348271</link>
+<guid isPermaLink="false">4bf355ab543254b5b20db4add741828a1f8b6b86</guid>
+<description>Venue: Siberia | Date: Thursday, September 10 | Time: 9:00pm</description>
+<pubDate>Thu, 10 Sep 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Gladney — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1385556</link>
+<guid isPermaLink="false">da32d74f32075536aa243598742c06e82eb0b9f3</guid>
+<description>Venue: Snug Harbor | Date: Thursday, September 10 | Time: 7:30pm</description>
+<pubDate>Thu, 10 Sep 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Gladney — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1385551</link>
+<guid isPermaLink="false">9b5d73ff480b83f34585ef4bc25c4c62a979fed8</guid>
+<description>Venue: Snug Harbor | Date: Thursday, September 10 | Time: 9:30pm</description>
+<pubDate>Thu, 10 Sep 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Chris Christy Band — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1380846</link>
-<guid isPermaLink="false">75d801ca2ebba49cca4a8a6031aaf21f61170759</guid>
-<description>Venue: Spotted Cat | Date: Wednesday, September 9 | Time: 2:00pm</description>
-<pubDate>Wed, 09 Sep 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1380866</link>
+<guid isPermaLink="false">0fa054d23f16115d0b5a7dfb343aaf7a0f8da948</guid>
+<description>Venue: Spotted Cat | Date: Thursday, September 10 | Time: 2:00pm</description>
+<pubDate>Thu, 10 Sep 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Shotgun Jazz Band — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1380971</link>
-<guid isPermaLink="false">b3965c12ada7a0ee7651f318b3ff0774d3d94212</guid>
-<description>Venue: Spotted Cat | Date: Wednesday, September 9 | Time: 6:00pm</description>
-<pubDate>Wed, 09 Sep 2026 18:00:00 +0000</pubDate>
+<title>Miss Sophie Lee — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1381001</link>
+<guid isPermaLink="false">ccec45208bbb4302a25afc3ae45b6d6e9ba1bde0</guid>
+<description>Venue: Spotted Cat | Date: Thursday, September 10 | Time: 6:00pm</description>
+<pubDate>Thu, 10 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Marty Peters &amp; The Party Meters — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1380946</link>
-<guid isPermaLink="false">cb3e37895891189d7a62f32153c450132b990857</guid>
-<description>Venue: Spotted Cat | Date: Wednesday, September 9 | Time: 9:30pm</description>
-<pubDate>Wed, 09 Sep 2026 21:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1386866</link>
-<guid isPermaLink="false">dd817fe60cf5338ff1404197d2ef1bbde4c014a8</guid>
-<description>Venue: Steamboat Natchez | Date: Wednesday, September 9 | Time: 11:00am</description>
-<pubDate>Wed, 09 Sep 2026 11:00:00 +0000</pubDate>
+<title>Jumbo Shrimp Jazz Band — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1381021</link>
+<guid isPermaLink="false">0c2365b19a63263b839ea9a6d74a0028ef002899</guid>
+<description>Venue: Spotted Cat | Date: Thursday, September 10 | Time: 10:00pm</description>
+<pubDate>Thu, 10 Sep 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1387036</link>
-<guid isPermaLink="false">dcf8e5e8bca82e5f0d019929c92ac335d571de2e</guid>
-<description>Venue: Steamboat Natchez | Date: Wednesday, September 9 | Time: 2:00pm</description>
-<pubDate>Wed, 09 Sep 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1386891</link>
+<guid isPermaLink="false">55d109800ce084a98d2f0460f2092e7d900e6bf3</guid>
+<description>Venue: Steamboat Natchez | Date: Thursday, September 10 | Time: 11:00am</description>
+<pubDate>Thu, 10 Sep 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Steamboat Stompers — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1386916</link>
+<guid isPermaLink="false">4ed6f29222198074adf7167c62f838344d87d40d</guid>
+<description>Venue: Steamboat Natchez | Date: Thursday, September 10 | Time: 2:00pm</description>
+<pubDate>Thu, 10 Sep 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dukes of Dixieland — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1387071</link>
-<guid isPermaLink="false">2dd8f07889453e21f16444c6948ac95fee52a657</guid>
-<description>Venue: Steamboat Natchez | Date: Wednesday, September 9 | Time: 6:00pm</description>
-<pubDate>Wed, 09 Sep 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1387091</link>
+<guid isPermaLink="false">b4f3dc2ca2b21e1dca45b485da41197adb31028d</guid>
+<description>Venue: Steamboat Natchez | Date: Thursday, September 10 | Time: 6:00pm</description>
+<pubDate>Thu, 10 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dave Ferrato — Tropical Isle Bourbon</title>
-<link>https://www.wwoz.org/events/1387436</link>
-<guid isPermaLink="false">68d34a3dd5f570b4de5de036b86c628b88045e4b</guid>
-<description>Venue: Tropical Isle Bourbon | Date: Wednesday, September 9 | Time: 7:00pm</description>
-<pubDate>Wed, 09 Sep 2026 19:00:00 +0000</pubDate>
+<title>Trombone Charlotte Brunner — Three Muses</title>
+<link>https://www.wwoz.org/events/1390156</link>
+<guid isPermaLink="false">4699ca270d423fc8d867f2ea323e843322afa569</guid>
+<description>Venue: Three Muses | Date: Thursday, September 10 | Time: 7:30pm</description>
+<pubDate>Thu, 10 Sep 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Ugly Rumors — True South</title>
-<link>https://www.wwoz.org/events/1380411</link>
-<guid isPermaLink="false">d9682f87ef6394223da54e1e855f51c774fb9391</guid>
-<description>Venue: True South | Date: Wednesday, September 9 | Time: 7:30pm</description>
-<pubDate>Wed, 09 Sep 2026 19:30:00 +0000</pubDate>
+<title>Mountain Grass Unit - Appalachian Smoke Tour — Tipitina's</title>
+<link>https://www.wwoz.org/events/1365436</link>
+<guid isPermaLink="false">e6f583179be4f221009b2b72762f33c7685bfcce</guid>
+<description>Venue: Tipitina's | Date: Thursday, September 10 | Time: 8:00pm</description>
+<pubDate>Thu, 10 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Nat &amp; Kat Cajun String Band + Dance Lesson with Louisiana Dance Roots — Vaughan's Lounge</title>
-<link>https://www.wwoz.org/events/1381541</link>
-<guid isPermaLink="false">9702a71e7b11f20260c65f9f82dea75b42df18ee</guid>
-<description>Venue: Vaughan's Lounge | Date: Wednesday, September 9 | Time: 7:30pm</description>
-<pubDate>Wed, 09 Sep 2026 19:30:00 +0000</pubDate>
+<title>Mark Barrett &amp; The First Calls — Tropical Isle Bourbon</title>
+<link>https://www.wwoz.org/events/1384431</link>
+<guid isPermaLink="false">ac19f3f17c9b91dde4991f6a5bb152f2aced5e43</guid>
+<description>Venue: Tropical Isle Bourbon | Date: Thursday, September 10 | Time: 5:00pm</description>
+<pubDate>Thu, 10 Sep 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Or Shovaly Plus — Virgin Hotels New Orleans</title>
-<link>https://www.wwoz.org/events/1386281</link>
-<guid isPermaLink="false">cbd01e16960c488d02465061ecf3a914f8c5035e</guid>
-<description>Venue: Virgin Hotels New Orleans | Date: Wednesday, September 9 | Time: 7:00pm</description>
-<pubDate>Wed, 09 Sep 2026 19:00:00 +0000</pubDate>
+<title>The Van Ella Bordella: A Storyville Burlesque Musical — Twilight Room at The Allways Lounge</title>
+<link>https://www.wwoz.org/events/1390421</link>
+<guid isPermaLink="false">637f0a8f7f91659c51e8ea0469c26d61e79b8b4a</guid>
+<description>Venue: Twilight Room at The Allways Lounge | Date: Thursday, September 10 | Time: 7:00pm</description>
+<pubDate>Thu, 10 Sep 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Left Hook + Kissing Disease — Urban South Brewery</title>
+<link>https://www.wwoz.org/events/1388796</link>
+<guid isPermaLink="false">02a44696fd1ca19774f3d09c7b545c6e8b8c50e5</guid>
+<description>Venue: Urban South Brewery | Date: Thursday, September 10 | Time: 7:00pm</description>
+<pubDate>Thu, 10 Sep 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Corey Henry &amp; The Treme Funktet — Vaughan's Lounge</title>
+<link>https://www.wwoz.org/events/1354776</link>
+<guid isPermaLink="false">7ad2a83032e2656889560e4a8ad964a12a4f5178</guid>
+<description>Venue: Vaughan's Lounge | Date: Thursday, September 10 | Time: 10:30pm</description>
+<pubDate>Thu, 10 Sep 2026 22:30:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
