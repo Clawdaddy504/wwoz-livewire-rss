@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 11 Sep 2026 11:20:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 16:27:42 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
@@ -311,9 +311,9 @@
 <item>
 <title>J.A.M. Brass Band — Favela Chic</title>
 <link>https://www.wwoz.org/events/1387741</link>
-<guid isPermaLink="false">6a820ae8ef59acb51854de69994fc9e44a82c8c1</guid>
-<description>Venue: Favela Chic | Date: Friday, September 11 | Time: 4:00pm</description>
-<pubDate>Fri, 11 Sep 2026 16:00:00 +0000</pubDate>
+<guid isPermaLink="false">f1f02ba4fdf9a570bc5c585baba26bb7d13992f6</guid>
+<description>Venue: Favela Chic | Date: Friday, September 11 | Time: 7:00pm</description>
+<pubDate>Fri, 11 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Hypno Nun — Favela Chic</title>

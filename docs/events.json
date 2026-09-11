@@ -1,7 +1,7 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-11T11:20:09.290927+00:00",
+  "generated_at": "2026-09-11T16:27:42.375444+00:00",
   "count": 94,
   "events": [
     {
@@ -521,16 +521,16 @@
       "description": "Venue: Double Dealer at the Orpheum Theater | Date: Friday, September 11 | Time: 9:30pm"
     },
     {
-      "id": "6a820ae8ef59acb51854de69994fc9e44a82c8c1",
+      "id": "f1f02ba4fdf9a570bc5c585baba26bb7d13992f6",
       "source": "wwoz",
       "title": "J.A.M. Brass Band",
       "venue": "Favela Chic",
       "venue_url": "https://www.wwoz.org/organizations/favela-chic",
       "event_url": "https://www.wwoz.org/events/1387741",
       "date_text": "Friday, September 11",
-      "time_text": "4:00pm",
-      "start": "2026-09-11T16:00:00+00:00",
-      "description": "Venue: Favela Chic | Date: Friday, September 11 | Time: 4:00pm"
+      "time_text": "7:00pm",
+      "start": "2026-09-11T19:00:00+00:00",
+      "description": "Venue: Favela Chic | Date: Friday, September 11 | Time: 7:00pm"
     },
     {
       "id": "c1fe1ff9cd324d7a6872147380b212a4b85c51bb",
