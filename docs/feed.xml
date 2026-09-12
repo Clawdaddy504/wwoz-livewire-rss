@@ -5,665 +5,770 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 12 Sep 2026 04:33:17 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 10:45:07 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
+<title>David Doucet — .Streaming Only</title>
+<link>https://www.wwoz.org/events/1389216</link>
+<guid isPermaLink="false">dddf391a4c62e350083ad48b2023d7321438daeb</guid>
+<description>Venue: .Streaming Only | Date: Saturday, September 12 | Time: 12:00pm</description>
+<pubDate>Sat, 12 Sep 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>PB&amp;J — 3 One One 6</title>
+<link>https://www.wwoz.org/events/1390196</link>
+<guid isPermaLink="false">0ed28af8654f6d50b3fe0ef22bd5e9a880e1cff8</guid>
+<description>Venue: 3 One One 6 | Date: Saturday, September 12 | Time: 7:30pm</description>
+<pubDate>Sat, 12 Sep 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1381666</link>
-<guid isPermaLink="false">8445eb03b9398669e59912d64e9db12cb5843aa3</guid>
-<description>Venue: 21st Amendment | Date: Friday, September 11 | Time: 3:00pm</description>
-<pubDate>Fri, 11 Sep 2026 15:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1381671</link>
+<guid isPermaLink="false">4ac496da89b6b909565b3bda739a3c95f20fb0d8</guid>
+<description>Venue: 21st Amendment | Date: Saturday, September 12 | Time: 3:00pm</description>
+<pubDate>Sat, 12 Sep 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dr. Sick &amp; the Late Greats — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1381746</link>
-<guid isPermaLink="false">1d36423c1943553258421be007999d5107bbd62c</guid>
-<description>Venue: 21st Amendment | Date: Friday, September 11 | Time: 8:00pm</description>
-<pubDate>Fri, 11 Sep 2026 20:00:00 +0000</pubDate>
+<title>Marty Peters Gets Organized — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1381631</link>
+<guid isPermaLink="false">cd0e74db32095edcff807e9824a464b43ea39a9c</guid>
+<description>Venue: 21st Amendment | Date: Saturday, September 12 | Time: 8:00pm</description>
+<pubDate>Sat, 12 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Night Kitchen — 30/90</title>
-<link>https://www.wwoz.org/events/1388966</link>
-<guid isPermaLink="false">eb679a3a463491658ea5e4e5eec91aa32578cdee</guid>
-<description>Venue: 30/90 | Date: Friday, September 11 | Time: 5:00pm</description>
-<pubDate>Fri, 11 Sep 2026 17:00:00 +0000</pubDate>
+<title>Sleazeball Orchestra — 30/90</title>
+<link>https://www.wwoz.org/events/1388981</link>
+<guid isPermaLink="false">2fd6a38c6a94fc03dce6fa677002391781a7c9ad</guid>
+<description>Venue: 30/90 | Date: Saturday, September 12 | Time: 5:00pm</description>
+<pubDate>Sat, 12 Sep 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>New Orleans Johnnys — 30/90</title>
-<link>https://www.wwoz.org/events/1382276</link>
-<guid isPermaLink="false">025e5404d7d41456d38531d1e6638ac0a2f90ea0</guid>
-<description>Venue: 30/90 | Date: Friday, September 11 | Time: 8:00pm</description>
-<pubDate>Fri, 11 Sep 2026 20:00:00 +0000</pubDate>
+<title>Hotline — 30/90</title>
+<link>https://www.wwoz.org/events/1388986</link>
+<guid isPermaLink="false">5ecda199c547b39fca9bc2f054aad39b9f8791f6</guid>
+<description>Venue: 30/90 | Date: Saturday, September 12 | Time: 8:00pm</description>
+<pubDate>Sat, 12 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>T. Cherrelle &amp; Lou's Bayou — 30/90</title>
-<link>https://www.wwoz.org/events/1388971</link>
-<guid isPermaLink="false">9a75d09b219f49c84e04b6fb5ef7fe04ad4a45bb</guid>
-<description>Venue: 30/90 | Date: Friday, September 11 | Time: 11:00pm</description>
-<pubDate>Fri, 11 Sep 2026 23:00:00 +0000</pubDate>
+<title>Da Voodoo Kingz — 30/90</title>
+<link>https://www.wwoz.org/events/1388991</link>
+<guid isPermaLink="false">57e816fec30f546e9234870427fd35652791f62c</guid>
+<description>Venue: 30/90 | Date: Saturday, September 12 | Time: 11:00pm</description>
+<pubDate>Sat, 12 Sep 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
 <title>MK Nostalgia — Aguasanta</title>
-<link>https://www.wwoz.org/events/1388461</link>
-<guid isPermaLink="false">79d415d8daf20e27364fc169eac03aa2693256fb</guid>
-<description>Venue: Aguasanta | Date: Friday, September 11 | Time: 6:00pm</description>
-<pubDate>Fri, 11 Sep 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1388466</link>
+<guid isPermaLink="false">b7b5477348bf77190eb01ad4d8c6c5c193273f0e</guid>
+<description>Venue: Aguasanta | Date: Saturday, September 12 | Time: 6:00pm</description>
+<pubDate>Sat, 12 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Gentry Bronson: Sleazy Hour with the Barefoot Piano Punk — AllWays Lounge</title>
-<link>https://www.wwoz.org/events/1390456</link>
-<guid isPermaLink="false">55683ba17e8e613e0edd55c48fe18f2b413a4c39</guid>
-<description>Venue: AllWays Lounge | Date: Friday, September 11 | Time: 5:00pm</description>
-<pubDate>Fri, 11 Sep 2026 17:00:00 +0000</pubDate>
+<title>Ficheras: Live Latin Band &amp; Burlesque — AllWays Lounge</title>
+<link>https://www.wwoz.org/events/1390486</link>
+<guid isPermaLink="false">4194f479ed6d848eedd57596a662d3e82ef704b4</guid>
+<description>Venue: AllWays Lounge | Date: Saturday, September 12 | Time: 8:00pm</description>
+<pubDate>Sat, 12 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Bayou Blues Burlesque ft. The Delta Revues — AllWays Lounge</title>
-<link>https://www.wwoz.org/events/1390461</link>
-<guid isPermaLink="false">3ddc86015dfce78db266a1fc4485a4fce7825693</guid>
-<description>Venue: AllWays Lounge | Date: Friday, September 11 | Time: 8:00pm</description>
-<pubDate>Fri, 11 Sep 2026 20:00:00 +0000</pubDate>
+<title>Le Vampyre Cabaret presents: Vamp Lounge — AllWays Lounge</title>
+<link>https://www.wwoz.org/events/1390491</link>
+<guid isPermaLink="false">32346189fa2e60d02ef45ab7045597a3f73e6f3c</guid>
+<description>Venue: AllWays Lounge | Date: Saturday, September 12 | Time: 11:00pm</description>
+<pubDate>Sat, 12 Sep 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Crossroads Cabaret — AllWays Lounge</title>
-<link>https://www.wwoz.org/events/1390481</link>
-<guid isPermaLink="false">459484d0a0decdba5bc8c4d26e5f52e49797004d</guid>
-<description>Venue: AllWays Lounge | Date: Friday, September 11 | Time: 11:00pm</description>
-<pubDate>Fri, 11 Sep 2026 23:00:00 +0000</pubDate>
+<title>Smoky Greenwell Blues Band — Apple Barrel</title>
+<link>https://www.wwoz.org/events/1389496</link>
+<guid isPermaLink="false">f723e03b3633d4d559f02b16a7fca6427f720695</guid>
+<description>Venue: Apple Barrel | Date: Saturday, September 12 | Time: 10:30pm</description>
+<pubDate>Sat, 12 Sep 2026 22:30:00 +0000</pubDate>
 </item>
 <item>
-<title>The Upstairs Tee Na Na Nay with DJs Lady Li, Karo &amp; Rey Roge — Anna's - Upstairs</title>
-<link>https://www.wwoz.org/events/1340381</link>
-<guid isPermaLink="false">27e55837e371190edb7f1045141ba80e7553ed0b</guid>
-<description>Venue: Anna's - Upstairs | Date: Friday, September 11 | Time: 9:00pm</description>
-<pubDate>Fri, 11 Sep 2026 21:00:00 +0000</pubDate>
+<title>Pete Olynciw — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1373441</link>
+<guid isPermaLink="false">61509b86788ec56970edd4cbd30c392ab5526a16</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Saturday, September 12 | Time: 7:00pm</description>
+<pubDate>Sat, 12 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Bubbles Brown — Apple Barrel</title>
-<link>https://www.wwoz.org/events/1379081</link>
-<guid isPermaLink="false">8af9ce4697f6d394d1564778da4f4a12f2909c4e</guid>
-<description>Venue: Apple Barrel | Date: Friday, September 11 | Time: 6:00pm</description>
-<pubDate>Fri, 11 Sep 2026 18:00:00 +0000</pubDate>
+<title>Aaron Levinson &amp; Friends — Bamboula's</title>
+<link>https://www.wwoz.org/events/1388316</link>
+<guid isPermaLink="false">a112d9ef7214d1b7a286301d8d90b1f217898cb7</guid>
+<description>Venue: Bamboula's | Date: Saturday, September 12 | Time: 11:00am</description>
+<pubDate>Sat, 12 Sep 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Willie Green III — Bacchanal (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1373366</link>
-<guid isPermaLink="false">55545a385a265890bdca3e044b5f51571c8b56b8</guid>
-<description>Venue: Bacchanal (OUTDOORS) | Date: Friday, September 11 | Time: 7:00pm</description>
-<pubDate>Fri, 11 Sep 2026 19:00:00 +0000</pubDate>
+<title>James McClaskey &amp; The Rhythm Band — Bamboula's</title>
+<link>https://www.wwoz.org/events/1388336</link>
+<guid isPermaLink="false">5ff0a0f79addf52cd782908e9aa241028c57a944</guid>
+<description>Venue: Bamboula's | Date: Saturday, September 12 | Time: 2:15pm</description>
+<pubDate>Sat, 12 Sep 2026 14:15:00 +0000</pubDate>
 </item>
 <item>
-<title>The New Orleans Rug Cutters — Bamboula's</title>
-<link>https://www.wwoz.org/events/1388251</link>
-<guid isPermaLink="false">86a51a11fb481e90896c31d75a5dacdb16682f6e</guid>
-<description>Venue: Bamboula's | Date: Friday, September 11 | Time: 11:00am</description>
-<pubDate>Fri, 11 Sep 2026 11:00:00 +0000</pubDate>
+<title>Johnny Mastro Blues — Bamboula's</title>
+<link>https://www.wwoz.org/events/1389541</link>
+<guid isPermaLink="false">47886db75c902120039090c7b8d1008c479ef911</guid>
+<description>Venue: Bamboula's | Date: Saturday, September 12 | Time: 6:30pm</description>
+<pubDate>Sat, 12 Sep 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Felipe Antonio Quarteto — Bamboula's</title>
-<link>https://www.wwoz.org/events/1388266</link>
-<guid isPermaLink="false">102b9801171f82e454f8a8172f576061d0f43353</guid>
-<description>Venue: Bamboula's | Date: Friday, September 11 | Time: 2:15pm</description>
-<pubDate>Fri, 11 Sep 2026 14:15:00 +0000</pubDate>
+<title>Paggy Prine &amp; Southern Soul — Bamboula's</title>
+<link>https://www.wwoz.org/events/1388361</link>
+<guid isPermaLink="false">96fa89cfef58111ad76954c678acb374ba325967</guid>
+<description>Venue: Bamboula's | Date: Saturday, September 12 | Time: 10:00pm</description>
+<pubDate>Sat, 12 Sep 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Les Getrex &amp; Creole Cookin' — Bamboula's</title>
-<link>https://www.wwoz.org/events/1388281</link>
-<guid isPermaLink="false">247e588fd49b382310701e24edbd054842ee71b5</guid>
-<description>Venue: Bamboula's | Date: Friday, September 11 | Time: 6:30pm</description>
-<pubDate>Fri, 11 Sep 2026 18:30:00 +0000</pubDate>
+<title>Solid Harmony ft. Peter Harris, Yolanda Robinson, Jolynda "Kiki" Chapman, BC Coogan, Nygel Anderson, and Miles Berry — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1382491</link>
+<guid isPermaLink="false">9d72e21645d3924ea91e17a360f95d5c303bca94</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Saturday, September 12 | Time: 8:00pm</description>
+<pubDate>Sat, 12 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Bettis &amp; the Third Degree Brass Band — Bamboula's</title>
-<link>https://www.wwoz.org/events/1388296</link>
-<guid isPermaLink="false">e58a8a2c08aeb862eeddac26492bd16358bc7fd4</guid>
-<description>Venue: Bamboula's | Date: Friday, September 11 | Time: 10:00pm</description>
-<pubDate>Fri, 11 Sep 2026 22:00:00 +0000</pubDate>
+<title>Solid Harmony ft. Peter Harris, Yolanda Robinson, Jolynda "Kiki" Chapman, BC Coogan, Nygel Anderson, and Miles Berry — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1382486</link>
+<guid isPermaLink="false">822b08a5509ed616617a9845b5dc09d72b9c116a</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Saturday, September 12 | Time: 10:00pm</description>
+<pubDate>Sat, 12 Sep 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Honest Man Happy Hour with Domenic Fusca — Banks Street Bar</title>
-<link>https://www.wwoz.org/events/1385326</link>
-<guid isPermaLink="false">0e5cf28e25c95f1f232aaa64f3a1e8a62ebdffd4</guid>
-<description>Venue: Banks Street Bar | Date: Friday, September 11 | Time: 4:00pm</description>
-<pubDate>Fri, 11 Sep 2026 16:00:00 +0000</pubDate>
+<title>Jeffrey Broussard &amp; the Nighttime Syndicate + Holiday Playgirls — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1383291</link>
+<guid isPermaLink="false">d9ce11e7cdeb806ec492bb3499411ffd6e1bd937</guid>
+<description>Venue: BJ's Lounge | Date: Saturday, September 12 | Time: 9:00pm</description>
+<pubDate>Sat, 12 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Big Leather + Dummy Plug + James Johnson Jr. — Bar Redux</title>
-<link>https://www.wwoz.org/events/1388591</link>
-<guid isPermaLink="false">bb83140e9ca818c8aee58eb73d91232749a26e16</guid>
-<description>Venue: Bar Redux | Date: Friday, September 11 | Time: 9:00pm</description>
-<pubDate>Fri, 11 Sep 2026 21:00:00 +0000</pubDate>
+<title>The Caesar Brothers' FunkBox — Blue Nile</title>
+<link>https://www.wwoz.org/events/1388561</link>
+<guid isPermaLink="false">95e77ecf66e9589c3e8682d7d8dda7668fa3bd7f</guid>
+<description>Venue: Blue Nile | Date: Saturday, September 12 | Time: 7:30pm</description>
+<pubDate>Sat, 12 Sep 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Oh Yeah! ft. Peter Harris, Ed Perkins, Joe Ashlar &amp; More! — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1382421</link>
-<guid isPermaLink="false">7d45861039f60c5ecbb4601a2a824c87658b031f</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Friday, September 11 | Time: 8:00pm</description>
-<pubDate>Fri, 11 Sep 2026 20:00:00 +0000</pubDate>
+<title>Afrobeat NOLA — Blue Nile</title>
+<link>https://www.wwoz.org/events/1387921</link>
+<guid isPermaLink="false">ded3ba95d52928e80ee8d694adc25ecf7585d658</guid>
+<description>Venue: Blue Nile | Date: Saturday, September 12 | Time: 10:00pm</description>
+<pubDate>Sat, 12 Sep 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Oh Yeah! ft. Peter Harris, Ed Perkins, Joe Ashlar &amp; More! — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1382426</link>
-<guid isPermaLink="false">5f774a80956a1331aec83fbb433b527c3df07f25</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Friday, September 11 | Time: 10:00pm</description>
-<pubDate>Fri, 11 Sep 2026 22:00:00 +0000</pubDate>
+<title>Mike Doussan — B Mac's (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1388836</link>
+<guid isPermaLink="false">bb9322ceba4c164d873b3047f7a4ae0e6681adab</guid>
+<description>Venue: B Mac's (OUTDOORS) | Date: Saturday, September 12 | Time: 7:00pm</description>
+<pubDate>Sat, 12 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jenn Howard Band ft. Papa Mali — BJ's Lounge</title>
-<link>https://www.wwoz.org/events/1383286</link>
-<guid isPermaLink="false">137a4ae7437362643f977e4fe730e4eb099962c4</guid>
-<description>Venue: BJ's Lounge | Date: Friday, September 11 | Time: 9:00pm</description>
-<pubDate>Fri, 11 Sep 2026 21:00:00 +0000</pubDate>
+<title>Andre Lovett Band — BMC</title>
+<link>https://www.wwoz.org/events/1383906</link>
+<guid isPermaLink="false">6f6d59d7e5124854d609cdd1a0dbec130d7da5db</guid>
+<description>Venue: BMC | Date: Saturday, September 12 | Time: 3:00pm</description>
+<pubDate>Sat, 12 Sep 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Free Agents Brass Band — Blue Crawfish, The</title>
-<link>https://www.wwoz.org/events/1388476</link>
-<guid isPermaLink="false">cde9572c4987211926b77e26b8bc270eb7ab9f0b</guid>
-<description>Venue: Blue Crawfish, The | Date: Friday, September 11 | Time: 6:30pm</description>
-<pubDate>Fri, 11 Sep 2026 18:30:00 +0000</pubDate>
+<title>Gabe Stillman — BMC</title>
+<link>https://www.wwoz.org/events/1383981</link>
+<guid isPermaLink="false">62cbd023ed3243f1b2063007f64bf9103b133e99</guid>
+<description>Venue: BMC | Date: Saturday, September 12 | Time: 6:00pm</description>
+<pubDate>Sat, 12 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Rozes (Caribbean Funk) — Blue Nile</title>
-<link>https://www.wwoz.org/events/1388576</link>
-<guid isPermaLink="false">c32157a20080f62c76edf1750a9e9ee242c3d2ab</guid>
-<description>Venue: Blue Nile | Date: Friday, September 11 | Time: 8:00pm</description>
-<pubDate>Fri, 11 Sep 2026 20:00:00 +0000</pubDate>
+<title>Curtis Family — BMC</title>
+<link>https://www.wwoz.org/events/1383986</link>
+<guid isPermaLink="false">86f2e85ad812bbca5c08e32bd12ee1f33654b9c7</guid>
+<description>Venue: BMC | Date: Saturday, September 12 | Time: 9:00pm</description>
+<pubDate>Sat, 12 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Next Level Band — Blue Nile</title>
-<link>https://www.wwoz.org/events/1389571</link>
-<guid isPermaLink="false">e3ce8e625d18b1b70976e0a6e4cf552c43faaa76</guid>
-<description>Venue: Blue Nile | Date: Friday, September 11 | Time: 10:00pm</description>
-<pubDate>Fri, 11 Sep 2026 22:00:00 +0000</pubDate>
+<title>The Blues Masters — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1384551</link>
+<guid isPermaLink="false">dfc6b5dc683fc36badd9a65ba36f2384fa633e9a</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Saturday, September 12 | Time: 8:00pm</description>
+<pubDate>Sat, 12 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>DJ ChiNola — Blue Nile - Balcony Room</title>
-<link>https://www.wwoz.org/events/1387956</link>
-<guid isPermaLink="false">81d68e993ffec69848ca81418f73a1157544cfa1</guid>
-<description>Venue: Blue Nile - Balcony Room | Date: Friday, September 11 | Time: 10:00pm</description>
-<pubDate>Fri, 11 Sep 2026 22:00:00 +0000</pubDate>
+<title>Trombone Slim &amp; the Creole Trio — Café Beignet at The Sheraton</title>
+<link>https://www.wwoz.org/events/1385241</link>
+<guid isPermaLink="false">b12bb008ba9ec488eb615a7744dd0d4b3150af2f</guid>
+<description>Venue: Café Beignet at The Sheraton | Date: Saturday, September 12 | Time: 8:00am</description>
+<pubDate>Sat, 12 Sep 2026 08:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Lady Parts — B Mac's (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1388831</link>
-<guid isPermaLink="false">802b27301a8ba68065f64ff776fde13cb127ad00</guid>
-<description>Venue: B Mac's (OUTDOORS) | Date: Friday, September 11 | Time: 7:00pm</description>
-<pubDate>Fri, 11 Sep 2026 19:00:00 +0000</pubDate>
+<title>Orphaned In Storyville — Café Negril</title>
+<link>https://www.wwoz.org/events/1385136</link>
+<guid isPermaLink="false">d3afc70061a962b64f188efdb3feed290b7e1035</guid>
+<description>Venue: Café Negril | Date: Saturday, September 12 | Time: 1:30pm</description>
+<pubDate>Sat, 12 Sep 2026 13:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Parish Line — BMC</title>
-<link>https://www.wwoz.org/events/1383966</link>
-<guid isPermaLink="false">3c47cf8ea86ded0694310b61e919ae09cfe5c3d4</guid>
-<description>Venue: BMC | Date: Friday, September 11 | Time: 6:00pm</description>
-<pubDate>Fri, 11 Sep 2026 18:00:00 +0000</pubDate>
+<title>Sunny Side — Café Negril</title>
+<link>https://www.wwoz.org/events/1385041</link>
+<guid isPermaLink="false">997382d97cf53ae97ecc6b8320cdb4ec5328669c</guid>
+<description>Venue: Café Negril | Date: Saturday, September 12 | Time: 6:00pm</description>
+<pubDate>Sat, 12 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Big Mike &amp; the R&amp;B Kings — BMC</title>
-<link>https://www.wwoz.org/events/1383971</link>
-<guid isPermaLink="false">966569f329e9bd2472007ab0c5103e46731baaa4</guid>
-<description>Venue: BMC | Date: Friday, September 11 | Time: 9:00pm</description>
-<pubDate>Fri, 11 Sep 2026 21:00:00 +0000</pubDate>
+<title>Big Mike &amp; The R&amp;B Kings — Café Negril</title>
+<link>https://www.wwoz.org/events/1385141</link>
+<guid isPermaLink="false">212a97bbbf8b0ce642e32c34ab9b94377be91290</guid>
+<description>Venue: Café Negril | Date: Saturday, September 12 | Time: 10:00pm</description>
+<pubDate>Sat, 12 Sep 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>April Spain — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1384511</link>
-<guid isPermaLink="false">655eba48b0811ade28963b869928c52fa51f6616</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Friday, September 11 | Time: 4:00pm</description>
-<pubDate>Fri, 11 Sep 2026 16:00:00 +0000</pubDate>
+<title>Big Joe Kennedy — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1390406</link>
+<guid isPermaLink="false">6116beb745afa9c280c1e6fac648bf69680e3c2a</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Saturday, September 12 | Time: 2:00pm</description>
+<pubDate>Sat, 12 Sep 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Kid Merv — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1384531</link>
-<guid isPermaLink="false">a3205e6dc3d209ea96a2a5fe3a6d645d4767b86b</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Friday, September 11 | Time: 8:00pm</description>
-<pubDate>Fri, 11 Sep 2026 20:00:00 +0000</pubDate>
+<title>Dance Workshop &amp; Live Music by T Marie &amp; Bayou Juju + Amis Du Teche — Carrollton Station</title>
+<link>https://www.wwoz.org/events/1359876</link>
+<guid isPermaLink="false">6974d88d245f788ff46a9bcae8c3ea7da0399647</guid>
+<description>Venue: Carrollton Station | Date: Saturday, September 12 | Time: 8:15pm</description>
+<pubDate>Sat, 12 Sep 2026 20:15:00 +0000</pubDate>
 </item>
 <item>
-<title>Jazz to Table ft. Eliza Sonnenschein — Brutto Americano</title>
-<link>https://www.wwoz.org/events/1382566</link>
-<guid isPermaLink="false">cc4ca49082a08a8457b5f42c7f33a0feeff56248</guid>
-<description>Venue: Brutto Americano | Date: Friday, September 11 | Time: 6:00pm</description>
-<pubDate>Fri, 11 Sep 2026 18:00:00 +0000</pubDate>
+<title>Levee One Sound System Block Party — Chickie Wah Wah</title>
+<link>https://www.wwoz.org/events/1388686</link>
+<guid isPermaLink="false">e58e2fa258c3e47d2efd4eb2e6a381161885a634</guid>
+<description>Venue: Chickie Wah Wah | Date: Saturday, September 12 | Time: 4:00pm</description>
+<pubDate>Sat, 12 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Gabe Stillman Band — Café Negril</title>
-<link>https://www.wwoz.org/events/1385131</link>
-<guid isPermaLink="false">edd84739bc4fa2971ed2e9267547db2e77793d08</guid>
-<description>Venue: Café Negril | Date: Friday, September 11 | Time: 6:30pm</description>
-<pubDate>Fri, 11 Sep 2026 18:30:00 +0000</pubDate>
+<title>Channel One Sound System — Chickie Wah Wah</title>
+<link>https://www.wwoz.org/events/1376921</link>
+<guid isPermaLink="false">8e3c1772e6b3a382b08b2b3ddae16fbcb9589108</guid>
+<description>Venue: Chickie Wah Wah | Date: Saturday, September 12 | Time: 9:00pm</description>
+<pubDate>Sat, 12 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Higher Heights — Café Negril</title>
-<link>https://www.wwoz.org/events/1385011</link>
-<guid isPermaLink="false">24cb99d28c5f328267ed649f79b7c1819c28f3da</guid>
-<description>Venue: Café Negril | Date: Friday, September 11 | Time: 10:00pm</description>
-<pubDate>Fri, 11 Sep 2026 22:00:00 +0000</pubDate>
+<title>Gene’s Mini Music Machine — Crescent City Brewhouse</title>
+<link>https://www.wwoz.org/events/1380586</link>
+<guid isPermaLink="false">259cae64836a4740048db9c14ef451c7ad39984c</guid>
+<description>Venue: Crescent City Brewhouse | Date: Saturday, September 12 | Time: 12:00pm</description>
+<pubDate>Sat, 12 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Royal Caravan Brass Band — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
-<link>https://www.wwoz.org/events/1390311</link>
-<guid isPermaLink="false">87071fa9b9f01d1ec41e91e2721518cf5d0b79fb</guid>
-<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Friday, September 11 | Time: 12:30pm</description>
-<pubDate>Fri, 11 Sep 2026 12:30:00 +0000</pubDate>
+<title>Andrew Salow Jazz Quartet — Crescent City Brewhouse</title>
+<link>https://www.wwoz.org/events/1380716</link>
+<guid isPermaLink="false">44a363a287f0a23878de56761f267f60344b2b58</guid>
+<description>Venue: Crescent City Brewhouse | Date: Saturday, September 12 | Time: 6:00pm</description>
+<pubDate>Sat, 12 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Nayo Jones Experience — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
-<link>https://www.wwoz.org/events/1390336</link>
-<guid isPermaLink="false">0575094bd4be6ad779a80a166230e4433943ee47</guid>
-<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Friday, September 11 | Time: 9:00pm</description>
-<pubDate>Fri, 11 Sep 2026 21:00:00 +0000</pubDate>
+<title>Young Lion Showcase — d.b.a.</title>
+<link>https://www.wwoz.org/events/1381171</link>
+<guid isPermaLink="false">3b72b5cc27f4c6b9211b303e4c39262ed53ad07a</guid>
+<description>Venue: d.b.a. | Date: Saturday, September 12 | Time: 2:30pm</description>
+<pubDate>Sat, 12 Sep 2026 14:30:00 +0000</pubDate>
 </item>
 <item>
-<title>DJ Heelturn — Chapel Club at Hotel St. Vincent</title>
-<link>https://www.wwoz.org/events/1390141</link>
-<guid isPermaLink="false">c9607f4c65d645b4711ebca65558453a04df592b</guid>
-<description>Venue: Chapel Club at Hotel St. Vincent | Date: Friday, September 11 | Time: 9:00pm</description>
-<pubDate>Fri, 11 Sep 2026 21:00:00 +0000</pubDate>
+<title>Margie Perez — d.b.a.</title>
+<link>https://www.wwoz.org/events/1381196</link>
+<guid isPermaLink="false">0ef1111f5ba2a0e73dedf6be8435f46df4ec0f9b</guid>
+<description>Venue: d.b.a. | Date: Saturday, September 12 | Time: 6:00pm</description>
+<pubDate>Sat, 12 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Nik Parr &amp; The Selfless Lovers — Chickie Wah Wah</title>
-<link>https://www.wwoz.org/events/1361676</link>
-<guid isPermaLink="false">c7fdf50900f26d9d292d1e8c23ae7a97c96d1414</guid>
-<description>Venue: Chickie Wah Wah | Date: Friday, September 11 | Time: 8:00pm</description>
-<pubDate>Fri, 11 Sep 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Ricky Knight Jazz Quartet — Crescent City Brewhouse</title>
-<link>https://www.wwoz.org/events/1380626</link>
-<guid isPermaLink="false">0a906110c128fe5e6182ba7c9fa6ef0b01bbb03d</guid>
-<description>Venue: Crescent City Brewhouse | Date: Friday, September 11 | Time: 6:00pm</description>
-<pubDate>Fri, 11 Sep 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Michael Watson &amp; the Alchemy — d.b.a.</title>
-<link>https://www.wwoz.org/events/1381321</link>
-<guid isPermaLink="false">5da50055be9213f7934f1224c272e2321f75683a</guid>
-<description>Venue: d.b.a. | Date: Friday, September 11 | Time: 6:00pm</description>
-<pubDate>Fri, 11 Sep 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>The Soul Rebels — d.b.a.</title>
-<link>https://www.wwoz.org/events/1381341</link>
-<guid isPermaLink="false">b85e9192ba1ede99946d3490d1d092a03ff0d413</guid>
-<description>Venue: d.b.a. | Date: Friday, September 11 | Time: 10:00pm</description>
-<pubDate>Fri, 11 Sep 2026 22:00:00 +0000</pubDate>
+<title>Lyndsey Smith — d.b.a.</title>
+<link>https://www.wwoz.org/events/1381201</link>
+<guid isPermaLink="false">e088e0a26c3c8093645737d5d9264e672fd941de</guid>
+<description>Venue: d.b.a. | Date: Saturday, September 12 | Time: 10:00pm</description>
+<pubDate>Sat, 12 Sep 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Jeremy Davenport — Davenport Lounge at The Ritz-Carlton</title>
-<link>https://www.wwoz.org/events/1387211</link>
-<guid isPermaLink="false">63383caf87863fcc5a887357996e5b56ef53d06a</guid>
-<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Friday, September 11 | Time: 8:00pm</description>
-<pubDate>Fri, 11 Sep 2026 20:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1387231</link>
+<guid isPermaLink="false">357a95ef25b2370370ded8ff4b4a6b7a56554d3b</guid>
+<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Saturday, September 12 | Time: 8:00pm</description>
+<pubDate>Sat, 12 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>¡Vivaz! — Dos Jefes</title>
-<link>https://www.wwoz.org/events/1381971</link>
-<guid isPermaLink="false">fbaa70e4934aa4cb5aeb52d36e9b53d064e59bd6</guid>
-<description>Venue: Dos Jefes | Date: Friday, September 11 | Time: 9:00pm</description>
-<pubDate>Fri, 11 Sep 2026 21:00:00 +0000</pubDate>
+<title>Betty Shirley — Dos Jefes</title>
+<link>https://www.wwoz.org/events/1381976</link>
+<guid isPermaLink="false">ead02213ba2651adc91a101ea7ae4ebddcd8af6b</guid>
+<description>Venue: Dos Jefes | Date: Saturday, September 12 | Time: 9:00pm</description>
+<pubDate>Sat, 12 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Hobo Gadget Junk Band — Double Dealer at the Orpheum Theater</title>
-<link>https://www.wwoz.org/events/1384731</link>
-<guid isPermaLink="false">f5b832ac2476e07a1552cd981a0fc22a3440814d</guid>
-<description>Venue: Double Dealer at the Orpheum Theater | Date: Friday, September 11 | Time: 9:30pm</description>
-<pubDate>Fri, 11 Sep 2026 21:30:00 +0000</pubDate>
+<title>Joey Houck — Double Dealer at the Orpheum Theater</title>
+<link>https://www.wwoz.org/events/1384736</link>
+<guid isPermaLink="false">1fc112833ad261e3b06eb90e23e36c847529dd6c</guid>
+<description>Venue: Double Dealer at the Orpheum Theater | Date: Saturday, September 12 | Time: 9:30pm</description>
+<pubDate>Sat, 12 Sep 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>J.A.M. Brass Band — Favela Chic</title>
-<link>https://www.wwoz.org/events/1387741</link>
-<guid isPermaLink="false">f1f02ba4fdf9a570bc5c585baba26bb7d13992f6</guid>
-<description>Venue: Favela Chic | Date: Friday, September 11 | Time: 7:00pm</description>
-<pubDate>Fri, 11 Sep 2026 19:00:00 +0000</pubDate>
+<title>Dead Men Don't Play Jazz — Favela Chic</title>
+<link>https://www.wwoz.org/events/1387761</link>
+<guid isPermaLink="false">00bd13f3a924dd4f4cb36d72b9354bcc71f663a7</guid>
+<description>Venue: Favela Chic | Date: Saturday, September 12 | Time: 4:00pm</description>
+<pubDate>Sat, 12 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Hypno Nun — Favela Chic</title>
-<link>https://www.wwoz.org/events/1387821</link>
-<guid isPermaLink="false">c1fe1ff9cd324d7a6872147380b212a4b85c51bb</guid>
-<description>Venue: Favela Chic | Date: Friday, September 11 | Time: 10:00pm</description>
-<pubDate>Fri, 11 Sep 2026 22:00:00 +0000</pubDate>
+<title>St. Anthony Dalcoe with The Stitch — Favela Chic</title>
+<link>https://www.wwoz.org/events/1387781</link>
+<guid isPermaLink="false">82e9f306af3cb82266df127339c1f3fa426026be</guid>
+<description>Venue: Favela Chic | Date: Saturday, September 12 | Time: 7:00pm</description>
+<pubDate>Sat, 12 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Richard "Piano" Scott — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1383521</link>
-<guid isPermaLink="false">f056d21451f7b6227bb5b8b80255f4fd4220bda1</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Friday, September 11 | Time: 12:30pm</description>
-<pubDate>Fri, 11 Sep 2026 12:30:00 +0000</pubDate>
+<title>Thee Tim Brown Arrangement — Favela Chic</title>
+<link>https://www.wwoz.org/events/1387801</link>
+<guid isPermaLink="false">7048179d5abae1298380923179274e6d5c592117</guid>
+<description>Venue: Favela Chic | Date: Saturday, September 12 | Time: 10:00pm</description>
+<pubDate>Sat, 12 Sep 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sam Friend Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1383546</link>
-<guid isPermaLink="false">2132c979502b97fbdac5406ef9552313d0ed177b</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Friday, September 11 | Time: 2:30pm</description>
-<pubDate>Fri, 11 Sep 2026 14:30:00 +0000</pubDate>
+<title>Bop To The Top — Fillmore, The</title>
+<link>https://www.wwoz.org/events/1343721</link>
+<guid isPermaLink="false">dd05e973088aff9b4cbf3512095ad05d914a6dd1</guid>
+<description>Venue: Fillmore, The | Date: Saturday, September 12 | Time: 8:00pm</description>
+<pubDate>Sat, 12 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Lange/Woodis Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1383566</link>
-<guid isPermaLink="false">337ed0840d0fd32193d187811f1fa6f48433489e</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Friday, September 11 | Time: 5:30pm</description>
-<pubDate>Fri, 11 Sep 2026 17:30:00 +0000</pubDate>
+<title>Adam Pearce — Frenier Landing Restaurant &amp; Oyster Bar - LaPlace</title>
+<link>https://www.wwoz.org/events/1383371</link>
+<guid isPermaLink="false">f4cf65a2fbe13f183229f02478909325925b8c66</guid>
+<description>Venue: Frenier Landing Restaurant &amp; Oyster Bar - LaPlace | Date: Saturday, September 12 | Time: 6:30pm</description>
+<pubDate>Sat, 12 Sep 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Fritzel's All Star Band with Doyle Cooper — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1383591</link>
-<guid isPermaLink="false">2b102556961e5ccb98dce7879963453c0a94483d</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Friday, September 11 | Time: 9:00pm</description>
-<pubDate>Fri, 11 Sep 2026 21:00:00 +0000</pubDate>
+<title>Steve DeTroy Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1383601</link>
+<guid isPermaLink="false">908cfdd47e3a22ef3d0cebf4fb8629d61cfd26c5</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Saturday, September 12 | Time: 1:00pm</description>
+<pubDate>Sat, 12 Sep 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>CROZ BOYCE: (Avey Tare &amp; Geologist of Animal Collective) — Gasa Gasa</title>
-<link>https://www.wwoz.org/events/1386336</link>
-<guid isPermaLink="false">a88a71b8db48e4ac2cee3913aa39c0825f41cb52</guid>
-<description>Venue: Gasa Gasa | Date: Friday, September 11 | Time: 9:00pm</description>
-<pubDate>Fri, 11 Sep 2026 21:00:00 +0000</pubDate>
+<title>Bourbon Street Matinee Jazz Band with Chuck Brackman — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1383621</link>
+<guid isPermaLink="false">22715bfbc73b8cfa6ee2b6689a05eb85a8bd516b</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Saturday, September 12 | Time: 5:00pm</description>
+<pubDate>Sat, 12 Sep 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Los Güiros — Good Measure at The Barnett</title>
-<link>https://www.wwoz.org/events/1382571</link>
-<guid isPermaLink="false">75a8a02143d6a0464fbbe9857eaab7abf0b16f6c</guid>
-<description>Venue: Good Measure at The Barnett | Date: Friday, September 11 | Time: 9:00pm</description>
-<pubDate>Fri, 11 Sep 2026 21:00:00 +0000</pubDate>
+<title>Fritzel's All Star Band with Jamil Sharif — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1383641</link>
+<guid isPermaLink="false">7f1feb1dd6a49d6847b5123d41c68493b9c04297</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Saturday, September 12 | Time: 9:00pm</description>
+<pubDate>Sat, 12 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mugger, The King’s Cannons, Numb Ways, Gacked — Holy Diver</title>
-<link>https://www.wwoz.org/events/1384156</link>
-<guid isPermaLink="false">f331347d1fc6cf330f7d6f61a2738269426e2f00</guid>
-<description>Venue: Holy Diver | Date: Friday, September 11 | Time: 9:00pm</description>
-<pubDate>Fri, 11 Sep 2026 21:00:00 +0000</pubDate>
+<title>Suplecs + Fen Magus — Gasa Gasa</title>
+<link>https://www.wwoz.org/events/1386341</link>
+<guid isPermaLink="false">2c56be922c042029354aaf6d60cfd36b07d78fa1</guid>
+<description>Venue: Gasa Gasa | Date: Saturday, September 12 | Time: 9:30pm</description>
+<pubDate>Sat, 12 Sep 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Oscar LaDell + Taylon Floyd &amp; the Wild Echoes + Just Kidding — Howlin' Wolf - The Den</title>
-<link>https://www.wwoz.org/events/1386311</link>
-<guid isPermaLink="false">c9ac0b3226b5b617955a709638fbf05e57f3d675</guid>
-<description>Venue: Howlin' Wolf - The Den | Date: Friday, September 11 | Time: 8:00pm</description>
-<pubDate>Fri, 11 Sep 2026 20:00:00 +0000</pubDate>
+<title>Thomas Glass &amp; The Smack City All Stars — Good Measure at The Barnett</title>
+<link>https://www.wwoz.org/events/1382576</link>
+<guid isPermaLink="false">a5e4af709a964e5988556481926f0ed01c48cd3c</guid>
+<description>Venue: Good Measure at The Barnett | Date: Saturday, September 12 | Time: 9:00pm</description>
+<pubDate>Sat, 12 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Hash Cabbage — Le Bon Temps Roulé</title>
-<link>https://www.wwoz.org/events/1356846</link>
-<guid isPermaLink="false">c61c73a9412c9979467725997c803c169209f5b8</guid>
-<description>Venue: Le Bon Temps Roulé | Date: Friday, September 11 | Time: 11:00pm</description>
-<pubDate>Fri, 11 Sep 2026 23:00:00 +0000</pubDate>
+<title>French Quarter Bohemia, 1926 : Swingin’ Soirée ft. The Slick Skillet Serenaders — Historic New Orleans Collection</title>
+<link>https://www.wwoz.org/events/1372706</link>
+<guid isPermaLink="false">b3fc16a87cb9fbf056ba7d516f149445001cc400</guid>
+<description>Venue: Historic New Orleans Collection | Date: Saturday, September 12 | Time: 5:00pm</description>
+<pubDate>Sat, 12 Sep 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Manny Artega — Le Ponce</title>
-<link>https://www.wwoz.org/events/1379146</link>
-<guid isPermaLink="false">cc7e56ab36803652539684cd1b04bac27febe6a7</guid>
-<description>Venue: Le Ponce | Date: Friday, September 11 | Time: 8:00am</description>
-<pubDate>Fri, 11 Sep 2026 08:00:00 +0000</pubDate>
+<title>The Schisms + Bright Cloud + Ben &amp; DC of Bipolaroid — Holy Diver</title>
+<link>https://www.wwoz.org/events/1384161</link>
+<guid isPermaLink="false">3c05e748767896ab9076b509b92855ad40308356</guid>
+<description>Venue: Holy Diver | Date: Saturday, September 12 | Time: 9:00pm</description>
+<pubDate>Sat, 12 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Tribute to Frankie Beverly ft. Rick David — Le Roux's On The Lake</title>
-<link>https://www.wwoz.org/events/1382256</link>
-<guid isPermaLink="false">6cdf69eef8d7e258b863e26e7b845c8cba984841</guid>
-<description>Venue: Le Roux's On The Lake | Date: Friday, September 11 | Time: 8:00pm</description>
-<pubDate>Fri, 11 Sep 2026 20:00:00 +0000</pubDate>
+<title>Mr. Dr. Sic — House of Blues - Foundation Room</title>
+<link>https://www.wwoz.org/events/1379356</link>
+<guid isPermaLink="false">334a7c8dcc308ff4750b0d6140fed07303273b57</guid>
+<description>Venue: House of Blues - Foundation Room | Date: Saturday, September 12 | Time: 6:00pm</description>
+<pubDate>Sat, 12 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Welcome Home MC Shakie: A New Orleans Bounce Homecoming ft. MC Shakie &amp; Friends — Link Nola</title>
-<link>https://www.wwoz.org/events/1377991</link>
-<guid isPermaLink="false">6d95510f20c19487fae0a390ec3fdd0878280d72</guid>
-<description>Venue: Link Nola | Date: Friday, September 11 | Time: 9:00pm</description>
-<pubDate>Fri, 11 Sep 2026 21:00:00 +0000</pubDate>
+<title>DJ Mic Phedusha — House of Blues - Foundation Room</title>
+<link>https://www.wwoz.org/events/1379361</link>
+<guid isPermaLink="false">a23927d6931ed8095e7cf293d759d85cee58b6e9</guid>
+<description>Venue: House of Blues - Foundation Room | Date: Saturday, September 12 | Time: 9:00pm</description>
+<pubDate>Sat, 12 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Raphael Bas — Lobby Lounge at JW Marriott</title>
-<link>https://www.wwoz.org/events/1361761</link>
-<guid isPermaLink="false">62f8c327b3d02a83a82b0da9c1cbadb1af1f2eca</guid>
-<description>Venue: Lobby Lounge at JW Marriott | Date: Friday, September 11 | Time: 6:00pm</description>
-<pubDate>Fri, 11 Sep 2026 18:00:00 +0000</pubDate>
+<title>Brasas Latin Flavor Fest ft. Fermín Ceballos, La Tran-K, Nola Gaita &amp; More! — Kenner Heritage Park (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1370476</link>
+<guid isPermaLink="false">acba587973191838d239af69ba2afda0bae2530f</guid>
+<description>Venue: Kenner Heritage Park (OUTDOORS) | Date: Saturday, September 12 | Time: 5:00pm</description>
+<pubDate>Sat, 12 Sep 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Kid Chocolate &amp; Free P.O.C. — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1382971</link>
-<guid isPermaLink="false">b3d56902040de12e8c970f9889004118a91dd524</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Friday, September 11 | Time: 3:00pm</description>
-<pubDate>Fri, 11 Sep 2026 15:00:00 +0000</pubDate>
+<title>Kermit Ruffins &amp; The BBQ Swingers — Kermit's Tremé Mother-in-Law Lounge</title>
+<link>https://www.wwoz.org/events/1385851</link>
+<guid isPermaLink="false">70e3a16c264521d121ef2f191e671090225f59ac</guid>
+<description>Venue: Kermit's Tremé Mother-in-Law Lounge | Date: Saturday, September 12 | Time: 6:00pm</description>
+<pubDate>Sat, 12 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Delfeayo Marsalis Quintet — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1383096</link>
-<guid isPermaLink="false">908f5d077fe07b94f3a569e7bff0f6ff4bff1359</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Friday, September 11 | Time: 7:00pm</description>
-<pubDate>Fri, 11 Sep 2026 19:00:00 +0000</pubDate>
+<title>Guitar Joel — Kerry Irish Pub</title>
+<link>https://www.wwoz.org/events/1379446</link>
+<guid isPermaLink="false">599e54713db69e93c33a12bbb854ec93f9b64516</guid>
+<description>Venue: Kerry Irish Pub | Date: Saturday, September 12 | Time: 9:00pm</description>
+<pubDate>Sat, 12 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mahogany Hall Jazz Band ft. Mike Fulton with Midnight Burlesque — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1382906</link>
-<guid isPermaLink="false">3bfadd3c69114b6350fb27169771fcaafebed58b</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Friday, September 11 | Time: 9:30pm</description>
-<pubDate>Fri, 11 Sep 2026 21:30:00 +0000</pubDate>
+<title>Lynn Drury — Le Bon Temps Roulé</title>
+<link>https://www.wwoz.org/events/1359291</link>
+<guid isPermaLink="false">24e3ce70addfe50cacdd31b33980be08ada3989e</guid>
+<description>Venue: Le Bon Temps Roulé | Date: Saturday, September 12 | Time: 11:00pm</description>
+<pubDate>Sat, 12 Sep 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Shotgun Jazz Band — Maison, The</title>
-<link>https://www.wwoz.org/events/1387651</link>
-<guid isPermaLink="false">fa6c3b1912d3abac8b14d509aa02206662612ae2</guid>
-<description>Venue: Maison, The | Date: Friday, September 11 | Time: 5:00pm</description>
-<pubDate>Fri, 11 Sep 2026 17:00:00 +0000</pubDate>
+<title>Gerald French Trio — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1382941</link>
+<guid isPermaLink="false">2950a532bb5b438f7a28110ffcc380fdf22491df</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Saturday, September 12 | Time: 7:00pm</description>
+<pubDate>Sat, 12 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Street Lyfe — Maison, The</title>
-<link>https://www.wwoz.org/events/1387656</link>
-<guid isPermaLink="false">8c0fff09edab6caa368a9e0f496eca8b718df72a</guid>
-<description>Venue: Maison, The | Date: Friday, September 11 | Time: 9:00pm</description>
-<pubDate>Fri, 11 Sep 2026 21:00:00 +0000</pubDate>
+<title>Mahogany Hall Jazz Band ft. Kid Chocolate with Midnight Burlesque — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1382961</link>
+<guid isPermaLink="false">3d8dbfbf8a65d2eae51ad7b589b853a8538f7d17</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Saturday, September 12 | Time: 9:30pm</description>
+<pubDate>Sat, 12 Sep 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Pollo Asado — Maple Leaf</title>
-<link>https://www.wwoz.org/events/1386176</link>
-<guid isPermaLink="false">efe55bdb9d3cfcaca54130124e52c787a142793d</guid>
-<description>Venue: Maple Leaf | Date: Friday, September 11 | Time: 8:00pm</description>
-<pubDate>Fri, 11 Sep 2026 20:00:00 +0000</pubDate>
+<title>NOLA Axe Men — Maison, The</title>
+<link>https://www.wwoz.org/events/1387461</link>
+<guid isPermaLink="false">7d0e704b3ef230b6a4e300522080d50628a56bc6</guid>
+<description>Venue: Maison, The | Date: Saturday, September 12 | Time: 1:00pm</description>
+<pubDate>Sat, 12 Sep 2026 13:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Smoking Time Jazz Club — Maison, The</title>
+<link>https://www.wwoz.org/events/1387481</link>
+<guid isPermaLink="false">42509e5dd8013e9e7a5a719f816832420ab0443e</guid>
+<description>Venue: Maison, The | Date: Saturday, September 12 | Time: 4:00pm</description>
+<pubDate>Sat, 12 Sep 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Kazzettes — Maison, The</title>
+<link>https://www.wwoz.org/events/1387666</link>
+<guid isPermaLink="false">ea56370fc8835fbbfd99c0ed5b90823f742a8253</guid>
+<description>Venue: Maison, The | Date: Saturday, September 12 | Time: 8:00pm</description>
+<pubDate>Sat, 12 Sep 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>DJ G Gerado — Maison, The</title>
+<link>https://www.wwoz.org/events/1387676</link>
+<guid isPermaLink="false">0b7493edb779c3bb84d359b3a26412d5f4b37e4a</guid>
+<description>Venue: Maison, The | Date: Saturday, September 12 | Time: 11:00pm</description>
+<pubDate>Sat, 12 Sep 2026 23:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Danny Rubio &amp; the Catahoula Music Company ft. Jeff Kreis — Maison Bourbon Jazz Club</title>
+<link>https://www.wwoz.org/events/1389401</link>
+<guid isPermaLink="false">07d403a19d17dcd408224cfadb5224d24c8e3ba0</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Saturday, September 12 | Time: 8:00pm</description>
+<pubDate>Sat, 12 Sep 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>John "Papa" Gros Birthday Bash — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1386181</link>
+<guid isPermaLink="false">1192e35c630a9842fdead141f2199c690a084bfd</guid>
+<description>Venue: Maple Leaf | Date: Saturday, September 12 | Time: 9:00pm</description>
+<pubDate>Sat, 12 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>CAIN : A Newly Reimagined Ballet-Opera — Marigny Opera House</title>
-<link>https://www.wwoz.org/events/1384076</link>
-<guid isPermaLink="false">200c06dbb524bf747917a2cc64f5ee9756a73d18</guid>
-<description>Venue: Marigny Opera House | Date: Friday, September 11 | Time: 8:00pm</description>
-<pubDate>Fri, 11 Sep 2026 20:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1384081</link>
+<guid isPermaLink="false">469fa0395e5a61f27d8357d4872e3c47482691cf</guid>
+<description>Venue: Marigny Opera House | Date: Saturday, September 12 | Time: 8:00pm</description>
+<pubDate>Sat, 12 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>John Lisi &amp; Delta Funk — May Baily's Place</title>
-<link>https://www.wwoz.org/events/1384681</link>
-<guid isPermaLink="false">f1f5437b276f5356239d2c20aad792c99bcdca82</guid>
-<description>Venue: May Baily's Place | Date: Friday, September 11 | Time: 8:30pm</description>
-<pubDate>Fri, 11 Sep 2026 20:30:00 +0000</pubDate>
+<title>Giselle Anguizola Trio — May Baily's Place</title>
+<link>https://www.wwoz.org/events/1384691</link>
+<guid isPermaLink="false">a51c1e2fb9c7f8360f4b21c908a99b6fb60a0ece</guid>
+<description>Venue: May Baily's Place | Date: Saturday, September 12 | Time: 8:30pm</description>
+<pubDate>Sat, 12 Sep 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Chrissi Poland ft. John "Papa" Gros — New Orleans Jazz &amp; Blues Market</title>
-<link>https://www.wwoz.org/events/1356056</link>
-<guid isPermaLink="false">182d30c4f8bf3c055c09cf2cd80433632664eb69</guid>
-<description>Venue: New Orleans Jazz &amp; Blues Market | Date: Friday, September 11 | Time: 7:30pm</description>
-<pubDate>Fri, 11 Sep 2026 19:30:00 +0000</pubDate>
+<title>Bon Appétit Dessert and Champagne Afterparty: Miami Nights ft. DJs Medina &amp; Yung — New Orleans Culinary &amp; Hospitality Institute (NOCHI)</title>
+<link>https://www.wwoz.org/events/1380326</link>
+<guid isPermaLink="false">3b500a7686ec202579d4ebe3a91a6631f326e3a9</guid>
+<description>Venue: New Orleans Culinary &amp; Hospitality Institute (NOCHI) | Date: Saturday, September 12 | Time: 9:00pm</description>
+<pubDate>Sat, 12 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Adonis Rose Lagniappe Sessions — New Orleans Jazz National Historical Park</title>
-<link>https://www.wwoz.org/events/1384846</link>
-<guid isPermaLink="false">960f92a9ffc5002638e5adfe354815ec855e8c0e</guid>
-<description>Venue: New Orleans Jazz National Historical Park | Date: Friday, September 11 | Time: 3:00pm</description>
-<pubDate>Fri, 11 Sep 2026 15:00:00 +0000</pubDate>
+<title>A Celebration of Music &amp; Community with Judith Owen, Harry Shearer &amp; More! — New Orleans Jazz &amp; Blues Market</title>
+<link>https://www.wwoz.org/events/1356041</link>
+<guid isPermaLink="false">a44d9a63fb89f2a05c3eb6ab49e82539fe510d48</guid>
+<description>Venue: New Orleans Jazz &amp; Blues Market | Date: Saturday, September 12 | Time: 8:00pm</description>
+<pubDate>Sat, 12 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Outta Nowhere — Old Point Bar</title>
-<link>https://www.wwoz.org/events/1386246</link>
-<guid isPermaLink="false">1ab1591e738dfb16d0ad84882dda8db381bcb501</guid>
-<description>Venue: Old Point Bar | Date: Friday, September 11 | Time: 9:00pm</description>
-<pubDate>Fri, 11 Sep 2026 21:00:00 +0000</pubDate>
+<title>NOLA River Fest 2026 ft. Kinfolk Brass Band, Yusa, Kumasi &amp; More! — New Orleans Jazz Museum</title>
+<link>https://www.wwoz.org/events/1381396</link>
+<guid isPermaLink="false">5642c0cf158bda622b882e9f8458a64d6c5cc8bc</guid>
+<description>Venue: New Orleans Jazz Museum | Date: Saturday, September 12 | Time: 11:00am</description>
+<pubDate>Sat, 12 Sep 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Victoria Amato + Jim Lockwood — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1382661</link>
-<guid isPermaLink="false">29890024a0141198ab6fbeee0c717f1badc93f8e</guid>
-<description>Venue: Pat O'Brien's | Date: Friday, September 11 | Time: 1:00pm</description>
-<pubDate>Fri, 11 Sep 2026 13:00:00 +0000</pubDate>
+<title>Drum Circle with Nailah Smith &amp; Watoto's of Kumbuka — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1384856</link>
+<guid isPermaLink="false">d56d9a34d6cd9870130f62c74443c35397b6bed0</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Saturday, September 12 | Time: 10:30am</description>
+<pubDate>Sat, 12 Sep 2026 10:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Ben Michaels &amp; Lisa Bittick-Lowe + Matt Hayden &amp; Hannah Kreiger-Benson — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1382666</link>
-<guid isPermaLink="false">156c94dd228d3f2d0f9c21e3db41ec7a9ba083f3</guid>
-<description>Venue: Pat O'Brien's | Date: Friday, September 11 | Time: 6:00pm</description>
-<pubDate>Fri, 11 Sep 2026 18:00:00 +0000</pubDate>
+<title>Louis Ford Trio — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1384876</link>
+<guid isPermaLink="false">fc3b3c223d70e813b0ee7a4c5b767ee7e4fdaad2</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Saturday, September 12 | Time: 3:00pm</description>
+<pubDate>Sat, 12 Sep 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>David Boeddinghaus — Polo Club at Windsor Court, The</title>
-<link>https://www.wwoz.org/events/1385936</link>
-<guid isPermaLink="false">c32ae5be62b5f79d30963ff3ce93fdb873496261</guid>
-<description>Venue: Polo Club at Windsor Court, The | Date: Friday, September 11 | Time: 5:30pm</description>
-<pubDate>Fri, 11 Sep 2026 17:30:00 +0000</pubDate>
+<title>PB&amp;J — NOLA Mix Records</title>
+<link>https://www.wwoz.org/events/1390191</link>
+<guid isPermaLink="false">fa46620018b4e558dbab1b5d67d3c797083da199</guid>
+<description>Venue: NOLA Mix Records | Date: Saturday, September 12 | Time: 4:00pm</description>
+<pubDate>Sat, 12 Sep 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Krewe Of Buku Booze Presents: The Bloomies + Issy — Okay Bar</title>
+<link>https://www.wwoz.org/events/1385741</link>
+<guid isPermaLink="false">2b0bee803801e3b3f86765f5923c7a93e1ebad11</guid>
+<description>Venue: Okay Bar | Date: Saturday, September 12 | Time: 3:00pm</description>
+<pubDate>Sat, 12 Sep 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
+<title>DJ Rusty Lazer — Okay Bar</title>
+<link>https://www.wwoz.org/events/1385746</link>
+<guid isPermaLink="false">b288b9388ffa5eddbcd7f802bde56fd95925308a</guid>
+<description>Venue: Okay Bar | Date: Saturday, September 12 | Time: 10:00pm</description>
+<pubDate>Sat, 12 Sep 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Gal Holiday &amp; The Honky Tonk Revue — Old Point Bar</title>
+<link>https://www.wwoz.org/events/1384406</link>
+<guid isPermaLink="false">5be2e172858a8453ca3ec8fcc3a44c7c659bcd1d</guid>
+<description>Venue: Old Point Bar | Date: Saturday, September 12 | Time: 9:00pm</description>
+<pubDate>Sat, 12 Sep 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Ben Michaels &amp; Jim Lockwood — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1382671</link>
+<guid isPermaLink="false">e28acb4b8d2197de2a2821318ae7b16f1c515d75</guid>
+<description>Venue: Pat O'Brien's | Date: Saturday, September 12 | Time: 1:00pm</description>
+<pubDate>Sat, 12 Sep 2026 13:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Lisa Bittick-Lowe &amp; Matt Hayden + Hannah Kreiger-Benson &amp; Natalie Mae — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1382676</link>
+<guid isPermaLink="false">f4ba6658e6dc9fd15ff550eb1e3fb3e9de1bbf7e</guid>
+<description>Venue: Pat O'Brien's | Date: Saturday, September 12 | Time: 6:00pm</description>
+<pubDate>Sat, 12 Sep 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Ian Cunningham — Paulie's</title>
+<link>https://www.wwoz.org/events/1390681</link>
+<guid isPermaLink="false">9e80f32592419f6dabaf484c92d792b0ff8d2d1f</guid>
+<description>Venue: Paulie's | Date: Saturday, September 12 | Time: 11:30am</description>
+<pubDate>Sat, 12 Sep 2026 11:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Blue Carl Trio ft. Blue Carl, Christian Herring &amp; Hudson Grady — Paulie's</title>
+<link>https://www.wwoz.org/events/1390096</link>
+<guid isPermaLink="false">2d2be56455b89fd69e584baa0d37c90e90e9a157</guid>
+<description>Venue: Paulie's | Date: Saturday, September 12 | Time: 6:00pm</description>
+<pubDate>Sat, 12 Sep 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>John Royen — Polo Club at Windsor Court, The</title>
+<link>https://www.wwoz.org/events/1386016</link>
+<guid isPermaLink="false">5e7beb1952540149f6bea007ff20e26e65cb2437</guid>
+<description>Venue: Polo Club at Windsor Court, The | Date: Saturday, September 12 | Time: 5:30pm</description>
+<pubDate>Sat, 12 Sep 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Bean 'N The Boys — Polo Club at Windsor Court, The</title>
-<link>https://www.wwoz.org/events/1386036</link>
-<guid isPermaLink="false">8cc2af1c33d788fc66857c48d26e749d8f914966</guid>
-<description>Venue: Polo Club at Windsor Court, The | Date: Friday, September 11 | Time: 9:00pm</description>
-<pubDate>Fri, 11 Sep 2026 21:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1386056</link>
+<guid isPermaLink="false">26dd43b64459da9332d83c9a3018f7bc4747d3d1</guid>
+<description>Venue: Polo Club at Windsor Court, The | Date: Saturday, September 12 | Time: 9:00pm</description>
+<pubDate>Sat, 12 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1380031</link>
-<guid isPermaLink="false">ced039aefc8b7e880029a33297b4d55a88915f97</guid>
-<description>Venue: Preservation Hall | Date: Friday, September 11 | Time: 5:00pm</description>
-<pubDate>Fri, 11 Sep 2026 17:00:00 +0000</pubDate>
+<title>Preservation All-Stars — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1380071</link>
+<guid isPermaLink="false">f52da5627b798a60e31c26cfed698b722f0cbf6c</guid>
+<description>Venue: Preservation Hall | Date: Saturday, September 12 | Time: 5:00pm</description>
+<pubDate>Sat, 12 Sep 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1380036</link>
-<guid isPermaLink="false">088511360f049a6760bcea781d3f578789b85925</guid>
-<description>Venue: Preservation Hall | Date: Friday, September 11 | Time: 6:15pm</description>
-<pubDate>Fri, 11 Sep 2026 18:15:00 +0000</pubDate>
+<title>Preservation All-Stars — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1380076</link>
+<guid isPermaLink="false">967afaeb148627fe88b1f74c4a06e23ee860027b</guid>
+<description>Venue: Preservation Hall | Date: Saturday, September 12 | Time: 6:15pm</description>
+<pubDate>Sat, 12 Sep 2026 18:15:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1380041</link>
-<guid isPermaLink="false">77de3d32cf5cd510cb62ce190127455030259c58</guid>
-<description>Venue: Preservation Hall | Date: Friday, September 11 | Time: 7:30pm</description>
-<pubDate>Fri, 11 Sep 2026 19:30:00 +0000</pubDate>
+<title>Preservation All-Stars — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1380081</link>
+<guid isPermaLink="false">d0e006949964624d8a4697922799297e378ca594</guid>
+<description>Venue: Preservation Hall | Date: Saturday, September 12 | Time: 7:30pm</description>
+<pubDate>Sat, 12 Sep 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1380046</link>
-<guid isPermaLink="false">217f1af515e00fd145e75aaf5452d2541ea9b989</guid>
-<description>Venue: Preservation Hall | Date: Friday, September 11 | Time: 8:45pm</description>
-<pubDate>Fri, 11 Sep 2026 20:45:00 +0000</pubDate>
+<title>Preservation All-Stars — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1380086</link>
+<guid isPermaLink="false">3ee2673d25d8a1fbb6f6c52b9e308a885fb3bb47</guid>
+<description>Venue: Preservation Hall | Date: Saturday, September 12 | Time: 8:45pm</description>
+<pubDate>Sat, 12 Sep 2026 20:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Hole Hearted House ft. DJs Romancing the Stoned &amp; Tchoupo — Rabbit Hole, The</title>
-<link>https://www.wwoz.org/events/1382101</link>
-<guid isPermaLink="false">1b5a5de850b9f334b38b60f880d06cbddb8002e3</guid>
-<description>Venue: Rabbit Hole, The | Date: Friday, September 11 | Time: 10:00pm</description>
-<pubDate>Fri, 11 Sep 2026 22:00:00 +0000</pubDate>
+<title>Sippy: NOLA — Rabbit Hole, The</title>
+<link>https://www.wwoz.org/events/1370896</link>
+<guid isPermaLink="false">4c2a4cbe0d073543f09bf457cf8131fafc6f10f9</guid>
+<description>Venue: Rabbit Hole, The | Date: Saturday, September 12 | Time: 10:00pm</description>
+<pubDate>Sat, 12 Sep 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Salvador Avila Trio — San Lorenzo Restaurant at Hotel St. Vincent</title>
-<link>https://www.wwoz.org/events/1390121</link>
-<guid isPermaLink="false">bc61719814857639f1b855dd2e5167db558fcbd3</guid>
-<description>Venue: San Lorenzo Restaurant at Hotel St. Vincent | Date: Friday, September 11 | Time: 12:00pm</description>
-<pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+<title>Refried Confuzion — Riverside Tavern</title>
+<link>https://www.wwoz.org/events/1390176</link>
+<guid isPermaLink="false">fe228c62490c01f034818b694e3b95f61102090b</guid>
+<description>Venue: Riverside Tavern | Date: Saturday, September 12 | Time: 9:00pm</description>
+<pubDate>Sat, 12 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>DJ Mijita — Santos Bar</title>
-<link>https://www.wwoz.org/events/1384246</link>
-<guid isPermaLink="false">17f61c9ad0c739ed348f59e40c807f984d0ae099</guid>
-<description>Venue: Santos Bar | Date: Friday, September 11 | Time: 10:00pm</description>
-<pubDate>Fri, 11 Sep 2026 22:00:00 +0000</pubDate>
+<title>Kontravoid + Buzz Kill + People In Black — Santos Bar</title>
+<link>https://www.wwoz.org/events/1384251</link>
+<guid isPermaLink="false">81043fdc42e7c2cfb620c927aa0e315fbed41977</guid>
+<description>Venue: Santos Bar | Date: Saturday, September 12 | Time: 10:00pm</description>
+<pubDate>Sat, 12 Sep 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Todd Cirillo's Happy Hour of New Orleans — Schooner Saloon, The</title>
-<link>https://www.wwoz.org/events/1389506</link>
-<guid isPermaLink="false">199c103d2905d86a88183d2c8476749e6a7d96a4</guid>
-<description>Venue: Schooner Saloon, The | Date: Friday, September 11 | Time: 7:00pm</description>
-<pubDate>Fri, 11 Sep 2026 19:00:00 +0000</pubDate>
+<title>Across Phoenix + hidanny! + badoutfit — Siberia</title>
+<link>https://www.wwoz.org/events/1389731</link>
+<guid isPermaLink="false">1039ebab6587ea6cbd287dffb427f79c8361eb8d</guid>
+<description>Venue: Siberia | Date: Saturday, September 12 | Time: 9:00pm</description>
+<pubDate>Sat, 12 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Baby In The 90s + The Hand Grenades + Vienne Notarianni — Siberia</title>
-<link>https://www.wwoz.org/events/1367656</link>
-<guid isPermaLink="false">4769769c07ae80e7456946d836dccab741c14de3</guid>
-<description>Venue: Siberia | Date: Friday, September 11 | Time: 9:00pm</description>
-<pubDate>Fri, 11 Sep 2026 21:00:00 +0000</pubDate>
+<title>Autumn Dominguez Duo — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1385571</link>
+<guid isPermaLink="false">094d4226dfce50277cd4ab485b5dc0a7e50f1646</guid>
+<description>Venue: Snug Harbor | Date: Saturday, September 12 | Time: 4:30pm</description>
+<pubDate>Sat, 12 Sep 2026 16:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Victor Goines Quartet — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1385566</link>
-<guid isPermaLink="false">32d0ee590c8046b6df183aa1125e119bc18eecee</guid>
-<description>Venue: Snug Harbor | Date: Friday, September 11 | Time: 7:30pm</description>
-<pubDate>Fri, 11 Sep 2026 19:30:00 +0000</pubDate>
+<title>Herlin Riley — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1385581</link>
+<guid isPermaLink="false">1686050441360a3ede7d67013a1fdae5793fc1a9</guid>
+<description>Venue: Snug Harbor | Date: Saturday, September 12 | Time: 7:30pm</description>
+<pubDate>Sat, 12 Sep 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Victor Goines Quartet — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1385561</link>
-<guid isPermaLink="false">9b160e2f9432383c01477fab7119cc961d2609d9</guid>
-<description>Venue: Snug Harbor | Date: Friday, September 11 | Time: 9:30pm</description>
-<pubDate>Fri, 11 Sep 2026 21:30:00 +0000</pubDate>
+<title>Herlin Riley — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1385576</link>
+<guid isPermaLink="false">a019f2d977e5dbbe1eb2349e80b2de8bdc538baf</guid>
+<description>Venue: Snug Harbor | Date: Saturday, September 12 | Time: 9:30pm</description>
+<pubDate>Sat, 12 Sep 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Paradise Jazz Band — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1380891</link>
-<guid isPermaLink="false">1f19a0f26d55693e0568e45f45878aeac364f310</guid>
-<description>Venue: Spotted Cat | Date: Friday, September 11 | Time: 2:00pm</description>
-<pubDate>Fri, 11 Sep 2026 14:00:00 +0000</pubDate>
+<title>Popcorn — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1381041</link>
+<guid isPermaLink="false">275ff87d548a34924f6555aaadf56aa2323d69ba</guid>
+<description>Venue: Spotted Cat | Date: Saturday, September 12 | Time: 2:00pm</description>
+<pubDate>Sat, 12 Sep 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>New Orleans Cottonmouth Kings — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1380916</link>
-<guid isPermaLink="false">53da624ca4babc24d43c71cc3424583b3040c6b7</guid>
-<description>Venue: Spotted Cat | Date: Friday, September 11 | Time: 6:00pm</description>
-<pubDate>Fri, 11 Sep 2026 18:00:00 +0000</pubDate>
+<title>Shake 'Em Up Jazz Band — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1381056</link>
+<guid isPermaLink="false">f077e1d77d4e349433ad509aa98c06a011e8dfd2</guid>
+<description>Venue: Spotted Cat | Date: Saturday, September 12 | Time: 6:00pm</description>
+<pubDate>Sat, 12 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dirty Tuba — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1380931</link>
-<guid isPermaLink="false">965e010fb58b6663f4242dd9f79fb71abe342cef</guid>
-<description>Venue: Spotted Cat | Date: Friday, September 11 | Time: 10:00pm</description>
-<pubDate>Fri, 11 Sep 2026 22:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1386761</link>
-<guid isPermaLink="false">8005a13cf5a1b201a91493e16ad2a65408700981</guid>
-<description>Venue: Steamboat Natchez | Date: Friday, September 11 | Time: 11:00am</description>
-<pubDate>Fri, 11 Sep 2026 11:00:00 +0000</pubDate>
+<title>Dr. Sick &amp; the Late Greats — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1381081</link>
+<guid isPermaLink="false">f68b5e96c65ce10f3be584e6b354b7a101ee49e5</guid>
+<description>Venue: Spotted Cat | Date: Saturday, September 12 | Time: 10:00pm</description>
+<pubDate>Sat, 12 Sep 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1386931</link>
-<guid isPermaLink="false">71cae2de175a105280593235779763bec256fb6d</guid>
-<description>Venue: Steamboat Natchez | Date: Friday, September 11 | Time: 2:00pm</description>
-<pubDate>Fri, 11 Sep 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1386781</link>
+<guid isPermaLink="false">1a2ac08aaf382f97c719efe6e0e61144b3503f17</guid>
+<description>Venue: Steamboat Natchez | Date: Saturday, September 12 | Time: 11:00am</description>
+<pubDate>Sat, 12 Sep 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Steamboat Stompers — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1386956</link>
+<guid isPermaLink="false">51f7abd7dc694fe3cd18326d0e4fb4456fe9d54f</guid>
+<description>Venue: Steamboat Natchez | Date: Saturday, September 12 | Time: 2:00pm</description>
+<pubDate>Sat, 12 Sep 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dukes of Dixieland — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1387106</link>
-<guid isPermaLink="false">7478aac35e2543a1549408142a5af143332c52b8</guid>
-<description>Venue: Steamboat Natchez | Date: Friday, September 11 | Time: 6:00pm</description>
-<pubDate>Fri, 11 Sep 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1387126</link>
+<guid isPermaLink="false">5d76843688da1e915251f30246c044f09b862f34</guid>
+<description>Venue: Steamboat Natchez | Date: Saturday, September 12 | Time: 6:00pm</description>
+<pubDate>Sat, 12 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Bad Penny Pleasuremakers — Three Muses</title>
-<link>https://www.wwoz.org/events/1390161</link>
-<guid isPermaLink="false">ee1a4fc870a89c7555ae4f6d766a73cbbe2bc74e</guid>
-<description>Venue: Three Muses | Date: Friday, September 11 | Time: 7:30pm</description>
-<pubDate>Fri, 11 Sep 2026 19:30:00 +0000</pubDate>
+<title>Or Shovaly Plus — Three Maries Jazz Club at the Omni Royal Orleans</title>
+<link>https://www.wwoz.org/events/1379326</link>
+<guid isPermaLink="false">e82ce2d846f52d4e5d1a58b57b568ebdb21600a0</guid>
+<description>Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Saturday, September 12 | Time: 6:00pm</description>
+<pubDate>Sat, 12 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Rebirth Brass Band + LeTrainiump — Tipitina's</title>
-<link>https://www.wwoz.org/events/1365441</link>
-<guid isPermaLink="false">01b72051f3e02b637ec5b9d3c87ca48d7d91758d</guid>
-<description>Venue: Tipitina's | Date: Friday, September 11 | Time: 8:30pm</description>
-<pubDate>Fri, 11 Sep 2026 20:30:00 +0000</pubDate>
+<title>Johanna Rose — Three Muses</title>
+<link>https://www.wwoz.org/events/1390166</link>
+<guid isPermaLink="false">d972b6379cd29405a74b83f3caa5f9ae96bf173d</guid>
+<description>Venue: Three Muses | Date: Saturday, September 12 | Time: 7:30pm</description>
+<pubDate>Sat, 12 Sep 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Vampyre Cabaret — Twilight Room at The Allways Lounge</title>
-<link>https://www.wwoz.org/events/1390476</link>
-<guid isPermaLink="false">b52b6e933bc83402ed6034cf81a3cc53418f265f</guid>
-<description>Venue: Twilight Room at The Allways Lounge | Date: Friday, September 11 | Time: 10:30pm</description>
-<pubDate>Fri, 11 Sep 2026 22:30:00 +0000</pubDate>
+<title>Upward Spiral presents Momentum ft. Traum, Bodyroom, Safra + More! — Tigermen Den</title>
+<link>https://www.wwoz.org/events/1390676</link>
+<guid isPermaLink="false">2807f0784c7e7b19cf3c105bab40084db237f2be</guid>
+<description>Venue: Tigermen Den | Date: Saturday, September 12 | Time: 1:00pm</description>
+<pubDate>Sat, 12 Sep 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Don Vappie &amp; Friends — Venue Vapaille</title>
-<link>https://www.wwoz.org/events/1379411</link>
-<guid isPermaLink="false">1cd64c23ebf627180956288159fd4c237dfd8468</guid>
-<description>Venue: Venue Vapaille | Date: Friday, September 11 | Time: 6:00pm</description>
-<pubDate>Fri, 11 Sep 2026 18:00:00 +0000</pubDate>
+<title>Banana Creems + Art Openings — Tigermen Den</title>
+<link>https://www.wwoz.org/events/1384396</link>
+<guid isPermaLink="false">672bf1e3da21c3ac36e2e9dd62cf2db8ef775a6a</guid>
+<description>Venue: Tigermen Den | Date: Saturday, September 12 | Time: 7:00pm</description>
+<pubDate>Sat, 12 Sep 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Big In The 90s — Tipitina's</title>
+<link>https://www.wwoz.org/events/1365446</link>
+<guid isPermaLink="false">b8b8536dc63f36a0220dab331ade9f66cfb23a3e</guid>
+<description>Venue: Tipitina's | Date: Saturday, September 12 | Time: 9:00pm</description>
+<pubDate>Sat, 12 Sep 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Mark Barrett &amp; The First Calls — Tropical Isle Bourbon</title>
+<link>https://www.wwoz.org/events/1384451</link>
+<guid isPermaLink="false">7d976874cfef487bae8111bbbe3e8cad20c7fa3d</guid>
+<description>Venue: Tropical Isle Bourbon | Date: Saturday, September 12 | Time: 7:00pm</description>
+<pubDate>Sat, 12 Sep 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Alex McMurray &amp; His Band — Vaughan's Lounge</title>
+<link>https://www.wwoz.org/events/1386571</link>
+<guid isPermaLink="false">6e18e1378ad39a857f678886ce46bd76970c3451</guid>
+<description>Venue: Vaughan's Lounge | Date: Saturday, September 12 | Time: 8:00pm</description>
+<pubDate>Sat, 12 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
