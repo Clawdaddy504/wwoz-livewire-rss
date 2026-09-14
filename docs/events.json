@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-14T19:50:17.892914+00:00",
-  "count": 47,
+  "generated_at": "2026-09-14T23:51:40.521670+00:00",
+  "count": 48,
   "events": [
     {
       "id": "67266fa94e9db6351f0822ea0e3017c6dcbdc026",
@@ -555,6 +555,18 @@
       "time_text": "6:00pm",
       "start": "2026-09-14T18:00:00+00:00",
       "description": "Venue: Steamboat Natchez | Date: Monday, September 14 | Time: 6:00pm"
+    },
+    {
+      "id": "147371d2e65cbbc3c032411c942e1e3313c8e505",
+      "source": "wwoz",
+      "title": "Jelly Roll Stompers",
+      "venue": "Three Muses",
+      "venue_url": "https://www.wwoz.org/organizations/three-muses",
+      "event_url": "https://www.wwoz.org/events/1390981",
+      "date_text": "Monday, September 14",
+      "time_text": "7:30pm",
+      "start": "2026-09-14T19:30:00+00:00",
+      "description": "Venue: Three Muses | Date: Monday, September 14 | Time: 7:30pm"
     },
     {
       "id": "36d39c8b5c70e2455a312c3d729886713b52f47f",

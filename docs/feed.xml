@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 14 Sep 2026 19:50:17 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 23:51:40 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>James Beaumont &amp; Coyote Duo — 21st Amendment</title>
@@ -328,6 +328,13 @@
 <guid isPermaLink="false">efa0cc5853a63e702acc5240bc5411e3a5597e14</guid>
 <description>Venue: Steamboat Natchez | Date: Monday, September 14 | Time: 6:00pm</description>
 <pubDate>Mon, 14 Sep 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jelly Roll Stompers — Three Muses</title>
+<link>https://www.wwoz.org/events/1390981</link>
+<guid isPermaLink="false">147371d2e65cbbc3c032411c942e1e3313c8e505</guid>
+<description>Venue: Three Muses | Date: Monday, September 14 | Time: 7:30pm</description>
+<pubDate>Mon, 14 Sep 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Dave Ferrato — Tropical Isle Original</title>
