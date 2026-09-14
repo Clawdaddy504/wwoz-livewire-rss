@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 13 Sep 2026 23:09:41 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 04:54:57 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Lobelia Jazz Band — 21st Amendment</title>
@@ -139,6 +139,13 @@
 <guid isPermaLink="false">df297bbd7016640021713349097b4f3faf23a700</guid>
 <description>Venue: Broadside (Outdoor Stage) | Date: Sunday, September 13 | Time: 8:00pm</description>
 <pubDate>Sun, 13 Sep 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Bob Macy — Café Beignet on Decatur</title>
+<link>https://www.wwoz.org/events/1390716</link>
+<guid isPermaLink="false">c2be30d06d05923b155f5dc14b6dfad321b3f09d</guid>
+<description>Venue: Café Beignet on Decatur | Date: Sunday, September 13 | Time: 10:00am</description>
+<pubDate>Sun, 13 Sep 2026 10:00:00 +0000</pubDate>
 </item>
 <item>
 <title>John Lisi &amp; Delta Funk — Café Negril</title>
@@ -300,6 +307,13 @@
 <guid isPermaLink="false">bfb27911ab84e6199ed234de14ed925daf447848</guid>
 <description>Venue: Marigny Opera House | Date: Sunday, September 13 | Time: 8:00pm</description>
 <pubDate>Sun, 13 Sep 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Open Mic Night Hosted by Aleah Hyer — Neutral Ground Coffeehouse</title>
+<link>https://www.wwoz.org/events/1390816</link>
+<guid isPermaLink="false">2f5f284e036687dcb47349fe04856946676d4784</guid>
+<description>Venue: Neutral Ground Coffeehouse | Date: Sunday, September 13 | Time: 6:00pm</description>
+<pubDate>Sun, 13 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>El Grito: Celebration of Mexican Independence — New Orleans Jazz Museum (OUTDOORS)</title>

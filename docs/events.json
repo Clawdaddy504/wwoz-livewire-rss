@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-13T23:09:41.559034+00:00",
-  "count": 64,
+  "generated_at": "2026-09-14T04:54:57.341484+00:00",
+  "count": 66,
   "events": [
     {
       "id": "db1eb4f71dac8ed61e1552c90b18a48ae4d01272",
@@ -231,6 +231,18 @@
       "time_text": "8:00pm",
       "start": "2026-09-13T20:00:00+00:00",
       "description": "Venue: Broadside (Outdoor Stage) | Date: Sunday, September 13 | Time: 8:00pm"
+    },
+    {
+      "id": "c2be30d06d05923b155f5dc14b6dfad321b3f09d",
+      "source": "wwoz",
+      "title": "Bob Macy",
+      "venue": "Caf\u00e9 Beignet on Decatur",
+      "venue_url": "https://www.wwoz.org/organizations/cafe-beignet-decatur",
+      "event_url": "https://www.wwoz.org/events/1390716",
+      "date_text": "Sunday, September 13",
+      "time_text": "10:00am",
+      "start": "2026-09-13T10:00:00+00:00",
+      "description": "Venue: Caf\u00e9 Beignet on Decatur | Date: Sunday, September 13 | Time: 10:00am"
     },
     {
       "id": "6aa3c25d9751bfd7264a7d25fb99b1eadac0583d",
@@ -507,6 +519,18 @@
       "time_text": "8:00pm",
       "start": "2026-09-13T20:00:00+00:00",
       "description": "Venue: Marigny Opera House | Date: Sunday, September 13 | Time: 8:00pm"
+    },
+    {
+      "id": "2f5f284e036687dcb47349fe04856946676d4784",
+      "source": "wwoz",
+      "title": "Open Mic Night Hosted by Aleah Hyer",
+      "venue": "Neutral Ground Coffeehouse",
+      "venue_url": "https://www.wwoz.org/organizations/neutral-ground-coffeehouse",
+      "event_url": "https://www.wwoz.org/events/1390816",
+      "date_text": "Sunday, September 13",
+      "time_text": "6:00pm",
+      "start": "2026-09-13T18:00:00+00:00",
+      "description": "Venue: Neutral Ground Coffeehouse | Date: Sunday, September 13 | Time: 6:00pm"
     },
     {
       "id": "69892948792f2b5efa187addbf6ec4880225ac7d",
