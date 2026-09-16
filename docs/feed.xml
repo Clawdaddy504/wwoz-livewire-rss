@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 16 Sep 2026 16:54:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 21:17:21 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dr. Sick — 21st Amendment</title>
@@ -83,6 +83,13 @@
 <guid isPermaLink="false">6e665698fbc38525fc1764fa3831752cdfda562e</guid>
 <description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Wednesday, September 16 | Time: 8:00pm</description>
 <pubDate>Wed, 16 Sep 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Geena Fontanella + David Michael Frank + The Band Melrose + Donate Your Friends — Broadside (Outdoor Stage)</title>
+<link>https://www.wwoz.org/events/1391131</link>
+<guid isPermaLink="false">eabe40305cb8d280ac0cdc55c3ff26d65f3f7eea</guid>
+<description>Venue: Broadside (Outdoor Stage) | Date: Wednesday, September 16 | Time: 7:00pm</description>
+<pubDate>Wed, 16 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Bruno Mars, Raye &amp; DJ Pee.Wee — Caesars Superdome</title>
