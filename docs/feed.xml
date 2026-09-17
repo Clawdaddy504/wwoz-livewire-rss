@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 17 Sep 2026 16:59:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 21:21:22 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy — 21st Amendment</title>
@@ -461,6 +461,13 @@
 <guid isPermaLink="false">a38b8756513e402d02c39f9f4f77be1de64eaa44</guid>
 <description>Venue: Preservation Hall | Date: Thursday, September 17 | Time: 8:45pm</description>
 <pubDate>Thu, 17 Sep 2026 20:45:00 +0000</pubDate>
+</item>
+<item>
+<title>Kota the Friend + Pine Eel, Artigue &amp; Defective J — Republic New Orleans</title>
+<link>https://www.wwoz.org/events/1391476</link>
+<guid isPermaLink="false">f58297e6394017dc15d0041fee160aa5a80c313f</guid>
+<description>Venue: Republic New Orleans | Date: Thursday, September 17 | Time: 9:00pm</description>
+<pubDate>Thu, 17 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Juan Tigre — Salon Salon</title>

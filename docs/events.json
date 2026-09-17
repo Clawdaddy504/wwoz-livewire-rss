@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-17T16:59:06.596978+00:00",
-  "count": 82,
+  "generated_at": "2026-09-17T21:21:22.389166+00:00",
+  "count": 83,
   "events": [
     {
       "id": "dbf8178c7d63df29678bc490bd27610b96a91843",
@@ -783,6 +783,18 @@
       "time_text": "8:45pm",
       "start": "2026-09-17T20:45:00+00:00",
       "description": "Venue: Preservation Hall | Date: Thursday, September 17 | Time: 8:45pm"
+    },
+    {
+      "id": "f58297e6394017dc15d0041fee160aa5a80c313f",
+      "source": "wwoz",
+      "title": "Kota the Friend + Pine Eel, Artigue & Defective J",
+      "venue": "Republic New Orleans",
+      "venue_url": "https://www.wwoz.org/organizations/republic-new-orleans",
+      "event_url": "https://www.wwoz.org/events/1391476",
+      "date_text": "Thursday, September 17",
+      "time_text": "9:00pm",
+      "start": "2026-09-17T21:00:00+00:00",
+      "description": "Venue: Republic New Orleans | Date: Thursday, September 17 | Time: 9:00pm"
     },
     {
       "id": "9fd775db1c95708447c894eec58c2d14f2e38f17",
