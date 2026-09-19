@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 19 Sep 2026 15:52:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 20:39:18 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
@@ -804,6 +804,13 @@
 <guid isPermaLink="false">1efb9c1289809d0abe09fd7b1781a2ad16b8e37f</guid>
 <description>Venue: Whiskey Cowboy Saloon | Date: Saturday, September 19 | Time: 8:00pm</description>
 <pubDate>Sat, 19 Sep 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jazz'n the Vines ft. River Eckert — Wild Bush Farm &amp; Vineyard - Bush</title>
+<link>https://www.wwoz.org/events/1392526</link>
+<guid isPermaLink="false">583bb465ff4e0001a0cb8dde98ba74497c63acd8</guid>
+<description>Venue: Wild Bush Farm &amp; Vineyard - Bush | Date: Saturday, September 19 | Time: 6:30pm</description>
+<pubDate>Sat, 19 Sep 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Adam Pearce — Zina's Place - Thibodaux</title>

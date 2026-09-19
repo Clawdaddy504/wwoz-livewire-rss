@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-19T15:52:18.252616+00:00",
-  "count": 115,
+  "generated_at": "2026-09-19T20:39:18.417848+00:00",
+  "count": 116,
   "events": [
     {
       "id": "56fe72f4732322a2ce421f172b471bb41f969da7",
@@ -1371,6 +1371,18 @@
       "time_text": "8:00pm",
       "start": "2026-09-19T20:00:00+00:00",
       "description": "Venue: Whiskey Cowboy Saloon | Date: Saturday, September 19 | Time: 8:00pm"
+    },
+    {
+      "id": "583bb465ff4e0001a0cb8dde98ba74497c63acd8",
+      "source": "wwoz",
+      "title": "Jazz'n the Vines ft. River Eckert",
+      "venue": "Wild Bush Farm & Vineyard - Bush",
+      "venue_url": "https://www.wwoz.org/organizations/wild-bush-farm-vineyard-bush",
+      "event_url": "https://www.wwoz.org/events/1392526",
+      "date_text": "Saturday, September 19",
+      "time_text": "6:30pm",
+      "start": "2026-09-19T18:30:00+00:00",
+      "description": "Venue: Wild Bush Farm & Vineyard - Bush | Date: Saturday, September 19 | Time: 6:30pm"
     },
     {
       "id": "7855a0a63dadda4502cedee13897b983f54b7707",
