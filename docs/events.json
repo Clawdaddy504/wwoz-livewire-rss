@@ -1,7 +1,7 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-20T23:14:44.270088+00:00",
+  "generated_at": "2026-09-21T04:54:42.131731+00:00",
   "count": 71,
   "events": [
     {
@@ -173,16 +173,16 @@
       "description": "Venue: BJ's Lounge | Date: Sunday, September 20 | Time: 9:00pm"
     },
     {
-      "id": "9f534862bc3d8ac98ba4db1bac4325f1e2bca486",
+      "id": "ee3fc703c216896ed16db99e2fe0996c45053be9",
       "source": "wwoz",
       "title": "Juice presents Sypher Sundays",
       "venue": "Blue Nile",
       "venue_url": "https://www.wwoz.org/organizations/blue-nile",
       "event_url": "https://www.wwoz.org/events/1387906",
       "date_text": "Sunday, September 20",
-      "time_text": "7:00pm",
-      "start": "2026-09-20T19:00:00+00:00",
-      "description": "Venue: Blue Nile | Date: Sunday, September 20 | Time: 7:00pm"
+      "time_text": "9:00pm",
+      "start": "2026-09-20T21:00:00+00:00",
+      "description": "Venue: Blue Nile | Date: Sunday, September 20 | Time: 9:00pm"
     },
     {
       "id": "41b118783519ab450931258fb004def1d9d3a82e",
@@ -367,7 +367,7 @@
     {
       "id": "c39d07f2cbdf09a8a994f1ad5e05bab3337734aa",
       "source": "wwoz",
-      "title": "Chandler",
+      "title": "(CANCELLED) Chandler",
       "venue": "Double Dealer at the Orpheum Theater",
       "venue_url": "https://www.wwoz.org/organizations/double-dealer-orpheum-theater",
       "event_url": "https://www.wwoz.org/events/1390186",

@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 20 Sep 2026 23:14:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 04:54:42 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Lobelia Jazz Band — 21st Amendment</title>
@@ -108,9 +108,9 @@
 <item>
 <title>Juice presents Sypher Sundays — Blue Nile</title>
 <link>https://www.wwoz.org/events/1387906</link>
-<guid isPermaLink="false">9f534862bc3d8ac98ba4db1bac4325f1e2bca486</guid>
-<description>Venue: Blue Nile | Date: Sunday, September 20 | Time: 7:00pm</description>
-<pubDate>Sun, 20 Sep 2026 19:00:00 +0000</pubDate>
+<guid isPermaLink="false">ee3fc703c216896ed16db99e2fe0996c45053be9</guid>
+<description>Venue: Blue Nile | Date: Sunday, September 20 | Time: 9:00pm</description>
+<pubDate>Sun, 20 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Deej Flava &amp; Mother Ruckus — BMC</title>
@@ -218,7 +218,7 @@
 <pubDate>Sun, 20 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Chandler — Double Dealer at the Orpheum Theater</title>
+<title>(CANCELLED) Chandler — Double Dealer at the Orpheum Theater</title>
 <link>https://www.wwoz.org/events/1390186</link>
 <guid isPermaLink="false">c39d07f2cbdf09a8a994f1ad5e05bab3337734aa</guid>
 <description>Venue: Double Dealer at the Orpheum Theater | Date: Sunday, September 20 | Time: 8:00pm</description>
