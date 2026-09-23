@@ -5,385 +5,434 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 23 Sep 2026 04:44:09 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 11:35:03 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
-<title>Dave Hammer — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1381561</link>
-<guid isPermaLink="false">6d8a05a6b0fef77749a44de137328e414eb58ba6</guid>
-<description>Venue: 21st Amendment | Date: Tuesday, September 22 | Time: 8:00pm</description>
-<pubDate>Tue, 22 Sep 2026 20:00:00 +0000</pubDate>
+<title>Dr. Sick — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1381736</link>
+<guid isPermaLink="false">2f0cabafe6c91e082921d9901acb241978d6e5a8</guid>
+<description>Venue: 21st Amendment | Date: Wednesday, September 23 | Time: 8:00pm</description>
+<pubDate>Wed, 23 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sugar &amp; the Daddies — 30/90</title>
-<link>https://www.wwoz.org/events/1385301</link>
-<guid isPermaLink="false">60866efa5ff46f4f6f3f10f0948e7d03601cb4c1</guid>
-<description>Venue: 30/90 | Date: Tuesday, September 22 | Time: 6:00pm</description>
-<pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
+<title>Josh Benitez — 30/90</title>
+<link>https://www.wwoz.org/events/1389111</link>
+<guid isPermaLink="false">ab8167cf4331215a9a3ffb6deb09be12e0ebbed7</guid>
+<description>Venue: 30/90 | Date: Wednesday, September 23 | Time: 6:00pm</description>
+<pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Higher Heights — 30/90</title>
-<link>https://www.wwoz.org/events/1388941</link>
-<guid isPermaLink="false">fd33edb4b8c1e326193c110e0a1fb28c0dd0686d</guid>
-<description>Venue: 30/90 | Date: Tuesday, September 22 | Time: 9:00pm</description>
-<pubDate>Tue, 22 Sep 2026 21:00:00 +0000</pubDate>
+<title>The Budz — 30/90</title>
+<link>https://www.wwoz.org/events/1388956</link>
+<guid isPermaLink="false">93b1c31bc50428160ea77d91660faa4e43c86d64</guid>
+<description>Venue: 30/90 | Date: Wednesday, September 23 | Time: 9:00pm</description>
+<pubDate>Wed, 23 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Bubbles Brown — Apple Barrel</title>
-<link>https://www.wwoz.org/events/1379101</link>
-<guid isPermaLink="false">be1b61b5b0d798ba9daf4681fe05d069f0a16d86</guid>
-<description>Venue: Apple Barrel | Date: Tuesday, September 22 | Time: 6:00pm</description>
-<pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
+<title>Jesse Morrow — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1373281</link>
+<guid isPermaLink="false">c063b4c50a7cbaddfee1573997ec94d8f69f87c9</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Wednesday, September 23 | Time: 6:00pm</description>
+<pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Blake Amos — Audubon Clubhouse by Dickie Brennan</title>
-<link>https://www.wwoz.org/events/1389741</link>
-<guid isPermaLink="false">870e0d3d95da869830b6d01fcf8cf1ef175756f7</guid>
-<description>Venue: Audubon Clubhouse by Dickie Brennan | Date: Tuesday, September 22 | Time: 4:30pm</description>
-<pubDate>Tue, 22 Sep 2026 16:30:00 +0000</pubDate>
+<title>Jacky Blaire &amp; the Hot Biscuits — Bamboula's</title>
+<link>https://www.wwoz.org/events/1388166</link>
+<guid isPermaLink="false">a0efc8069587f78d7cf8e33321fe879d0a08c648</guid>
+<description>Venue: Bamboula's | Date: Wednesday, September 23 | Time: 12:00pm</description>
+<pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Tangiers Combo — Bacchanal (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1373241</link>
-<guid isPermaLink="false">5277451798caba4de1a0583827e39183cf277b31</guid>
-<description>Venue: Bacchanal (OUTDOORS) | Date: Tuesday, September 22 | Time: 6:00pm</description>
-<pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
+<title>Swinging with John Saavedra — Bamboula's</title>
+<link>https://www.wwoz.org/events/1388181</link>
+<guid isPermaLink="false">75116a5a3071677c8d6d85c071745bcfae66cb74</guid>
+<description>Venue: Bamboula's | Date: Wednesday, September 23 | Time: 4:30pm</description>
+<pubDate>Wed, 23 Sep 2026 16:30:00 +0000</pubDate>
 </item>
 <item>
-<title>F K-rrera Group — Bamboula's</title>
-<link>https://www.wwoz.org/events/1388126</link>
-<guid isPermaLink="false">0d5a2ca5fe019618ff302ecf6a70e6777f301cb6</guid>
-<description>Venue: Bamboula's | Date: Tuesday, September 22 | Time: 12:00pm</description>
-<pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+<title>Jelly Roll Stompers — Bamboula's</title>
+<link>https://www.wwoz.org/events/1388206</link>
+<guid isPermaLink="false">11827cfb4ab00ec662d6de960a41c5bbf7526591</guid>
+<description>Venue: Bamboula's | Date: Wednesday, September 23 | Time: 9:00pm</description>
+<pubDate>Wed, 23 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Giselle Anguizola — Bamboula's</title>
-<link>https://www.wwoz.org/events/1388141</link>
-<guid isPermaLink="false">867d637b259122359640d82be26f3d56ad375a42</guid>
-<description>Venue: Bamboula's | Date: Tuesday, September 22 | Time: 4:30pm</description>
-<pubDate>Tue, 22 Sep 2026 16:30:00 +0000</pubDate>
+<title>Firm Roots ft. Peter Harris, Derek Douget, Dwight Fitch Jr. &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1382481</link>
+<guid isPermaLink="false">253555b6722ab413c0b7742d71a0042c962d1146</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Wednesday, September 23 | Time: 8:00pm</description>
+<pubDate>Wed, 23 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Caitie B. &amp; The Hand Me Downs — Bamboula's</title>
-<link>https://www.wwoz.org/events/1386501</link>
-<guid isPermaLink="false">b32b387300beb0a4f819bdbc05bad354318e8153</guid>
-<description>Venue: Bamboula's | Date: Tuesday, September 22 | Time: 9:00pm</description>
-<pubDate>Tue, 22 Sep 2026 21:00:00 +0000</pubDate>
+<title>Firm Roots ft. Peter Harris, Derek Douget, Dwight Fitch Jr. &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1382476</link>
+<guid isPermaLink="false">3f66960d4e9f300f81d386028d8d3d9ed863ec0c</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Wednesday, September 23 | Time: 10:00pm</description>
+<pubDate>Wed, 23 Sep 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Stumps &amp; Co. — Bar Redux</title>
-<link>https://www.wwoz.org/events/1388611</link>
-<guid isPermaLink="false">bfcb52123968c07cb8ba9e2eedddff535d3b83b1</guid>
-<description>Venue: Bar Redux | Date: Tuesday, September 22 | Time: 9:00pm</description>
-<pubDate>Tue, 22 Sep 2026 21:00:00 +0000</pubDate>
+<title>Nina Hungerland — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1384576</link>
+<guid isPermaLink="false">04ac343984a404bbc19863999d850d976c9a0bd3</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Wednesday, September 23 | Time: 8:00pm</description>
+<pubDate>Wed, 23 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Season ft. Peter Harris, David Torkanowsky, Ashlin Parker &amp; More! — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1382446</link>
-<guid isPermaLink="false">533abf217a7e42f6687e843cf58f853beea081ad</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Tuesday, September 22 | Time: 8:00pm</description>
-<pubDate>Tue, 22 Sep 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>The Season ft. Peter Harris, David Torkanowsky, Ashlin Parker &amp; More! — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1382451</link>
-<guid isPermaLink="false">2dcf9c326eebacae33f51f847e85d5726ab9c823</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Tuesday, September 22 | Time: 10:00pm</description>
-<pubDate>Tue, 22 Sep 2026 22:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Bruisey's Bottoms Up Open Mic — BJ's Lounge</title>
-<link>https://www.wwoz.org/events/1383186</link>
-<guid isPermaLink="false">0b242046697ad20339174b1a7499a1020dfa5bd8</guid>
-<description>Venue: BJ's Lounge | Date: Tuesday, September 22 | Time: 9:00pm</description>
-<pubDate>Tue, 22 Sep 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Shawan Rice — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1384621</link>
-<guid isPermaLink="false">cfff40085dbc2521b13b9f5355bfed71c8dcf74f</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Tuesday, September 22 | Time: 8:00pm</description>
-<pubDate>Tue, 22 Sep 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>GREENLEAF + Howling Giant — Broadside, The</title>
-<link>https://www.wwoz.org/events/1391146</link>
-<guid isPermaLink="false">38adfc458f1bf014fd4adb5ef10d8a828b6f7e30</guid>
-<description>Venue: Broadside, The | Date: Tuesday, September 22 | Time: 8:00pm</description>
-<pubDate>Tue, 22 Sep 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Alex McMurray — Buffa's</title>
-<link>https://www.wwoz.org/events/1384286</link>
-<guid isPermaLink="false">0b877a38c9958b37a22159d72c63bd958adfc572</guid>
-<description>Venue: Buffa's | Date: Tuesday, September 22 | Time: 7:00pm</description>
-<pubDate>Tue, 22 Sep 2026 19:00:00 +0000</pubDate>
+<title>Sari Jordan — Buffa's</title>
+<link>https://www.wwoz.org/events/1384361</link>
+<guid isPermaLink="false">e9f44c8c22806892b53d5f04a0a5f235ddfb2cb4</guid>
+<description>Venue: Buffa's | Date: Wednesday, September 23 | Time: 7:00pm</description>
+<pubDate>Wed, 23 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Bob Macy — Café Beignet on Decatur</title>
-<link>https://www.wwoz.org/events/1390746</link>
-<guid isPermaLink="false">a7b7a9cdf4a431d41517b91b43afd6d805ada37b</guid>
-<description>Venue: Café Beignet on Decatur | Date: Tuesday, September 22 | Time: 10:00am</description>
-<pubDate>Tue, 22 Sep 2026 10:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1390751</link>
+<guid isPermaLink="false">ec23054a7b38778189cfbf54d1cab5d75f1eb3c5</guid>
+<description>Venue: Café Beignet on Decatur | Date: Wednesday, September 23 | Time: 10:00am</description>
+<pubDate>Wed, 23 Sep 2026 10:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The-Super-Most-Fantastic-Blues-N-Such-Jam — Café Negril</title>
-<link>https://www.wwoz.org/events/1384941</link>
-<guid isPermaLink="false">0942558ac20bd4019db04b06fa4863e7d6aef6f9</guid>
-<description>Venue: Café Negril | Date: Tuesday, September 22 | Time: 7:00pm</description>
-<pubDate>Tue, 22 Sep 2026 19:00:00 +0000</pubDate>
+<title>Gizinti Trio — Café Degas</title>
+<link>https://www.wwoz.org/events/1391481</link>
+<guid isPermaLink="false">e948eb3116494d19bc340f435ab5c26633995b20</guid>
+<description>Venue: Café Degas | Date: Wednesday, September 23 | Time: 6:00pm</description>
+<pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jam-ilton — Café Negril</title>
+<link>https://www.wwoz.org/events/1384966</link>
+<guid isPermaLink="false">1cb6b599cc1b51b987bf09dbe5cb79aa1a10e1b4</guid>
+<description>Venue: Café Negril | Date: Wednesday, September 23 | Time: 7:30pm</description>
+<pubDate>Wed, 23 Sep 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Les Getrex — Cajun Boil House</title>
-<link>https://www.wwoz.org/events/1381451</link>
-<guid isPermaLink="false">0be3e3adf4554038c7182cdfc0b82a8714eda929</guid>
-<description>Venue: Cajun Boil House | Date: Tuesday, September 22 | Time: 3:00pm</description>
-<pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1381456</link>
+<guid isPermaLink="false">d8b5d03413706da53fbb4cfe762c60a60af0cf7d</guid>
+<description>Venue: Cajun Boil House | Date: Wednesday, September 23 | Time: 3:00pm</description>
+<pubDate>Wed, 23 Sep 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Naomie April — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
-<link>https://www.wwoz.org/events/1390286</link>
-<guid isPermaLink="false">6bd03a79725ef84c5133f08b893f520508f02c37</guid>
-<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Tuesday, September 22 | Time: 8:00pm</description>
-<pubDate>Tue, 22 Sep 2026 20:00:00 +0000</pubDate>
+<title>James Martin Band — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1390396</link>
+<guid isPermaLink="false">9826d31b8eb824b477c27cec4afdccbf32de7231</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Wednesday, September 23 | Time: 8:00pm</description>
+<pubDate>Wed, 23 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Tuesdays at Twilight ft. The Wiseguys — City Park - Pavilion of the Two Sisters</title>
-<link>https://www.wwoz.org/events/1392466</link>
-<guid isPermaLink="false">951addf010deabab24a087ef3e4cb809bae4575a</guid>
-<description>Venue: City Park - Pavilion of the Two Sisters | Date: Tuesday, September 22 | Time: 6:00pm</description>
-<pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
+<title>Thomas Dunford Jazz Trio — Crescent City Brewhouse</title>
+<link>https://www.wwoz.org/events/1380676</link>
+<guid isPermaLink="false">bee01382653aa461b6fc6869f25a5fb5a1192551</guid>
+<description>Venue: Crescent City Brewhouse | Date: Wednesday, September 23 | Time: 6:00pm</description>
+<pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Ricky Knight Jazz Trio — Crescent City Brewhouse</title>
-<link>https://www.wwoz.org/events/1380646</link>
-<guid isPermaLink="false">2db5bec504c2a33f546b15daadaed0ac2c585b47</guid>
-<description>Venue: Crescent City Brewhouse | Date: Tuesday, September 22 | Time: 6:00pm</description>
-<pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
+<title>The Next Level Band — d.b.a.</title>
+<link>https://www.wwoz.org/events/1381291</link>
+<guid isPermaLink="false">7004a89424b3825da48a49bd4dc97cff9d0d9702</guid>
+<description>Venue: d.b.a. | Date: Wednesday, September 23 | Time: 8:00pm</description>
+<pubDate>Wed, 23 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Javier Gutierrez — Dos Jefes</title>
-<link>https://www.wwoz.org/events/1381956</link>
-<guid isPermaLink="false">78c7dd5cc3292a7b686c09e312caa1adc88f4401</guid>
-<description>Venue: Dos Jefes | Date: Tuesday, September 22 | Time: 8:30pm</description>
-<pubDate>Tue, 22 Sep 2026 20:30:00 +0000</pubDate>
+<title>Jeremy Davenport — Davenport Lounge at The Ritz-Carlton</title>
+<link>https://www.wwoz.org/events/1387261</link>
+<guid isPermaLink="false">e724648145f8efbcaf1d2b205d928e5a9f906f8a</guid>
+<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Wednesday, September 23 | Time: 5:30pm</description>
+<pubDate>Wed, 23 Sep 2026 17:30:00 +0000</pubDate>
+</item>
+<item>
+<title>The Drop Inn Jam Session Featuring A.J. Haynes — Dew Drop Inn Hotel &amp; Lounge</title>
+<link>https://www.wwoz.org/events/1391681</link>
+<guid isPermaLink="false">85a5b11f61e83a2e769dcb048f0b7a4b5226a982</guid>
+<description>Venue: Dew Drop Inn Hotel &amp; Lounge | Date: Wednesday, September 23 | Time: 8:00pm</description>
+<pubDate>Wed, 23 Sep 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Joe Krown — Dos Jefes</title>
+<link>https://www.wwoz.org/events/1381906</link>
+<guid isPermaLink="false">b2a10002d193e41d65f761960ed553b024a9e3fb</guid>
+<description>Venue: Dos Jefes | Date: Wednesday, September 23 | Time: 8:30pm</description>
+<pubDate>Wed, 23 Sep 2026 20:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Better Late Than Jake — Favela Chic</title>
+<link>https://www.wwoz.org/events/1387716</link>
+<guid isPermaLink="false">4e675f5a3e2b635c1748f7dd351f85f60bce8a99</guid>
+<description>Venue: Favela Chic | Date: Wednesday, September 23 | Time: 8:00pm</description>
+<pubDate>Wed, 23 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Richard "Piano" Scott — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1383781</link>
-<guid isPermaLink="false">77deaaa80e538a5dbe82a757a2373e3a5f378e2e</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Tuesday, September 22 | Time: 1:00pm</description>
-<pubDate>Tue, 22 Sep 2026 13:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1383846</link>
+<guid isPermaLink="false">50c5519b4b7e75d15f7513e5c9dd0febb6686aba</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Wednesday, September 23 | Time: 1:00pm</description>
+<pubDate>Wed, 23 Sep 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Colin Myers Orchestra — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1383806</link>
-<guid isPermaLink="false">270aaf7ce474035477d86737c1c380edf0782b77</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Tuesday, September 22 | Time: 5:00pm</description>
-<pubDate>Tue, 22 Sep 2026 17:00:00 +0000</pubDate>
+<title>Bourbon Street Stars — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1383861</link>
+<guid isPermaLink="false">e01f5a4d7c13f4bcb1b324b98626c9eb56d9e99b</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Wednesday, September 23 | Time: 5:00pm</description>
+<pubDate>Wed, 23 Sep 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Fritzel's All Star Band with Jamil Sharif — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1383821</link>
-<guid isPermaLink="false">ecc5dd2ac21db2720f3e78ef7868784700941e96</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Tuesday, September 22 | Time: 8:00pm</description>
-<pubDate>Tue, 22 Sep 2026 20:00:00 +0000</pubDate>
+<title>Fritzel's All Star Band with Kevin Ray Clark — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1383886</link>
+<guid isPermaLink="false">814d327bc86da9b7bd755c0c3f67120cbabf29aa</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Wednesday, September 23 | Time: 8:00pm</description>
+<pubDate>Wed, 23 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Steel Beans + Mira Lazuli — Gasa Gasa</title>
-<link>https://www.wwoz.org/events/1386381</link>
-<guid isPermaLink="false">d62ed48c8bbe900740db5ff1066b6e883e8fe49f</guid>
-<description>Venue: Gasa Gasa | Date: Tuesday, September 22 | Time: 9:00pm</description>
-<pubDate>Tue, 22 Sep 2026 21:00:00 +0000</pubDate>
+<title>Remo Drive + sports. + Computer — Gasa Gasa</title>
+<link>https://www.wwoz.org/events/1386386</link>
+<guid isPermaLink="false">e80b375d65e0e2bf9ef4812318a2d5ade6f31b60</guid>
+<description>Venue: Gasa Gasa | Date: Wednesday, September 23 | Time: 9:00pm</description>
+<pubDate>Wed, 23 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Sam Lobley Trio — Jazz Playhouse</title>
-<link>https://www.wwoz.org/events/1393326</link>
-<guid isPermaLink="false">9c91558a6d257d39226deed5d76a0cef37fd6f4c</guid>
-<description>Venue: Jazz Playhouse | Date: Tuesday, September 22 | Time: 7:30pm</description>
-<pubDate>Tue, 22 Sep 2026 19:30:00 +0000</pubDate>
+<title>Hard Rock Rising Music Competition: Final Round ft. Whitney Mixon, Daryl Johnson &amp; Funkfix ft. Stitch, and Randy MC — Hard Rock Cafe</title>
+<link>https://www.wwoz.org/events/1385166</link>
+<guid isPermaLink="false">736482e9fda24fde123a77f69bab1ffdb83aeba3</guid>
+<description>Venue: Hard Rock Cafe | Date: Wednesday, September 23 | Time: 7:00pm</description>
+<pubDate>Wed, 23 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Big Joe Kennedy — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1383021</link>
-<guid isPermaLink="false">644f2805f544d553ec028cb735200f69cbdfca0d</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Tuesday, September 22 | Time: 6:00pm</description>
-<pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
+<title>The Amazing Henrietta — Holy Diver</title>
+<link>https://www.wwoz.org/events/1384121</link>
+<guid isPermaLink="false">34c586141cebfbfa714c4f457377f4bcee16737e</guid>
+<description>Venue: Holy Diver | Date: Wednesday, September 23 | Time: 8:00pm</description>
+<pubDate>Wed, 23 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Joe Lastie's New Orleans Sound ft. Gregg Stafford — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1383111</link>
-<guid isPermaLink="false">f9f056bef3ee0c281de347369deb42eea92745d5</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Tuesday, September 22 | Time: 8:00pm</description>
-<pubDate>Tue, 22 Sep 2026 20:00:00 +0000</pubDate>
+<title>Funkin' It Up with Big Sam — Jazz Playhouse</title>
+<link>https://www.wwoz.org/events/1393341</link>
+<guid isPermaLink="false">d965e6542791ca62c0d3a9cd9ffd48eb517813f6</guid>
+<description>Venue: Jazz Playhouse | Date: Wednesday, September 23 | Time: 7:30pm</description>
+<pubDate>Wed, 23 Sep 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Jacky Blaire &amp; the Hot Biscuits — Maison, The</title>
-<link>https://www.wwoz.org/events/1387576</link>
-<guid isPermaLink="false">b2f1bd3bdfa73ebc567413db2a690ca8b083b7c5</guid>
-<description>Venue: Maison, The | Date: Tuesday, September 22 | Time: 5:00pm</description>
-<pubDate>Tue, 22 Sep 2026 17:00:00 +0000</pubDate>
+<title>Raphael Bas — Lobby Lounge at JW Marriott</title>
+<link>https://www.wwoz.org/events/1361746</link>
+<guid isPermaLink="false">36e431ea09a40c38ebcffd9880f44261e089b547</guid>
+<description>Venue: Lobby Lounge at JW Marriott | Date: Wednesday, September 23 | Time: 6:00pm</description>
+<pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Paradise Jazz Band — Maison, The</title>
-<link>https://www.wwoz.org/events/1387686</link>
-<guid isPermaLink="false">47a4396aa3ae753f06957ddd27cee7945cd4f9ab</guid>
-<description>Venue: Maison, The | Date: Tuesday, September 22 | Time: 8:00pm</description>
-<pubDate>Tue, 22 Sep 2026 20:00:00 +0000</pubDate>
+<title>Twilight Concert Series ft. Bruno Elisabetsky — Longue Vue House and Gardens (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1391436</link>
+<guid isPermaLink="false">f99a66a28d3135ba608e38b86767d15c060d9d04</guid>
+<description>Venue: Longue Vue House and Gardens (OUTDOORS) | Date: Wednesday, September 23 | Time: 5:00pm</description>
+<pubDate>Wed, 23 Sep 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Danny Rubio &amp; the Catahoula Music Company ft. Jeff Kreis — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1389336</link>
-<guid isPermaLink="false">be6d82e9c13e3c21511fd5e29e1d90455d781aef</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Tuesday, September 22 | Time: 8:00pm</description>
-<pubDate>Tue, 22 Sep 2026 20:00:00 +0000</pubDate>
+<title>Paul Longstreth — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1382811</link>
+<guid isPermaLink="false">e4b15e60e179b051e273cac83c61463adae79f9e</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Wednesday, September 23 | Time: 6:00pm</description>
+<pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Very Good Tuesday ft. Alex Wasily, Ari Teitel, Alvin Ford Jr, DJ Raymond, &amp; Danny Abel — Maple Leaf</title>
-<link>https://www.wwoz.org/events/1386156</link>
-<guid isPermaLink="false">468e822bd250f82d8b00351253c16c864176c0ba</guid>
-<description>Venue: Maple Leaf | Date: Tuesday, September 22 | Time: 8:00pm</description>
-<pubDate>Tue, 22 Sep 2026 20:00:00 +0000</pubDate>
+<title>Mahogany Hall All Stars ft. Tom Fischer — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1382831</link>
+<guid isPermaLink="false">363fc85ffd7ae307776e70851ef0cb95b3711a1a</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Wednesday, September 23 | Time: 8:00pm</description>
+<pubDate>Wed, 23 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Keva Holiday &amp; Holiday Soul — New Orleans Jazz Museum (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1380271</link>
-<guid isPermaLink="false">96c090823b17ff473629dc60da45180b4168c4d0</guid>
-<description>Venue: New Orleans Jazz Museum (OUTDOORS) | Date: Tuesday, September 22 | Time: 5:00pm</description>
-<pubDate>Tue, 22 Sep 2026 17:00:00 +0000</pubDate>
+<title>Gene's Music Machine — Maison, The</title>
+<link>https://www.wwoz.org/events/1387601</link>
+<guid isPermaLink="false">c865edb3b970add600f079bd2fcab474dcaa9d03</guid>
+<description>Venue: Maison, The | Date: Wednesday, September 23 | Time: 6:00pm</description>
+<pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Arrowhead Jazz Band with Raph Zee — New Orleans Jazz National Historical Park</title>
-<link>https://www.wwoz.org/events/1384776</link>
-<guid isPermaLink="false">57d83b521f1078cb65ea51ea140bb933a72f289d</guid>
-<description>Venue: New Orleans Jazz National Historical Park | Date: Tuesday, September 22 | Time: 3:00pm</description>
-<pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
+<title>Happy Organ Hour with Joe Ashlar, Stanton Moore &amp; Ari Teitel — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1386171</link>
+<guid isPermaLink="false">082e6d23999eebd0ea3af5907c752c937a7e52c8</guid>
+<description>Venue: Maple Leaf | Date: Wednesday, September 23 | Time: 8:00pm</description>
+<pubDate>Wed, 23 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Big Easy Stompers Line Dancing &amp; Lessons — Okay Bar</title>
-<link>https://www.wwoz.org/events/1377956</link>
-<guid isPermaLink="false">f5d8e9f5773dab85bd4e4f051de3ef58cb2abe5d</guid>
-<description>Venue: Okay Bar | Date: Tuesday, September 22 | Time: 8:00pm</description>
-<pubDate>Tue, 22 Sep 2026 20:00:00 +0000</pubDate>
+<title>Louisiana Philharmonic Orchestra: Mozart Symphony No. 31 “Paris” — New Marigny Theatre</title>
+<link>https://www.wwoz.org/events/1390926</link>
+<guid isPermaLink="false">39c913ee23fee3c987a47e389b9cce05cddf8df3</guid>
+<description>Venue: New Marigny Theatre | Date: Wednesday, September 23 | Time: 6:00pm</description>
+<pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>John Royen — Polo Club at Windsor Court, The</title>
-<link>https://www.wwoz.org/events/1385981</link>
-<guid isPermaLink="false">429c1983de39129d91c1c3c8158113132133ec91</guid>
-<description>Venue: Polo Club at Windsor Court, The | Date: Tuesday, September 22 | Time: 5:30pm</description>
-<pubDate>Tue, 22 Sep 2026 17:30:00 +0000</pubDate>
+<title>Dylan Deckert Quartet — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1384806</link>
+<guid isPermaLink="false">f6619f5c768aefc2eb07467e35876882b0593f77</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Wednesday, September 23 | Time: 3:00pm</description>
+<pubDate>Wed, 23 Sep 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1380131</link>
-<guid isPermaLink="false">fd96e9d0ec95f5d791fc5ff4e6a8145aaeef7aa9</guid>
-<description>Venue: Preservation Hall | Date: Tuesday, September 22 | Time: 5:00pm</description>
-<pubDate>Tue, 22 Sep 2026 17:00:00 +0000</pubDate>
+<title>Victoria Amato &amp; Ben Michaels + Jim Lockwood &amp; Natalie Mae — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1382731</link>
+<guid isPermaLink="false">524471a73d2db69645c3ddf5145d969e85bead38</guid>
+<description>Venue: Pat O'Brien's | Date: Wednesday, September 23 | Time: 4:00pm</description>
+<pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1380136</link>
-<guid isPermaLink="false">c4c96c253824720749233f0ce12760035ccf5b00</guid>
-<description>Venue: Preservation Hall | Date: Tuesday, September 22 | Time: 6:15pm</description>
-<pubDate>Tue, 22 Sep 2026 18:15:00 +0000</pubDate>
+<title>PUPS Jam — Paulie's</title>
+<link>https://www.wwoz.org/events/1381791</link>
+<guid isPermaLink="false">c2f5463c50381af6fc71406340f6fb06c45c1004</guid>
+<description>Venue: Paulie's | Date: Wednesday, September 23 | Time: 8:00pm</description>
+<pubDate>Wed, 23 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1380141</link>
-<guid isPermaLink="false">8ffc4af3e589de0440da9361e7ed09f9168fa9e3</guid>
-<description>Venue: Preservation Hall | Date: Tuesday, September 22 | Time: 7:30pm</description>
-<pubDate>Tue, 22 Sep 2026 19:30:00 +0000</pubDate>
+<title>Mikayla Braun — Picnic Provisions &amp; Whiskey (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1285591</link>
+<guid isPermaLink="false">7d14fc7f035f93059cb80fdf87789ee75b6a9cca</guid>
+<description>Venue: Picnic Provisions &amp; Whiskey (OUTDOORS) | Date: Wednesday, September 23 | Time: 5:00pm</description>
+<pubDate>Wed, 23 Sep 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1380146</link>
-<guid isPermaLink="false">094b9c3076067d8633c7f1077af69d96e409aa18</guid>
-<description>Venue: Preservation Hall | Date: Tuesday, September 22 | Time: 8:45pm</description>
-<pubDate>Tue, 22 Sep 2026 20:45:00 +0000</pubDate>
+<title>David Boeddinghaus — Polo Club at Windsor Court, The</title>
+<link>https://www.wwoz.org/events/1385921</link>
+<guid isPermaLink="false">1bedf22ae19986a0583b994d7ec00c91cbc96eda</guid>
+<description>Venue: Polo Club at Windsor Court, The | Date: Wednesday, September 23 | Time: 5:30pm</description>
+<pubDate>Wed, 23 Sep 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Rebirth Brass Band — Rabbit Hole, The</title>
-<link>https://www.wwoz.org/events/1377741</link>
-<guid isPermaLink="false">24c14bd999fa20ca9fe180f913e7acb90fb33512</guid>
-<description>Venue: Rabbit Hole, The | Date: Tuesday, September 22 | Time: 10:00pm</description>
-<pubDate>Tue, 22 Sep 2026 22:00:00 +0000</pubDate>
+<title>Preservation All-Stars ft. Branden Lewis — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1379946</link>
+<guid isPermaLink="false">4b938d5efd9bae7402da39424f3deb3f3a4df20b</guid>
+<description>Venue: Preservation Hall | Date: Wednesday, September 23 | Time: 5:00pm</description>
+<pubDate>Wed, 23 Sep 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Branden Lewis — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1379941</link>
+<guid isPermaLink="false">a460b8b0a57421701f57fc6bca7c1d929c9bf028</guid>
+<description>Venue: Preservation Hall | Date: Wednesday, September 23 | Time: 6:15pm</description>
+<pubDate>Wed, 23 Sep 2026 18:15:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Branden Lewis — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1379936</link>
+<guid isPermaLink="false">34a37a825bc38e7170791dfef7188f839941d150</guid>
+<description>Venue: Preservation Hall | Date: Wednesday, September 23 | Time: 7:30pm</description>
+<pubDate>Wed, 23 Sep 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Branden Lewis — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1379931</link>
+<guid isPermaLink="false">5b5c0a0019e4243472613d633a23ea79d859043c</guid>
+<description>Venue: Preservation Hall | Date: Wednesday, September 23 | Time: 8:45pm</description>
+<pubDate>Wed, 23 Sep 2026 20:45:00 +0000</pubDate>
 </item>
 <item>
 <title>Jersey Boys: The Musical — Saenger Theatre</title>
-<link>https://www.wwoz.org/events/1376956</link>
-<guid isPermaLink="false">ae70dfe4782550ca90a63a34a812ecd556ef8d76</guid>
-<description>Venue: Saenger Theatre | Date: Tuesday, September 22 | Time: 7:30pm</description>
-<pubDate>Tue, 22 Sep 2026 19:30:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1376961</link>
+<guid isPermaLink="false">d430722ae35931513a99eb1a0b5b2a629e39edb8</guid>
+<description>Venue: Saenger Theatre | Date: Wednesday, September 23 | Time: 7:30pm</description>
+<pubDate>Wed, 23 Sep 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Silver Lining Serenaders — Salon Salon</title>
-<link>https://www.wwoz.org/events/1388661</link>
-<guid isPermaLink="false">c3c686e305c164f2b9008a536bfd1678ec537989</guid>
-<description>Venue: Salon Salon | Date: Tuesday, September 22 | Time: 7:00pm</description>
-<pubDate>Tue, 22 Sep 2026 19:00:00 +0000</pubDate>
+<title>Bob Log III + Stud Ford + STMBLR — Santos Bar</title>
+<link>https://www.wwoz.org/events/1384271</link>
+<guid isPermaLink="false">bc805665f5a083d3eb647ec10162794551f01bea</guid>
+<description>Venue: Santos Bar | Date: Wednesday, September 23 | Time: 9:00pm</description>
+<pubDate>Wed, 23 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Cumbia Night with Los Güiros &amp; C'estFunk — Saturn Bar</title>
-<link>https://www.wwoz.org/events/1391276</link>
-<guid isPermaLink="false">fbb7226273023fa991a1265f055599da15513113</guid>
-<description>Venue: Saturn Bar | Date: Tuesday, September 22 | Time: 9:00pm</description>
-<pubDate>Tue, 22 Sep 2026 21:00:00 +0000</pubDate>
+<title>Creekbed Carter Hogan &amp; His Hot Dog Choir + Emmylou Kezia Rose — Saturn Bar</title>
+<link>https://www.wwoz.org/events/1382266</link>
+<guid isPermaLink="false">347ce23f0aba54c7a85108463317299b6eaf425c</guid>
+<description>Venue: Saturn Bar | Date: Wednesday, September 23 | Time: 9:00pm</description>
+<pubDate>Wed, 23 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dopethrone + Fister + Mars — Siberia</title>
-<link>https://www.wwoz.org/events/1334091</link>
-<guid isPermaLink="false">5dc1fafa7225d8f791eb47cfae15b36adc22d860</guid>
-<description>Venue: Siberia | Date: Tuesday, September 22 | Time: 9:00pm</description>
-<pubDate>Tue, 22 Sep 2026 21:00:00 +0000</pubDate>
+<title>Dirty Sound Magnet and Gran Moreno — Siberia</title>
+<link>https://www.wwoz.org/events/1348276</link>
+<guid isPermaLink="false">e9e4e72762908d10ebc276b71f68bd22d50a4b05</guid>
+<description>Venue: Siberia | Date: Wednesday, September 23 | Time: 9:00pm</description>
+<pubDate>Wed, 23 Sep 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jazz Foundation of America presents BrasiNola — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1385651</link>
+<guid isPermaLink="false">acc04583b78c9f28d3a3d4bb205beaf83d8cc62e</guid>
+<description>Venue: Snug Harbor | Date: Wednesday, September 23 | Time: 5:00pm</description>
+<pubDate>Wed, 23 Sep 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Delfeayo Marsalis &amp; the Uptown Jazz Orchestra — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1385451</link>
+<guid isPermaLink="false">c43bb46b4a6f56fe65aae8b9dc627f295fc43548</guid>
+<description>Venue: Snug Harbor | Date: Wednesday, September 23 | Time: 7:30pm</description>
+<pubDate>Wed, 23 Sep 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Delfeayo Marsalis &amp; the Uptown Jazz Orchestra — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1385466</link>
+<guid isPermaLink="false">a22903baf9d04ec881e291e838566a2baedb5191</guid>
+<description>Venue: Snug Harbor | Date: Wednesday, September 23 | Time: 9:30pm</description>
+<pubDate>Wed, 23 Sep 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Chris Christy Band — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1380836</link>
-<guid isPermaLink="false">db38454cd3ca0717da27d1c28ec87c2a60e1d186</guid>
-<description>Venue: Spotted Cat | Date: Tuesday, September 22 | Time: 2:00pm</description>
-<pubDate>Tue, 22 Sep 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1380856</link>
+<guid isPermaLink="false">f57e6abce49079a3bf11180941adafedbe004371</guid>
+<description>Venue: Spotted Cat | Date: Wednesday, September 23 | Time: 2:00pm</description>
+<pubDate>Wed, 23 Sep 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sweetie Pies of New Orleans — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1380801</link>
-<guid isPermaLink="false">26d89e1bac969d5942f88ba5eafceb08b0fbea6b</guid>
-<description>Venue: Spotted Cat | Date: Tuesday, September 22 | Time: 6:00pm</description>
-<pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
+<title>Shotgun Jazz Band — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1380981</link>
+<guid isPermaLink="false">c4f043fed95af2477869866e8d1e2b3235e3ee3a</guid>
+<description>Venue: Spotted Cat | Date: Wednesday, September 23 | Time: 6:00pm</description>
+<pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Smoking Time Jazz Club — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1380781</link>
-<guid isPermaLink="false">a23c43c6ade60db5c2c4b63e4627373adab56bb1</guid>
-<description>Venue: Spotted Cat | Date: Tuesday, September 22 | Time: 9:30pm</description>
-<pubDate>Tue, 22 Sep 2026 21:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1386851</link>
-<guid isPermaLink="false">7d66b7c700f72610dee8e2b767d79d1828b043f0</guid>
-<description>Venue: Steamboat Natchez | Date: Tuesday, September 22 | Time: 11:00am</description>
-<pubDate>Tue, 22 Sep 2026 11:00:00 +0000</pubDate>
+<title>Marty Peters &amp; The Party Meters — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1380956</link>
+<guid isPermaLink="false">7d889da36c1be8a0d4fe4e963896823e2a36e88b</guid>
+<description>Venue: Spotted Cat | Date: Wednesday, September 23 | Time: 9:30pm</description>
+<pubDate>Wed, 23 Sep 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1387011</link>
-<guid isPermaLink="false">9090be7c96e659ab58c6417fb1a61a48b1d51770</guid>
-<description>Venue: Steamboat Natchez | Date: Tuesday, September 22 | Time: 2:00pm</description>
-<pubDate>Tue, 22 Sep 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1386876</link>
+<guid isPermaLink="false">ddcb0ddbd3b509f8f4228f31eda8ae06aa0e11c6</guid>
+<description>Venue: Steamboat Natchez | Date: Wednesday, September 23 | Time: 11:00am</description>
+<pubDate>Wed, 23 Sep 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Steamboat Stompers — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1387046</link>
+<guid isPermaLink="false">bfad35fb5a1b4a7cffb08c394ec353de728e731f</guid>
+<description>Venue: Steamboat Natchez | Date: Wednesday, September 23 | Time: 2:00pm</description>
+<pubDate>Wed, 23 Sep 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dukes of Dixieland — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1387196</link>
-<guid isPermaLink="false">6601ca3d0bb7b4f3a4eac9f8e30a0ffec9f5a50b</guid>
-<description>Venue: Steamboat Natchez | Date: Tuesday, September 22 | Time: 6:00pm</description>
-<pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1387061</link>
+<guid isPermaLink="false">ff63d142b85f13307a89e59f0bf968e80d4cc895</guid>
+<description>Venue: Steamboat Natchez | Date: Wednesday, September 23 | Time: 6:00pm</description>
+<pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dave Ferrato — Tropical Isle Original</title>
-<link>https://www.wwoz.org/events/1387416</link>
-<guid isPermaLink="false">3d902a704629bd1e8e171986909dd789f38bd788</guid>
-<description>Venue: Tropical Isle Original | Date: Tuesday, September 22 | Time: 7:00pm</description>
-<pubDate>Tue, 22 Sep 2026 19:00:00 +0000</pubDate>
+<title>Dave Ferrato — Tropical Isle Bourbon</title>
+<link>https://www.wwoz.org/events/1387446</link>
+<guid isPermaLink="false">d56f0fa3edbfc8d4059160b6e0b6881b0c1a7c8a</guid>
+<description>Venue: Tropical Isle Bourbon | Date: Wednesday, September 23 | Time: 7:00pm</description>
+<pubDate>Wed, 23 Sep 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Ugly Rumors — True South</title>
+<link>https://www.wwoz.org/events/1380416</link>
+<guid isPermaLink="false">b736e2280d7ee4739f318e6991d0f7af300effe7</guid>
+<description>Venue: True South | Date: Wednesday, September 23 | Time: 7:30pm</description>
+<pubDate>Wed, 23 Sep 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Arkose — Venue Vapaille</title>
+<link>https://www.wwoz.org/events/1379426</link>
+<guid isPermaLink="false">c322864cbf70598dfc522db43c321b73449e679a</guid>
+<description>Venue: Venue Vapaille | Date: Wednesday, September 23 | Time: 7:00pm</description>
+<pubDate>Wed, 23 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
