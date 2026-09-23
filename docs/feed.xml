@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 22 Sep 2026 21:17:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 04:44:09 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dave Hammer — 21st Amendment</title>
@@ -195,6 +195,13 @@
 <guid isPermaLink="false">d62ed48c8bbe900740db5ff1066b6e883e8fe49f</guid>
 <description>Venue: Gasa Gasa | Date: Tuesday, September 22 | Time: 9:00pm</description>
 <pubDate>Tue, 22 Sep 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Sam Lobley Trio — Jazz Playhouse</title>
+<link>https://www.wwoz.org/events/1393326</link>
+<guid isPermaLink="false">9c91558a6d257d39226deed5d76a0cef37fd6f4c</guid>
+<description>Venue: Jazz Playhouse | Date: Tuesday, September 22 | Time: 7:30pm</description>
+<pubDate>Tue, 22 Sep 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Big Joe Kennedy — Mahogany Jazz Hall</title>

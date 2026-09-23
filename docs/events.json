@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-22T21:17:46.277384+00:00",
-  "count": 53,
+  "generated_at": "2026-09-23T04:44:09.406698+00:00",
+  "count": 54,
   "events": [
     {
       "id": "6d8a05a6b0fef77749a44de137328e414eb58ba6",
@@ -327,6 +327,18 @@
       "time_text": "9:00pm",
       "start": "2026-09-22T21:00:00+00:00",
       "description": "Venue: Gasa Gasa | Date: Tuesday, September 22 | Time: 9:00pm"
+    },
+    {
+      "id": "9c91558a6d257d39226deed5d76a0cef37fd6f4c",
+      "source": "wwoz",
+      "title": "The Sam Lobley Trio",
+      "venue": "Jazz Playhouse",
+      "venue_url": "https://www.wwoz.org/organizations/jazz-playhouse",
+      "event_url": "https://www.wwoz.org/events/1393326",
+      "date_text": "Tuesday, September 22",
+      "time_text": "7:30pm",
+      "start": "2026-09-22T19:30:00+00:00",
+      "description": "Venue: Jazz Playhouse | Date: Tuesday, September 22 | Time: 7:30pm"
     },
     {
       "id": "644f2805f544d553ec028cb735200f69cbdfca0d",
