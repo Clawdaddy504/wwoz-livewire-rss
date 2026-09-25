@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-25T11:49:59.394084+00:00",
-  "count": 128,
+  "generated_at": "2026-09-25T17:10:13.389054+00:00",
+  "count": 129,
   "events": [
     {
       "id": "e3ca77b6d53bccfb150e5b0d5ad99437af6a37d9",
@@ -521,16 +521,16 @@
       "description": "Venue: Chickie Wah Wah | Date: Friday, September 25 | Time: 9:00pm"
     },
     {
-      "id": "cf30ae5c9c8826615a7fa4964202a68c8a6d7ac5",
+      "id": "c261634de11c1e0c4b979974144690575d5232e5",
       "source": "wwoz",
-      "title": "All Black Party",
+      "title": "Kickback Show with Yonce",
       "venue": "Club Switch",
       "venue_url": "https://www.wwoz.org/organizations/club-switch",
       "event_url": "https://www.wwoz.org/events/1374281",
       "date_text": "Friday, September 25",
-      "time_text": "9:00pm",
-      "start": "2026-09-25T21:00:00+00:00",
-      "description": "Venue: Club Switch | Date: Friday, September 25 | Time: 9:00pm"
+      "time_text": "7:00pm",
+      "start": "2026-09-25T19:00:00+00:00",
+      "description": "Venue: Club Switch | Date: Friday, September 25 | Time: 7:00pm"
     },
     {
       "id": "052889ac56c93a5a8581d7f99703c9a373dc86bf",
@@ -1157,16 +1157,16 @@
       "description": "Venue: Polo Club at Windsor Court, The | Date: Friday, September 25 | Time: 9:00pm"
     },
     {
-      "id": "317273a1035e4ef3b1aeda3fed4b00ed462d2d13",
+      "id": "2908b45229520aeb89bed4ddaee9737ed3d521b3",
       "source": "wwoz",
       "title": "Othalan + Teratome + Blood & Earl",
       "venue": "Poor Boys",
       "venue_url": "https://www.wwoz.org/organizations/poor-boys",
       "event_url": "https://www.wwoz.org/events/1374341",
       "date_text": "Friday, September 25",
-      "time_text": "8:00pm",
-      "start": "2026-09-25T20:00:00+00:00",
-      "description": "Venue: Poor Boys | Date: Friday, September 25 | Time: 8:00pm"
+      "time_text": "9:00pm",
+      "start": "2026-09-25T21:00:00+00:00",
+      "description": "Venue: Poor Boys | Date: Friday, September 25 | Time: 9:00pm"
     },
     {
       "id": "5634ea934b917634ab0612d3ff61ec6bd3649bbf",
@@ -1467,6 +1467,18 @@
       "time_text": "9:00pm",
       "start": "2026-09-25T21:00:00+00:00",
       "description": "Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Friday, September 25 | Time: 9:00pm"
+    },
+    {
+      "id": "5584726addbe54c955eedce41c102379a4a74b4c",
+      "source": "wwoz",
+      "title": "Bad Penny Pleasuremakers",
+      "venue": "Three Muses",
+      "venue_url": "https://www.wwoz.org/organizations/three-muses",
+      "event_url": "https://www.wwoz.org/events/1393526",
+      "date_text": "Friday, September 25",
+      "time_text": "7:30pm",
+      "start": "2026-09-25T19:30:00+00:00",
+      "description": "Venue: Three Muses | Date: Friday, September 25 | Time: 7:30pm"
     },
     {
       "id": "1a9d0d24079d6375876a4334e086db89279292d6",

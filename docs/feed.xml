@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 25 Sep 2026 11:49:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 17:10:13 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
@@ -309,11 +309,11 @@
 <pubDate>Fri, 25 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>All Black Party — Club Switch</title>
+<title>Kickback Show with Yonce — Club Switch</title>
 <link>https://www.wwoz.org/events/1374281</link>
-<guid isPermaLink="false">cf30ae5c9c8826615a7fa4964202a68c8a6d7ac5</guid>
-<description>Venue: Club Switch | Date: Friday, September 25 | Time: 9:00pm</description>
-<pubDate>Fri, 25 Sep 2026 21:00:00 +0000</pubDate>
+<guid isPermaLink="false">c261634de11c1e0c4b979974144690575d5232e5</guid>
+<description>Venue: Club Switch | Date: Friday, September 25 | Time: 7:00pm</description>
+<pubDate>Fri, 25 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Jason Marsalis Trio — Columns Hotel</title>
@@ -682,9 +682,9 @@
 <item>
 <title>Othalan + Teratome + Blood &amp; Earl — Poor Boys</title>
 <link>https://www.wwoz.org/events/1374341</link>
-<guid isPermaLink="false">317273a1035e4ef3b1aeda3fed4b00ed462d2d13</guid>
-<description>Venue: Poor Boys | Date: Friday, September 25 | Time: 8:00pm</description>
-<pubDate>Fri, 25 Sep 2026 20:00:00 +0000</pubDate>
+<guid isPermaLink="false">2908b45229520aeb89bed4ddaee9737ed3d521b3</guid>
+<description>Venue: Poor Boys | Date: Friday, September 25 | Time: 9:00pm</description>
+<pubDate>Fri, 25 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Toxic Therapy with Say Trell, Jake Ryan, Tokidokihoe &amp; More! — Poor Boys</title>
@@ -860,6 +860,13 @@
 <guid isPermaLink="false">6639e7f495117325fe611121e1bf544385ce21fb</guid>
 <description>Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Friday, September 25 | Time: 9:00pm</description>
 <pubDate>Fri, 25 Sep 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Bad Penny Pleasuremakers — Three Muses</title>
+<link>https://www.wwoz.org/events/1393526</link>
+<guid isPermaLink="false">5584726addbe54c955eedce41c102379a4a74b4c</guid>
+<description>Venue: Three Muses | Date: Friday, September 25 | Time: 7:30pm</description>
+<pubDate>Fri, 25 Sep 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Honey Island Swamp Band's 20th Anniversary Show — Tipitina's</title>
