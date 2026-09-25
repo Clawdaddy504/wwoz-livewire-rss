@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-25T17:10:13.389054+00:00",
-  "count": 129,
+  "generated_at": "2026-09-25T21:34:12.652080+00:00",
+  "count": 130,
   "events": [
     {
       "id": "e3ca77b6d53bccfb150e5b0d5ad99437af6a37d9",
@@ -293,6 +293,30 @@
       "description": "Venue: Blue Nile - Balcony Room | Date: Friday, September 25 | Time: 10:00pm"
     },
     {
+      "id": "c90e95af823fb95153411a93346e8c7853eea6f0",
+      "source": "wwoz",
+      "title": "Mark Carson",
+      "venue": "B Mac's (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/b-macs-outdoors",
+      "event_url": "https://www.wwoz.org/events/1393566",
+      "date_text": "Friday, September 25",
+      "time_text": "3:45pm",
+      "start": "2026-09-25T15:45:00+00:00",
+      "description": "Venue: B Mac's (OUTDOORS) | Date: Friday, September 25 | Time: 3:45pm"
+    },
+    {
+      "id": "47b0e50e55108c225469a1d80ff1111e76508a6f",
+      "source": "wwoz",
+      "title": "Dominick Grillo",
+      "venue": "B Mac's (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/b-macs-outdoors",
+      "event_url": "https://www.wwoz.org/events/1393571",
+      "date_text": "Friday, September 25",
+      "time_text": "7:00pm",
+      "start": "2026-09-25T19:00:00+00:00",
+      "description": "Venue: B Mac's (OUTDOORS) | Date: Friday, September 25 | Time: 7:00pm"
+    },
+    {
       "id": "00a6ba30e34324a374531ee4a6c12f1601616903",
       "source": "wwoz",
       "title": "Mother Ruckus",
@@ -519,18 +543,6 @@
       "time_text": "9:00pm",
       "start": "2026-09-25T21:00:00+00:00",
       "description": "Venue: Chickie Wah Wah | Date: Friday, September 25 | Time: 9:00pm"
-    },
-    {
-      "id": "c261634de11c1e0c4b979974144690575d5232e5",
-      "source": "wwoz",
-      "title": "Kickback Show with Yonce",
-      "venue": "Club Switch",
-      "venue_url": "https://www.wwoz.org/organizations/club-switch",
-      "event_url": "https://www.wwoz.org/events/1374281",
-      "date_text": "Friday, September 25",
-      "time_text": "7:00pm",
-      "start": "2026-09-25T19:00:00+00:00",
-      "description": "Venue: Club Switch | Date: Friday, September 25 | Time: 7:00pm"
     },
     {
       "id": "052889ac56c93a5a8581d7f99703c9a373dc86bf",

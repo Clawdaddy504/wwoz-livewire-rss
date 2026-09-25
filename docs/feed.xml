@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 25 Sep 2026 17:10:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 21:34:12 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
@@ -176,6 +176,20 @@
 <pubDate>Fri, 25 Sep 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Mark Carson — B Mac's (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1393566</link>
+<guid isPermaLink="false">c90e95af823fb95153411a93346e8c7853eea6f0</guid>
+<description>Venue: B Mac's (OUTDOORS) | Date: Friday, September 25 | Time: 3:45pm</description>
+<pubDate>Fri, 25 Sep 2026 15:45:00 +0000</pubDate>
+</item>
+<item>
+<title>Dominick Grillo — B Mac's (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1393571</link>
+<guid isPermaLink="false">47b0e50e55108c225469a1d80ff1111e76508a6f</guid>
+<description>Venue: B Mac's (OUTDOORS) | Date: Friday, September 25 | Time: 7:00pm</description>
+<pubDate>Fri, 25 Sep 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Mother Ruckus — BMC</title>
 <link>https://www.wwoz.org/events/1383991</link>
 <guid isPermaLink="false">00a6ba30e34324a374531ee4a6c12f1601616903</guid>
@@ -307,13 +321,6 @@
 <guid isPermaLink="false">ce8188869e0996d8046e040aab6d8dfeea7b22e7</guid>
 <description>Venue: Chickie Wah Wah | Date: Friday, September 25 | Time: 9:00pm</description>
 <pubDate>Fri, 25 Sep 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Kickback Show with Yonce — Club Switch</title>
-<link>https://www.wwoz.org/events/1374281</link>
-<guid isPermaLink="false">c261634de11c1e0c4b979974144690575d5232e5</guid>
-<description>Venue: Club Switch | Date: Friday, September 25 | Time: 7:00pm</description>
-<pubDate>Fri, 25 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Jason Marsalis Trio — Columns Hotel</title>
