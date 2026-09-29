@@ -5,378 +5,406 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 29 Sep 2026 00:59:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 09:48:31 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
-<title>James Beaumont &amp; Coyote Duo — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1381656</link>
-<guid isPermaLink="false">f768593ddb4796834a1b0f6015ff2f0a5466fe0d</guid>
-<description>Venue: 21st Amendment | Date: Monday, September 28 | Time: 8:00pm</description>
-<pubDate>Mon, 28 Sep 2026 20:00:00 +0000</pubDate>
+<title>Dave Hammer — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1381566</link>
+<guid isPermaLink="false">f7cb728f9a4a0d059d2de28a354474b5dfd02e68</guid>
+<description>Venue: 21st Amendment | Date: Tuesday, September 29 | Time: 8:00pm</description>
+<pubDate>Tue, 29 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dapper Dandies — 30/90</title>
-<link>https://www.wwoz.org/events/1388916</link>
-<guid isPermaLink="false">34c93a9df12a4a654eb9cc5c0b95e260095c0ee5</guid>
-<description>Venue: 30/90 | Date: Monday, September 28 | Time: 6:00pm</description>
-<pubDate>Mon, 28 Sep 2026 18:00:00 +0000</pubDate>
+<title>Justin Donovan — 30/90</title>
+<link>https://www.wwoz.org/events/1389026</link>
+<guid isPermaLink="false">3ed9e17e33094210c9ba49006b937010b8cbaeb0</guid>
+<description>Venue: 30/90 | Date: Tuesday, September 29 | Time: 6:00pm</description>
+<pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Velvet Collective — 30/90</title>
-<link>https://www.wwoz.org/events/1388926</link>
-<guid isPermaLink="false">0017aebf4be6bf412141c901a28e6a60d7e674af</guid>
-<description>Venue: 30/90 | Date: Monday, September 28 | Time: 9:00pm</description>
-<pubDate>Mon, 28 Sep 2026 21:00:00 +0000</pubDate>
+<title>The Litt Band — 30/90</title>
+<link>https://www.wwoz.org/events/1389036</link>
+<guid isPermaLink="false">c5619e5b3112fd9e24f58689fcb803db1435af0a</guid>
+<description>Venue: 30/90 | Date: Tuesday, September 29 | Time: 9:00pm</description>
+<pubDate>Tue, 29 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Betsy Propane's Smoke Show Cabaret — AllWays Lounge</title>
-<link>https://www.wwoz.org/events/1379631</link>
-<guid isPermaLink="false">4d51b86d86cf316c7c368f9f9fc1f9449663692b</guid>
-<description>Venue: AllWays Lounge | Date: Monday, September 28 | Time: 7:00pm</description>
-<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
+<title>Blake Amos — Audubon Clubhouse by Dickie Brennan</title>
+<link>https://www.wwoz.org/events/1389746</link>
+<guid isPermaLink="false">b0c4a36f8f37bdd8e5026d4e2378cd22271b0f51</guid>
+<description>Venue: Audubon Clubhouse by Dickie Brennan | Date: Tuesday, September 29 | Time: 4:30pm</description>
+<pubDate>Tue, 29 Sep 2026 16:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Byron Asher — Bacchanal (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1373486</link>
-<guid isPermaLink="false">b93675fab12721a531003453faa29c9f9d9fcdcd</guid>
-<description>Venue: Bacchanal (OUTDOORS) | Date: Monday, September 28 | Time: 6:00pm</description>
-<pubDate>Mon, 28 Sep 2026 18:00:00 +0000</pubDate>
+<title>Tangiers Combo — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1373246</link>
+<guid isPermaLink="false">86b52c822386bed9627b58abf4588f300e968270</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Tuesday, September 29 | Time: 6:00pm</description>
+<pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The New Orleans Rug Cutters — Bamboula's</title>
-<link>https://www.wwoz.org/events/1388071</link>
-<guid isPermaLink="false">ecebe210fccc77616c2986d297e6f33102db59ea</guid>
-<description>Venue: Bamboula's | Date: Monday, September 28 | Time: 12:00pm</description>
-<pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
+<title>F K-rrera Group — Bamboula's</title>
+<link>https://www.wwoz.org/events/1388131</link>
+<guid isPermaLink="false">d9b0ff747cf17c31fc27ec8426982a315c5f77fb</guid>
+<description>Venue: Bamboula's | Date: Tuesday, September 29 | Time: 12:00pm</description>
+<pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jon Roniger &amp; The Good For Nothin' Band — Bamboula's</title>
-<link>https://www.wwoz.org/events/1388076</link>
-<guid isPermaLink="false">ee9d40c3364559fc671911d317940830f24c00cb</guid>
-<description>Venue: Bamboula's | Date: Monday, September 28 | Time: 4:30pm</description>
-<pubDate>Mon, 28 Sep 2026 16:30:00 +0000</pubDate>
+<title>Giselle Anguizola — Bamboula's</title>
+<link>https://www.wwoz.org/events/1388136</link>
+<guid isPermaLink="false">176bfcf9b7437e0c21ddc4cb7759e510edd774a8</guid>
+<description>Venue: Bamboula's | Date: Tuesday, September 29 | Time: 4:30pm</description>
+<pubDate>Tue, 29 Sep 2026 16:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Ted Hefko &amp; the Thousandaires — Bamboula's</title>
-<link>https://www.wwoz.org/events/1388111</link>
-<guid isPermaLink="false">3950bfb50a63274ecdef963054f0216995601927</guid>
-<description>Venue: Bamboula's | Date: Monday, September 28 | Time: 9:00pm</description>
-<pubDate>Mon, 28 Sep 2026 21:00:00 +0000</pubDate>
+<title>Caitie B. &amp; The Hand Me Downs — Bamboula's</title>
+<link>https://www.wwoz.org/events/1386506</link>
+<guid isPermaLink="false">ea7175de86cf8a36e38becbd54a574464ad25af7</guid>
+<description>Venue: Bamboula's | Date: Tuesday, September 29 | Time: 9:00pm</description>
+<pubDate>Tue, 29 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Red Beans &amp; Blues with Washboard Chaz &amp; Jonathan Freilich — BJ's Lounge</title>
-<link>https://www.wwoz.org/events/1383261</link>
-<guid isPermaLink="false">b316ad44b680f47772e9f6e77fc5e3aecf5dc9ee</guid>
-<description>Venue: BJ's Lounge | Date: Monday, September 28 | Time: 9:00pm</description>
-<pubDate>Mon, 28 Sep 2026 21:00:00 +0000</pubDate>
+<title>Double Bird ft. Peter Harris, David Torkanowsky, Ashlin Parker &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1373891</link>
+<guid isPermaLink="false">035c09ec1a170e25fc987ce43a73adedfac808d6</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Tuesday, September 29 | Time: 8:00pm</description>
+<pubDate>Tue, 29 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Ross Hoppe — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1384616</link>
-<guid isPermaLink="false">5642e4e497ceb3c0aa09930d26542f00a1879973</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Monday, September 28 | Time: 8:00pm</description>
-<pubDate>Mon, 28 Sep 2026 20:00:00 +0000</pubDate>
+<title>Double Bird ft. Peter Harris, David Torkanowsky, Ashlin Parker &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1382331</link>
+<guid isPermaLink="false">2bd9c9db3eab26ac5c00a6a716a605851fc4d959</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Tuesday, September 29 | Time: 10:00pm</description>
+<pubDate>Tue, 29 Sep 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>David Doucet — Buffa's</title>
-<link>https://www.wwoz.org/events/1384336</link>
-<guid isPermaLink="false">710208f40c5d09084baaaaa5dcfab5891995131c</guid>
-<description>Venue: Buffa's | Date: Monday, September 28 | Time: 7:00pm</description>
-<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
+<title>Bruisey's Bottoms Up Open Mic — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1383191</link>
+<guid isPermaLink="false">c6fd4fb7031cedad6ab2c45d35dcbc1c55fd6c0f</guid>
+<description>Venue: BJ's Lounge | Date: Tuesday, September 29 | Time: 9:00pm</description>
+<pubDate>Tue, 29 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Trombone Slim &amp; the Creole Trio — Café Beignet at The Sheraton</title>
-<link>https://www.wwoz.org/events/1385261</link>
-<guid isPermaLink="false">5d4d90d892cb554d60de721c6c79d4131fbc982c</guid>
-<description>Venue: Café Beignet at The Sheraton | Date: Monday, September 28 | Time: 8:00am</description>
-<pubDate>Mon, 28 Sep 2026 08:00:00 +0000</pubDate>
+<title>Shawan Rice — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1384631</link>
+<guid isPermaLink="false">cd26c8a7008ae0074f451c8ea7ae5a9168ab0ed4</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Tuesday, September 29 | Time: 8:00pm</description>
+<pubDate>Tue, 29 Sep 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Alex McMurray — Buffa's</title>
+<link>https://www.wwoz.org/events/1384291</link>
+<guid isPermaLink="false">687febd831c456c4beca2238177dc86d046aa6cd</guid>
+<description>Venue: Buffa's | Date: Tuesday, September 29 | Time: 7:00pm</description>
+<pubDate>Tue, 29 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Bob Macy — Café Beignet on Decatur</title>
-<link>https://www.wwoz.org/events/1390761</link>
-<guid isPermaLink="false">ffe9a153140a941b6e32587457265a413bcebd0c</guid>
-<description>Venue: Café Beignet on Decatur | Date: Monday, September 28 | Time: 10:00am</description>
-<pubDate>Mon, 28 Sep 2026 10:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1390766</link>
+<guid isPermaLink="false">d16f8fcd57d375959ea06b4d01f7c671670aee55</guid>
+<description>Venue: Café Beignet on Decatur | Date: Tuesday, September 29 | Time: 10:00am</description>
+<pubDate>Tue, 29 Sep 2026 10:00:00 +0000</pubDate>
 </item>
 <item>
-<title>John Boutté with Oscar Rossignoli, Nobu Ozaki &amp; Caleb Tokarska — Café Istanbul</title>
-<link>https://www.wwoz.org/events/1373766</link>
-<guid isPermaLink="false">8b4b178d19448337d89221014ff60559091ad2d6</guid>
-<description>Venue: Café Istanbul | Date: Monday, September 28 | Time: 8:00pm</description>
-<pubDate>Mon, 28 Sep 2026 20:00:00 +0000</pubDate>
+<title>Rob Wagner, James Alsanders &amp; Martin Masakowski — Café Istanbul</title>
+<link>https://www.wwoz.org/events/1373771</link>
+<guid isPermaLink="false">c3ef3e42d8f55ceeeede8b3a1cb013161320c1b5</guid>
+<description>Venue: Café Istanbul | Date: Tuesday, September 29 | Time: 8:00pm</description>
+<pubDate>Tue, 29 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Keep It Rolling Brass Band — Café Negril</title>
-<link>https://www.wwoz.org/events/1385126</link>
-<guid isPermaLink="false">e6f60e7ef18f9f16ef60831c4c1fffa7c3c725b6</guid>
-<description>Venue: Café Negril | Date: Monday, September 28 | Time: 8:30pm</description>
-<pubDate>Mon, 28 Sep 2026 20:30:00 +0000</pubDate>
+<title>The-Super-Most-Fantastic-Blues-N-Such-Jam — Café Negril</title>
+<link>https://www.wwoz.org/events/1384946</link>
+<guid isPermaLink="false">cdea28b676be5d1fe03b62eddbeb550ba2025fbd</guid>
+<description>Venue: Café Negril | Date: Tuesday, September 29 | Time: 7:00pm</description>
+<pubDate>Tue, 29 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Les Getrex — Cajun Boil House</title>
-<link>https://www.wwoz.org/events/1381461</link>
-<guid isPermaLink="false">a8960dfa42885944eac185eeb00d412927fd477a</guid>
-<description>Venue: Cajun Boil House | Date: Monday, September 28 | Time: 3:00pm</description>
-<pubDate>Mon, 28 Sep 2026 15:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1381466</link>
+<guid isPermaLink="false">2af059972b655647ac5ca31c6f38123f9ff43f0c</guid>
+<description>Venue: Cajun Boil House | Date: Tuesday, September 29 | Time: 3:00pm</description>
+<pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Tom Hook — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
-<link>https://www.wwoz.org/events/1390386</link>
-<guid isPermaLink="false">726ee23c3010606c94d693783b489681d291611b</guid>
-<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Monday, September 28 | Time: 8:00pm</description>
-<pubDate>Mon, 28 Sep 2026 20:00:00 +0000</pubDate>
+<title>Naomie April — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1390291</link>
+<guid isPermaLink="false">670339ea6e16902539b7d6e9b2179113e7201b47</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Tuesday, September 29 | Time: 8:00pm</description>
+<pubDate>Tue, 29 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Biscuits n' Jam with Meryl Zimmerman &amp; Friends — Carrollton Station</title>
-<link>https://www.wwoz.org/events/1385821</link>
-<guid isPermaLink="false">6af9321c47cc14723b25033314b0126ddfe50ea6</guid>
-<description>Venue: Carrollton Station | Date: Monday, September 28 | Time: 10:00pm</description>
-<pubDate>Mon, 28 Sep 2026 22:00:00 +0000</pubDate>
+<title>Jenna McSwain — Church at Hotel Peter &amp; Paul, The</title>
+<link>https://www.wwoz.org/events/1373986</link>
+<guid isPermaLink="false">ad4e7cc9d56390d243f8f72c514928cc67f781bb</guid>
+<description>Venue: Church at Hotel Peter &amp; Paul, The | Date: Tuesday, September 29 | Time: 8:30pm</description>
+<pubDate>Tue, 29 Sep 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Ben Flood Jazz Trio — Crescent City Brewhouse</title>
-<link>https://www.wwoz.org/events/1380701</link>
-<guid isPermaLink="false">63ed01b01a9f1ac8a45a4ad22e1debdc049964d0</guid>
-<description>Venue: Crescent City Brewhouse | Date: Monday, September 28 | Time: 6:00pm</description>
-<pubDate>Mon, 28 Sep 2026 18:00:00 +0000</pubDate>
+<title>Tuesdays at Twilight ft. The Rocketmen — City Park - Pavilion of the Two Sisters</title>
+<link>https://www.wwoz.org/events/1392471</link>
+<guid isPermaLink="false">035706f15e68d7e101fd8018916defb52dacca0a</guid>
+<description>Venue: City Park - Pavilion of the Two Sisters | Date: Tuesday, September 29 | Time: 6:00pm</description>
+<pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Secret Six Jazz Band — d.b.a.</title>
-<link>https://www.wwoz.org/events/1381261</link>
-<guid isPermaLink="false">3518e164b79b33857cbfbe1833a5194d3bbee512</guid>
-<description>Venue: d.b.a. | Date: Monday, September 28 | Time: 6:00pm</description>
-<pubDate>Mon, 28 Sep 2026 18:00:00 +0000</pubDate>
+<title>Ricky Knight Jazz Trio — Crescent City Brewhouse</title>
+<link>https://www.wwoz.org/events/1380661</link>
+<guid isPermaLink="false">8b97ce31da1f5dd8933d8ef3a1ca1617d48ebb31</guid>
+<description>Venue: Crescent City Brewhouse | Date: Tuesday, September 29 | Time: 6:00pm</description>
+<pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Corey Henry presents Red Beans &amp; Ricely Yours — d.b.a.</title>
-<link>https://www.wwoz.org/events/1378056</link>
-<guid isPermaLink="false">4215ce578776ad6ee0961537afebf0a44eac00ea</guid>
-<description>Venue: d.b.a. | Date: Monday, September 28 | Time: 9:30pm</description>
-<pubDate>Mon, 28 Sep 2026 21:30:00 +0000</pubDate>
+<title>Tom Hook — Dos Jefes</title>
+<link>https://www.wwoz.org/events/1381951</link>
+<guid isPermaLink="false">6cb72fd1cd725cd7e104f721fdb9f57639ebb971</guid>
+<description>Venue: Dos Jefes | Date: Tuesday, September 29 | Time: 8:30pm</description>
+<pubDate>Tue, 29 Sep 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Sporty's Brass Band — Da Jump Off Lounge</title>
-<link>https://www.wwoz.org/events/1386731</link>
-<guid isPermaLink="false">89bb3d074b41fb230a931543a7e58ed4ec18def5</guid>
-<description>Venue: Da Jump Off Lounge | Date: Monday, September 28 | Time: 9:00pm</description>
-<pubDate>Mon, 28 Sep 2026 21:00:00 +0000</pubDate>
+<title>Soft Opening — Elysian Bar at Hotel Peter &amp; Paul</title>
+<link>https://www.wwoz.org/events/1373996</link>
+<guid isPermaLink="false">655fc1f567b69b2c2f59b967455eb206c2692684</guid>
+<description>Venue: Elysian Bar at Hotel Peter &amp; Paul | Date: Tuesday, September 29 | Time: 8:00pm</description>
+<pubDate>Tue, 29 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>John Fohl — Dos Jefes</title>
-<link>https://www.wwoz.org/events/1381936</link>
-<guid isPermaLink="false">6a9cdc67f877a1c1209f380bc395cd736588fb30</guid>
-<description>Venue: Dos Jefes | Date: Monday, September 28 | Time: 8:30pm</description>
-<pubDate>Mon, 28 Sep 2026 20:30:00 +0000</pubDate>
+<title>Richard "Piano" Scott — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1383776</link>
+<guid isPermaLink="false">2f1c6ac5876cbd6b8052160851327e494a56b528</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Tuesday, September 29 | Time: 1:00pm</description>
+<pubDate>Tue, 29 Sep 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Open Jazz Jam Session with the Matinee All Stars Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1383716</link>
-<guid isPermaLink="false">585988e708c5bfc2d8e1d967ccae70ae4baba8b7</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Monday, September 28 | Time: 1:00pm</description>
-<pubDate>Mon, 28 Sep 2026 13:00:00 +0000</pubDate>
+<title>Colin Myers Orchestra — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1383811</link>
+<guid isPermaLink="false">cca88e6d4d1699ade1261688ab8e8b35d1c15841</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Tuesday, September 29 | Time: 5:00pm</description>
+<pubDate>Tue, 29 Sep 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Tin Men — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1383751</link>
-<guid isPermaLink="false">ce61378d1fedea0f9a1763e6de68a7977436834e</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Monday, September 28 | Time: 5:00pm</description>
-<pubDate>Mon, 28 Sep 2026 17:00:00 +0000</pubDate>
+<title>Fritzel's All Star Band with Jamil Sharif — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1383816</link>
+<guid isPermaLink="false">d59547090839f2851bb68a51dddeeb88c19f913d</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Tuesday, September 29 | Time: 8:00pm</description>
+<pubDate>Tue, 29 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Richard Scott &amp; Friends — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1383771</link>
-<guid isPermaLink="false">8a72c2c0fed9e777daf19f2675be826768b15e65</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Monday, September 28 | Time: 8:00pm</description>
-<pubDate>Mon, 28 Sep 2026 20:00:00 +0000</pubDate>
+<title>The Sam Lobley Trio — Jazz Playhouse</title>
+<link>https://www.wwoz.org/events/1393331</link>
+<guid isPermaLink="false">19c4b03272dbcb24e09c12921296743fdec4a3e3</guid>
+<description>Venue: Jazz Playhouse | Date: Tuesday, September 29 | Time: 7:30pm</description>
+<pubDate>Tue, 29 Sep 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Guiding Light + W-9 + The Convenience — Holy Diver</title>
-<link>https://www.wwoz.org/events/1374126</link>
-<guid isPermaLink="false">3f1e527df1344f530f0675618d2bad10fce05db8</guid>
-<description>Venue: Holy Diver | Date: Monday, September 28 | Time: 10:00pm</description>
-<pubDate>Mon, 28 Sep 2026 22:00:00 +0000</pubDate>
+<title>Big Joe Kennedy — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1383031</link>
+<guid isPermaLink="false">c52b367c1ed983cb40aeb4b55016da521df5c7ed</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Tuesday, September 29 | Time: 6:00pm</description>
+<pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Manny Artega — Le Ponce</title>
-<link>https://www.wwoz.org/events/1379176</link>
-<guid isPermaLink="false">4329d2762adeeb847a1676970d8edd01f63c94f7</guid>
-<description>Venue: Le Ponce | Date: Monday, September 28 | Time: 8:00am</description>
-<pubDate>Mon, 28 Sep 2026 08:00:00 +0000</pubDate>
+<title>Paul Longstreth ft. Leroy Jones &amp; The Home Team — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1373731</link>
+<guid isPermaLink="false">85a72042a3b9bfd104aae27129063f76e0794037</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Tuesday, September 29 | Time: 8:00pm</description>
+<pubDate>Tue, 29 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Tom Hook — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1383066</link>
-<guid isPermaLink="false">e3a0fac75158989712d0d23e76c4a3810c07b12d</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Monday, September 28 | Time: 6:00pm</description>
-<pubDate>Mon, 28 Sep 2026 18:00:00 +0000</pubDate>
+<title>Jacky Blaire &amp; the Hot Biscuits — Maison, The</title>
+<link>https://www.wwoz.org/events/1387581</link>
+<guid isPermaLink="false">2b1987f494be1420fcc29b7b8ae2560784db6538</guid>
+<description>Venue: Maison, The | Date: Tuesday, September 29 | Time: 5:00pm</description>
+<pubDate>Tue, 29 Sep 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Original Tuxedo Jazz Band — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1373726</link>
-<guid isPermaLink="false">4ffcc05352bd0eef72e82a89c58f34b96e4c64c1</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Monday, September 28 | Time: 8:00pm</description>
-<pubDate>Mon, 28 Sep 2026 20:00:00 +0000</pubDate>
+<title>Paradise Jazz Band — Maison, The</title>
+<link>https://www.wwoz.org/events/1387691</link>
+<guid isPermaLink="false">69b202cc8d981da822167e5c89297d234f98f1ac</guid>
+<description>Venue: Maison, The | Date: Tuesday, September 29 | Time: 8:00pm</description>
+<pubDate>Tue, 29 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sugar &amp; the Daddies — Maison, The</title>
-<link>https://www.wwoz.org/events/1385306</link>
-<guid isPermaLink="false">b8235164bb4e1ce409a2c758f20f0d343d471a78</guid>
-<description>Venue: Maison, The | Date: Monday, September 28 | Time: 5:00pm</description>
-<pubDate>Mon, 28 Sep 2026 17:00:00 +0000</pubDate>
+<title>Danny Rubio &amp; the Catahoula Music Company ft. Jeff Kreis — Maison Bourbon Jazz Club</title>
+<link>https://www.wwoz.org/events/1389341</link>
+<guid isPermaLink="false">0d255e0a89f3adfb4c10c1861067c06b4f8c4973</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Tuesday, September 29 | Time: 8:00pm</description>
+<pubDate>Tue, 29 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Danny Rubio &amp; the Catahoula Music Company ft. Jack Pritchett — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1389306</link>
-<guid isPermaLink="false">06e57d48612ef3dc7bfdde65411964ee1f0b2fcb</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Monday, September 28 | Time: 8:00pm</description>
-<pubDate>Mon, 28 Sep 2026 20:00:00 +0000</pubDate>
+<title>Very Good Tuesday — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1393546</link>
+<guid isPermaLink="false">fb3c9ce6a2bf9bd1536f5086e10f2fa47af64321</guid>
+<description>Venue: Maple Leaf | Date: Tuesday, September 29 | Time: 8:00pm</description>
+<pubDate>Tue, 29 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>George Porter Jr. Trio ft. Chris Adkins — Maple Leaf</title>
-<link>https://www.wwoz.org/events/1386141</link>
-<guid isPermaLink="false">32d7bc8a53f6c85742e4375184e9c384118f85a1</guid>
-<description>Venue: Maple Leaf | Date: Monday, September 28 | Time: 7:00pm</description>
-<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
+<title>(CANCELLED) Irvin Mayfield ft. Cyril Neville — Mayfield's 208 Bourbon presented by Felix's</title>
+<link>https://www.wwoz.org/events/1378071</link>
+<guid isPermaLink="false">c44cadf854de88771da67b8f864b74d805de57d5</guid>
+<description>Venue: Mayfield's 208 Bourbon presented by Felix's | Date: Tuesday, September 29 | Time: 6:00pm</description>
+<pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>George Porter Jr. Trio ft. Chris Adkins — Maple Leaf</title>
-<link>https://www.wwoz.org/events/1386701</link>
-<guid isPermaLink="false">a5163c9e3fdbd04334515ccfc0f8e5ac5a021d1f</guid>
-<description>Venue: Maple Leaf | Date: Monday, September 28 | Time: 10:00pm</description>
-<pubDate>Mon, 28 Sep 2026 22:00:00 +0000</pubDate>
+<title>Corey Henry &amp; The Treme Funktet — New Orleans Jazz Museum (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1373751</link>
+<guid isPermaLink="false">ef64ff66f480719b9738d4194e6454c134748e9f</guid>
+<description>Venue: New Orleans Jazz Museum (OUTDOORS) | Date: Tuesday, September 29 | Time: 5:00pm</description>
+<pubDate>Tue, 29 Sep 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>(CANCELLED) Kermit Ruffins: Red Bean Mondays — Mayfield's 208 Bourbon presented by Felix's</title>
-<link>https://www.wwoz.org/events/1388401</link>
-<guid isPermaLink="false">0bc9e2def18595826deb0c7e2ade3da274794490</guid>
-<description>Venue: Mayfield's 208 Bourbon presented by Felix's | Date: Monday, September 28 | Time: 6:00pm</description>
-<pubDate>Mon, 28 Sep 2026 18:00:00 +0000</pubDate>
+<title>Arrowhead Jazz Band with Raph Zee — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1384781</link>
+<guid isPermaLink="false">56b1aba7ca4ba09176681c242058240e02de788d</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Tuesday, September 29 | Time: 3:00pm</description>
+<pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>NOLA Pickin’ Party Bluegrass Jam — NOLA Brewing</title>
-<link>https://www.wwoz.org/events/1312896</link>
-<guid isPermaLink="false">0844db8dcbca602da98b67c46e342fb85938d24c</guid>
-<description>Venue: NOLA Brewing | Date: Monday, September 28 | Time: 7:00pm</description>
-<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
+<title>Big Easy Stompers Line Dancing &amp; Lessons — Okay Bar</title>
+<link>https://www.wwoz.org/events/1377961</link>
+<guid isPermaLink="false">708cabb30c7dd9bd5d994245eebfd424f27bac70</guid>
+<description>Venue: Okay Bar | Date: Tuesday, September 29 | Time: 8:00pm</description>
+<pubDate>Tue, 29 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Matt Hayden + Jim Lockwood — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1382766</link>
-<guid isPermaLink="false">0e527277d38de4ab3d833a3305d54aa089e76ea0</guid>
-<description>Venue: Pat O'Brien's | Date: Monday, September 28 | Time: 6:00pm</description>
-<pubDate>Mon, 28 Sep 2026 18:00:00 +0000</pubDate>
+<title>John Royen — Polo Club at Windsor Court, The</title>
+<link>https://www.wwoz.org/events/1385986</link>
+<guid isPermaLink="false">a78d6214c16c3497c18313481756d7012398b524</guid>
+<description>Venue: Polo Club at Windsor Court, The | Date: Tuesday, September 29 | Time: 5:30pm</description>
+<pubDate>Tue, 29 Sep 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>David Boeddinghaus — Polo Club at Windsor Court, The</title>
-<link>https://www.wwoz.org/events/1385901</link>
-<guid isPermaLink="false">81ce16ee3497af6924f013f1cef9b3dd687637eb</guid>
-<description>Venue: Polo Club at Windsor Court, The | Date: Monday, September 28 | Time: 5:30pm</description>
-<pubDate>Mon, 28 Sep 2026 17:30:00 +0000</pubDate>
+<title>Preservation All-Stars — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1380171</link>
+<guid isPermaLink="false">7751628ab29db4119ec1c6b12840104170b8d465</guid>
+<description>Venue: Preservation Hall | Date: Tuesday, September 29 | Time: 5:00pm</description>
+<pubDate>Tue, 29 Sep 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation Brass — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1379801</link>
-<guid isPermaLink="false">12369f310414644f3e0dbc3c4e43d679dae443d0</guid>
-<description>Venue: Preservation Hall | Date: Monday, September 28 | Time: 5:00pm</description>
-<pubDate>Mon, 28 Sep 2026 17:00:00 +0000</pubDate>
+<title>Preservation All-Stars — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1380176</link>
+<guid isPermaLink="false">9754d98940fd9eeeb58958cb5a931c4a6a581e27</guid>
+<description>Venue: Preservation Hall | Date: Tuesday, September 29 | Time: 6:15pm</description>
+<pubDate>Tue, 29 Sep 2026 18:15:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation Brass — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1379821</link>
-<guid isPermaLink="false">dad24c0416bcd673a9fa8a6fdb14a03fb8574f26</guid>
-<description>Venue: Preservation Hall | Date: Monday, September 28 | Time: 6:15pm</description>
-<pubDate>Mon, 28 Sep 2026 18:15:00 +0000</pubDate>
+<title>Preservation All-Stars — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1380181</link>
+<guid isPermaLink="false">ae34da2a510da042987ff83b80fe182a960e23d2</guid>
+<description>Venue: Preservation Hall | Date: Tuesday, September 29 | Time: 7:30pm</description>
+<pubDate>Tue, 29 Sep 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation Brass — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1379841</link>
-<guid isPermaLink="false">4b926c6de6a8da2f76749583383c8611c04df3b4</guid>
-<description>Venue: Preservation Hall | Date: Monday, September 28 | Time: 7:30pm</description>
-<pubDate>Mon, 28 Sep 2026 19:30:00 +0000</pubDate>
+<title>Preservation All-Stars — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1380186</link>
+<guid isPermaLink="false">5c03859494527883a572897df74e327e78fdad4f</guid>
+<description>Venue: Preservation Hall | Date: Tuesday, September 29 | Time: 8:45pm</description>
+<pubDate>Tue, 29 Sep 2026 20:45:00 +0000</pubDate>
 </item>
 <item>
-<title>BC Coogan — Saturn Bar</title>
-<link>https://www.wwoz.org/events/1374011</link>
-<guid isPermaLink="false">498e598884cb2d63d5b7a572a052856bb116dcde</guid>
-<description>Venue: Saturn Bar | Date: Monday, September 28 | Time: 8:00pm</description>
-<pubDate>Mon, 28 Sep 2026 20:00:00 +0000</pubDate>
+<title>Rebirth Brass Band with Special Guest Wild Comanche — Rabbit Hole, The</title>
+<link>https://www.wwoz.org/events/1377431</link>
+<guid isPermaLink="false">06bcb3ed1e7f5adf578066d3ba5b7a45200d22ec</guid>
+<description>Venue: Rabbit Hole, The | Date: Tuesday, September 29 | Time: 10:00pm</description>
+<pubDate>Tue, 29 Sep 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>BC Coogan — Saturn Bar</title>
-<link>https://www.wwoz.org/events/1382291</link>
-<guid isPermaLink="false">a5d7d32c783808783c79c9055c6dc5dbc3f9d4b1</guid>
-<description>Venue: Saturn Bar | Date: Monday, September 28 | Time: 10:00pm</description>
-<pubDate>Mon, 28 Sep 2026 22:00:00 +0000</pubDate>
+<title>Miss Myra Trio — Salon Salon</title>
+<link>https://www.wwoz.org/events/1388671</link>
+<guid isPermaLink="false">d4c83cf24faafabd41c586cbb0a2bc1ae1f303e0</guid>
+<description>Venue: Salon Salon | Date: Tuesday, September 29 | Time: 7:00pm</description>
+<pubDate>Tue, 29 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Charmaine Neville Band — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1385706</link>
-<guid isPermaLink="false">af5ac533d17653c48a2ce6a7e1f67c533c4a1e84</guid>
-<description>Venue: Snug Harbor | Date: Monday, September 28 | Time: 7:30pm</description>
-<pubDate>Mon, 28 Sep 2026 19:30:00 +0000</pubDate>
+<title>Dolly Creamer + Diet Riot — Saturn Bar</title>
+<link>https://www.wwoz.org/events/1391301</link>
+<guid isPermaLink="false">47c93683e53b5a45ee3e62e97f82f9d85a787370</guid>
+<description>Venue: Saturn Bar | Date: Tuesday, September 29 | Time: 9:00pm</description>
+<pubDate>Tue, 29 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Charmaine Neville Band — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1385701</link>
-<guid isPermaLink="false">c68272c000a863922f8a0e2dc775d36574dd0ee5</guid>
-<description>Venue: Snug Harbor | Date: Monday, September 28 | Time: 9:30pm</description>
-<pubDate>Mon, 28 Sep 2026 21:30:00 +0000</pubDate>
+<title>Stew + Chalant + Flip Fitch — Siberia</title>
+<link>https://www.wwoz.org/events/1391706</link>
+<guid isPermaLink="false">d1072df3d1c006c904d61a934f6f54dca72cca54</guid>
+<description>Venue: Siberia | Date: Tuesday, September 29 | Time: 9:00pm</description>
+<pubDate>Tue, 29 Sep 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>5/4 String Band + Los Pozitos — St. Roch Tavern</title>
-<link>https://www.wwoz.org/events/1389241</link>
-<guid isPermaLink="false">d93b0ac9ac2d67007f540efc08724a46c817f93e</guid>
-<description>Venue: St. Roch Tavern | Date: Monday, September 28 | Time: 9:00pm</description>
-<pubDate>Mon, 28 Sep 2026 21:00:00 +0000</pubDate>
+<title>Birthday Tribute to John Coltrane with Derek Douget, Ricardo Pascal &amp; Trevarri — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1374066</link>
+<guid isPermaLink="false">cc34d7e198a56f8a8a25e1fe521d113f08bf4e83</guid>
+<description>Venue: Snug Harbor | Date: Tuesday, September 29 | Time: 7:30pm</description>
+<pubDate>Tue, 29 Sep 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Birthday Tribute to John Coltrane with Derek Douget, Ricardo Pascal &amp; Trevarri — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1374071</link>
+<guid isPermaLink="false">67d5eb9d186f3c049c95df047fb1782750e2820c</guid>
+<description>Venue: Snug Harbor | Date: Tuesday, September 29 | Time: 9:30pm</description>
+<pubDate>Tue, 29 Sep 2026 21:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Chris Christy Band — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1380841</link>
+<guid isPermaLink="false">4bfcb06a17dfe71a5671b91d66976f468930cbaa</guid>
+<description>Venue: Spotted Cat | Date: Tuesday, September 29 | Time: 2:00pm</description>
+<pubDate>Tue, 29 Sep 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Sweetie Pies of New Orleans — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1380806</link>
+<guid isPermaLink="false">ef90db484207bcb875738e6efcb88cb475cf3075</guid>
+<description>Venue: Spotted Cat | Date: Tuesday, September 29 | Time: 6:00pm</description>
+<pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Smoking Time Jazz Club — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1380786</link>
+<guid isPermaLink="false">a16f3fdf068bc0e3a8ddf4f74ed8a1a0af3fedc7</guid>
+<description>Venue: Spotted Cat | Date: Tuesday, September 29 | Time: 9:30pm</description>
+<pubDate>Tue, 29 Sep 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1386831</link>
-<guid isPermaLink="false">904d50a8985808d253de4730d273122d0e318111</guid>
-<description>Venue: Steamboat Natchez | Date: Monday, September 28 | Time: 11:00am</description>
-<pubDate>Mon, 28 Sep 2026 11:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1386856</link>
+<guid isPermaLink="false">7c1fd6ebfd8a0109c230604f2d4c60cccc13e8e0</guid>
+<description>Venue: Steamboat Natchez | Date: Tuesday, September 29 | Time: 11:00am</description>
+<pubDate>Tue, 29 Sep 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1387001</link>
-<guid isPermaLink="false">c87850e1c81c756b0038f5f923a7869014ea15b5</guid>
-<description>Venue: Steamboat Natchez | Date: Monday, September 28 | Time: 2:00pm</description>
-<pubDate>Mon, 28 Sep 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1387006</link>
+<guid isPermaLink="false">84ca1b15946fa6a796e0fccb2be123630c2f7bb9</guid>
+<description>Venue: Steamboat Natchez | Date: Tuesday, September 29 | Time: 2:00pm</description>
+<pubDate>Tue, 29 Sep 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dukes of Dixieland — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1387161</link>
-<guid isPermaLink="false">8fb7c04596f8c1fd7148f6c0c2ecdeec2883e49b</guid>
-<description>Venue: Steamboat Natchez | Date: Monday, September 28 | Time: 6:00pm</description>
-<pubDate>Mon, 28 Sep 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1387201</link>
+<guid isPermaLink="false">a68746eb83edd575aea94b58c5250fe64eee5cbd</guid>
+<description>Venue: Steamboat Natchez | Date: Tuesday, September 29 | Time: 6:00pm</description>
+<pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Johanna Rose — Three Muses</title>
-<link>https://www.wwoz.org/events/1393541</link>
-<guid isPermaLink="false">248afc8ebadcdb35347e19f0096787d0b4031656</guid>
-<description>Venue: Three Muses | Date: Monday, September 28 | Time: 7:30pm</description>
-<pubDate>Mon, 28 Sep 2026 19:30:00 +0000</pubDate>
+<title>Monsieur Periné - Instrucciones Para Ser Feliz Tour — Tipitina's</title>
+<link>https://www.wwoz.org/events/1349946</link>
+<guid isPermaLink="false">23d62f1008b688a199eda65d42655721db971792</guid>
+<description>Venue: Tipitina's | Date: Tuesday, September 29 | Time: 8:00pm</description>
+<pubDate>Tue, 29 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dave Ferrato — Tropical Isle Original</title>
-<link>https://www.wwoz.org/events/1387421</link>
-<guid isPermaLink="false">37703b2cfe9d09a026c1a7b56f4bcbfb984c882e</guid>
-<description>Venue: Tropical Isle Original | Date: Monday, September 28 | Time: 7:00pm</description>
-<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1387426</link>
+<guid isPermaLink="false">2414feff6c521dbdc661435db0153213a2933b80</guid>
+<description>Venue: Tropical Isle Original | Date: Tuesday, September 29 | Time: 7:00pm</description>
+<pubDate>Tue, 29 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Danny Alexander Blues Jam — True South</title>
-<link>https://www.wwoz.org/events/1393361</link>
-<guid isPermaLink="false">303cc075677a372cf736173493f6023c8d4d9c93</guid>
-<description>Venue: True South | Date: Monday, September 28 | Time: 8:00pm</description>
-<pubDate>Mon, 28 Sep 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>I Wrote a Song (A Big Gay Musical) — Twilight Room at The Allways Lounge</title>
-<link>https://www.wwoz.org/events/1390586</link>
-<guid isPermaLink="false">e62f85cd93e33f27ff20b2fd076febadd2423691</guid>
-<description>Venue: Twilight Room at The Allways Lounge | Date: Monday, September 28 | Time: 8:00pm</description>
-<pubDate>Mon, 28 Sep 2026 20:00:00 +0000</pubDate>
+<title>Cuttin' Up with the Youngbloods — Vaughan's Lounge</title>
+<link>https://www.wwoz.org/events/1393446</link>
+<guid isPermaLink="false">25fd738f29424fea8ef7dbd76c5c266ca74d0725</guid>
+<description>Venue: Vaughan's Lounge | Date: Tuesday, September 29 | Time: 10:00pm</description>
+<pubDate>Tue, 29 Sep 2026 22:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
