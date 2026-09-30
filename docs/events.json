@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-09-30T12:33:35.761863+00:00",
-  "count": 65,
+  "generated_at": "2026-09-30T20:00:16.718531+00:00",
+  "count": 66,
   "events": [
     {
       "id": "1e5f09e8a354abff98b415462e23dae4da57fa33",
@@ -209,16 +209,28 @@
       "description": "Venue: Caf\u00e9 Degas | Date: Wednesday, September 30 | Time: 6:00pm"
     },
     {
-      "id": "133dc7e060356989caf405796e24fc2cd59652fc",
+      "id": "e7edeb2810f838019b5e2a5cc54ae7e818a3465a",
       "source": "wwoz",
       "title": "Jam-ilton",
       "venue": "Caf\u00e9 Negril",
       "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
       "event_url": "https://www.wwoz.org/events/1384971",
       "date_text": "Wednesday, September 30",
-      "time_text": "7:30pm",
-      "start": "2026-09-30T19:30:00+00:00",
-      "description": "Venue: Caf\u00e9 Negril | Date: Wednesday, September 30 | Time: 7:30pm"
+      "time_text": "7:00pm",
+      "start": "2026-09-30T19:00:00+00:00",
+      "description": "Venue: Caf\u00e9 Negril | Date: Wednesday, September 30 | Time: 7:00pm"
+    },
+    {
+      "id": "105389ab4f0ed4722417026466dca237c137dcf2",
+      "source": "wwoz",
+      "title": "Keep It Rolling Brass Band",
+      "venue": "Caf\u00e9 Negril",
+      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
+      "event_url": "https://www.wwoz.org/events/1396476",
+      "date_text": "Wednesday, September 30",
+      "time_text": "11:00pm",
+      "start": "2026-09-30T23:00:00+00:00",
+      "description": "Venue: Caf\u00e9 Negril | Date: Wednesday, September 30 | Time: 11:00pm"
     },
     {
       "id": "1f89c06c1f8cbaea2ce9e8c7fa8c98d5e31e2536",

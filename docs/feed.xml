@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 30 Sep 2026 12:33:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 20:00:16 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dr. Sick — 21st Amendment</title>
@@ -129,9 +129,16 @@
 <item>
 <title>Jam-ilton — Café Negril</title>
 <link>https://www.wwoz.org/events/1384971</link>
-<guid isPermaLink="false">133dc7e060356989caf405796e24fc2cd59652fc</guid>
-<description>Venue: Café Negril | Date: Wednesday, September 30 | Time: 7:30pm</description>
-<pubDate>Wed, 30 Sep 2026 19:30:00 +0000</pubDate>
+<guid isPermaLink="false">e7edeb2810f838019b5e2a5cc54ae7e818a3465a</guid>
+<description>Venue: Café Negril | Date: Wednesday, September 30 | Time: 7:00pm</description>
+<pubDate>Wed, 30 Sep 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Keep It Rolling Brass Band — Café Negril</title>
+<link>https://www.wwoz.org/events/1396476</link>
+<guid isPermaLink="false">105389ab4f0ed4722417026466dca237c137dcf2</guid>
+<description>Venue: Café Negril | Date: Wednesday, September 30 | Time: 11:00pm</description>
+<pubDate>Wed, 30 Sep 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Les Getrex — Cajun Boil House</title>
