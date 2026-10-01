@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-10-01T10:07:05.678817+00:00",
-  "count": 71,
+  "generated_at": "2026-10-01T18:24:51.671167+00:00",
+  "count": 74,
   "events": [
     {
       "id": "1631f44a887a99bb9bfc6d096df099263c6d7f27",
@@ -183,6 +183,18 @@
       "time_text": "8:00pm",
       "start": "2026-10-01T20:00:00+00:00",
       "description": "Venue: Broadside (Outdoor Stage) | Date: Thursday, October 1 | Time: 8:00pm"
+    },
+    {
+      "id": "aa0366076edfb4f7b0ffdad7148002bfb0e41f7c",
+      "source": "wwoz",
+      "title": "Tom McDermott with Aurora Nealand",
+      "venue": "Buffa's",
+      "venue_url": "https://www.wwoz.org/organizations/buffas",
+      "event_url": "https://www.wwoz.org/events/1398616",
+      "date_text": "Thursday, October 1",
+      "time_text": "7:00pm",
+      "start": "2026-10-01T19:00:00+00:00",
+      "description": "Venue: Buffa's | Date: Thursday, October 1 | Time: 7:00pm"
     },
     {
       "id": "93635290c0ca90fe40e52c406e80c0f45db950ca",
@@ -423,6 +435,18 @@
       "time_text": "8:30pm",
       "start": "2026-10-01T20:30:00+00:00",
       "description": "Venue: Gretna Tavern | Date: Thursday, October 1 | Time: 8:30pm"
+    },
+    {
+      "id": "807b82ed0e9031a6b12b98e569712b6f0f39e8a3",
+      "source": "wwoz",
+      "title": "Grand Reopening 80's Night with DJ Shane Love",
+      "venue": "Hi Ho Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/hi-ho-lounge",
+      "event_url": "https://www.wwoz.org/events/1398851",
+      "date_text": "Thursday, October 1",
+      "time_text": "9:00pm",
+      "start": "2026-10-01T21:00:00+00:00",
+      "description": "Venue: Hi Ho Lounge | Date: Thursday, October 1 | Time: 9:00pm"
     },
     {
       "id": "2b614e2a4d3b7cd517038605f2a927a408dfd7e1",
@@ -807,6 +831,18 @@
       "time_text": "7:00pm",
       "start": "2026-10-01T19:00:00+00:00",
       "description": "Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Thursday, October 1 | Time: 7:00pm"
+    },
+    {
+      "id": "83ab760d73f3741a76ee1fc90b5dda5c6e9a74fe",
+      "source": "wwoz",
+      "title": "Holy Cross Water Boilers",
+      "venue": "Three Muses",
+      "venue_url": "https://www.wwoz.org/organizations/three-muses",
+      "event_url": "https://www.wwoz.org/events/1398891",
+      "date_text": "Thursday, October 1",
+      "time_text": "7:30pm",
+      "start": "2026-10-01T19:30:00+00:00",
+      "description": "Venue: Three Muses | Date: Thursday, October 1 | Time: 7:30pm"
     },
     {
       "id": "1a9abd26c42d83cccc32514701b05cb0ccbbf56f",

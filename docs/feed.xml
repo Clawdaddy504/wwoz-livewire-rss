@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 01 Oct 2026 10:07:05 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 18:24:51 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy — 21st Amendment</title>
@@ -111,6 +111,13 @@
 <guid isPermaLink="false">c0e4e669e1b3fc7c2c60763a61d147037d9f8cea</guid>
 <description>Venue: Broadside (Outdoor Stage) | Date: Thursday, October 1 | Time: 8:00pm</description>
 <pubDate>Thu, 01 Oct 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Tom McDermott with Aurora Nealand — Buffa's</title>
+<link>https://www.wwoz.org/events/1398616</link>
+<guid isPermaLink="false">aa0366076edfb4f7b0ffdad7148002bfb0e41f7c</guid>
+<description>Venue: Buffa's | Date: Thursday, October 1 | Time: 7:00pm</description>
+<pubDate>Thu, 01 Oct 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Bob Macy — Café Beignet on Decatur</title>
@@ -251,6 +258,13 @@
 <guid isPermaLink="false">d448c637cdfedd0c6a6c5eb58111e39712ecc981</guid>
 <description>Venue: Gretna Tavern | Date: Thursday, October 1 | Time: 8:30pm</description>
 <pubDate>Thu, 01 Oct 2026 20:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Grand Reopening 80's Night with DJ Shane Love — Hi Ho Lounge</title>
+<link>https://www.wwoz.org/events/1398851</link>
+<guid isPermaLink="false">807b82ed0e9031a6b12b98e569712b6f0f39e8a3</guid>
+<description>Venue: Hi Ho Lounge | Date: Thursday, October 1 | Time: 9:00pm</description>
+<pubDate>Thu, 01 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Kyle Roussel — Hotel Henrietta</title>
@@ -475,6 +489,13 @@
 <guid isPermaLink="false">5257ae16d7e4f59b943f17c537d67fd9e26bbe8b</guid>
 <description>Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Thursday, October 1 | Time: 7:00pm</description>
 <pubDate>Thu, 01 Oct 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Holy Cross Water Boilers — Three Muses</title>
+<link>https://www.wwoz.org/events/1398891</link>
+<guid isPermaLink="false">83ab760d73f3741a76ee1fc90b5dda5c6e9a74fe</guid>
+<description>Venue: Three Muses | Date: Thursday, October 1 | Time: 7:30pm</description>
+<pubDate>Thu, 01 Oct 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Mark Barrett &amp; The First Calls — Tropical Isle Bourbon</title>
