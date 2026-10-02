@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 02 Oct 2026 09:44:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 17:51:55 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy Duo — 21st Amendment</title>
@@ -20,6 +20,27 @@
 <guid isPermaLink="false">221e29679e3447fdbf0fc56209c4905d31418564</guid>
 <description>Venue: 21st Amendment | Date: Friday, October 2 | Time: 8:00pm</description>
 <pubDate>Fri, 02 Oct 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Decaturadio — 30/90</title>
+<link>https://www.wwoz.org/events/1399441</link>
+<guid isPermaLink="false">05c863d1901fa1338ebc89ded15af14bc6e12eab</guid>
+<description>Venue: 30/90 | Date: Friday, October 2 | Time: 5:00pm</description>
+<pubDate>Fri, 02 Oct 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Kayla Jasmine — 30/90</title>
+<link>https://www.wwoz.org/events/1399451</link>
+<guid isPermaLink="false">16fe4f828fdbefd486112ac522ad585d95721d07</guid>
+<description>Venue: 30/90 | Date: Friday, October 2 | Time: 8:00pm</description>
+<pubDate>Fri, 02 Oct 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>T. Cherrelle &amp; Lou's Bayou — 30/90</title>
+<link>https://www.wwoz.org/events/1399466</link>
+<guid isPermaLink="false">8d0662db07762b4c9707081100ab61ef29b81637</guid>
+<description>Venue: 30/90 | Date: Friday, October 2 | Time: 11:00pm</description>
+<pubDate>Fri, 02 Oct 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Henrietta's Baudy Brothel Sing A-Long — AllWays Lounge</title>
@@ -48,6 +69,13 @@
 <guid isPermaLink="false">c4f9d3f427bcc99ecc80ce9b94433306dea3182d</guid>
 <description>Venue: Bamboula's | Date: Friday, October 2 | Time: 11:00am</description>
 <pubDate>Fri, 02 Oct 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Les Getrex — Bamboula's</title>
+<link>https://www.wwoz.org/events/1399166</link>
+<guid isPermaLink="false">5905ec5540ffeb35728a90ecc4e3dabb3563a439</guid>
+<description>Venue: Bamboula's | Date: Friday, October 2 | Time: 6:30pm</description>
+<pubDate>Fri, 02 Oct 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Honest Man Happy Hour with Domenic Fusca — Banks Street Bar</title>
@@ -146,6 +174,20 @@
 <guid isPermaLink="false">485c980d9c45d7e49fe8d4f3d1141f7082f070f9</guid>
 <description>Venue: BMC | Date: Friday, October 2 | Time: 9:00pm</description>
 <pubDate>Fri, 02 Oct 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>April Spain — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1399256</link>
+<guid isPermaLink="false">ac8711e9d35b9128a1cbae9f720868ab38a05446</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Friday, October 2 | Time: 4:00pm</description>
+<pubDate>Fri, 02 Oct 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Kid Merv — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1399231</link>
+<guid isPermaLink="false">32c1849ea5f8fdfcd63ec59735569cf96cb9313f</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Friday, October 2 | Time: 8:00pm</description>
+<pubDate>Fri, 02 Oct 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Audrey LeCrone Trio — Brutto Americano</title>
@@ -279,6 +321,20 @@
 <guid isPermaLink="false">ed1d9cf7ec941978334024b0997635731b80f292</guid>
 <description>Venue: Favela Chic | Date: Friday, October 2 | Time: 4:00pm</description>
 <pubDate>Fri, 02 Oct 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>J.A.M. Brass Band — Favela Chic</title>
+<link>https://www.wwoz.org/events/1399061</link>
+<guid isPermaLink="false">3539171967c6360e99229c849383382331474b62</guid>
+<description>Venue: Favela Chic | Date: Friday, October 2 | Time: 7:00pm</description>
+<pubDate>Fri, 02 Oct 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Shorty &amp; the Giants — Favela Chic</title>
+<link>https://www.wwoz.org/events/1399076</link>
+<guid isPermaLink="false">9f7d7d00588529ca25f0b2b0da68d5b236014f33</guid>
+<description>Venue: Favela Chic | Date: Friday, October 2 | Time: 10:00pm</description>
+<pubDate>Fri, 02 Oct 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Cristina Kaminis Quartet — French Market (OUTDOORS)</title>
@@ -477,7 +533,7 @@
 <pubDate>Fri, 02 Oct 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>OVJ Collective — New Orleans Jazz Museum</title>
+<title>Hispanic Heritage Month Celebration ft. The OVJ Collective — New Orleans Jazz Museum</title>
 <link>https://www.wwoz.org/events/1373756</link>
 <guid isPermaLink="false">770c1ac2cb9212753903200c1e9d4207b28e078b</guid>
 <description>Venue: New Orleans Jazz Museum | Date: Friday, October 2 | Time: 2:00pm</description>
@@ -510,6 +566,13 @@
 <guid isPermaLink="false">ed7b7cf4bb3f0bcd4999c5a224dbc3d8ea325714</guid>
 <description>Venue: New Orleans Museum of Art | Date: Friday, October 2 | Time: 6:00pm</description>
 <pubDate>Fri, 02 Oct 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Johnny Sansone &amp; John Fohl — NOLA Brewing</title>
+<link>https://www.wwoz.org/events/1399031</link>
+<guid isPermaLink="false">c20ef659978d326ed083a0b840382f13b73c7b99</guid>
+<description>Venue: NOLA Brewing | Date: Friday, October 2 | Time: 7:00pm</description>
+<pubDate>Fri, 02 Oct 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Sky Choice + Mars &amp; Other Planets + Josephine Alphanzo — Okay Bar</title>
