@@ -1,7 +1,7 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-10-02T17:51:55.903667+00:00",
+  "generated_at": "2026-10-02T22:13:17.251931+00:00",
   "count": 109,
   "events": [
     {
@@ -941,18 +941,6 @@
       "description": "Venue: New Orleans Jazz National Historical Park - Dutch Alley | Date: Friday, October 2 | Time: 11:00am"
     },
     {
-      "id": "430eb649fd35a31a2c904cbbf75d2504c4f5eadb",
-      "source": "wwoz",
-      "title": "Fried Chicken Festival ft. Marc Broussard, Shamarr Allen's Ratchet Jazz & More!",
-      "venue": "New Orleans Lakefront (OUTDOORS)",
-      "venue_url": "https://www.wwoz.org/organizations/new-orleans-lakefront-outdoors",
-      "event_url": "https://www.wwoz.org/events/1393026",
-      "date_text": "Friday, October 2",
-      "time_text": "3:30pm",
-      "start": "2026-10-02T15:30:00+00:00",
-      "description": "Venue: New Orleans Lakefront (OUTDOORS) | Date: Friday, October 2 | Time: 3:30pm"
-    },
-    {
       "id": "ed7b7cf4bb3f0bcd4999c5a224dbc3d8ea325714",
       "source": "wwoz",
       "title": "NOMA at Night ft. Haruka Kikuchi & Friends + More!",
@@ -1119,6 +1107,18 @@
       "time_text": "10:00pm",
       "start": "2026-10-02T22:00:00+00:00",
       "description": "Venue: Rabbit Hole, The | Date: Friday, October 2 | Time: 10:00pm"
+    },
+    {
+      "id": "3a2f32ce81bf5251c4c153e528fbd315bbf876cb",
+      "source": "wwoz",
+      "title": "Reggaeton Rave",
+      "venue": "Republic New Orleans",
+      "venue_url": "https://www.wwoz.org/organizations/republic-new-orleans",
+      "event_url": "https://www.wwoz.org/events/1399881",
+      "date_text": "Friday, October 2",
+      "time_text": "10:00pm",
+      "start": "2026-10-02T22:00:00+00:00",
+      "description": "Venue: Republic New Orleans | Date: Friday, October 2 | Time: 10:00pm"
     },
     {
       "id": "83589799a50202dcaaba828ea430bbb808083fd4",

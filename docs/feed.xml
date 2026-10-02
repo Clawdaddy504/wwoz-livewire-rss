@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 02 Oct 2026 17:51:55 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 22:13:17 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy Duo — 21st Amendment</title>
@@ -554,13 +554,6 @@
 <pubDate>Fri, 02 Oct 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Fried Chicken Festival ft. Marc Broussard, Shamarr Allen's Ratchet Jazz &amp; More! — New Orleans Lakefront (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1393026</link>
-<guid isPermaLink="false">430eb649fd35a31a2c904cbbf75d2504c4f5eadb</guid>
-<description>Venue: New Orleans Lakefront (OUTDOORS) | Date: Friday, October 2 | Time: 3:30pm</description>
-<pubDate>Fri, 02 Oct 2026 15:30:00 +0000</pubDate>
-</item>
-<item>
 <title>NOMA at Night ft. Haruka Kikuchi &amp; Friends + More! — New Orleans Museum of Art</title>
 <link>https://www.wwoz.org/events/1393266</link>
 <guid isPermaLink="false">ed7b7cf4bb3f0bcd4999c5a224dbc3d8ea325714</guid>
@@ -656,6 +649,13 @@
 <link>https://www.wwoz.org/events/1377441</link>
 <guid isPermaLink="false">9807f8c03c5369fda02c10ec8dcd27bd3cd0d415</guid>
 <description>Venue: Rabbit Hole, The | Date: Friday, October 2 | Time: 10:00pm</description>
+<pubDate>Fri, 02 Oct 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Reggaeton Rave — Republic New Orleans</title>
+<link>https://www.wwoz.org/events/1399881</link>
+<guid isPermaLink="false">3a2f32ce81bf5251c4c153e528fbd315bbf876cb</guid>
+<description>Venue: Republic New Orleans | Date: Friday, October 2 | Time: 10:00pm</description>
 <pubDate>Fri, 02 Oct 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
