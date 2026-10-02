@@ -5,525 +5,707 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 02 Oct 2026 00:46:44 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 09:44:48 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
-<title>Big Joe Kennedy — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1393906</link>
-<guid isPermaLink="false">1631f44a887a99bb9bfc6d096df099263c6d7f27</guid>
-<description>Venue: 21st Amendment | Date: Thursday, October 1 | Time: 3:00pm</description>
-<pubDate>Thu, 01 Oct 2026 15:00:00 +0000</pubDate>
+<title>Big Joe Kennedy Duo — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1393941</link>
+<guid isPermaLink="false">afa2716e937860a107733ec3692ea0bb169eeb80</guid>
+<description>Venue: 21st Amendment | Date: Friday, October 2 | Time: 3:00pm</description>
+<pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Marty Peters &amp; The Party Meters — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1393911</link>
-<guid isPermaLink="false">7220146e91c0ad31cf7e05c4c7b2221addb8a8aa</guid>
-<description>Venue: 21st Amendment | Date: Thursday, October 1 | Time: 8:00pm</description>
-<pubDate>Thu, 01 Oct 2026 20:00:00 +0000</pubDate>
+<title>Dr. Sick &amp; the Late Greats — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1393966</link>
+<guid isPermaLink="false">221e29679e3447fdbf0fc56209c4905d31418564</guid>
+<description>Venue: 21st Amendment | Date: Friday, October 2 | Time: 8:00pm</description>
+<pubDate>Fri, 02 Oct 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>David Doucet — 4141 NOLA</title>
-<link>https://www.wwoz.org/events/1386676</link>
-<guid isPermaLink="false">bc82f5ca7e943c165b00f59940ae2c0d64e3d85e</guid>
-<description>Venue: 4141 NOLA | Date: Thursday, October 1 | Time: 6:30pm</description>
-<pubDate>Thu, 01 Oct 2026 18:30:00 +0000</pubDate>
+<title>Henrietta's Baudy Brothel Sing A-Long — AllWays Lounge</title>
+<link>https://www.wwoz.org/events/1390531</link>
+<guid isPermaLink="false">84814a449f9666cafb0ea8295f62a1e5e91e84ec</guid>
+<description>Venue: AllWays Lounge | Date: Friday, October 2 | Time: 5:00pm</description>
+<pubDate>Fri, 02 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jazz Series ft. Sunny Side Jazz Band — Abita New Orleans</title>
-<link>https://www.wwoz.org/events/1395646</link>
-<guid isPermaLink="false">87e8f910ff90815869b37de489c253e6b9782eef</guid>
-<description>Venue: Abita New Orleans | Date: Thursday, October 1 | Time: 6:00pm</description>
-<pubDate>Thu, 01 Oct 2026 18:00:00 +0000</pubDate>
+<title>Bayou Blues Burlesque ft. The Delta Revues — AllWays Lounge</title>
+<link>https://www.wwoz.org/events/1390466</link>
+<guid isPermaLink="false">abb1b7788736c0d58c55a6dc150e1d05268a85ce</guid>
+<description>Venue: AllWays Lounge | Date: Friday, October 2 | Time: 8:00pm</description>
+<pubDate>Fri, 02 Oct 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Johnny Mastro — Apple Barrel</title>
-<link>https://www.wwoz.org/events/1389526</link>
-<guid isPermaLink="false">ce033f5c01e3b402c61291ea9a11d34a3da9da59</guid>
-<description>Venue: Apple Barrel | Date: Thursday, October 1 | Time: 10:30pm</description>
-<pubDate>Thu, 01 Oct 2026 22:30:00 +0000</pubDate>
+<title>Le Vampyre Cabaret presents: Vamp Lounge — AllWays Lounge</title>
+<link>https://www.wwoz.org/events/1390496</link>
+<guid isPermaLink="false">3e9818b08861f16e09e64f5df5b463ae5aa3efd4</guid>
+<description>Venue: AllWays Lounge | Date: Friday, October 2 | Time: 11:00pm</description>
+<pubDate>Fri, 02 Oct 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Family Affair Record Release Show — Bar Redux</title>
-<link>https://www.wwoz.org/events/1393046</link>
-<guid isPermaLink="false">d523858815212b59906199f2aac832cf5aa49288</guid>
-<description>Venue: Bar Redux | Date: Thursday, October 1 | Time: 9:00pm</description>
-<pubDate>Thu, 01 Oct 2026 21:00:00 +0000</pubDate>
+<title>The New Orleans Rug Cutters — Bamboula's</title>
+<link>https://www.wwoz.org/events/1396411</link>
+<guid isPermaLink="false">c4f9d3f427bcc99ecc80ce9b94433306dea3182d</guid>
+<description>Venue: Bamboula's | Date: Friday, October 2 | Time: 11:00am</description>
+<pubDate>Fri, 02 Oct 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Cryptic ft. Peter Harris, Ricardo Pascal &amp; Nygel Anderson — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1373901</link>
-<guid isPermaLink="false">b8e7e011509b7ff79b5ff12dae421608bc9894f8</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Thursday, October 1 | Time: 8:00pm</description>
-<pubDate>Thu, 01 Oct 2026 20:00:00 +0000</pubDate>
+<title>Honest Man Happy Hour with Domenic Fusca — Banks Street Bar</title>
+<link>https://www.wwoz.org/events/1385341</link>
+<guid isPermaLink="false">53afe5b6deac9c3c7e87aac781b0cbb305e231a9</guid>
+<description>Venue: Banks Street Bar | Date: Friday, October 2 | Time: 4:00pm</description>
+<pubDate>Fri, 02 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Cryptic ft. Peter Harris, Ricardo Pascal &amp; Nygel Anderson — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1394166</link>
-<guid isPermaLink="false">9ab57d5b9e0326baa40301d265e691065b229ce9</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Thursday, October 1 | Time: 10:00pm</description>
-<pubDate>Thu, 01 Oct 2026 22:00:00 +0000</pubDate>
+<title>Rose Vaughn — Banks Street Bar</title>
+<link>https://www.wwoz.org/events/1373976</link>
+<guid isPermaLink="false">0e15a7bc7c9658ba4123f94c2e9beed18722140c</guid>
+<description>Venue: Banks Street Bar | Date: Friday, October 2 | Time: 9:00pm</description>
+<pubDate>Fri, 02 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Loose Cattle — BJ's Lounge</title>
-<link>https://www.wwoz.org/events/1379226</link>
-<guid isPermaLink="false">81c9a99d36569216e42613cb662d2cf00d2a9b14</guid>
-<description>Venue: BJ's Lounge | Date: Thursday, October 1 | Time: 9:00pm</description>
-<pubDate>Thu, 01 Oct 2026 21:00:00 +0000</pubDate>
+<title>Solid Harmony ft. Peter Harris, Yolanda Robinson, Joe Ashlar &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1373906</link>
+<guid isPermaLink="false">9f8018ca536f961f2d3c566d6bc66c5b111321df</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Friday, October 2 | Time: 8:00pm</description>
+<pubDate>Fri, 02 Oct 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Irvin Mayfield's Music Church with Special Guests — Blue Nile</title>
-<link>https://www.wwoz.org/events/1374211</link>
-<guid isPermaLink="false">2d7dec5fc2c3376ff4bfe0a134407e0097d835b4</guid>
-<description>Venue: Blue Nile | Date: Thursday, October 1 | Time: 9:00pm</description>
-<pubDate>Thu, 01 Oct 2026 21:00:00 +0000</pubDate>
+<title>Solid Harmony ft. Peter Harris, Yolanda Robinson, Joe Ashlar &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1394171</link>
+<guid isPermaLink="false">745263227f78580f9e63f01ecfe3f47c4b562296</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Friday, October 2 | Time: 10:00pm</description>
+<pubDate>Fri, 02 Oct 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Reggae Night with DJ T-Roy — Blue Nile - Balcony Room</title>
-<link>https://www.wwoz.org/events/1394791</link>
-<guid isPermaLink="false">04047aaebd4c354b76346d2157aa549853af1d1f</guid>
-<description>Venue: Blue Nile - Balcony Room | Date: Thursday, October 1 | Time: 11:00pm</description>
-<pubDate>Thu, 01 Oct 2026 23:00:00 +0000</pubDate>
+<title>Wacko Wade's 82nd B-Day Party with Little Freddie King + Leopard Hounds — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1379231</link>
+<guid isPermaLink="false">b3d0d675ed2a6c800795c8ab046126aed466a641</guid>
+<description>Venue: BJ's Lounge | Date: Friday, October 2 | Time: 9:00pm</description>
+<pubDate>Fri, 02 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Open Musician Jam with Christian Coleman — B Mac's (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1394961</link>
-<guid isPermaLink="false">c639fc4e234e3b168e0fbd903ce5bed031810e7e</guid>
-<description>Venue: B Mac's (OUTDOORS) | Date: Thursday, October 1 | Time: 7:00pm</description>
-<pubDate>Thu, 01 Oct 2026 19:00:00 +0000</pubDate>
+<title>T Marie &amp; Bayou Juju — Blue Crab Restaurant &amp; Oyster Bar, The</title>
+<link>https://www.wwoz.org/events/1373656</link>
+<guid isPermaLink="false">f9b557263daa4844d7d4cd466d3cb0fcfe4ebd2c</guid>
+<description>Venue: Blue Crab Restaurant &amp; Oyster Bar, The | Date: Friday, October 2 | Time: 5:00pm</description>
+<pubDate>Fri, 02 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dapper Dandies — BMC</title>
-<link>https://www.wwoz.org/events/1396131</link>
-<guid isPermaLink="false">b8ec6f8cdc0573fc97517c91b20f1490206ec169</guid>
-<description>Venue: BMC | Date: Thursday, October 1 | Time: 6:00pm</description>
-<pubDate>Thu, 01 Oct 2026 18:00:00 +0000</pubDate>
+<title>Free Agents Brass Band — Blue Crawfish, The</title>
+<link>https://www.wwoz.org/events/1388491</link>
+<guid isPermaLink="false">87702ce2b88cca3682215a1df938bf7e45415751</guid>
+<description>Venue: Blue Crawfish, The | Date: Friday, October 2 | Time: 6:30pm</description>
+<pubDate>Fri, 02 Oct 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
-<title>The Kat Kiley Experience — BMC</title>
-<link>https://www.wwoz.org/events/1396151</link>
-<guid isPermaLink="false">3f3f814658d6f38114e44a31a5f278aff58c2ac8</guid>
-<description>Venue: BMC | Date: Thursday, October 1 | Time: 9:00pm</description>
-<pubDate>Thu, 01 Oct 2026 21:00:00 +0000</pubDate>
+<title>Wil Blades &amp; Sasha Masakowski — Blue Nile</title>
+<link>https://www.wwoz.org/events/1396341</link>
+<guid isPermaLink="false">652e200668a542c96536dc07a673e69c4598af4c</guid>
+<description>Venue: Blue Nile | Date: Friday, October 2 | Time: 5:30pm</description>
+<pubDate>Fri, 02 Oct 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Bounce, Power, and Erasure of the Black Vote ft. Big Freedia, Alanah Odoms &amp; More! — Broadside (Outdoor Stage)</title>
-<link>https://www.wwoz.org/events/1393496</link>
-<guid isPermaLink="false">c0e4e669e1b3fc7c2c60763a61d147037d9f8cea</guid>
-<description>Venue: Broadside (Outdoor Stage) | Date: Thursday, October 1 | Time: 8:00pm</description>
-<pubDate>Thu, 01 Oct 2026 20:00:00 +0000</pubDate>
+<title>The Caesar Brothers' FunkBox — Blue Nile</title>
+<link>https://www.wwoz.org/events/1394631</link>
+<guid isPermaLink="false">1eecb33ee533bac3997d32c22dbf7d021c6cdba1</guid>
+<description>Venue: Blue Nile | Date: Friday, October 2 | Time: 7:30pm</description>
+<pubDate>Fri, 02 Oct 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Tom McDermott with Aurora Nealand — Buffa's</title>
-<link>https://www.wwoz.org/events/1398616</link>
-<guid isPermaLink="false">aa0366076edfb4f7b0ffdad7148002bfb0e41f7c</guid>
-<description>Venue: Buffa's | Date: Thursday, October 1 | Time: 7:00pm</description>
-<pubDate>Thu, 01 Oct 2026 19:00:00 +0000</pubDate>
+<title>Kermit Ruffins &amp; Friends: An All-Star Show ft. Kirk Joseph, Corey Henry, David Torkanosky &amp; Jerry Barbarin-Anderson — Blue Nile</title>
+<link>https://www.wwoz.org/events/1388871</link>
+<guid isPermaLink="false">fc84497ec5316f5a630f8106a8d56a4f4886c54c</guid>
+<description>Venue: Blue Nile | Date: Friday, October 2 | Time: 10:00pm</description>
+<pubDate>Fri, 02 Oct 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Bob Macy — Café Beignet on Decatur</title>
-<link>https://www.wwoz.org/events/1390776</link>
-<guid isPermaLink="false">93635290c0ca90fe40e52c406e80c0f45db950ca</guid>
-<description>Venue: Café Beignet on Decatur | Date: Thursday, October 1 | Time: 2:00pm</description>
-<pubDate>Thu, 01 Oct 2026 14:00:00 +0000</pubDate>
+<title>DJ FTK — Blue Nile - Balcony Room</title>
+<link>https://www.wwoz.org/events/1394816</link>
+<guid isPermaLink="false">ae1ce3deb4698b71c7078377cb07e05605889608</guid>
+<description>Venue: Blue Nile - Balcony Room | Date: Friday, October 2 | Time: 10:00pm</description>
+<pubDate>Fri, 02 Oct 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Blues at Work with Phil Breen — Café Negril</title>
-<link>https://www.wwoz.org/events/1396481</link>
-<guid isPermaLink="false">3089e0a995848897affa614b3f370ff36c1c6b14</guid>
-<description>Venue: Café Negril | Date: Thursday, October 1 | Time: 6:00pm</description>
-<pubDate>Thu, 01 Oct 2026 18:00:00 +0000</pubDate>
+<title>Bishop &amp; Blues Masters Live — B Mac's (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1394966</link>
+<guid isPermaLink="false">89b7965daf3445377329ccb423e8edf6b0754864</guid>
+<description>Venue: B Mac's (OUTDOORS) | Date: Friday, October 2 | Time: 7:00pm</description>
+<pubDate>Fri, 02 Oct 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sierra Green — Café Negril</title>
-<link>https://www.wwoz.org/events/1396486</link>
-<guid isPermaLink="false">abcd5275a6b4241a5f87b53529c169b4d41e98b9</guid>
-<description>Venue: Café Negril | Date: Thursday, October 1 | Time: 10:00pm</description>
-<pubDate>Thu, 01 Oct 2026 22:00:00 +0000</pubDate>
+<title>Danny Ray &amp; the Electric Barrelhouse — BMC</title>
+<link>https://www.wwoz.org/events/1394511</link>
+<guid isPermaLink="false">91613b32bb8bfbfa2a0b99b773b0ac826305392f</guid>
+<description>Venue: BMC | Date: Friday, October 2 | Time: 6:00pm</description>
+<pubDate>Fri, 02 Oct 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Leslie Martin — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
-<link>https://www.wwoz.org/events/1369276</link>
-<guid isPermaLink="false">227d25255447445b3d1f00266b6fe9f589f394ff</guid>
-<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Thursday, October 1 | Time: 5:30pm</description>
-<pubDate>Thu, 01 Oct 2026 17:30:00 +0000</pubDate>
+<title>Big Mike &amp; The R&amp;B Kings — BMC</title>
+<link>https://www.wwoz.org/events/1396156</link>
+<guid isPermaLink="false">485c980d9c45d7e49fe8d4f3d1141f7082f070f9</guid>
+<description>Venue: BMC | Date: Friday, October 2 | Time: 9:00pm</description>
+<pubDate>Fri, 02 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Lena Prima &amp; Her Band — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
-<link>https://www.wwoz.org/events/1390216</link>
-<guid isPermaLink="false">99ccd622e7bdfe440c57f6f023b325a6ba8f31ec</guid>
-<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Thursday, October 1 | Time: 9:00pm</description>
-<pubDate>Thu, 01 Oct 2026 21:00:00 +0000</pubDate>
+<title>Audrey LeCrone Trio — Brutto Americano</title>
+<link>https://www.wwoz.org/events/1391021</link>
+<guid isPermaLink="false">183ee76a6d8605146cb5608a518239786f23dc6f</guid>
+<description>Venue: Brutto Americano | Date: Friday, October 2 | Time: 6:00pm</description>
+<pubDate>Fri, 02 Oct 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Herlin Riley &amp; Friends — Chickie Wah Wah</title>
-<link>https://www.wwoz.org/events/1373951</link>
-<guid isPermaLink="false">76415373d4cb42a58b3becaeaa70092c25386e4a</guid>
-<description>Venue: Chickie Wah Wah | Date: Thursday, October 1 | Time: 8:00pm</description>
-<pubDate>Thu, 01 Oct 2026 20:00:00 +0000</pubDate>
+<title>Ancestral Tongue — Buffa's</title>
+<link>https://www.wwoz.org/events/1375196</link>
+<guid isPermaLink="false">8d24d9eaaa2d78ff4ea0a1326d5d98eaf0e993ae</guid>
+<description>Venue: Buffa's | Date: Friday, October 2 | Time: 8:00pm</description>
+<pubDate>Fri, 02 Oct 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Nicolas Payton Trio ft. Herlin Riley &amp; Reginald Veal — Café Istanbul</title>
+<link>https://www.wwoz.org/events/1373781</link>
+<guid isPermaLink="false">8981334535f8a5ed172053530bc00821a4765f56</guid>
+<description>Venue: Café Istanbul | Date: Friday, October 2 | Time: 8:00pm</description>
+<pubDate>Fri, 02 Oct 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Tiago Guy — Café Negril</title>
+<link>https://www.wwoz.org/events/1397591</link>
+<guid isPermaLink="false">2d0e829c2ebaa5863a0643fcea00a957f9e6b742</guid>
+<description>Venue: Café Negril | Date: Friday, October 2 | Time: 2:30pm</description>
+<pubDate>Fri, 02 Oct 2026 14:30:00 +0000</pubDate>
+</item>
+<item>
+<title>2nd Lion Reggae Band — Café Negril</title>
+<link>https://www.wwoz.org/events/1385181</link>
+<guid isPermaLink="false">473764db67d0b058952ae35658ca19a70fdd0b5b</guid>
+<description>Venue: Café Negril | Date: Friday, October 2 | Time: 6:30pm</description>
+<pubDate>Fri, 02 Oct 2026 18:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Higher Heights — Café Negril</title>
+<link>https://www.wwoz.org/events/1397596</link>
+<guid isPermaLink="false">363526673d9d4ff0fecd96c297210ec5adeca299</guid>
+<description>Venue: Café Negril | Date: Friday, October 2 | Time: 10:00pm</description>
+<pubDate>Fri, 02 Oct 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Nayo Jones Experience — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1390346</link>
+<guid isPermaLink="false">f0de85669141afdaf860e20d5159ac7b531383ae</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Friday, October 2 | Time: 9:00pm</description>
+<pubDate>Fri, 02 Oct 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Uptown Hoedown: NOLA Allstar Bluegrass Jam with Dead Magnolia String Band — Carrollton Station</title>
+<link>https://www.wwoz.org/events/1373816</link>
+<guid isPermaLink="false">e213bd57e6813c9e03faf6bb92d93cbf2e35c3aa</guid>
+<description>Venue: Carrollton Station | Date: Friday, October 2 | Time: 9:00pm</description>
+<pubDate>Fri, 02 Oct 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Erica Falls Presents A Night of Marvin Gaye — Chickie Wah Wah</title>
+<link>https://www.wwoz.org/events/1373931</link>
+<guid isPermaLink="false">013e78d14b75e9a23d512b29afad3a7f7dc03ed4</guid>
+<description>Venue: Chickie Wah Wah | Date: Friday, October 2 | Time: 9:00pm</description>
+<pubDate>Fri, 02 Oct 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Of Monsters and Men: The Mouse Parade Tour with August Ponthier — Civic Theatre</title>
+<link>https://www.wwoz.org/events/1376896</link>
+<guid isPermaLink="false">4c0802630b17494962d2f2b4e026bb6cb239359b</guid>
+<description>Venue: Civic Theatre | Date: Friday, October 2 | Time: 8:00pm</description>
+<pubDate>Fri, 02 Oct 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Club Switch Two Year Anniversary Drag Show — Club Switch</title>
+<link>https://www.wwoz.org/events/1374291</link>
+<guid isPermaLink="false">e4e1195669a1fe302c475c84a7d28850347bf179</guid>
+<description>Venue: Club Switch | Date: Friday, October 2 | Time: 8:00pm</description>
+<pubDate>Fri, 02 Oct 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Or Shovaly Plus — Common House New Orleans</title>
+<link>https://www.wwoz.org/events/1391636</link>
+<guid isPermaLink="false">ba56d526339dfccd15a23269910a6a862a05b1bc</guid>
+<description>Venue: Common House New Orleans | Date: Friday, October 2 | Time: 7:00pm</description>
+<pubDate>Fri, 02 Oct 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>The Ricky Knight Jazz Trio — Crescent City Brewhouse</title>
-<link>https://www.wwoz.org/events/1395696</link>
-<guid isPermaLink="false">d35a61bf193fba3b5159935415af3d1b37cba8ea</guid>
-<description>Venue: Crescent City Brewhouse | Date: Thursday, October 1 | Time: 6:00pm</description>
-<pubDate>Thu, 01 Oct 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1395741</link>
+<guid isPermaLink="false">ca7016c2214a3e6a818540ad2c4bcc42f8e4a123</guid>
+<description>Venue: Crescent City Brewhouse | Date: Friday, October 2 | Time: 12:00pm</description>
+<pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>(CANCELLED) Latin Dance &amp; Music Series — d.b.a.</title>
-<link>https://www.wwoz.org/events/1378061</link>
-<guid isPermaLink="false">0709b9bb753dd0b2bf8bce9f6b81f98e08b92f44</guid>
-<description>Venue: d.b.a. | Date: Thursday, October 1 | Time: 6:00pm</description>
-<pubDate>Thu, 01 Oct 2026 18:00:00 +0000</pubDate>
+<title>The Ricky Knight Jazz Quartet — Crescent City Brewhouse</title>
+<link>https://www.wwoz.org/events/1395746</link>
+<guid isPermaLink="false">fa2596b556f1683d2aca6cf32b077ac463493ce0</guid>
+<description>Venue: Crescent City Brewhouse | Date: Friday, October 2 | Time: 6:00pm</description>
+<pubDate>Fri, 02 Oct 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Vegas Cola Band — d.b.a.</title>
-<link>https://www.wwoz.org/events/1381316</link>
-<guid isPermaLink="false">82935b157cd8b2b58233fd86feca37a489928eaf</guid>
-<description>Venue: d.b.a. | Date: Thursday, October 1 | Time: 8:00pm</description>
-<pubDate>Thu, 01 Oct 2026 20:00:00 +0000</pubDate>
+<title>Michael Watson &amp; the Alchemy — d.b.a.</title>
+<link>https://www.wwoz.org/events/1381346</link>
+<guid isPermaLink="false">b28d2d1655255074a7a4e79b53d4e983f632ec9d</guid>
+<description>Venue: d.b.a. | Date: Friday, October 2 | Time: 6:00pm</description>
+<pubDate>Fri, 02 Oct 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jason Neville Funky Soul All-Star Band — d.b.a.</title>
+<link>https://www.wwoz.org/events/1377846</link>
+<guid isPermaLink="false">b78b347aa63c709ac84ba1f1e6570ed5ff2b9369</guid>
+<description>Venue: d.b.a. | Date: Friday, October 2 | Time: 10:00pm</description>
+<pubDate>Fri, 02 Oct 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Jeremy Davenport — Davenport Lounge at The Ritz-Carlton</title>
-<link>https://www.wwoz.org/events/1387291</link>
-<guid isPermaLink="false">65c8ade888f51839e84bdc8816b2bba9a17f32f0</guid>
-<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Thursday, October 1 | Time: 5:30pm</description>
-<pubDate>Thu, 01 Oct 2026 17:30:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1387336</link>
+<guid isPermaLink="false">4cc4fdf6d2105e08392d5a9152bcaf26e27e97a9</guid>
+<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Friday, October 2 | Time: 8:00pm</description>
+<pubDate>Fri, 02 Oct 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Vibe: An R&amp;B Experience with GumboFunk &amp; Jovin Webb — Dew Drop Inn Hotel &amp; Lounge</title>
-<link>https://www.wwoz.org/events/1374171</link>
-<guid isPermaLink="false">418528c3816afc269e3d9a3a34c0ca40f52a5b71</guid>
-<description>Venue: Dew Drop Inn Hotel &amp; Lounge | Date: Thursday, October 1 | Time: 8:00pm</description>
-<pubDate>Thu, 01 Oct 2026 20:00:00 +0000</pubDate>
+<title>George Porter, Jr. — Double Dealer at the Orpheum Theater</title>
+<link>https://www.wwoz.org/events/1384761</link>
+<guid isPermaLink="false">bd001a4b1e4b1cc964d2d16bb56a2f6406431086</guid>
+<description>Venue: Double Dealer at the Orpheum Theater | Date: Friday, October 2 | Time: 9:30pm</description>
+<pubDate>Fri, 02 Oct 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Tiffany Pollack — Double Dealer at the Orpheum Theater</title>
-<link>https://www.wwoz.org/events/1395511</link>
-<guid isPermaLink="false">633fa0ac4c39890e4da2cd509f4f481c0ce94642</guid>
-<description>Venue: Double Dealer at the Orpheum Theater | Date: Thursday, October 1 | Time: 9:00pm</description>
-<pubDate>Thu, 01 Oct 2026 21:00:00 +0000</pubDate>
+<title>Jass Hysteria — Favela Chic</title>
+<link>https://www.wwoz.org/events/1394861</link>
+<guid isPermaLink="false">ed1d9cf7ec941978334024b0997635731b80f292</guid>
+<description>Venue: Favela Chic | Date: Friday, October 2 | Time: 4:00pm</description>
+<pubDate>Fri, 02 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Rapuzzi's Glo Worm Trio — Fausto's Italian Bistro</title>
-<link>https://www.wwoz.org/events/1395641</link>
-<guid isPermaLink="false">6a82fff281973506e44a7ab471dbb66e1ea96245</guid>
-<description>Venue: Fausto's Italian Bistro | Date: Thursday, October 1 | Time: 6:30pm</description>
-<pubDate>Thu, 01 Oct 2026 18:30:00 +0000</pubDate>
+<title>Cristina Kaminis Quartet — French Market (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1389646</link>
+<guid isPermaLink="false">0ba9296c8dffcaab1dae28c6405fc915010406b8</guid>
+<description>Venue: French Market (OUTDOORS) | Date: Friday, October 2 | Time: 1:30pm</description>
+<pubDate>Fri, 02 Oct 2026 13:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Adam Pearce — Frenier Landing Restaurant &amp; Oyster Bar - LaPlace</title>
+<link>https://www.wwoz.org/events/1395566</link>
+<guid isPermaLink="false">5d759d3f5ad0223c61c661294a4ff6bddd8771f0</guid>
+<description>Venue: Frenier Landing Restaurant &amp; Oyster Bar - LaPlace | Date: Friday, October 2 | Time: 6:30pm</description>
+<pubDate>Fri, 02 Oct 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Richard "Piano" Scott — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1395156</link>
-<guid isPermaLink="false">3ac441944637a0211d783b6b7629792ac1b3bc04</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Thursday, October 1 | Time: 12:00pm</description>
-<pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1395181</link>
+<guid isPermaLink="false">065ce6aa41bdd92187b1a3da7c78d5f84a5ae8e2</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Friday, October 2 | Time: 1:00pm</description>
+<pubDate>Fri, 02 Oct 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Doyle Cooper Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1395331</link>
-<guid isPermaLink="false">e0e577dcf61aa3bebd0535fee902464a7bd57b35</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Thursday, October 1 | Time: 2:00pm</description>
-<pubDate>Thu, 01 Oct 2026 14:00:00 +0000</pubDate>
+<title>Sam Friend Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1395441</link>
+<guid isPermaLink="false">bc4d3cb5e823ee7433cf4ced7fc7ba47932f5aa3</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Friday, October 2 | Time: 3:00pm</description>
+<pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>John Saavedra Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1395506</link>
-<guid isPermaLink="false">30a5eea1c4d1e381afb765d185a96ad2c95221f3</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Thursday, October 1 | Time: 5:00pm</description>
-<pubDate>Thu, 01 Oct 2026 17:00:00 +0000</pubDate>
+<title>Sam Lobley Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1395426</link>
+<guid isPermaLink="false">cf51a85648fa967206c1f699a90165ee26803f75</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Friday, October 2 | Time: 6:00pm</description>
+<pubDate>Fri, 02 Oct 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Fritzel's All Star Band with John Zarsky — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1395316</link>
-<guid isPermaLink="false">7dc8b5a936708906c128ee5e9011e681e4bf2642</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Thursday, October 1 | Time: 8:00pm</description>
-<pubDate>Thu, 01 Oct 2026 20:00:00 +0000</pubDate>
+<title>Fritzel's All Star Band with Kevin Ray Clark — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1395311</link>
+<guid isPermaLink="false">b0637d54f00f423d9e7782bbce59ea711c978f59</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Friday, October 2 | Time: 9:00pm</description>
+<pubDate>Fri, 02 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Pete Murano Band featuring Noah Young, Cam IAM &amp; More! — Gasa Gasa</title>
-<link>https://www.wwoz.org/events/1378861</link>
-<guid isPermaLink="false">2651b5b975c80ad6d66c859aa2b4e930413c4954</guid>
-<description>Venue: Gasa Gasa | Date: Thursday, October 1 | Time: 9:00pm</description>
-<pubDate>Thu, 01 Oct 2026 21:00:00 +0000</pubDate>
+<title>Sub-Division Joy Division Tribute + The English Channels Cure Tribute — Gasa Gasa</title>
+<link>https://www.wwoz.org/events/1386396</link>
+<guid isPermaLink="false">fc286737b3804dc1df4483e88da33fc0cbebadb3</guid>
+<description>Venue: Gasa Gasa | Date: Friday, October 2 | Time: 9:00pm</description>
+<pubDate>Fri, 02 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Yusa — Good Measure at The Barnett</title>
-<link>https://www.wwoz.org/events/1389816</link>
-<guid isPermaLink="false">fe232b8d24b9d668cab1710adb2b013f63458c74</guid>
-<description>Venue: Good Measure at The Barnett | Date: Thursday, October 1 | Time: 8:00pm</description>
-<pubDate>Thu, 01 Oct 2026 20:00:00 +0000</pubDate>
+<title>The Dewdrops Album Release Show — Good Measure at The Barnett</title>
+<link>https://www.wwoz.org/events/1389821</link>
+<guid isPermaLink="false">17fb4061017ee36fe2b4755101f7f07e9cfe0489</guid>
+<description>Venue: Good Measure at The Barnett | Date: Friday, October 2 | Time: 8:00pm</description>
+<pubDate>Fri, 02 Oct 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Tail-Gators — Gretna Tavern</title>
-<link>https://www.wwoz.org/events/1381511</link>
-<guid isPermaLink="false">d448c637cdfedd0c6a6c5eb58111e39712ecc981</guid>
-<description>Venue: Gretna Tavern | Date: Thursday, October 1 | Time: 8:30pm</description>
-<pubDate>Thu, 01 Oct 2026 20:30:00 +0000</pubDate>
+<title>Grand Reopening with Sporty's Brass Band — Hi Ho Lounge</title>
+<link>https://www.wwoz.org/events/1398856</link>
+<guid isPermaLink="false">f0f4ff06833b99a89a458776ade224279fd4df70</guid>
+<description>Venue: Hi Ho Lounge | Date: Friday, October 2 | Time: 9:00pm</description>
+<pubDate>Fri, 02 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Grand Reopening 80's Night with DJ Shane Love — Hi Ho Lounge</title>
-<link>https://www.wwoz.org/events/1398851</link>
-<guid isPermaLink="false">807b82ed0e9031a6b12b98e569712b6f0f39e8a3</guid>
-<description>Venue: Hi Ho Lounge | Date: Thursday, October 1 | Time: 9:00pm</description>
-<pubDate>Thu, 01 Oct 2026 21:00:00 +0000</pubDate>
+<title>The Ladies Of...featuring James Hall + Cone of Uncertainty + DarkLounge Ministries — Holy Diver</title>
+<link>https://www.wwoz.org/events/1374131</link>
+<guid isPermaLink="false">c02b4972ed1b16829233baa89dddf3c4d66bb68f</guid>
+<description>Venue: Holy Diver | Date: Friday, October 2 | Time: 9:00pm</description>
+<pubDate>Fri, 02 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Kyle Roussel — Hotel Henrietta</title>
-<link>https://www.wwoz.org/events/1374056</link>
-<guid isPermaLink="false">2b614e2a4d3b7cd517038605f2a927a408dfd7e1</guid>
-<description>Venue: Hotel Henrietta | Date: Thursday, October 1 | Time: 4:00pm</description>
-<pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
+<title>Shea Siraj — Hotel Henrietta</title>
+<link>https://www.wwoz.org/events/1374061</link>
+<guid isPermaLink="false">2fd08bb356e6212b3bcd90949dcfa1dcc9662d2a</guid>
+<description>Venue: Hotel Henrietta | Date: Friday, October 2 | Time: 4:00pm</description>
+<pubDate>Fri, 02 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Fowk Band + Nikaness &amp; Friends — Howlin' Wolf - The Den</title>
-<link>https://www.wwoz.org/events/1379191</link>
-<guid isPermaLink="false">24f1f3b673d2406d5a41f81e197e16791e7c2dcf</guid>
-<description>Venue: Howlin' Wolf - The Den | Date: Thursday, October 1 | Time: 10:00pm</description>
-<pubDate>Thu, 01 Oct 2026 22:00:00 +0000</pubDate>
+<title>Mark Barrett &amp; The First Calls — House of Blues - Voodoo Garden (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1394506</link>
+<guid isPermaLink="false">1ffe70d76d009d981c424066d29b813fc754711e</guid>
+<description>Venue: House of Blues - Voodoo Garden (OUTDOORS) | Date: Friday, October 2 | Time: 4:00pm</description>
+<pubDate>Fri, 02 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Brass-A-Holics ft. Kayla Love — Jazz Playhouse</title>
-<link>https://www.wwoz.org/events/1377471</link>
-<guid isPermaLink="false">21161bab678ea739c3510bcb2e7c7a3699b78907</guid>
-<description>Venue: Jazz Playhouse | Date: Thursday, October 1 | Time: 7:30pm</description>
-<pubDate>Thu, 01 Oct 2026 19:30:00 +0000</pubDate>
+<title>The Bottoms with Shawn Gwin — Howlin' Wolf - The Den</title>
+<link>https://www.wwoz.org/events/1373926</link>
+<guid isPermaLink="false">4034cac1063db596322079639444bca7e8f1154c</guid>
+<description>Venue: Howlin' Wolf - The Den | Date: Friday, October 2 | Time: 9:00pm</description>
+<pubDate>Fri, 02 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Tiago Guy — Le Bon Temps Roulé</title>
-<link>https://www.wwoz.org/events/1377376</link>
-<guid isPermaLink="false">c3ae762fb1eea41c0ffd5e3c1716a601fa66d5e2</guid>
-<description>Venue: Le Bon Temps Roulé | Date: Thursday, October 1 | Time: 11:00pm</description>
-<pubDate>Thu, 01 Oct 2026 23:00:00 +0000</pubDate>
+<title>Trixie Minx's Burlesque Ballroom ft. Romy Kaye &amp; the Mercy Buckets — Jazz Playhouse</title>
+<link>https://www.wwoz.org/events/1377461</link>
+<guid isPermaLink="false">5141428fb48d76558512ae7f1c07229319d28e2d</guid>
+<description>Venue: Jazz Playhouse | Date: Friday, October 2 | Time: 8:00pm</description>
+<pubDate>Fri, 02 Oct 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Kermit Ruffins &amp; The BBQ Swingers — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1373736</link>
-<guid isPermaLink="false">3753e67c91b4289f9055a66990aff985ee9d3d1b</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Thursday, October 1 | Time: 6:00pm</description>
-<pubDate>Thu, 01 Oct 2026 18:00:00 +0000</pubDate>
+<title>Trixie Minx's Burlesque Ballroom ft. Romy Kaye &amp; the Mercy Buckets — Jazz Playhouse</title>
+<link>https://www.wwoz.org/events/1377466</link>
+<guid isPermaLink="false">763ef5634afd9ea78afafa4604bcfa1c88603683</guid>
+<description>Venue: Jazz Playhouse | Date: Friday, October 2 | Time: 9:30pm</description>
+<pubDate>Fri, 02 Oct 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Jami Sharif New Orleans Extravaganza — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1392631</link>
-<guid isPermaLink="false">dfac18fcdb8fa6f40176c6eb998a4b16a2bc1f58</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Thursday, October 1 | Time: 8:00pm</description>
-<pubDate>Thu, 01 Oct 2026 20:00:00 +0000</pubDate>
+<title>Tri-Fi — Le Bon Temps Roulé</title>
+<link>https://www.wwoz.org/events/1377381</link>
+<guid isPermaLink="false">af81d4c5f5e74bcd1dd608aa3812098bf416851c</guid>
+<description>Venue: Le Bon Temps Roulé | Date: Friday, October 2 | Time: 11:00pm</description>
+<pubDate>Fri, 02 Oct 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Champagniacs — Maison, The</title>
-<link>https://www.wwoz.org/events/1396491</link>
-<guid isPermaLink="false">73d88076e02737d8b4f521c42822552a0b0b2ace</guid>
-<description>Venue: Maison, The | Date: Thursday, October 1 | Time: 4:30pm</description>
-<pubDate>Thu, 01 Oct 2026 16:30:00 +0000</pubDate>
+<title>Raphael Bas — Lobby Lounge at JW Marriott</title>
+<link>https://www.wwoz.org/events/1361776</link>
+<guid isPermaLink="false">e5850ab3176a3443b13f988aadf42fdbd83f378c</guid>
+<description>Venue: Lobby Lounge at JW Marriott | Date: Friday, October 2 | Time: 6:00pm</description>
+<pubDate>Fri, 02 Oct 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Surfers Club — Maison, The</title>
-<link>https://www.wwoz.org/events/1396496</link>
-<guid isPermaLink="false">604098cfbefc46d9c3e65dee321b773aa9b8823f</guid>
-<description>Venue: Maison, The | Date: Thursday, October 1 | Time: 8:30pm</description>
-<pubDate>Thu, 01 Oct 2026 20:30:00 +0000</pubDate>
+<title>Khris Royal Trio — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1392656</link>
+<guid isPermaLink="false">97445ecb15d3eaaa63c02b5833d786f68b1321ca</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Friday, October 2 | Time: 3:00pm</description>
+<pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Danny Rubio &amp; the Catahoula Music Company ft. Jack Pritchett — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1389261</link>
-<guid isPermaLink="false">39e3ce99b2179107e7e5776d063a1ac7cdcf5179</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Thursday, October 1 | Time: 8:00pm</description>
-<pubDate>Thu, 01 Oct 2026 20:00:00 +0000</pubDate>
+<title>Delfeayo Marsalis Quintet — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1373741</link>
+<guid isPermaLink="false">9ae8d81ea667a23b28893409dc07d49d5b9b0c8d</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Friday, October 2 | Time: 7:00pm</description>
+<pubDate>Fri, 02 Oct 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Booker &amp; Beyond with Jeremy Habegger — Maple Leaf</title>
-<link>https://www.wwoz.org/events/1397871</link>
-<guid isPermaLink="false">e6f92d8de9467152c68e9b9c517d2421ea2a6bfc</guid>
-<description>Venue: Maple Leaf | Date: Thursday, October 1 | Time: 6:00pm</description>
-<pubDate>Thu, 01 Oct 2026 18:00:00 +0000</pubDate>
+<title>Mahogany Hall Jazz Band ft. Mike Fulton with Midnight Burlesque Pop Up by Trixie Minx — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1392681</link>
+<guid isPermaLink="false">233981c00432893ee35803153030c8f3d27f9330</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Friday, October 2 | Time: 9:30pm</description>
+<pubDate>Fri, 02 Oct 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Johnny Vidacovich Trio with Brian Haas &amp; James Singleton — Maple Leaf</title>
-<link>https://www.wwoz.org/events/1397876</link>
-<guid isPermaLink="false">5367354f73d87d65e525f8015296dfe0286da4ab</guid>
-<description>Venue: Maple Leaf | Date: Thursday, October 1 | Time: 8:00pm</description>
-<pubDate>Thu, 01 Oct 2026 20:00:00 +0000</pubDate>
+<title>NOLA Sweethearts — Maison, The</title>
+<link>https://www.wwoz.org/events/1397926</link>
+<guid isPermaLink="false">f435b979fc2ddcd885413664ceec1fde57252f0a</guid>
+<description>Venue: Maison, The | Date: Friday, October 2 | Time: 3:00pm</description>
+<pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Joshua Constantine Quartet — Marigny Opera House</title>
-<link>https://www.wwoz.org/events/1345596</link>
-<guid isPermaLink="false">3c70a192a92681f71a206de00398256898517bb0</guid>
-<description>Venue: Marigny Opera House | Date: Thursday, October 1 | Time: 7:00pm</description>
-<pubDate>Thu, 01 Oct 2026 19:00:00 +0000</pubDate>
+<title>Shotgun Jazz Band — Maison, The</title>
+<link>https://www.wwoz.org/events/1397951</link>
+<guid isPermaLink="false">3b237b21da2634eee9fc3ed8c79f927eb30a3f00</guid>
+<description>Venue: Maison, The | Date: Friday, October 2 | Time: 5:00pm</description>
+<pubDate>Fri, 02 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>New Orleans Ragtime Festival ft. Louis Ford &amp; The New Orleans Flairs — New Marigny Theatre</title>
-<link>https://www.wwoz.org/events/1390931</link>
-<guid isPermaLink="false">66b27b7340dbb48b44457308bb359b284dc38b76</guid>
-<description>Venue: New Marigny Theatre | Date: Thursday, October 1 | Time: 6:30pm</description>
-<pubDate>Thu, 01 Oct 2026 18:30:00 +0000</pubDate>
+<title>Street Lyfe — Maison, The</title>
+<link>https://www.wwoz.org/events/1397976</link>
+<guid isPermaLink="false">7139b572730be6e720a9f194152633d5c258afe2</guid>
+<description>Venue: Maison, The | Date: Friday, October 2 | Time: 9:00pm</description>
+<pubDate>Fri, 02 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The New Orleans Ragtime Festival ft. Kyle Roussel, El Puente with Margie Perez + More! — New Orleans Jazz National Historical Park</title>
-<link>https://www.wwoz.org/events/1390951</link>
-<guid isPermaLink="false">0d8a9b4dd6fba8c72f89ecd456274479a925c4b5</guid>
-<description>Venue: New Orleans Jazz National Historical Park | Date: Thursday, October 1 | Time: 1:00pm</description>
-<pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
+<title>The Leroy Marshall Band — Maison Bourbon Jazz Club</title>
+<link>https://www.wwoz.org/events/1396981</link>
+<guid isPermaLink="false">f80e1126589b5feff3d098272f2b07c000f0082e</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Friday, October 2 | Time: 8:15pm</description>
+<pubDate>Fri, 02 Oct 2026 20:15:00 +0000</pubDate>
 </item>
 <item>
-<title>MACCNO 14 Year Anniversary Fundraiser ft. Loose Cattle, Susan Cowsill, Whitney Alouisious &amp; More! — NOLA Brewing</title>
-<link>https://www.wwoz.org/events/1391776</link>
-<guid isPermaLink="false">4146b1214cbc1ef9d3b3a32c6034f72e67a473d4</guid>
-<description>Venue: NOLA Brewing | Date: Thursday, October 1 | Time: 6:30pm</description>
-<pubDate>Thu, 01 Oct 2026 18:30:00 +0000</pubDate>
+<title>Alfred Jordan &amp; the SCAWAD - Album Release Party with Special Guests 95mp — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1397881</link>
+<guid isPermaLink="false">a491f8553ae9583d6b54ce9672283927f15005ea</guid>
+<description>Venue: Maple Leaf | Date: Friday, October 2 | Time: 9:00pm</description>
+<pubDate>Fri, 02 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>New Fools + Oh Dang + Swarm Comp — Okay Bar</title>
-<link>https://www.wwoz.org/events/1374191</link>
-<guid isPermaLink="false">fd4e4a08ffb06298cf4c21f8bcda0888256d9ada</guid>
-<description>Venue: Okay Bar | Date: Thursday, October 1 | Time: 8:00pm</description>
-<pubDate>Thu, 01 Oct 2026 20:00:00 +0000</pubDate>
+<title>Bayou Manouche — May Baily's Place</title>
+<link>https://www.wwoz.org/events/1398906</link>
+<guid isPermaLink="false">7562f1a183ba7a056f480a6d756b4e6ddff1b00b</guid>
+<description>Venue: May Baily's Place | Date: Friday, October 2 | Time: 8:30pm</description>
+<pubDate>Fri, 02 Oct 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Victoria Amato &amp; Matt Hayden + Ben Michaels &amp; Jim Lockwood — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1395941</link>
-<guid isPermaLink="false">bb0c0d1930da482c72959a6703d1700045aafa6a</guid>
-<description>Venue: Pat O'Brien's | Date: Thursday, October 1 | Time: 4:00pm</description>
-<pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
+<title>New Orleans Ragtime Festival with Seva Venet ft. Dr. Michael White — New Marigny Theatre</title>
+<link>https://www.wwoz.org/events/1390936</link>
+<guid isPermaLink="false">4fd78b4d3b18fb108293ee732672a59f052beb09</guid>
+<description>Venue: New Marigny Theatre | Date: Friday, October 2 | Time: 7:00pm</description>
+<pubDate>Fri, 02 Oct 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Grapes of Mash — Paulie's</title>
-<link>https://www.wwoz.org/events/1394361</link>
-<guid isPermaLink="false">de1b1a21e682d9960a4b13c598db1f9c08ac4c62</guid>
-<description>Venue: Paulie's | Date: Thursday, October 1 | Time: 6:00pm</description>
-<pubDate>Thu, 01 Oct 2026 18:00:00 +0000</pubDate>
+<title>(CANCELLED) Jovin Webb — New Orleans Jazz &amp; Blues Market</title>
+<link>https://www.wwoz.org/events/1393071</link>
+<guid isPermaLink="false">7ce895d927c715d9981b03010b36aaa568ff43ec</guid>
+<description>Venue: New Orleans Jazz &amp; Blues Market | Date: Friday, October 2 | Time: 7:30pm</description>
+<pubDate>Fri, 02 Oct 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Da Lovebirds: Robin Barnes &amp; Pat Casey — Peacock Room at the Kimpton Hotel Fontenot</title>
-<link>https://www.wwoz.org/events/1320531</link>
-<guid isPermaLink="false">c1a20f216848c79347827b65859ace423fc0d66a</guid>
-<description>Venue: Peacock Room at the Kimpton Hotel Fontenot | Date: Thursday, October 1 | Time: 8:00pm</description>
-<pubDate>Thu, 01 Oct 2026 20:00:00 +0000</pubDate>
+<title>OVJ Collective — New Orleans Jazz Museum</title>
+<link>https://www.wwoz.org/events/1373756</link>
+<guid isPermaLink="false">770c1ac2cb9212753903200c1e9d4207b28e078b</guid>
+<description>Venue: New Orleans Jazz Museum | Date: Friday, October 2 | Time: 2:00pm</description>
+<pubDate>Fri, 02 Oct 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1391881</link>
-<guid isPermaLink="false">015eebaaee20ff086b890fd12386ef252a5d8322</guid>
-<description>Venue: Preservation Hall | Date: Thursday, October 1 | Time: 5:00pm</description>
-<pubDate>Thu, 01 Oct 2026 17:00:00 +0000</pubDate>
+<title>The New Orleans Ragtime Festival ft. Tom McDermott, Matt Lemmler Ragtime Trio + More! — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1390956</link>
+<guid isPermaLink="false">8b83aee790b89c6b952885e1920aee0b032e917e</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Friday, October 2 | Time: 1:00pm</description>
+<pubDate>Fri, 02 Oct 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1391891</link>
-<guid isPermaLink="false">943118888c0b90823d554c9f0551759976e97544</guid>
-<description>Venue: Preservation Hall | Date: Thursday, October 1 | Time: 6:15pm</description>
-<pubDate>Thu, 01 Oct 2026 18:15:00 +0000</pubDate>
+<title>Johnette Downing — New Orleans Jazz National Historical Park - Dutch Alley</title>
+<link>https://www.wwoz.org/events/1394626</link>
+<guid isPermaLink="false">637fc0c40083dce7298ba647d1811820535873a4</guid>
+<description>Venue: New Orleans Jazz National Historical Park - Dutch Alley | Date: Friday, October 2 | Time: 11:00am</description>
+<pubDate>Fri, 02 Oct 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1391901</link>
-<guid isPermaLink="false">05d172ef9895f1b5eca0d7c8702e965f10304b68</guid>
-<description>Venue: Preservation Hall | Date: Thursday, October 1 | Time: 7:30pm</description>
-<pubDate>Thu, 01 Oct 2026 19:30:00 +0000</pubDate>
+<title>Fried Chicken Festival ft. Marc Broussard, Shamarr Allen's Ratchet Jazz &amp; More! — New Orleans Lakefront (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1393026</link>
+<guid isPermaLink="false">430eb649fd35a31a2c904cbbf75d2504c4f5eadb</guid>
+<description>Venue: New Orleans Lakefront (OUTDOORS) | Date: Friday, October 2 | Time: 3:30pm</description>
+<pubDate>Fri, 02 Oct 2026 15:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1391911</link>
-<guid isPermaLink="false">dd57458869c9bee1022afdba96086ed9807f6733</guid>
-<description>Venue: Preservation Hall | Date: Thursday, October 1 | Time: 8:45pm</description>
-<pubDate>Thu, 01 Oct 2026 20:45:00 +0000</pubDate>
+<title>NOMA at Night ft. Haruka Kikuchi &amp; Friends + More! — New Orleans Museum of Art</title>
+<link>https://www.wwoz.org/events/1393266</link>
+<guid isPermaLink="false">ed7b7cf4bb3f0bcd4999c5a224dbc3d8ea325714</guid>
+<description>Venue: New Orleans Museum of Art | Date: Friday, October 2 | Time: 6:00pm</description>
+<pubDate>Fri, 02 Oct 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Geovane Santos — Salon Salon</title>
-<link>https://www.wwoz.org/events/1388676</link>
-<guid isPermaLink="false">1cab2d3630ea863d5b3ba1873ee1f9e2ba59159b</guid>
-<description>Venue: Salon Salon | Date: Thursday, October 1 | Time: 7:00pm</description>
-<pubDate>Thu, 01 Oct 2026 19:00:00 +0000</pubDate>
+<title>Sky Choice + Mars &amp; Other Planets + Josephine Alphanzo — Okay Bar</title>
+<link>https://www.wwoz.org/events/1393091</link>
+<guid isPermaLink="false">7cae4127ba0b7d67d04e57f785e4c6a9f94822e7</guid>
+<description>Venue: Okay Bar | Date: Friday, October 2 | Time: 8:00pm</description>
+<pubDate>Fri, 02 Oct 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Louis Michot's Swamp Magic — Saturn Bar</title>
-<link>https://www.wwoz.org/events/1374016</link>
-<guid isPermaLink="false">0e50e2f279b327fb49421c10bfec30729f6014ec</guid>
-<description>Venue: Saturn Bar | Date: Thursday, October 1 | Time: 9:00pm</description>
-<pubDate>Thu, 01 Oct 2026 21:00:00 +0000</pubDate>
+<title>The Old Barstools — Old Point Bar</title>
+<link>https://www.wwoz.org/events/1398311</link>
+<guid isPermaLink="false">1e181bccf36327f450026c3c49f70186d8f49033</guid>
+<description>Venue: Old Point Bar | Date: Friday, October 2 | Time: 9:00pm</description>
+<pubDate>Fri, 02 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Revisited: The Early Days of Snug Harbor with Lawrence Sieberth, Ricky Sebastian &amp; More! — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1377446</link>
-<guid isPermaLink="false">ab236e23e80e0ddaae2a97569776b7ef179b9a77</guid>
-<description>Venue: Snug Harbor | Date: Thursday, October 1 | Time: 7:30pm</description>
-<pubDate>Thu, 01 Oct 2026 19:30:00 +0000</pubDate>
+<title>Louisiana Philharmonic Orchestra with Tank &amp; The Bangas and Dawn Richard — Orpheum Theater</title>
+<link>https://www.wwoz.org/events/1370526</link>
+<guid isPermaLink="false">2eb0e5caf8072d816d7fcc49f737844d477c854f</guid>
+<description>Venue: Orpheum Theater | Date: Friday, October 2 | Time: 7:30pm</description>
+<pubDate>Fri, 02 Oct 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Revisited: The Early Days of Snug Harbor with Lawrence Sieberth, Ricky Sebastian &amp; More! — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1377451</link>
-<guid isPermaLink="false">8a9514668a240f8149a9ebb7dbb5b517cbdf9875</guid>
-<description>Venue: Snug Harbor | Date: Thursday, October 1 | Time: 9:30pm</description>
-<pubDate>Thu, 01 Oct 2026 21:30:00 +0000</pubDate>
+<title>Victoria Amato + Ben Michaels — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1395946</link>
+<guid isPermaLink="false">cb907a9244cd2a7a69c19ef4649bfad5fb869537</guid>
+<description>Venue: Pat O'Brien's | Date: Friday, October 2 | Time: 1:00pm</description>
+<pubDate>Fri, 02 Oct 2026 13:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Matt Hayden &amp; Hannah Kreiger-Benson + Jim Lockwood &amp; Lisa Bittick-Lowe — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1395951</link>
+<guid isPermaLink="false">8514110ca03eea221a7858fb803b0036b7303453</guid>
+<description>Venue: Pat O'Brien's | Date: Friday, October 2 | Time: 6:00pm</description>
+<pubDate>Fri, 02 Oct 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Mr. Silver — Pirogue's Whiskey Bayou (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1391221</link>
+<guid isPermaLink="false">5384c9cac352a91e9f6d6fc23b53a4404f975d1a</guid>
+<description>Venue: Pirogue's Whiskey Bayou (OUTDOORS) | Date: Friday, October 2 | Time: 7:00pm</description>
+<pubDate>Fri, 02 Oct 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Spookylicious: Big Ace + Geno + Tokidokihoe — Poor Boys</title>
+<link>https://www.wwoz.org/events/1393491</link>
+<guid isPermaLink="false">e5efbfd035db6352be6fef5910eb04ee61269929</guid>
+<description>Venue: Poor Boys | Date: Friday, October 2 | Time: 11:00pm</description>
+<pubDate>Fri, 02 Oct 2026 23:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1391951</link>
+<guid isPermaLink="false">e8aae68a9929987fb1e399313bc7ad2d8222f0b3</guid>
+<description>Venue: Preservation Hall | Date: Friday, October 2 | Time: 5:00pm</description>
+<pubDate>Fri, 02 Oct 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1391956</link>
+<guid isPermaLink="false">d1616af685b040ed41720e7ce7f6b1e37b5d7eef</guid>
+<description>Venue: Preservation Hall | Date: Friday, October 2 | Time: 6:15pm</description>
+<pubDate>Fri, 02 Oct 2026 18:15:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1391961</link>
+<guid isPermaLink="false">49d65684bc7c1da67f9efa96dbc9df5ff5bb30b0</guid>
+<description>Venue: Preservation Hall | Date: Friday, October 2 | Time: 7:30pm</description>
+<pubDate>Fri, 02 Oct 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1391986</link>
+<guid isPermaLink="false">8090a42d14d21be528ace3ecbda603b6cef75da1</guid>
+<description>Venue: Preservation Hall | Date: Friday, October 2 | Time: 8:45pm</description>
+<pubDate>Fri, 02 Oct 2026 20:45:00 +0000</pubDate>
+</item>
+<item>
+<title>Sweat Etiquette with P.U.D.G.E. &amp; RQ AWAY — Rabbit Hole, The</title>
+<link>https://www.wwoz.org/events/1377441</link>
+<guid isPermaLink="false">9807f8c03c5369fda02c10ec8dcd27bd3cd0d415</guid>
+<description>Venue: Rabbit Hole, The | Date: Friday, October 2 | Time: 10:00pm</description>
+<pubDate>Fri, 02 Oct 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Live After Five Concert Series ft. After 8 — Rhorer Plaza (OUTDOORS) - Baton Rouge</title>
+<link>https://www.wwoz.org/events/1380371</link>
+<guid isPermaLink="false">83589799a50202dcaaba828ea430bbb808083fd4</guid>
+<description>Venue: Rhorer Plaza (OUTDOORS) - Baton Rouge | Date: Friday, October 2 | Time: 5:00pm</description>
+<pubDate>Fri, 02 Oct 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Free Swim with S.K.B. &amp; YRSTRLY — Saint, The</title>
+<link>https://www.wwoz.org/events/1374141</link>
+<guid isPermaLink="false">ca625cbd73b5c38fb290a6cf40f305f63401d6f0</guid>
+<description>Venue: Saint, The | Date: Friday, October 2 | Time: 11:00pm</description>
+<pubDate>Fri, 02 Oct 2026 23:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Resurrection Goth Night with DJs Mange, EveHill &amp; Kacey Chaos — Santos Bar</title>
+<link>https://www.wwoz.org/events/1374106</link>
+<guid isPermaLink="false">f34724000cb89b02c6fce89248aa8d0f6d84dc48</guid>
+<description>Venue: Santos Bar | Date: Friday, October 2 | Time: 10:00pm</description>
+<pubDate>Fri, 02 Oct 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Una Noche de Música Latina con La Tran-K — Saturn Bar</title>
+<link>https://www.wwoz.org/events/1374021</link>
+<guid isPermaLink="false">17ced724096f32c4e40a161bc8dc5931b4191d18</guid>
+<description>Venue: Saturn Bar | Date: Friday, October 2 | Time: 10:00pm</description>
+<pubDate>Fri, 02 Oct 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Desert Nudes — Seithers Seafood (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1386576</link>
+<guid isPermaLink="false">064a7c1faeca2c276b13c07e39db6a6be20c9e82</guid>
+<description>Venue: Seithers Seafood (OUTDOORS) | Date: Friday, October 2 | Time: 5:00pm</description>
+<pubDate>Fri, 02 Oct 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Black Queen + Trace Ammount — Siberia</title>
+<link>https://www.wwoz.org/events/1367676</link>
+<guid isPermaLink="false">43971bbec7b03e0a6bf3995d068e78a9f0652070</guid>
+<description>Venue: Siberia | Date: Friday, October 2 | Time: 9:00pm</description>
+<pubDate>Fri, 02 Oct 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Super Session: Wil Blades, Donald Harrison &amp; Mike Clark — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1374076</link>
+<guid isPermaLink="false">dc851d96243f635c3524fea6a6db5b40c8a82b42</guid>
+<description>Venue: Snug Harbor | Date: Friday, October 2 | Time: 7:30pm</description>
+<pubDate>Fri, 02 Oct 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Super Session: Wil Blades, Donald Harrison &amp; Mike Clark — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1374081</link>
+<guid isPermaLink="false">8c5b293f4c71cd0bb45c229258caa98913d4c01d</guid>
+<description>Venue: Snug Harbor | Date: Friday, October 2 | Time: 9:30pm</description>
+<pubDate>Fri, 02 Oct 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1397116</link>
-<guid isPermaLink="false">03b835d2ebc28d57b52802125e56d87787ff30d1</guid>
-<description>Venue: Steamboat Natchez | Date: Thursday, October 1 | Time: 11:00am</description>
-<pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1397161</link>
+<guid isPermaLink="false">50bcdded37f2db0cdc9eda534d555f72a8bf554e</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, October 2 | Time: 11:00am</description>
+<pubDate>Fri, 02 Oct 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1397276</link>
-<guid isPermaLink="false">a731288080c613003a88dec59934b4e2c38d51b2</guid>
-<description>Venue: Steamboat Natchez | Date: Thursday, October 1 | Time: 2:00pm</description>
-<pubDate>Thu, 01 Oct 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1397301</link>
+<guid isPermaLink="false">86121f5dbdb02e2df8072e10e05009a33d92fd4e</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, October 2 | Time: 2:00pm</description>
+<pubDate>Fri, 02 Oct 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dukes of Dixieland — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1397431</link>
-<guid isPermaLink="false">55448756c533edb15495a4ec4bb551021fd2b631</guid>
-<description>Venue: Steamboat Natchez | Date: Thursday, October 1 | Time: 6:00pm</description>
-<pubDate>Thu, 01 Oct 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1397436</link>
+<guid isPermaLink="false">21fe9e2edcfcc72bfe6d69ac5031f9c83d32b794</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, October 2 | Time: 6:00pm</description>
+<pubDate>Fri, 02 Oct 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Protecting Veil ft. Cellist Jeanne Jaubert — Studio Saint Philip</title>
-<link>https://www.wwoz.org/events/1392611</link>
-<guid isPermaLink="false">8acaa93749787bc55f9df6fa0fd40a23742fe9ee</guid>
-<description>Venue: Studio Saint Philip | Date: Thursday, October 1 | Time: 7:00pm</description>
-<pubDate>Thu, 01 Oct 2026 19:00:00 +0000</pubDate>
+<title>Gumbo Funk — Three Maries Jazz Club at the Omni Royal Orleans</title>
+<link>https://www.wwoz.org/events/1393136</link>
+<guid isPermaLink="false">5a51486f58fe0b4e8de1e30d08c777ebe621bb47</guid>
+<description>Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Friday, October 2 | Time: 6:00pm</description>
+<pubDate>Fri, 02 Oct 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Kyle Sharamitaro — Three Maries Jazz Club at the Omni Royal Orleans</title>
-<link>https://www.wwoz.org/events/1393116</link>
-<guid isPermaLink="false">5257ae16d7e4f59b943f17c537d67fd9e26bbe8b</guid>
-<description>Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Thursday, October 1 | Time: 7:00pm</description>
-<pubDate>Thu, 01 Oct 2026 19:00:00 +0000</pubDate>
+<title>Anaïs St. John — Three Maries Jazz Club at the Omni Royal Orleans</title>
+<link>https://www.wwoz.org/events/1393146</link>
+<guid isPermaLink="false">0059373eb8a6a5293a4d0f3043cd4729a42c30ba</guid>
+<description>Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Friday, October 2 | Time: 9:00pm</description>
+<pubDate>Fri, 02 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Holy Cross Water Boilers — Three Muses</title>
-<link>https://www.wwoz.org/events/1398891</link>
-<guid isPermaLink="false">83ab760d73f3741a76ee1fc90b5dda5c6e9a74fe</guid>
-<description>Venue: Three Muses | Date: Thursday, October 1 | Time: 7:30pm</description>
-<pubDate>Thu, 01 Oct 2026 19:30:00 +0000</pubDate>
+<title>Jelly Roll Stompers — Three Muses</title>
+<link>https://www.wwoz.org/events/1398896</link>
+<guid isPermaLink="false">6b48ab44323d5c3ed0f6ba8723a37a869dae0a42</guid>
+<description>Venue: Three Muses | Date: Friday, October 2 | Time: 7:30pm</description>
+<pubDate>Fri, 02 Oct 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Mark Barrett &amp; The First Calls — Tropical Isle Bourbon</title>
-<link>https://www.wwoz.org/events/1394456</link>
-<guid isPermaLink="false">1a9abd26c42d83cccc32514701b05cb0ccbbf56f</guid>
-<description>Venue: Tropical Isle Bourbon | Date: Thursday, October 1 | Time: 5:00pm</description>
-<pubDate>Thu, 01 Oct 2026 17:00:00 +0000</pubDate>
+<title>River Eckert Generations of Groove with Special Guests Cyril Nevile, Omari Neville, Dave Malone &amp; More! — Tipitina's</title>
+<link>https://www.wwoz.org/events/1385221</link>
+<guid isPermaLink="false">628586b5b4b633d6f4793dc71109159bdf541d61</guid>
+<description>Venue: Tipitina's | Date: Friday, October 2 | Time: 8:00pm</description>
+<pubDate>Fri, 02 Oct 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Van Ella Bordella: A Storyville Burlesque Musical — Twilight Room at The Allways Lounge</title>
-<link>https://www.wwoz.org/events/1390446</link>
-<guid isPermaLink="false">ca988f5e737fe8cfc2171fff2cb08f049247c146</guid>
-<description>Venue: Twilight Room at The Allways Lounge | Date: Thursday, October 1 | Time: 7:00pm</description>
-<pubDate>Thu, 01 Oct 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Corey Henry &amp; The Treme Funktet — Vaughan's Lounge</title>
-<link>https://www.wwoz.org/events/1354791</link>
-<guid isPermaLink="false">b2a76ebb640dc391f31cdc4f02f2e7ff5e3efd6c</guid>
-<description>Venue: Vaughan's Lounge | Date: Thursday, October 1 | Time: 10:30pm</description>
-<pubDate>Thu, 01 Oct 2026 22:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Scatterjazz Presents: Ars Supernova Trio Reunion ft. Bruce Golden, Jeb Stuart &amp; Evan Gallagher + More! — Zeitgeist Multi-Disciplinary Arts Center</title>
-<link>https://www.wwoz.org/events/1391771</link>
-<guid isPermaLink="false">3a72bf3ff2bb4f63b014e4eab166efdd0a28f45a</guid>
-<description>Venue: Zeitgeist Multi-Disciplinary Arts Center | Date: Thursday, October 1 | Time: 7:00pm</description>
-<pubDate>Thu, 01 Oct 2026 19:00:00 +0000</pubDate>
+<title>Nouvelle Follies: Parisian Glamour Meets Underworld Burlesque — Twilight Room at The Allways Lounge</title>
+<link>https://www.wwoz.org/events/1390556</link>
+<guid isPermaLink="false">8fa2c4906e0aaaaa8e3f2f53561b829fcf8f36a6</guid>
+<description>Venue: Twilight Room at The Allways Lounge | Date: Friday, October 2 | Time: 7:00pm</description>
+<pubDate>Fri, 02 Oct 2026 19:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
