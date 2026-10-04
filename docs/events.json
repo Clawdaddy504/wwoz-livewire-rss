@@ -1,7 +1,7 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-10-04T18:39:16.714010+00:00",
+  "generated_at": "2026-10-04T23:56:50.081914+00:00",
   "count": 69,
   "events": [
     {
@@ -485,6 +485,18 @@
       "description": "Venue: Jazz Playhouse | Date: Sunday, October 4 | Time: 8:30pm"
     },
     {
+      "id": "c621ec36ed99210cd64ff85bea884d7dc4cf8293",
+      "source": "wwoz",
+      "title": "Ragtime on the River ft. Lars Edegran's New Orleans Ragtime Orchestra",
+      "venue": "LSU New Orleans - Performing Arts Center Recital Hall",
+      "venue_url": "https://www.wwoz.org/organizations/lsu-new-orleans-performing-arts-center-recital-hall",
+      "event_url": "https://www.wwoz.org/events/1390966",
+      "date_text": "Sunday, October 4",
+      "time_text": "11:00am",
+      "start": "2026-10-04T11:00:00+00:00",
+      "description": "Venue: LSU New Orleans - Performing Arts Center Recital Hall | Date: Sunday, October 4 | Time: 11:00am"
+    },
+    {
       "id": "4cbb743cbc9b96f7d7215d930ea31a8fb27eee6b",
       "source": "wwoz",
       "title": "Smoking Time Jazz Club",
@@ -819,18 +831,6 @@
       "time_text": "7:30pm",
       "start": "2026-10-04T19:30:00+00:00",
       "description": "Venue: Three Muses | Date: Sunday, October 4 | Time: 7:30pm"
-    },
-    {
-      "id": "9d39ef8fe5791837b1b4c389cb6534327c5f8a9d",
-      "source": "wwoz",
-      "title": "Ragtime on the River ft. Lars Edegran's New Orleans Ragtime Orchestra",
-      "venue": "University of New Orleans - Performing Arts Center Recital Hall",
-      "venue_url": "https://www.wwoz.org/organizations/university-new-orleans-performing-arts-center-recital-hall",
-      "event_url": "https://www.wwoz.org/events/1390966",
-      "date_text": "Sunday, October 4",
-      "time_text": "11:00am",
-      "start": "2026-10-04T11:00:00+00:00",
-      "description": "Venue: University of New Orleans - Performing Arts Center Recital Hall | Date: Sunday, October 4 | Time: 11:00am"
     }
   ]
 }

@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 04 Oct 2026 18:39:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 23:56:50 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>The Funky Soles — 21st Amendment</title>
@@ -288,6 +288,13 @@
 <pubDate>Sun, 04 Oct 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
+<title>Ragtime on the River ft. Lars Edegran's New Orleans Ragtime Orchestra — LSU New Orleans - Performing Arts Center Recital Hall</title>
+<link>https://www.wwoz.org/events/1390966</link>
+<guid isPermaLink="false">c621ec36ed99210cd64ff85bea884d7dc4cf8293</guid>
+<description>Venue: LSU New Orleans - Performing Arts Center Recital Hall | Date: Sunday, October 4 | Time: 11:00am</description>
+<pubDate>Sun, 04 Oct 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Smoking Time Jazz Club — Mahogany Jazz Hall</title>
 <link>https://www.wwoz.org/events/1392731</link>
 <guid isPermaLink="false">4cbb743cbc9b96f7d7215d930ea31a8fb27eee6b</guid>
@@ -482,13 +489,6 @@
 <guid isPermaLink="false">b6a3d18375c15cf5387e4e007ac0dfdfdadf04d5</guid>
 <description>Venue: Three Muses | Date: Sunday, October 4 | Time: 7:30pm</description>
 <pubDate>Sun, 04 Oct 2026 19:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Ragtime on the River ft. Lars Edegran's New Orleans Ragtime Orchestra — University of New Orleans - Performing Arts Center Recital Hall</title>
-<link>https://www.wwoz.org/events/1390966</link>
-<guid isPermaLink="false">9d39ef8fe5791837b1b4c389cb6534327c5f8a9d</guid>
-<description>Venue: University of New Orleans - Performing Arts Center Recital Hall | Date: Sunday, October 4 | Time: 11:00am</description>
-<pubDate>Sun, 04 Oct 2026 11:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
