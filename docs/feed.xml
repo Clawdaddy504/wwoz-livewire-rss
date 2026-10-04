@@ -5,770 +5,490 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 03 Oct 2026 23:47:53 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 05:51:16 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
-<title>David Doucet — .Streaming Only</title>
-<link>https://www.wwoz.org/events/1395921</link>
-<guid isPermaLink="false">61374e26c7fb4440505eba5f139deb466ec289b5</guid>
-<description>Venue: .Streaming Only | Date: Saturday, October 3 | Time: 12:00pm</description>
-<pubDate>Sat, 03 Oct 2026 12:00:00 +0000</pubDate>
+<title>The Funky Soles — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1394031</link>
+<guid isPermaLink="false">5a6406b6a8e6454a94f6781b43b2c5c4f5674c59</guid>
+<description>Venue: 21st Amendment | Date: Sunday, October 4 | Time: 3:00pm</description>
+<pubDate>Sun, 04 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>John Lisi &amp; Delta Funk — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1393986</link>
-<guid isPermaLink="false">51afcac024a0583112dc997a59eb7fab2a0213b0</guid>
-<description>Venue: 21st Amendment | Date: Saturday, October 3 | Time: 3:00pm</description>
-<pubDate>Sat, 03 Oct 2026 15:00:00 +0000</pubDate>
+<title>Chicken Milk — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1394046</link>
+<guid isPermaLink="false">34ff73fabe42b5047a10e4d95a184172ec244950</guid>
+<description>Venue: 21st Amendment | Date: Sunday, October 4 | Time: 8:00pm</description>
+<pubDate>Sun, 04 Oct 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Jelly Roll Stompers — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1394026</link>
-<guid isPermaLink="false">5e66b7e1ae9d04178718b86b8187cbabce78c632</guid>
-<description>Venue: 21st Amendment | Date: Saturday, October 3 | Time: 8:00pm</description>
-<pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
+<title>Jeff Chaz — 30/90</title>
+<link>https://www.wwoz.org/events/1399506</link>
+<guid isPermaLink="false">162d718daddfb379c21e064175971c789ef5e32a</guid>
+<description>Venue: 30/90 | Date: Sunday, October 4 | Time: 3:00pm</description>
+<pubDate>Sun, 04 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sean Hobbes + the Hi Res — 30/90</title>
-<link>https://www.wwoz.org/events/1399476</link>
-<guid isPermaLink="false">5d07591b788c16c1f341a7b2d46691cc4dc8aa9f</guid>
-<description>Venue: 30/90 | Date: Saturday, October 3 | Time: 5:00pm</description>
-<pubDate>Sat, 03 Oct 2026 17:00:00 +0000</pubDate>
+<title>Knee Deep — 30/90</title>
+<link>https://www.wwoz.org/events/1399521</link>
+<guid isPermaLink="false">d40596d14e4c5b4444ff5192c79e2268ba4f73e7</guid>
+<description>Venue: 30/90 | Date: Sunday, October 4 | Time: 6:00pm</description>
+<pubDate>Sun, 04 Oct 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Hotline — 30/90</title>
-<link>https://www.wwoz.org/events/1399486</link>
-<guid isPermaLink="false">68c86d8fcd8fcb648c64b4033a45bebba7b42a4a</guid>
-<description>Venue: 30/90 | Date: Saturday, October 3 | Time: 8:00pm</description>
-<pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
+<title>SingleMaltPlease — 30/90</title>
+<link>https://www.wwoz.org/events/1399526</link>
+<guid isPermaLink="false">032ac35edb7a435e49cda51f9fea170a19947cb0</guid>
+<description>Venue: 30/90 | Date: Sunday, October 4 | Time: 9:00pm</description>
+<pubDate>Sun, 04 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Kazzettes — 30/90</title>
-<link>https://www.wwoz.org/events/1399496</link>
-<guid isPermaLink="false">220a5be11cbeae730e0a2b07a5677e7066eb1663</guid>
-<description>Venue: 30/90 | Date: Saturday, October 3 | Time: 11:00pm</description>
-<pubDate>Sat, 03 Oct 2026 23:00:00 +0000</pubDate>
+<title>Sunday Swing with Slick Skillet Serenaders — AllWays Lounge</title>
+<link>https://www.wwoz.org/events/1394431</link>
+<guid isPermaLink="false">4ebfa9199175ade6e2a2d58d9b52a5bc8c8daf8a</guid>
+<description>Venue: AllWays Lounge | Date: Sunday, October 4 | Time: 8:00pm</description>
+<pubDate>Sun, 04 Oct 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Nosferatu with Brian Haas, James Singleton, Otto Schrang &amp; Rurik Nunan — 100 Men Hall - Bay St. Louis</title>
-<link>https://www.wwoz.org/events/1390051</link>
-<guid isPermaLink="false">671b89c7e498e7e7b1f8656682508341cfe70e29</guid>
-<description>Venue: 100 Men Hall - Bay St. Louis | Date: Saturday, October 3 | Time: 7:00pm</description>
-<pubDate>Sat, 03 Oct 2026 19:00:00 +0000</pubDate>
+<title>Joe Cabral Trio — Atchafalaya</title>
+<link>https://www.wwoz.org/events/1374266</link>
+<guid isPermaLink="false">591b9580e78ea994f5646c1bdbd50464a1da98e2</guid>
+<description>Venue: Atchafalaya | Date: Sunday, October 4 | Time: 10:00am</description>
+<pubDate>Sun, 04 Oct 2026 10:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Miss Angie Z presents The New Orleans High Society : Live Jazz &amp; Burlesque — AllWays Lounge</title>
-<link>https://www.wwoz.org/events/1390596</link>
-<guid isPermaLink="false">f73c4fd0c735ad812c893d80a2dda6e7180d4b8f</guid>
-<description>Venue: AllWays Lounge | Date: Saturday, October 3 | Time: 8:00pm</description>
-<pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
+<title>The James McClaskey Big Band — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1379241</link>
+<guid isPermaLink="false">bb93b35cbca6339bb736238f98fb774c423b9f51</guid>
+<description>Venue: BJ's Lounge | Date: Sunday, October 4 | Time: 9:00pm</description>
+<pubDate>Sun, 04 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Johnny Mastro Blues — Bamboula's</title>
-<link>https://www.wwoz.org/events/1389551</link>
-<guid isPermaLink="false">dfe8b027bfe2729f8567ca8f9b1891bbfab97164</guid>
-<description>Venue: Bamboula's | Date: Saturday, October 3 | Time: 6:30pm</description>
-<pubDate>Sat, 03 Oct 2026 18:30:00 +0000</pubDate>
+<title>The New Orleans Ragtime Festival ft. The Storyville Stringband with Special Guest Tom Fischer — Blue Crawfish, The</title>
+<link>https://www.wwoz.org/events/1397586</link>
+<guid isPermaLink="false">ab2a8ea1c9e96aff35f41d8ab3739f1cfbe4a379</guid>
+<description>Venue: Blue Crawfish, The | Date: Sunday, October 4 | Time: 5:30pm</description>
+<pubDate>Sun, 04 Oct 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Gold Connections &amp; Friends — Banks Street Bar</title>
-<link>https://www.wwoz.org/events/1373981</link>
-<guid isPermaLink="false">a982a4d27919eeb696c1927225e12fb3632c997b</guid>
-<description>Venue: Banks Street Bar | Date: Saturday, October 3 | Time: 9:00pm</description>
-<pubDate>Sat, 03 Oct 2026 21:00:00 +0000</pubDate>
+<title>Juice presents Sypher Sundays — Blue Nile</title>
+<link>https://www.wwoz.org/events/1394681</link>
+<guid isPermaLink="false">1df74f477c64a876a969fccaf97f10fb5688faec</guid>
+<description>Venue: Blue Nile | Date: Sunday, October 4 | Time: 9:00pm</description>
+<pubDate>Sun, 04 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jordan Anderson — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1394176</link>
-<guid isPermaLink="false">a4b8f0c8c83d9fd04fe288615d168a2827bc6734</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Saturday, October 3 | Time: 8:00pm</description>
-<pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
+<title>Street Legends Brass Band — Blue Nile</title>
+<link>https://www.wwoz.org/events/1394701</link>
+<guid isPermaLink="false">a04066042edf896f4faf474a7f3e48fb84912200</guid>
+<description>Venue: Blue Nile | Date: Sunday, October 4 | Time: 10:30pm</description>
+<pubDate>Sun, 04 Oct 2026 22:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Jordan Anderson — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1394201</link>
-<guid isPermaLink="false">f9d0a81f51e8b5aa76d8269dedc43555b8c85213</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Saturday, October 3 | Time: 10:00pm</description>
-<pubDate>Sat, 03 Oct 2026 22:00:00 +0000</pubDate>
+<title>Deej FK &amp; Mother Ruckus — BMC</title>
+<link>https://www.wwoz.org/events/1396176</link>
+<guid isPermaLink="false">88375fdc0c5e7035c990fa43e142003f31d9faf0</guid>
+<description>Venue: BMC | Date: Sunday, October 4 | Time: 3:00pm</description>
+<pubDate>Sun, 04 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Desert Nudes + Sarah Quintana — BJ's Lounge</title>
-<link>https://www.wwoz.org/events/1379236</link>
-<guid isPermaLink="false">5baed717042e6a09df8577cb5f33d5165cffc48e</guid>
-<description>Venue: BJ's Lounge | Date: Saturday, October 3 | Time: 9:00pm</description>
-<pubDate>Sat, 03 Oct 2026 21:00:00 +0000</pubDate>
+<title>JAM Brass Band — BMC</title>
+<link>https://www.wwoz.org/events/1396201</link>
+<guid isPermaLink="false">eb8eeee3912704391bf74e50539ee0bf747417bd</guid>
+<description>Venue: BMC | Date: Sunday, October 4 | Time: 6:00pm</description>
+<pubDate>Sun, 04 Oct 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Big Sam &amp; Friends with Special Guest Dave Lemon — Blue Nile</title>
-<link>https://www.wwoz.org/events/1374216</link>
-<guid isPermaLink="false">fe4cceb71af0efae813f7051a4b2aeee4988dcd1</guid>
-<description>Venue: Blue Nile | Date: Saturday, October 3 | Time: 8:00pm</description>
-<pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
+<title>Armani Smith — BMC</title>
+<link>https://www.wwoz.org/events/1396221</link>
+<guid isPermaLink="false">4eb2469c0f91c6523f3c0977071248b7533f121d</guid>
+<description>Venue: BMC | Date: Sunday, October 4 | Time: 9:00pm</description>
+<pubDate>Sun, 04 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Afrobeat NOLA — Blue Nile</title>
-<link>https://www.wwoz.org/events/1394656</link>
-<guid isPermaLink="false">c839651283db2f057efe3d203ecdd2abde9a3e69</guid>
-<description>Venue: Blue Nile | Date: Saturday, October 3 | Time: 10:00pm</description>
-<pubDate>Sat, 03 Oct 2026 22:00:00 +0000</pubDate>
+<title>Davis Rogan — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1399361</link>
+<guid isPermaLink="false">588d626f280d33d7c8ad32d4113b7238ea1e3b53</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Sunday, October 4 | Time: 4:00pm</description>
+<pubDate>Sun, 04 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Next Level Band ft. Marc Damien + Sunni Patterson — Blue Nile - Balcony Room</title>
-<link>https://www.wwoz.org/events/1374226</link>
-<guid isPermaLink="false">84131bd395c2c4c72298b265518e582ecc056119</guid>
-<description>Venue: Blue Nile - Balcony Room | Date: Saturday, October 3 | Time: 10:00pm</description>
-<pubDate>Sat, 03 Oct 2026 22:00:00 +0000</pubDate>
+<title>Justin Donovan — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1399341</link>
+<guid isPermaLink="false">798efa92a27078bdc16fb352b8c37a62b954558a</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Sunday, October 4 | Time: 8:00pm</description>
+<pubDate>Sun, 04 Oct 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Ted Hefko — B Mac's (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1394971</link>
-<guid isPermaLink="false">77eaafe2fe3319a145baf718c90934e0383f7e89</guid>
-<description>Venue: B Mac's (OUTDOORS) | Date: Saturday, October 3 | Time: 7:00pm</description>
-<pubDate>Sat, 03 Oct 2026 19:00:00 +0000</pubDate>
+<title>Traditional Jazz Brunch with Some Like It Hot! — Buffa's</title>
+<link>https://www.wwoz.org/events/1398651</link>
+<guid isPermaLink="false">f549a55a0ba0079f3a1d31c0ddff3e67677b31a5</guid>
+<description>Venue: Buffa's | Date: Sunday, October 4 | Time: 11:00am</description>
+<pubDate>Sun, 04 Oct 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Parish Line — BMC</title>
-<link>https://www.wwoz.org/events/1396171</link>
-<guid isPermaLink="false">d604fd7cbcf0ce2e4f8599ce357823b09067b273</guid>
-<description>Venue: BMC | Date: Saturday, October 3 | Time: 3:00pm</description>
-<pubDate>Sat, 03 Oct 2026 15:00:00 +0000</pubDate>
+<title>Charlie Wooton — Buffa's</title>
+<link>https://www.wwoz.org/events/1398671</link>
+<guid isPermaLink="false">7ada6df69257ed3cc87cc955a57c600f7cd260db</guid>
+<description>Venue: Buffa's | Date: Sunday, October 4 | Time: 7:00pm</description>
+<pubDate>Sun, 04 Oct 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Josh Benitez Band — BMC</title>
-<link>https://www.wwoz.org/events/1398596</link>
-<guid isPermaLink="false">653d0f7d292b05b6fc756f540bf117cd2f234a1e</guid>
-<description>Venue: BMC | Date: Saturday, October 3 | Time: 6:00pm</description>
-<pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
+<title>Wessell "Warmdaddy"Anderson Quintet — Bywater Bakery (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1381871</link>
+<guid isPermaLink="false">663813f5b911fd02ca2945fc313c460dc578d284</guid>
+<description>Venue: Bywater Bakery (OUTDOORS) | Date: Sunday, October 4 | Time: 11:00am</description>
+<pubDate>Sun, 04 Oct 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Andre Lovett Band — BMC</title>
-<link>https://www.wwoz.org/events/1396161</link>
-<guid isPermaLink="false">e89e74866f92040cf895d1933f65b0f2c302a2c2</guid>
-<description>Venue: BMC | Date: Saturday, October 3 | Time: 9:00pm</description>
-<pubDate>Sat, 03 Oct 2026 21:00:00 +0000</pubDate>
+<title>Aurora Nealand Supper Club Show — Bywater Bakery (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1381876</link>
+<guid isPermaLink="false">73cd38b12c7acb2263feb468ece53313ae4c0c21</guid>
+<description>Venue: Bywater Bakery (OUTDOORS) | Date: Sunday, October 4 | Time: 7:00pm</description>
+<pubDate>Sun, 04 Oct 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Brian Wingard — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1399336</link>
-<guid isPermaLink="false">db4c77ae62bc9d4d20b02ff9d9bb422b90932f94</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Saturday, October 3 | Time: 4:00pm</description>
-<pubDate>Sat, 03 Oct 2026 16:00:00 +0000</pubDate>
+<title>Malabar ft. James Singleton with Ashlar Evans, Johnny Vidacovich &amp; More! — Café Istanbul</title>
+<link>https://www.wwoz.org/events/1373786</link>
+<guid isPermaLink="false">b8ebdb41d8267299dc9391900627281235e5f176</guid>
+<description>Venue: Café Istanbul | Date: Sunday, October 4 | Time: 8:00pm</description>
+<pubDate>Sun, 04 Oct 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Blues Masters — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1399281</link>
-<guid isPermaLink="false">3f4e5f8ed6de3dcefcf69b511f9b8eec604265a0</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Saturday, October 3 | Time: 8:00pm</description>
-<pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
+<title>The Rumpshakers — Café Negril</title>
+<link>https://www.wwoz.org/events/1397611</link>
+<guid isPermaLink="false">e79159bf297895e039764f06a710f9217aeafe72</guid>
+<description>Venue: Café Negril | Date: Sunday, October 4 | Time: 1:00pm</description>
+<pubDate>Sun, 04 Oct 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>DJ Carol C with Special Guest Gitkin — Breezy's Courtyard Bar at Gasa Gasa (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1374336</link>
-<guid isPermaLink="false">25dbb4052a036637564b71de5b91b8d1345d0292</guid>
-<description>Venue: Breezy's Courtyard Bar at Gasa Gasa (OUTDOORS) | Date: Saturday, October 3 | Time: 6:00pm</description>
-<pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
+<title>John Lisi &amp; Delta Funk — Café Negril</title>
+<link>https://www.wwoz.org/events/1397616</link>
+<guid isPermaLink="false">ffbbc6c6798ab20fb2b832213939a9044ed54fb3</guid>
+<description>Venue: Café Negril | Date: Sunday, October 4 | Time: 5:00pm</description>
+<pubDate>Sun, 04 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Asylum Chorus — Buffa's</title>
-<link>https://www.wwoz.org/events/1398646</link>
-<guid isPermaLink="false">bf51c33fefe51fbc8376e8ed5118d99968b484d1</guid>
-<description>Venue: Buffa's | Date: Saturday, October 3 | Time: 8:00pm</description>
-<pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
+<title>Big Mike &amp; The R&amp;B Kings — Café Negril</title>
+<link>https://www.wwoz.org/events/1385186</link>
+<guid isPermaLink="false">60ce137eb5d158984734f6e8231c5cfd6cdbbd44</guid>
+<description>Venue: Café Negril | Date: Sunday, October 4 | Time: 9:00pm</description>
+<pubDate>Sun, 04 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Orlando Gilbert &amp; the Youngbloods — Bywater Bakery (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1373796</link>
-<guid isPermaLink="false">3e70dce9e837b9e11d2201323357f610b155a5ca</guid>
-<description>Venue: Bywater Bakery (OUTDOORS) | Date: Saturday, October 3 | Time: 11:00am</description>
-<pubDate>Sat, 03 Oct 2026 11:00:00 +0000</pubDate>
+<title>Thaiboy Digital — Civic Theatre</title>
+<link>https://www.wwoz.org/events/1388776</link>
+<guid isPermaLink="false">bd0a5e3f3ea946e4ab0f3906e2fb6b67c22513f8</guid>
+<description>Venue: Civic Theatre | Date: Sunday, October 4 | Time: 8:00pm</description>
+<pubDate>Sun, 04 Oct 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Bob Macy — Café Beignet on Royal</title>
-<link>https://www.wwoz.org/events/1390791</link>
-<guid isPermaLink="false">1acd86f8ebb16e314c58db3322d4a11ecb243394</guid>
-<description>Venue: Café Beignet on Royal | Date: Saturday, October 3 | Time: 4:00pm</description>
-<pubDate>Sat, 03 Oct 2026 16:00:00 +0000</pubDate>
+<title>Kickback with Yonce — Club Switch</title>
+<link>https://www.wwoz.org/events/1374281</link>
+<guid isPermaLink="false">2c34face4d662051d1022d1a386e4a131d01c345</guid>
+<description>Venue: Club Switch | Date: Sunday, October 4 | Time: 6:00pm</description>
+<pubDate>Sun, 04 Oct 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Naydja CoJoe &amp; the Lagniappe Section Band — Café Istanbul</title>
-<link>https://www.wwoz.org/events/1373776</link>
-<guid isPermaLink="false">c8dd2388aa39f039309a3a9d6495b53acfe03110</guid>
-<description>Venue: Café Istanbul | Date: Saturday, October 3 | Time: 8:00pm</description>
-<pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
+<title>Havana on the Avenue Annual Cuban Pig Roast ft. Alexey Martí &amp; Afrogumbo — Columns Hotel</title>
+<link>https://www.wwoz.org/events/1374041</link>
+<guid isPermaLink="false">6414b14eb79af67d76e8be5b832a44c06f441d7a</guid>
+<description>Venue: Columns Hotel | Date: Sunday, October 4 | Time: 5:00pm</description>
+<pubDate>Sun, 04 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sugar &amp; the Daddies — Café Negril</title>
-<link>https://www.wwoz.org/events/1396316</link>
-<guid isPermaLink="false">81f20ae2c065bd5af295258869ea91f1c1287372</guid>
-<description>Venue: Café Negril | Date: Saturday, October 3 | Time: 1:30pm</description>
-<pubDate>Sat, 03 Oct 2026 13:30:00 +0000</pubDate>
-</item>
-<item>
-<title>The Gabe Stillman Band — Café Negril</title>
-<link>https://www.wwoz.org/events/1397601</link>
-<guid isPermaLink="false">a079d685e7b1e69b3a45f484f7df7cf186451971</guid>
-<description>Venue: Café Negril | Date: Saturday, October 3 | Time: 6:00pm</description>
-<pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Zena Moses &amp; Rue Fiya — Café Negril</title>
-<link>https://www.wwoz.org/events/1397606</link>
-<guid isPermaLink="false">39a37989ff0a7217bb43f5a7eb74987bfb50333a</guid>
-<description>Venue: Café Negril | Date: Saturday, October 3 | Time: 10:00pm</description>
-<pubDate>Sat, 03 Oct 2026 22:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Alexis &amp; The Sanity + Aurora Nealand's Micro-Monocole — Carrollton Station</title>
-<link>https://www.wwoz.org/events/1373821</link>
-<guid isPermaLink="false">683f9a64a081aa2445f884becc33fdcf49dc6213</guid>
-<description>Venue: Carrollton Station | Date: Saturday, October 3 | Time: 9:00pm</description>
-<pubDate>Sat, 03 Oct 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Dana &amp; Alden + Ania Hoo — Chickie Wah Wah</title>
-<link>https://www.wwoz.org/events/1356776</link>
-<guid isPermaLink="false">ece7bee913a5e0bdd1d55f2b264db1bea77bd409</guid>
-<description>Venue: Chickie Wah Wah | Date: Saturday, October 3 | Time: 9:00pm</description>
-<pubDate>Sat, 03 Oct 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Fall Garden Festival with Live Music — City Park - Botanical Garden (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1392496</link>
-<guid isPermaLink="false">95b2278b836660dc0203cd76e89fcf420a0d70b7</guid>
-<description>Venue: City Park - Botanical Garden (OUTDOORS) | Date: Saturday, October 3 | Time: 9:00am</description>
-<pubDate>Sat, 03 Oct 2026 09:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Shakedown ft. Sissy Nobby, Joe Jackson &amp; DJ Lil Man — Club Switch</title>
-<link>https://www.wwoz.org/events/1393421</link>
-<guid isPermaLink="false">6889715dc75aca09c8da414c41fbf63275837669</guid>
-<description>Venue: Club Switch | Date: Saturday, October 3 | Time: 9:00pm</description>
-<pubDate>Sat, 03 Oct 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Gene’s Mini Music Machine — Crescent City Brewhouse</title>
-<link>https://www.wwoz.org/events/1395771</link>
-<guid isPermaLink="false">a1ac7a633e41e876b2f840036a20b42fbe849bb8</guid>
-<description>Venue: Crescent City Brewhouse | Date: Saturday, October 3 | Time: 12:00pm</description>
-<pubDate>Sat, 03 Oct 2026 12:00:00 +0000</pubDate>
+<title>Ted Hefko Birthday Celebration with Special Guests — Constantinople Stage (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1371651</link>
+<guid isPermaLink="false">0353af27f7df641365d8cbd8017403a2ad8a07a4</guid>
+<description>Venue: Constantinople Stage (OUTDOORS) | Date: Sunday, October 4 | Time: 5:00pm</description>
+<pubDate>Sun, 04 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
 <title>The Andrew Salow Jazz Quartet — Crescent City Brewhouse</title>
-<link>https://www.wwoz.org/events/1395811</link>
-<guid isPermaLink="false">508555318aad9dd7d07a32b65a618a900e85e843</guid>
-<description>Venue: Crescent City Brewhouse | Date: Saturday, October 3 | Time: 6:00pm</description>
-<pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1395831</link>
+<guid isPermaLink="false">4082059ea63eca34956e94ef82b99748292390f9</guid>
+<description>Venue: Crescent City Brewhouse | Date: Sunday, October 4 | Time: 12:00pm</description>
+<pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Young Lion Showcase — d.b.a.</title>
-<link>https://www.wwoz.org/events/1393051</link>
-<guid isPermaLink="false">d780cb0fb3c6b0b992b57e54dd92f4ebc9bc0b6c</guid>
-<description>Venue: d.b.a. | Date: Saturday, October 3 | Time: 2:30pm</description>
-<pubDate>Sat, 03 Oct 2026 14:30:00 +0000</pubDate>
+<title>The Anna Helms Jazz Trio — Crescent City Brewhouse</title>
+<link>https://www.wwoz.org/events/1395836</link>
+<guid isPermaLink="false">3ca036ab0c37fd095bc4da660a29a6e2c1bf587a</guid>
+<description>Venue: Crescent City Brewhouse | Date: Sunday, October 4 | Time: 6:00pm</description>
+<pubDate>Sun, 04 Oct 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Free P.O.C. ft. Deuce Brown, Kid Chocolate &amp; Deacon John — d.b.a.</title>
-<link>https://www.wwoz.org/events/1393506</link>
-<guid isPermaLink="false">77d8b0291d222f469d39daa13b921aca68de063a</guid>
-<description>Venue: d.b.a. | Date: Saturday, October 3 | Time: 6:00pm</description>
-<pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
+<title>Peter Piper &amp; Pickled Peppers — Favela Chic</title>
+<link>https://www.wwoz.org/events/1399096</link>
+<guid isPermaLink="false">889e984df2eb1893fa2f462c5ea407f2de54a666</guid>
+<description>Venue: Favela Chic | Date: Sunday, October 4 | Time: 7:00pm</description>
+<pubDate>Sun, 04 Oct 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dopsie x Dopsie : Dwayne Dopsie + Rockin’ Dopsie Jr. — d.b.a.</title>
-<link>https://www.wwoz.org/events/1378066</link>
-<guid isPermaLink="false">f90fe83ad1a326b0ee7c3e4baffe898e0f4207a0</guid>
-<description>Venue: d.b.a. | Date: Saturday, October 3 | Time: 10:00pm</description>
-<pubDate>Sat, 03 Oct 2026 22:00:00 +0000</pubDate>
+<title>T Marie &amp; Bayou Juju — Fred's on the River - Prairieville</title>
+<link>https://www.wwoz.org/events/1373661</link>
+<guid isPermaLink="false">b9591929902052b59fac105afbd75352ed2cecab</guid>
+<description>Venue: Fred's on the River - Prairieville | Date: Sunday, October 4 | Time: 3:00pm</description>
+<pubDate>Sun, 04 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jeremy Davenport — Davenport Lounge at The Ritz-Carlton</title>
-<link>https://www.wwoz.org/events/1387381</link>
-<guid isPermaLink="false">d47395d8a3845b4065020d510e23fdd2ee948455</guid>
-<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Saturday, October 3 | Time: 8:00pm</description>
-<pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
+<title>Marty Peters &amp; The Party Meters — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1395006</link>
+<guid isPermaLink="false">bb2cfae46ef1d4108463de523b0e0b37a275a955</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Sunday, October 4 | Time: 1:00pm</description>
+<pubDate>Sun, 04 Oct 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Blues, Brews &amp; BBQ ft. T Marie’s Louisiana Blues, Audrey LeCrone + More! — Docville Farm</title>
-<link>https://www.wwoz.org/events/1373666</link>
-<guid isPermaLink="false">23cec3cc50cd478b25ffca22ae1e6e4ad70b7b47</guid>
-<description>Venue: Docville Farm | Date: Saturday, October 3 | Time: 12:00pm</description>
-<pubDate>Sat, 03 Oct 2026 12:00:00 +0000</pubDate>
+<title>Sazerac Jazz Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1395016</link>
+<guid isPermaLink="false">18536f14ceb0bece1d56618284b153365b68b6ad</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Sunday, October 4 | Time: 5:00pm</description>
+<pubDate>Sun, 04 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dead Men Don't Play Jazz — Favela Chic</title>
-<link>https://www.wwoz.org/events/1394886</link>
-<guid isPermaLink="false">50a200f4e5468eb39d19fb932a53c0dcf0ee5912</guid>
-<description>Venue: Favela Chic | Date: Saturday, October 3 | Time: 4:00pm</description>
-<pubDate>Sat, 03 Oct 2026 16:00:00 +0000</pubDate>
+<title>Fritzel's All Star Band with Mike Fulton — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1395051</link>
+<guid isPermaLink="false">d3d27bc85fcb9ea16bbb1ccb33c7d637b8748689</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Sunday, October 4 | Time: 8:00pm</description>
+<pubDate>Sun, 04 Oct 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sean Hobbes &amp; The Hi Res — Favela Chic</title>
-<link>https://www.wwoz.org/events/1399091</link>
-<guid isPermaLink="false">5fda0aa8471dbbe47b02fde0f342ef76ebc1d4fd</guid>
-<description>Venue: Favela Chic | Date: Saturday, October 3 | Time: 10:00pm</description>
-<pubDate>Sat, 03 Oct 2026 22:00:00 +0000</pubDate>
+<title>Schooled with Soul Sister: Deep Dive into Parliament-Funkadelic &amp; the Mothership — Gasa Gasa</title>
+<link>https://www.wwoz.org/events/1379201</link>
+<guid isPermaLink="false">028cdee816e991a48bd2980d52791c122e61724a</guid>
+<description>Venue: Gasa Gasa | Date: Sunday, October 4 | Time: 6:00pm</description>
+<pubDate>Sun, 04 Oct 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Manuel Arteaga &amp; Lunch Truck Specials — French Market (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1389706</link>
-<guid isPermaLink="false">274f5dffb5c3a7f9322b0b28add157c3f922c502</guid>
-<description>Venue: French Market (OUTDOORS) | Date: Saturday, October 3 | Time: 1:00pm</description>
-<pubDate>Sat, 03 Oct 2026 13:00:00 +0000</pubDate>
+<title>Matt Chamberlain &amp; Brian Haas — Gasa Gasa</title>
+<link>https://www.wwoz.org/events/1396516</link>
+<guid isPermaLink="false">40ae57c1869e9a7e15cbf1f834eca5d71756fbdd</guid>
+<description>Venue: Gasa Gasa | Date: Sunday, October 4 | Time: 8:30pm</description>
+<pubDate>Sun, 04 Oct 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Or Shovaly Plus — Freret Market (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1386286</link>
-<guid isPermaLink="false">398fff110c700a5ce129c19ecc6efe0b9fcb52d3</guid>
-<description>Venue: Freret Market (OUTDOORS) | Date: Saturday, October 3 | Time: 2:00pm</description>
-<pubDate>Sat, 03 Oct 2026 14:00:00 +0000</pubDate>
+<title>Mystery Flicks + Turbine 6 + Green Mantles — Holy Diver</title>
+<link>https://www.wwoz.org/events/1384196</link>
+<guid isPermaLink="false">c8a22926bf6e42414469f16071545a6a06915fc5</guid>
+<description>Venue: Holy Diver | Date: Sunday, October 4 | Time: 10:00pm</description>
+<pubDate>Sun, 04 Oct 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Steve DeTroy Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1395391</link>
-<guid isPermaLink="false">6f2bba1f7ad4122910b9a02a78161b868e036e29</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Saturday, October 3 | Time: 1:00pm</description>
-<pubDate>Sat, 03 Oct 2026 13:00:00 +0000</pubDate>
+<title>Hot 8 Brass Band — Howlin' Wolf</title>
+<link>https://www.wwoz.org/events/1389151</link>
+<guid isPermaLink="false">f5f1f9d20768c84a69e138de4c4f441f1f4f2bb8</guid>
+<description>Venue: Howlin' Wolf | Date: Sunday, October 4 | Time: 10:30pm</description>
+<pubDate>Sun, 04 Oct 2026 22:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Bourbon Matinee Jazz Band with Chuck Brackman — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1395386</link>
-<guid isPermaLink="false">f4f9f3c5863c31f82cae94f4504c6239e8ed79e0</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Saturday, October 3 | Time: 5:00pm</description>
-<pubDate>Sat, 03 Oct 2026 17:00:00 +0000</pubDate>
+<title>Richard Scott &amp; the Twisty River Band — Jazz Playhouse</title>
+<link>https://www.wwoz.org/events/1393416</link>
+<guid isPermaLink="false">6c285f5f21d41ad0eff95fcf515ab8163ca1ebe7</guid>
+<description>Venue: Jazz Playhouse | Date: Sunday, October 4 | Time: 8:30pm</description>
+<pubDate>Sun, 04 Oct 2026 20:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Fritzel's All Star Band with Jamil Sharif — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1395351</link>
-<guid isPermaLink="false">454f2de24bab7014e39f627ec5662cb89c2d315d</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Saturday, October 3 | Time: 9:00pm</description>
-<pubDate>Sat, 03 Oct 2026 21:00:00 +0000</pubDate>
+<title>Smoking Time Jazz Club — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1392731</link>
+<guid isPermaLink="false">4cbb743cbc9b96f7d7215d930ea31a8fb27eee6b</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Sunday, October 4 | Time: 2:30pm</description>
+<pubDate>Sun, 04 Oct 2026 14:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Flip Fitch + Theft + Donny's Demeanor + Weird 1000 — Gasa Gasa</title>
-<link>https://www.wwoz.org/events/1374236</link>
-<guid isPermaLink="false">3f2b9cd0d992771cc80b0ce18bec235d1c6e23e3</guid>
-<description>Venue: Gasa Gasa | Date: Saturday, October 3 | Time: 9:00pm</description>
-<pubDate>Sat, 03 Oct 2026 21:00:00 +0000</pubDate>
+<title>Big Joe Kennedy — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1392751</link>
+<guid isPermaLink="false">69e201719ac20497b66973a37a0c241d1330ddc5</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Sunday, October 4 | Time: 6:00pm</description>
+<pubDate>Sun, 04 Oct 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jazz &amp; Heritage Concert Series ft. Conjunto Tierra Linda — George &amp; Joyce Wein Jazz &amp; Heritage Center</title>
-<link>https://www.wwoz.org/events/1393351</link>
-<guid isPermaLink="false">764553714c5c38b77f1d1aa04555c72e0236dda2</guid>
-<description>Venue: George &amp; Joyce Wein Jazz &amp; Heritage Center | Date: Saturday, October 3 | Time: 8:00pm</description>
-<pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
+<title>Mahogany Hall Swingsters ft. Roderick Paulin — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1392791</link>
+<guid isPermaLink="false">c22673ae1efa4c2146b078ddb6bbd54b4118964d</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Sunday, October 4 | Time: 8:00pm</description>
+<pubDate>Sun, 04 Oct 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Big Playback ft. Soul Brass Band &amp; Raj Smoove — Good Measure at The Barnett</title>
-<link>https://www.wwoz.org/events/1389826</link>
-<guid isPermaLink="false">9d9552bfebd217320bfda6717f401d23506450c7</guid>
-<description>Venue: Good Measure at The Barnett | Date: Saturday, October 3 | Time: 8:00pm</description>
-<pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
+<title>Eight Dice Cloth — Maison, The</title>
+<link>https://www.wwoz.org/events/1398101</link>
+<guid isPermaLink="false">104e9cf847e203817c1804b911fe646971785d48</guid>
+<description>Venue: Maison, The | Date: Sunday, October 4 | Time: 3:00pm</description>
+<pubDate>Sun, 04 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Grand Reopening: DJ Raj Smoove — Hi Ho Lounge</title>
-<link>https://www.wwoz.org/events/1398861</link>
-<guid isPermaLink="false">4cf54a30c885f2eea8bbee190e8a771d9d082e5b</guid>
-<description>Venue: Hi Ho Lounge | Date: Saturday, October 3 | Time: 11:00pm</description>
-<pubDate>Sat, 03 Oct 2026 23:00:00 +0000</pubDate>
+<title>Jenavieve &amp; The Winding Boys — Maison, The</title>
+<link>https://www.wwoz.org/events/1398111</link>
+<guid isPermaLink="false">7ceb08d00f839f611bc529a5e773693ffafc54ac</guid>
+<description>Venue: Maison, The | Date: Sunday, October 4 | Time: 6:00pm</description>
+<pubDate>Sun, 04 Oct 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Noctambulant + Formulus + Abysm + Pyralis — Holy Diver</title>
-<link>https://www.wwoz.org/events/1374136</link>
-<guid isPermaLink="false">e9f9e1ad300dbda177fc09946770ccbc2f0d4d85</guid>
-<description>Venue: Holy Diver | Date: Saturday, October 3 | Time: 9:00pm</description>
-<pubDate>Sat, 03 Oct 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Krewe du Kraven Presents Otherworlder's Ball — House of Blues</title>
-<link>https://www.wwoz.org/events/1343711</link>
-<guid isPermaLink="false">51a38f950058efc3d378dcf143984b07dd78a20f</guid>
-<description>Venue: House of Blues | Date: Saturday, October 3 | Time: 8:00pm</description>
-<pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Arsène DeLay — Howlin' Wolf</title>
-<link>https://www.wwoz.org/events/1398586</link>
-<guid isPermaLink="false">d8771368dd116be44b8875cd55ec3053c1608f62</guid>
-<description>Venue: Howlin' Wolf | Date: Saturday, October 3 | Time: 5:00pm</description>
-<pubDate>Sat, 03 Oct 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Tand the Band — Howlin' Wolf - The Den</title>
-<link>https://www.wwoz.org/events/1373921</link>
-<guid isPermaLink="false">444db86bfee62d4725e62eeb37825f17b3d86a77</guid>
-<description>Venue: Howlin' Wolf - The Den | Date: Saturday, October 3 | Time: 9:00pm</description>
-<pubDate>Sat, 03 Oct 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>The Nayo Jones Experience — Jazz Playhouse</title>
-<link>https://www.wwoz.org/events/1377501</link>
-<guid isPermaLink="false">325691eb65fc54baa3cdb2871c5b0100d0567aa1</guid>
-<description>Venue: Jazz Playhouse | Date: Saturday, October 3 | Time: 8:00pm</description>
-<pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>The Nayo Jones Experience — Jazz Playhouse</title>
-<link>https://www.wwoz.org/events/1377496</link>
-<guid isPermaLink="false">2b554825bb0413dfeadde6d05acf7530d8eadd97</guid>
-<description>Venue: Jazz Playhouse | Date: Saturday, October 3 | Time: 9:30pm</description>
-<pubDate>Sat, 03 Oct 2026 21:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Kermit Ruffins &amp; The BBQ Swingers — Kermit's Tremé Mother-in-Law Lounge</title>
-<link>https://www.wwoz.org/events/1385866</link>
-<guid isPermaLink="false">0208e54f031b64c9eb4b64c415734352b008e91f</guid>
-<description>Venue: Kermit's Tremé Mother-in-Law Lounge | Date: Saturday, October 3 | Time: 6:00pm</description>
-<pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Mullitt — Kingpin</title>
-<link>https://www.wwoz.org/events/1393621</link>
-<guid isPermaLink="false">9a7b9f259ebf76a52715c33b77fbf48fb442c326</guid>
-<description>Venue: Kingpin | Date: Saturday, October 3 | Time: 4:00pm</description>
-<pubDate>Sat, 03 Oct 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>NOLAxNOLA JAM-OLA ft. Steve Kelly, Isaac Eady, Alfred Jordan &amp; More! — Le Bon Temps Roulé</title>
-<link>https://www.wwoz.org/events/1378866</link>
-<guid isPermaLink="false">dd62c6daad6461d767ce1ea6ea1f7b8e0833e131</guid>
-<description>Venue: Le Bon Temps Roulé | Date: Saturday, October 3 | Time: 11:00pm</description>
-<pubDate>Sat, 03 Oct 2026 23:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Family Folklife Day ft. T Marie &amp; Bayou Juju — Louisiana Children’s Museum</title>
-<link>https://www.wwoz.org/events/1384386</link>
-<guid isPermaLink="false">7574de07e81a5d89d20397a1fe42fe308756ab50</guid>
-<description>Venue: Louisiana Children’s Museum | Date: Saturday, October 3 | Time: 9:30am</description>
-<pubDate>Sat, 03 Oct 2026 09:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Stephen Walker N'em — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1392951</link>
-<guid isPermaLink="false">e03c32932b902f655148958bd0fb63119419a917</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Saturday, October 3 | Time: 3:00pm</description>
-<pubDate>Sat, 03 Oct 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Gerald French Trio — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1393001</link>
-<guid isPermaLink="false">24c2a0c2377ce9e4ab0a2c9ddfe2d5a72f9b9088</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Saturday, October 3 | Time: 7:00pm</description>
-<pubDate>Sat, 03 Oct 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Mahogany Hall Jazz Band ft. Kid Chocolate with Midnight Burlesque Pop Up by Trixie Minx — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1392706</link>
-<guid isPermaLink="false">c7900f0c16a776c6bca3b68c2551e5fe5383e1f3</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Saturday, October 3 | Time: 9:30pm</description>
-<pubDate>Sat, 03 Oct 2026 21:30:00 +0000</pubDate>
-</item>
-<item>
-<title>NOLA Axe Men — Maison, The</title>
-<link>https://www.wwoz.org/events/1398026</link>
-<guid isPermaLink="false">311c1c526435fd1d9b44fa2df74f064932b51cd8</guid>
-<description>Venue: Maison, The | Date: Saturday, October 3 | Time: 1:00pm</description>
-<pubDate>Sat, 03 Oct 2026 13:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Smoking TIme Jazz Band — Maison, The</title>
-<link>https://www.wwoz.org/events/1398036</link>
-<guid isPermaLink="false">4eff5e4de50cbef014f7277a3aea187d40f50afa</guid>
-<description>Venue: Maison, The | Date: Saturday, October 3 | Time: 4:00pm</description>
-<pubDate>Sat, 03 Oct 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>The Kazzettes — Maison, The</title>
-<link>https://www.wwoz.org/events/1398066</link>
-<guid isPermaLink="false">6ca6cd0f7718bcb084751b12f16b44601b907f0e</guid>
-<description>Venue: Maison, The | Date: Saturday, October 3 | Time: 8:00pm</description>
-<pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>DJ KVng Fred — Maison, The</title>
-<link>https://www.wwoz.org/events/1398091</link>
-<guid isPermaLink="false">a1b907ff9d482593ba24951cc3b27e3c90606a4c</guid>
-<description>Venue: Maison, The | Date: Saturday, October 3 | Time: 11:00pm</description>
-<pubDate>Sat, 03 Oct 2026 23:00:00 +0000</pubDate>
+<title>Kortana — Maison, The</title>
+<link>https://www.wwoz.org/events/1398126</link>
+<guid isPermaLink="false">578925ec2d97abc604adfd2262be0d89b13f49fb</guid>
+<description>Venue: Maison, The | Date: Sunday, October 4 | Time: 9:00pm</description>
+<pubDate>Sun, 04 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>The Leroy Marshall Band — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1397006</link>
-<guid isPermaLink="false">4c0d24e4b6b2557c66391df5093149004e2e1e73</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Saturday, October 3 | Time: 3:15pm</description>
-<pubDate>Sat, 03 Oct 2026 15:15:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1397031</link>
+<guid isPermaLink="false">b3692c1acc86ed055cf4cc9285e5cfaac4528211</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Sunday, October 4 | Time: 7:15pm</description>
+<pubDate>Sun, 04 Oct 2026 19:15:00 +0000</pubDate>
 </item>
 <item>
-<title>Danny Rubio &amp; the Catahoula Music Company ft. Jeff Kreis — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1389386</link>
-<guid isPermaLink="false">d7584c63e22ef210e524c4d4a3583d31268d8423</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Saturday, October 3 | Time: 8:00pm</description>
-<pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
+<title>Higher Ground — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1397896</link>
+<guid isPermaLink="false">131c990c6b7cc1353f359f87cfc1f88c13baa0eb</guid>
+<description>Venue: Maple Leaf | Date: Sunday, October 4 | Time: 8:00pm</description>
+<pubDate>Sun, 04 Oct 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Eric Johanson Album Release — Maple Leaf</title>
-<link>https://www.wwoz.org/events/1397886</link>
-<guid isPermaLink="false">611039c39f24c37ac3c5fedd87ac5d4df246364f</guid>
-<description>Venue: Maple Leaf | Date: Saturday, October 3 | Time: 8:00pm</description>
-<pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
+<title>Open Mic Night hosted by Mike True — Neutral Ground Coffeehouse</title>
+<link>https://www.wwoz.org/events/1397051</link>
+<guid isPermaLink="false">985c76baf1b92f7c990a47b0a016e9b966d250c1</guid>
+<description>Venue: Neutral Ground Coffeehouse | Date: Sunday, October 4 | Time: 6:00pm</description>
+<pubDate>Sun, 04 Oct 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Funk Monkey ft. Arsène DeLay — Maple Leaf</title>
-<link>https://www.wwoz.org/events/1397891</link>
-<guid isPermaLink="false">870b164fce4654b391b9675ad5b291600a2a5d57</guid>
-<description>Venue: Maple Leaf | Date: Saturday, October 3 | Time: 11:00pm</description>
-<pubDate>Sat, 03 Oct 2026 23:00:00 +0000</pubDate>
+<title>André Bohren Solo Piano — New Marigny Theatre</title>
+<link>https://www.wwoz.org/events/1386611</link>
+<guid isPermaLink="false">82c34e7fda8f5c74ce8479d19014815244459373</guid>
+<description>Venue: New Marigny Theatre | Date: Sunday, October 4 | Time: 7:00pm</description>
+<pubDate>Sun, 04 Oct 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Emo Kids Live — Mid-City Lanes Rock 'n' Bowl</title>
-<link>https://www.wwoz.org/events/1394161</link>
-<guid isPermaLink="false">edbc68dcc8aaba9bd4f8d4eeef346dcd06c94541</guid>
-<description>Venue: Mid-City Lanes Rock 'n' Bowl | Date: Saturday, October 3 | Time: 8:30pm</description>
-<pubDate>Sat, 03 Oct 2026 20:30:00 +0000</pubDate>
+<title>The First Annual Filipino Legacy &amp; Cultural Fiesta! — New Orleans Jazz Museum (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1398986</link>
+<guid isPermaLink="false">a42dacc3574b9414d490e407de178a93ab2fca49</guid>
+<description>Venue: New Orleans Jazz Museum (OUTDOORS) | Date: Sunday, October 4 | Time: 3:00pm</description>
+<pubDate>Sun, 04 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>New Orleans Ragtime Festival ft. The New Leviathan Oriental Foxtrot Orchestra — New Marigny Theatre</title>
-<link>https://www.wwoz.org/events/1390946</link>
-<guid isPermaLink="false">b40e2e83c0b937e89ae66ab9ac0a7e7dcbb9e03a</guid>
-<description>Venue: New Marigny Theatre | Date: Saturday, October 3 | Time: 8:00pm</description>
-<pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
+<title>Irish Folk Jam &amp; Irish Coffee — Okay Bar</title>
+<link>https://www.wwoz.org/events/1385771</link>
+<guid isPermaLink="false">82872090fd6b0c721ba86fbacaa85d840e3e4dbd</guid>
+<description>Venue: Okay Bar | Date: Sunday, October 4 | Time: 4:00pm</description>
+<pubDate>Sun, 04 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Drum Circle with Tim Brown, II — New Orleans Jazz National Historical Park</title>
-<link>https://www.wwoz.org/events/1394526</link>
-<guid isPermaLink="false">7a89ff14ef7e399d9f7f0d5816696b1cb8afed7a</guid>
-<description>Venue: New Orleans Jazz National Historical Park | Date: Saturday, October 3 | Time: 10:30am</description>
-<pubDate>Sat, 03 Oct 2026 10:30:00 +0000</pubDate>
+<title>Golden Hours + Dumbster + Mango — Okay Bar</title>
+<link>https://www.wwoz.org/events/1374196</link>
+<guid isPermaLink="false">874fc7ee9b9a78df5384ffbd634f57223d95b829</guid>
+<description>Venue: Okay Bar | Date: Sunday, October 4 | Time: 9:00pm</description>
+<pubDate>Sun, 04 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The New Orleans Ragtime Festival ft. Steve Pistorius &amp; The Southern Syncopators, Adam Rogers + More! — New Orleans Jazz National Historical Park</title>
-<link>https://www.wwoz.org/events/1390961</link>
-<guid isPermaLink="false">07406e488c9a4ef0069837bbbf1109cfbefceb13</guid>
-<description>Venue: New Orleans Jazz National Historical Park | Date: Saturday, October 3 | Time: 1:00pm</description>
-<pubDate>Sat, 03 Oct 2026 13:00:00 +0000</pubDate>
+<title>The Freudian Slips — Old Point Bar</title>
+<link>https://www.wwoz.org/events/1398321</link>
+<guid isPermaLink="false">f0db9be044a2395085462c8b9d3a521a3c6e6e63</guid>
+<description>Venue: Old Point Bar | Date: Sunday, October 4 | Time: 3:00pm</description>
+<pubDate>Sun, 04 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Crush Diamond &amp; Hex Windham (+ Hex's Birthday Party) — NOLA 'Nacular Art Gallery</title>
-<link>https://www.wwoz.org/events/1392626</link>
-<guid isPermaLink="false">3b92c4baeb06c6f226ae25a82d7355c1f823c2e9</guid>
-<description>Venue: NOLA 'Nacular Art Gallery | Date: Saturday, October 3 | Time: 7:00pm</description>
-<pubDate>Sat, 03 Oct 2026 19:00:00 +0000</pubDate>
+<title>Emelie Guidry + Matt Hayden + Lisa Bittick-Lowe — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1395986</link>
+<guid isPermaLink="false">322d3e107e68935a4ebcfebe8fbbe6692c7aae78</guid>
+<description>Venue: Pat O'Brien's | Date: Sunday, October 4 | Time: 5:30pm</description>
+<pubDate>Sun, 04 Oct 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Big in the 90's — NOLA Brewing</title>
-<link>https://www.wwoz.org/events/1374256</link>
-<guid isPermaLink="false">dd3c8f0b860db6d2c7b719239776f3dd7d1e1ec3</guid>
-<description>Venue: NOLA Brewing | Date: Saturday, October 3 | Time: 7:00pm</description>
-<pubDate>Sat, 03 Oct 2026 19:00:00 +0000</pubDate>
+<title>Preservation Legacy Band ft. Leroy Jones — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1391786</link>
+<guid isPermaLink="false">82da4f16db4b618737e5d0ab88b4143bbf66b77c</guid>
+<description>Venue: Preservation Hall | Date: Sunday, October 4 | Time: 2:30pm</description>
+<pubDate>Sun, 04 Oct 2026 14:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Martha &amp; the GoodTime Gang — Old Point Bar</title>
-<link>https://www.wwoz.org/events/1398316</link>
-<guid isPermaLink="false">0bb588ce512a3cb581cb327eb35aa8b2e07a1bf7</guid>
-<description>Venue: Old Point Bar | Date: Saturday, October 3 | Time: 9:00pm</description>
-<pubDate>Sat, 03 Oct 2026 21:00:00 +0000</pubDate>
+<title>Preservation Legacy Band ft. Leroy Jones — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1374311</link>
+<guid isPermaLink="false">ee25324ae52af8667684d306b48d2470cad7da9a</guid>
+<description>Venue: Preservation Hall | Date: Sunday, October 4 | Time: 3:45pm</description>
+<pubDate>Sun, 04 Oct 2026 15:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Hannah Kreiger-Benson &amp; Natalie Mae — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1395971</link>
-<guid isPermaLink="false">10c452bccdd4c35ae2b00ba3e1ba2827795b6ab7</guid>
-<description>Venue: Pat O'Brien's | Date: Saturday, October 3 | Time: 1:00pm</description>
-<pubDate>Sat, 03 Oct 2026 13:00:00 +0000</pubDate>
+<title>Preservation Legacy Band ft. Gregg Stafford — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1392011</link>
+<guid isPermaLink="false">10c6bc0a2628a0980c9003f282a0a07a9b069300</guid>
+<description>Venue: Preservation Hall | Date: Sunday, October 4 | Time: 5:00pm</description>
+<pubDate>Sun, 04 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Emelie Guidry &amp; Ben Michaels + Lisa Bittick-Lowe &amp; Matt Hayden — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1395976</link>
-<guid isPermaLink="false">29f710336ef0033f93bddc59d62f914c4806ed33</guid>
-<description>Venue: Pat O'Brien's | Date: Saturday, October 3 | Time: 6:00pm</description>
-<pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
+<title>Preservation Legacy Band ft. Gregg Stafford — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1392016</link>
+<guid isPermaLink="false">8f66f956b952e2f6f7e93ecd131155429c70049d</guid>
+<description>Venue: Preservation Hall | Date: Sunday, October 4 | Time: 7:30pm</description>
+<pubDate>Sun, 04 Oct 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Karin Danger &amp; Ana De Ferreira — Paulie's</title>
-<link>https://www.wwoz.org/events/1394366</link>
-<guid isPermaLink="false">6d3a4a9e3ecfb720c67cd033c3a829914fdbecca</guid>
-<description>Venue: Paulie's | Date: Saturday, October 3 | Time: 11:30am</description>
-<pubDate>Sat, 03 Oct 2026 11:30:00 +0000</pubDate>
+<title>Preservation Legacy Band ft. Gregg Stafford — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1392021</link>
+<guid isPermaLink="false">aaf38710060acd14f61bd0bf7866c38da9cf409b</guid>
+<description>Venue: Preservation Hall | Date: Sunday, October 4 | Time: 8:45pm</description>
+<pubDate>Sun, 04 Oct 2026 20:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1391781</link>
-<guid isPermaLink="false">04af8ca15ceda4ddd1368321f2163a1f20a5d8be</guid>
-<description>Venue: Preservation Hall | Date: Saturday, October 3 | Time: 2:30pm</description>
-<pubDate>Sat, 03 Oct 2026 14:30:00 +0000</pubDate>
+<title>Neonautica + Hetti Murphi + Sickem — Rabbit Hole, The</title>
+<link>https://www.wwoz.org/events/1369431</link>
+<guid isPermaLink="false">3187cf0fd295806a136865486b02cb55f43c9ae9</guid>
+<description>Venue: Rabbit Hole, The | Date: Sunday, October 4 | Time: 8:00pm</description>
+<pubDate>Sun, 04 Oct 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1374301</link>
-<guid isPermaLink="false">59932892de754d170d98eb4f71206acc015c957b</guid>
-<description>Venue: Preservation Hall | Date: Saturday, October 3 | Time: 3:45pm</description>
-<pubDate>Sat, 03 Oct 2026 15:45:00 +0000</pubDate>
+<title>Sasha Masakowski — Saturn Bar</title>
+<link>https://www.wwoz.org/events/1391311</link>
+<guid isPermaLink="false">9356f1a022e456fd4c08aebd2f4b0822b2fc15e7</guid>
+<description>Venue: Saturn Bar | Date: Sunday, October 4 | Time: 9:00pm</description>
+<pubDate>Sun, 04 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1392006</link>
-<guid isPermaLink="false">a210ac8a4bb5d54088e3b9f2eb678a3d0dcb9c76</guid>
-<description>Venue: Preservation Hall | Date: Saturday, October 3 | Time: 5:00pm</description>
-<pubDate>Sat, 03 Oct 2026 17:00:00 +0000</pubDate>
+<title>Nickel-A-Dance: A Tribute to Ronell Johnson led by Craig Klein &amp; Friends — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1374096</link>
+<guid isPermaLink="false">d56d3680030b134a0a37b83c8092bfcf4f84be19</guid>
+<description>Venue: Snug Harbor | Date: Sunday, October 4 | Time: 3:00pm</description>
+<pubDate>Sun, 04 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1391996</link>
-<guid isPermaLink="false">9da79749a822265300c8cdde89dff3655356fa10</guid>
-<description>Venue: Preservation Hall | Date: Saturday, October 3 | Time: 6:15pm</description>
-<pubDate>Sat, 03 Oct 2026 18:15:00 +0000</pubDate>
+<title>Davell Crawford &amp; Co. with guest James Jordan — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1396571</link>
+<guid isPermaLink="false">33e86d9498c8ee74e02850748814846ac53299d5</guid>
+<description>Venue: Snug Harbor | Date: Sunday, October 4 | Time: 7:30pm</description>
+<pubDate>Sun, 04 Oct 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1392001</link>
-<guid isPermaLink="false">9b532d605444ea865fa0b2d6a851c4171352c393</guid>
-<description>Venue: Preservation Hall | Date: Saturday, October 3 | Time: 7:30pm</description>
-<pubDate>Sat, 03 Oct 2026 19:30:00 +0000</pubDate>
+<title>Davell Crawford &amp; Co. with guest James Jordan — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1396576</link>
+<guid isPermaLink="false">89c2b299d6c4119ff7950301d89635e00a20a4b0</guid>
+<description>Venue: Snug Harbor | Date: Sunday, October 4 | Time: 9:30pm</description>
+<pubDate>Sun, 04 Oct 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1391991</link>
-<guid isPermaLink="false">734a260c33f588cec3cee4a1584d1d5b56e3e904</guid>
-<description>Venue: Preservation Hall | Date: Saturday, October 3 | Time: 8:45pm</description>
-<pubDate>Sat, 03 Oct 2026 20:45:00 +0000</pubDate>
-</item>
-<item>
-<title>Techno Funken ft. DJs XSOMNIA, SUNNIE &amp; AIRBAG — Rabbit Hole, The</title>
-<link>https://www.wwoz.org/events/1393511</link>
-<guid isPermaLink="false">d6449400cd4b942ddbff477474541eec1501023d</guid>
-<description>Venue: Rabbit Hole, The | Date: Saturday, October 3 | Time: 10:00pm</description>
-<pubDate>Sat, 03 Oct 2026 22:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Rewind: 2010s with Pellowtalk, DJ G &amp; Snaxx — Republic New Orleans</title>
-<link>https://www.wwoz.org/events/1399886</link>
-<guid isPermaLink="false">0ffdf70ba2ab3b045eab210b8e73cd6c4cc39559</guid>
-<description>Venue: Republic New Orleans | Date: Saturday, October 3 | Time: 10:00pm</description>
-<pubDate>Sat, 03 Oct 2026 22:00:00 +0000</pubDate>
-</item>
-<item>
-<title>DJSON — Saint, The</title>
-<link>https://www.wwoz.org/events/1374146</link>
-<guid isPermaLink="false">ac990fd587e3da7ea15f5161ee35c3b57ab9555f</guid>
-<description>Venue: Saint, The | Date: Saturday, October 3 | Time: 11:00pm</description>
-<pubDate>Sat, 03 Oct 2026 23:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Black Coffee + The Unnaturals — Santos Bar</title>
-<link>https://www.wwoz.org/events/1374101</link>
-<guid isPermaLink="false">2640f695ceeced2d380bf3dbdc04ec28ecd40af2</guid>
-<description>Venue: Santos Bar | Date: Saturday, October 3 | Time: 9:30pm</description>
-<pubDate>Sat, 03 Oct 2026 21:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Whitney Mixon Trio ft. Paul Stewart &amp; Travis Simmons — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1396566</link>
-<guid isPermaLink="false">4adb790a2c5620064b8453368e84591276cd9388</guid>
-<description>Venue: Snug Harbor | Date: Saturday, October 3 | Time: 4:30pm</description>
-<pubDate>Sat, 03 Oct 2026 16:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Davisito's Birthday Album Release Party with special guest Yissy Garcia — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1374086</link>
-<guid isPermaLink="false">903bb9b06a3deaf496f5cd3ded3eb8829cadd576</guid>
-<description>Venue: Snug Harbor | Date: Saturday, October 3 | Time: 7:30pm</description>
-<pubDate>Sat, 03 Oct 2026 19:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Davisito's Birthday Album Release Party with special guest Yissy Garcia — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1374091</link>
-<guid isPermaLink="false">f7f145b11b12343ddb34574be02e1c1e7a2f84cf</guid>
-<description>Venue: Snug Harbor | Date: Saturday, October 3 | Time: 9:30pm</description>
-<pubDate>Sat, 03 Oct 2026 21:30:00 +0000</pubDate>
-</item>
-<item>
-<title>After-Party with DJ Santero for Davisito's Celebrations — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1396471</link>
-<guid isPermaLink="false">228152af93d23044392054a3daf7250911a0a005</guid>
-<description>Venue: Snug Harbor | Date: Saturday, October 3 | Time: 11:30pm</description>
-<pubDate>Sat, 03 Oct 2026 23:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1397166</link>
-<guid isPermaLink="false">c5f6025898f21197bf37253a751e3c8accfb9cc8</guid>
-<description>Venue: Steamboat Natchez | Date: Saturday, October 3 | Time: 11:00am</description>
-<pubDate>Sat, 03 Oct 2026 11:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Steamboat Stompers — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1397326</link>
-<guid isPermaLink="false">3e6a52c9dee73b55359b7cd33bdf8183b86cad04</guid>
-<description>Venue: Steamboat Natchez | Date: Saturday, October 3 | Time: 2:00pm</description>
-<pubDate>Sat, 03 Oct 2026 14:00:00 +0000</pubDate>
+<title>New Orleans Ragtime Festival Closing Celebration ft. Seva Venet's Storyville Stringband with Special Guest Dr. Michael White — Southern Food &amp; Beverage Museum "SoFAB"</title>
+<link>https://www.wwoz.org/events/1390941</link>
+<guid isPermaLink="false">3f824bfc716efdb37beb6e3d826afe34f67e1d67</guid>
+<description>Venue: Southern Food &amp; Beverage Museum "SoFAB" | Date: Sunday, October 4 | Time: 5:30pm</description>
+<pubDate>Sun, 04 Oct 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Dukes of Dixieland — Steamboat Natchez</title>
-<link>https://www.wwoz.org/events/1397441</link>
-<guid isPermaLink="false">5ed550fd98433300fd5cad555e92a6b2aaf8e149</guid>
-<description>Venue: Steamboat Natchez | Date: Saturday, October 3 | Time: 6:00pm</description>
-<pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1397476</link>
+<guid isPermaLink="false">33701224e47dde6a6e548a5cf2ba77728214610f</guid>
+<description>Venue: Steamboat Natchez | Date: Sunday, October 4 | Time: 6:00pm</description>
+<pubDate>Sun, 04 Oct 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Adam Pearce — Tee-Wee’s On Da’ Bayou</title>
-<link>https://www.wwoz.org/events/1395571</link>
-<guid isPermaLink="false">b031b4df9d639ec44d1e6ee300759bbdac322240</guid>
-<description>Venue: Tee-Wee’s On Da’ Bayou | Date: Saturday, October 3 | Time: 6:00pm</description>
-<pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
+<title>The New Orleans Rug Cutters — Three Muses</title>
+<link>https://www.wwoz.org/events/1396466</link>
+<guid isPermaLink="false">b6a3d18375c15cf5387e4e007ac0dfdfdadf04d5</guid>
+<description>Venue: Three Muses | Date: Sunday, October 4 | Time: 7:30pm</description>
+<pubDate>Sun, 04 Oct 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Chloé Marie — Three Maries Jazz Club at the Omni Royal Orleans</title>
-<link>https://www.wwoz.org/events/1393161</link>
-<guid isPermaLink="false">0d1247ff1578f3a0b6d8b7cabb2622b384efcdc0</guid>
-<description>Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Saturday, October 3 | Time: 6:00pm</description>
-<pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Jonté Mayon — Three Maries Jazz Club at the Omni Royal Orleans</title>
-<link>https://www.wwoz.org/events/1393176</link>
-<guid isPermaLink="false">fa7e3c957a4eea0413b19740642709ccb32e72d4</guid>
-<description>Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Saturday, October 3 | Time: 9:00pm</description>
-<pubDate>Sat, 03 Oct 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Jenavieve Cooke — Three Muses</title>
-<link>https://www.wwoz.org/events/1398901</link>
-<guid isPermaLink="false">6c9da8094466344ed00dc54e204738a5c946c584</guid>
-<description>Venue: Three Muses | Date: Saturday, October 3 | Time: 7:30pm</description>
-<pubDate>Sat, 03 Oct 2026 19:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Maggie Koerner + Gina Leslie — Tipitina's</title>
-<link>https://www.wwoz.org/events/1377286</link>
-<guid isPermaLink="false">71dbd61d8957c1173facecfe9d865ad63021e9ee</guid>
-<description>Venue: Tipitina's | Date: Saturday, October 3 | Time: 9:00pm</description>
-<pubDate>Sat, 03 Oct 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Mark Barrett &amp; The First Calls — Tropical Isle Bourbon</title>
-<link>https://www.wwoz.org/events/1394481</link>
-<guid isPermaLink="false">8cd73efd71198de14ae45ad9136edf9a9f2d3e04</guid>
-<description>Venue: Tropical Isle Bourbon | Date: Saturday, October 3 | Time: 7:00pm</description>
-<pubDate>Sat, 03 Oct 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Jenn Howard EP Release Show + Beach Angel — True South</title>
-<link>https://www.wwoz.org/events/1389491</link>
-<guid isPermaLink="false">32bd446139ae86ae3056d3a3ed53f83ac0cdcb04</guid>
-<description>Venue: True South | Date: Saturday, October 3 | Time: 7:00pm</description>
-<pubDate>Sat, 03 Oct 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>The Van Ella Bordella: A Storyville Burlesque Musical — Twilight Room at The Allways Lounge</title>
-<link>https://www.wwoz.org/events/1390451</link>
-<guid isPermaLink="false">b6a0277035bf23f86dbe8091fcc6bb66c295b7fe</guid>
-<description>Venue: Twilight Room at The Allways Lounge | Date: Saturday, October 3 | Time: 7:00pm</description>
-<pubDate>Sat, 03 Oct 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Brunch in the Vines ft. RY Band + Frog in Space — Wild Bush Farm &amp; Vineyard - Bush</title>
-<link>https://www.wwoz.org/events/1392541</link>
-<guid isPermaLink="false">1a3f135dbae7d15e1cb3cea5cafbbf7ed9e66a52</guid>
-<description>Venue: Wild Bush Farm &amp; Vineyard - Bush | Date: Saturday, October 3 | Time: 12:00pm</description>
-<pubDate>Sat, 03 Oct 2026 12:00:00 +0000</pubDate>
+<title>Ragtime on the River ft. Lars Edegran's New Orleans Ragtime Orchestra — University of New Orleans - Performing Arts Center Recital Hall</title>
+<link>https://www.wwoz.org/events/1390966</link>
+<guid isPermaLink="false">9d39ef8fe5791837b1b4c389cb6534327c5f8a9d</guid>
+<description>Venue: University of New Orleans - Performing Arts Center Recital Hall | Date: Sunday, October 4 | Time: 11:00am</description>
+<pubDate>Sun, 04 Oct 2026 11:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
