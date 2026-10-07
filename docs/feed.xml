@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 07 Oct 2026 13:21:50 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 20:36:55 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dr. Sick — 21st Amendment</title>
@@ -230,6 +230,13 @@
 <guid isPermaLink="false">94a772da4b05756c01b0991502814cead3d913b8</guid>
 <description>Venue: Mid-City Lanes Rock 'n' Bowl | Date: Wednesday, October 7 | Time: 5:30pm</description>
 <pubDate>Wed, 07 Oct 2026 17:30:00 +0000</pubDate>
+</item>
+<item>
+<title>JFA Presents Louis Ford &amp; His New Orleans Flairs — New Orleans Jazz Museum</title>
+<link>https://www.wwoz.org/events/1400616</link>
+<guid isPermaLink="false">b11ee413501df3463a24ea3960043ddc07d25abc</guid>
+<description>Venue: New Orleans Jazz Museum | Date: Wednesday, October 7 | Time: 2:00pm</description>
+<pubDate>Wed, 07 Oct 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Sam Kuslan &amp; Calvin Morin-Martin — New Orleans Jazz National Historical Park</title>

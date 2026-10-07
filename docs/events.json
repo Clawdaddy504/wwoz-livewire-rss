@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-10-07T13:21:50.076603+00:00",
-  "count": 56,
+  "generated_at": "2026-10-07T20:36:55.736144+00:00",
+  "count": 57,
   "events": [
     {
       "id": "7efcfba229cde40770ac4a76cc0bfc6962f44157",
@@ -387,6 +387,18 @@
       "time_text": "5:30pm",
       "start": "2026-10-07T17:30:00+00:00",
       "description": "Venue: Mid-City Lanes Rock 'n' Bowl | Date: Wednesday, October 7 | Time: 5:30pm"
+    },
+    {
+      "id": "b11ee413501df3463a24ea3960043ddc07d25abc",
+      "source": "wwoz",
+      "title": "JFA Presents Louis Ford & His New Orleans Flairs",
+      "venue": "New Orleans Jazz Museum",
+      "venue_url": "https://www.wwoz.org/organizations/new-orleans-jazz-museum",
+      "event_url": "https://www.wwoz.org/events/1400616",
+      "date_text": "Wednesday, October 7",
+      "time_text": "2:00pm",
+      "start": "2026-10-07T14:00:00+00:00",
+      "description": "Venue: New Orleans Jazz Museum | Date: Wednesday, October 7 | Time: 2:00pm"
     },
     {
       "id": "e4bb88c1f2fe6d3f6fca3286429fb1d458503130",
