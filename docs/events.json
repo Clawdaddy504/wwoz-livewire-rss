@@ -1,7 +1,7 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-10-08T10:33:42.593422+00:00",
+  "generated_at": "2026-10-08T18:50:20.978134+00:00",
   "count": 80,
   "events": [
     {
@@ -317,16 +317,16 @@
       "description": "Venue: Castine Center at Pelican Park - Mandeville | Date: Thursday, October 8 | Time: 7:30pm"
     },
     {
-      "id": "5c8024f6a5f0f0a9d954b713746b58418b4d5767",
+      "id": "87e874eef2d5363b6538550dafa7926491531acb",
       "source": "wwoz",
       "title": "Joshua Ray Walker + Cecilia Castleman",
       "venue": "Chickie Wah Wah",
       "venue_url": "https://www.wwoz.org/organizations/chickie-wah-wah",
       "event_url": "https://www.wwoz.org/events/1334181",
       "date_text": "Thursday, October 8",
-      "time_text": "9:00pm",
-      "start": "2026-10-08T21:00:00+00:00",
-      "description": "Venue: Chickie Wah Wah | Date: Thursday, October 8 | Time: 9:00pm"
+      "time_text": "8:00pm",
+      "start": "2026-10-08T20:00:00+00:00",
+      "description": "Venue: Chickie Wah Wah | Date: Thursday, October 8 | Time: 8:00pm"
     },
     {
       "id": "300cde8f439e710496b9df1e5522d6de63fe1bcd",
