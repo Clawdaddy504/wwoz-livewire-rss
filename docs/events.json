@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-10-08T18:50:20.978134+00:00",
-  "count": 80,
+  "generated_at": "2026-10-09T01:12:58.168891+00:00",
+  "count": 81,
   "events": [
     {
       "id": "e2b6faf5360d1b3bad473f2ff9b488fbf3889362",
@@ -519,6 +519,18 @@
       "time_text": "10:00pm",
       "start": "2026-10-08T22:00:00+00:00",
       "description": "Venue: Howlin' Wolf - The Den | Date: Thursday, October 8 | Time: 10:00pm"
+    },
+    {
+      "id": "fd6f50da1b1585ef2335415db6595795a8800036",
+      "source": "wwoz",
+      "title": "Trippin' The Blues with Marc Stone, Chris Mul\u00e9, Will Murry & More!",
+      "venue": "Inn at the Old Jail",
+      "venue_url": "https://www.wwoz.org/organizations/inn-old-jail",
+      "event_url": "https://www.wwoz.org/events/1401526",
+      "date_text": "Thursday, October 8",
+      "time_text": "6:00pm",
+      "start": "2026-10-08T18:00:00+00:00",
+      "description": "Venue: Inn at the Old Jail | Date: Thursday, October 8 | Time: 6:00pm"
     },
     {
       "id": "655da0f49392c841a12f4b6dd18bb41dd1761394",

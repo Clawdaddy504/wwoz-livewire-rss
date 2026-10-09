@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 08 Oct 2026 18:50:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 01:12:58 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy — 21st Amendment</title>
@@ -307,6 +307,13 @@
 <guid isPermaLink="false">6fb78f46aa967670d7b60e45ee8294247967f5ea</guid>
 <description>Venue: Howlin' Wolf - The Den | Date: Thursday, October 8 | Time: 10:00pm</description>
 <pubDate>Thu, 08 Oct 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Trippin' The Blues with Marc Stone, Chris Mulé, Will Murry &amp; More! — Inn at the Old Jail</title>
+<link>https://www.wwoz.org/events/1401526</link>
+<guid isPermaLink="false">fd6f50da1b1585ef2335415db6595795a8800036</guid>
+<description>Venue: Inn at the Old Jail | Date: Thursday, October 8 | Time: 6:00pm</description>
+<pubDate>Thu, 08 Oct 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>David Connick — Kerry Irish Pub</title>
