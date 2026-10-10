@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 10 Oct 2026 09:49:13 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 17:20:19 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
@@ -41,6 +41,13 @@
 <guid isPermaLink="false">2c57d58dbae2c2431ca73564beb80e910dbd7edc</guid>
 <description>Venue: 30/90 | Date: Saturday, October 10 | Time: 11:00pm</description>
 <pubDate>Sat, 10 Oct 2026 23:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Crossroads Cabaret ft. Johanna Rose — AllWays Lounge</title>
+<link>https://www.wwoz.org/events/1401621</link>
+<guid isPermaLink="false">efa8ec39ce28617abc3450326b2558caa7cbe8ff</guid>
+<description>Venue: AllWays Lounge | Date: Saturday, October 10 | Time: 7:00pm</description>
+<pubDate>Sat, 10 Oct 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Bayou Manouche — Bacchanal (OUTDOORS)</title>
@@ -526,6 +533,13 @@
 <pubDate>Sat, 10 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Festival of the Lake ft. Marc Broussard + Supercharger + Christian Serpas &amp; Steve Blaze — Our Lady of the Lake Church - Mandeville</title>
+<link>https://www.wwoz.org/events/1401591</link>
+<guid isPermaLink="false">92ced952542142640f2b7369f9df517a891fb342</guid>
+<description>Venue: Our Lady of the Lake Church - Mandeville | Date: Saturday, October 10 | Time: 11:00am</description>
+<pubDate>Sat, 10 Oct 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Jim Lockwood &amp; Ben Michaels — Pat O'Brien's</title>
 <link>https://www.wwoz.org/events/1396031</link>
 <guid isPermaLink="false">402f3edd90f94550c2017c13754470aa1ffffbd2</guid>
@@ -699,6 +713,13 @@
 <guid isPermaLink="false">f9d94ae2742576de5edb86179420c0d39e57daa9</guid>
 <description>Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Saturday, October 10 | Time: 6:00pm</description>
 <pubDate>Sat, 10 Oct 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Rosalynn DeRoos — Three Muses</title>
+<link>https://www.wwoz.org/events/1401656</link>
+<guid isPermaLink="false">6f8c2193c6a1f1a940ada0111acca403d23f0820</guid>
+<description>Venue: Three Muses | Date: Saturday, October 10 | Time: 7:30pm</description>
+<pubDate>Sat, 10 Oct 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Johnny Sketch &amp; The Dirty Notes - 25th Anniversary Celebration — Tipitina's</title>
