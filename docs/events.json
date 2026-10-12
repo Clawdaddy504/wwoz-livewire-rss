@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-10-12T10:47:42.174208+00:00",
-  "count": 51,
+  "generated_at": "2026-10-12T21:15:47.989730+00:00",
+  "count": 52,
   "events": [
     {
       "id": "b72364bb6275f0aa925cca8370dae11a4055f077",
@@ -375,6 +375,18 @@
       "time_text": "6:00pm",
       "start": "2026-10-12T18:00:00+00:00",
       "description": "Venue: Pat O'Brien's | Date: Monday, October 12 | Time: 6:00pm"
+    },
+    {
+      "id": "059b5ab010ed41685f32034579b0c8e98c30dd0b",
+      "source": "wwoz",
+      "title": "David Boeddinghaus",
+      "venue": "Polo Club at Windsor Court, The",
+      "venue_url": "https://www.wwoz.org/organizations/polo-club-windsor-court",
+      "event_url": "https://www.wwoz.org/events/1401911",
+      "date_text": "Monday, October 12",
+      "time_text": "5:30pm",
+      "start": "2026-10-12T17:30:00+00:00",
+      "description": "Venue: Polo Club at Windsor Court, The | Date: Monday, October 12 | Time: 5:30pm"
     },
     {
       "id": "ce2f2f0c772fb1a8df27a2bb97d76a01776a11b4",
