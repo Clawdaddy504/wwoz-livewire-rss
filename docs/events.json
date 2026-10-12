@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-10-11T19:33:08.020945+00:00",
-  "count": 79,
+  "generated_at": "2026-10-12T00:31:36.903866+00:00",
+  "count": 80,
   "events": [
     {
       "id": "dd12d6e66be55373317e9d92c2e50d6e9a8a7f98",
@@ -915,6 +915,18 @@
       "time_text": "6:00pm",
       "start": "2026-10-11T18:00:00+00:00",
       "description": "Venue: Steamboat Natchez | Date: Sunday, October 11 | Time: 6:00pm"
+    },
+    {
+      "id": "a797e1dd0be2a3d526ad77398c892647c40d6b7f",
+      "source": "wwoz",
+      "title": "Sundaze @ Sunnies with Pell",
+      "venue": "Sunnie's",
+      "venue_url": "https://www.wwoz.org/organizations/sunnies",
+      "event_url": "https://www.wwoz.org/events/1401746",
+      "date_text": "Sunday, October 11",
+      "time_text": "4:00pm",
+      "start": "2026-10-11T16:00:00+00:00",
+      "description": "Venue: Sunnie's | Date: Sunday, October 11 | Time: 4:00pm"
     },
     {
       "id": "2d21f689062b4ca43f5f7112aec12432d325e8c6",

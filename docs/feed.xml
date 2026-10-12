@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 11 Oct 2026 19:33:08 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 00:31:36 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>The Funky Soles — 21st Amendment</title>
@@ -538,6 +538,13 @@
 <guid isPermaLink="false">7f02f4f7660dde6aefeada05f5b874cb120e0d64</guid>
 <description>Venue: Steamboat Natchez | Date: Sunday, October 11 | Time: 6:00pm</description>
 <pubDate>Sun, 11 Oct 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Sundaze @ Sunnies with Pell — Sunnie's</title>
+<link>https://www.wwoz.org/events/1401746</link>
+<guid isPermaLink="false">a797e1dd0be2a3d526ad77398c892647c40d6b7f</guid>
+<description>Venue: Sunnie's | Date: Sunday, October 11 | Time: 4:00pm</description>
+<pubDate>Sun, 11 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
 <title>New Orleans Rug Cutters — Three Muses</title>
