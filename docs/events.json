@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-10-14T23:54:29.431976+00:00",
-  "count": 60,
+  "generated_at": "2026-10-15T04:37:08.601673+00:00",
+  "count": 62,
   "events": [
     {
       "id": "2fe2bd4718bf51865b0691b3322958773e05355b",
@@ -233,6 +233,18 @@
       "description": "Venue: Dew Drop Inn Hotel & Lounge | Date: Wednesday, October 14 | Time: 8:00pm"
     },
     {
+      "id": "ae5b77666caf9759d473fb538fc2285ccc5d6ea8",
+      "source": "wwoz",
+      "title": "Tangiers Combo",
+      "venue": "Dos Jefes",
+      "venue_url": "https://www.wwoz.org/organizations/dos-jefes",
+      "event_url": "https://www.wwoz.org/events/1402331",
+      "date_text": "Wednesday, October 14",
+      "time_text": "8:30pm",
+      "start": "2026-10-14T20:30:00+00:00",
+      "description": "Venue: Dos Jefes | Date: Wednesday, October 14 | Time: 8:30pm"
+    },
+    {
       "id": "4b86d72066c20bb47bb02071188e8cb8cafe0306",
       "source": "wwoz",
       "title": "Better Late Than Jake",
@@ -411,6 +423,18 @@
       "time_text": "8:00pm",
       "start": "2026-10-14T20:00:00+00:00",
       "description": "Venue: Maple Leaf | Date: Wednesday, October 14 | Time: 8:00pm"
+    },
+    {
+      "id": "28727ddae6165fe6a79ab2ba2473a8a36611ab20",
+      "source": "wwoz",
+      "title": "Rocky's Holy Schnitzel Polka Band",
+      "venue": "Mid-City Lanes Rock 'n' Bowl",
+      "venue_url": "https://www.wwoz.org/organizations/mid-city-lanes-rock-n-bowl",
+      "event_url": "https://www.wwoz.org/events/1402446",
+      "date_text": "Wednesday, October 14",
+      "time_text": "7:30pm",
+      "start": "2026-10-14T19:30:00+00:00",
+      "description": "Venue: Mid-City Lanes Rock 'n' Bowl | Date: Wednesday, October 14 | Time: 7:30pm"
     },
     {
       "id": "67b61d670190e284b30df539d449faf4dceffe0f",

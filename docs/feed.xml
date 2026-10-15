@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 14 Oct 2026 23:54:29 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 04:37:08 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dr. Sick — 21st Amendment</title>
@@ -141,6 +141,13 @@
 <pubDate>Wed, 14 Oct 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Tangiers Combo — Dos Jefes</title>
+<link>https://www.wwoz.org/events/1402331</link>
+<guid isPermaLink="false">ae5b77666caf9759d473fb538fc2285ccc5d6ea8</guid>
+<description>Venue: Dos Jefes | Date: Wednesday, October 14 | Time: 8:30pm</description>
+<pubDate>Wed, 14 Oct 2026 20:30:00 +0000</pubDate>
+</item>
+<item>
 <title>Better Late Than Jake — Favela Chic</title>
 <link>https://www.wwoz.org/events/1399156</link>
 <guid isPermaLink="false">4b86d72066c20bb47bb02071188e8cb8cafe0306</guid>
@@ -244,6 +251,13 @@
 <guid isPermaLink="false">0e9ca0eb17a050a3e6c4a138283621a44ed688da</guid>
 <description>Venue: Maple Leaf | Date: Wednesday, October 14 | Time: 8:00pm</description>
 <pubDate>Wed, 14 Oct 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Rocky's Holy Schnitzel Polka Band — Mid-City Lanes Rock 'n' Bowl</title>
+<link>https://www.wwoz.org/events/1402446</link>
+<guid isPermaLink="false">28727ddae6165fe6a79ab2ba2473a8a36611ab20</guid>
+<description>Venue: Mid-City Lanes Rock 'n' Bowl | Date: Wednesday, October 14 | Time: 7:30pm</description>
+<pubDate>Wed, 14 Oct 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Zoë de Priester &amp; Michael Pellera — New Orleans Jazz National Historical Park</title>
