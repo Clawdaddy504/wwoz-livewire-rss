@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 15 Oct 2026 11:27:31 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 16:59:37 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy — 21st Amendment</title>
@@ -538,6 +538,13 @@
 <guid isPermaLink="false">083086ef2914d2019868ea336e84d070cc983570</guid>
 <description>Venue: Sunnie's | Date: Thursday, October 15 | Time: 6:00pm</description>
 <pubDate>Thu, 15 Oct 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Johanna Rose — Three Muses</title>
+<link>https://www.wwoz.org/events/1402636</link>
+<guid isPermaLink="false">c265056e8a633236a7d98fbc885efee0c2c9afd7</guid>
+<description>Venue: Three Muses | Date: Thursday, October 15 | Time: 7:30pm</description>
+<pubDate>Thu, 15 Oct 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Rock The Rafters - A Cajun &amp; Creole Celebration ft. Lost Bayou Ramblers, CC Adcock &amp; The Lafayette Marquis + More! — Tipitina's</title>

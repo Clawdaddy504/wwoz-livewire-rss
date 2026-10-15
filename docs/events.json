@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-10-15T11:27:31.307898+00:00",
-  "count": 82,
+  "generated_at": "2026-10-15T16:59:37.060431+00:00",
+  "count": 83,
   "events": [
     {
       "id": "487317ee0f67ad386c1e6400e4b18af90da23237",
@@ -915,6 +915,18 @@
       "time_text": "6:00pm",
       "start": "2026-10-15T18:00:00+00:00",
       "description": "Venue: Sunnie's | Date: Thursday, October 15 | Time: 6:00pm"
+    },
+    {
+      "id": "c265056e8a633236a7d98fbc885efee0c2c9afd7",
+      "source": "wwoz",
+      "title": "Johanna Rose",
+      "venue": "Three Muses",
+      "venue_url": "https://www.wwoz.org/organizations/three-muses",
+      "event_url": "https://www.wwoz.org/events/1402636",
+      "date_text": "Thursday, October 15",
+      "time_text": "7:30pm",
+      "start": "2026-10-15T19:30:00+00:00",
+      "description": "Venue: Three Muses | Date: Thursday, October 15 | Time: 7:30pm"
     },
     {
       "id": "a9996930fa75119c7761d15cf36d02eea323af40",
