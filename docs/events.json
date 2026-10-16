@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-10-16T16:38:22.202171+00:00",
-  "count": 110,
+  "generated_at": "2026-10-16T21:06:32.114639+00:00",
+  "count": 111,
   "events": [
     {
       "id": "50cff8c64ddaffa1bb7a063308d1fbdd2548fbaa",
@@ -75,6 +75,18 @@
       "time_text": "11:00pm",
       "start": "2026-10-16T23:00:00+00:00",
       "description": "Venue: 30/90 | Date: Friday, October 16 | Time: 11:00pm"
+    },
+    {
+      "id": "42f981d795a1dc729efc4a7b45f94a61366cfb57",
+      "source": "wwoz",
+      "title": "Henrietta's Baudy Borhter Sing A-Long",
+      "venue": "AllWays Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/allways-lounge",
+      "event_url": "https://www.wwoz.org/events/1402846",
+      "date_text": "Friday, October 16",
+      "time_text": "5:00pm",
+      "start": "2026-10-16T17:00:00+00:00",
+      "description": "Venue: AllWays Lounge | Date: Friday, October 16 | Time: 5:00pm"
     },
     {
       "id": "34296f37de2b6f412488f376344c87e74d014f4e",
