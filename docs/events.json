@@ -1,7 +1,7 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-10-17T10:42:46.094669+00:00",
+  "generated_at": "2026-10-17T15:33:38.427507+00:00",
   "count": 113,
   "events": [
     {
@@ -749,24 +749,24 @@
       "description": "Venue: Maison, The | Date: Saturday, October 17 | Time: 4:00pm"
     },
     {
-      "id": "4aa0443f955ed2e8395535a0a6c6900d76a909f1",
-      "source": "wwoz",
-      "title": "Groovy\u2019s House Party ft. DJ Groovy Smooth",
-      "venue": "Maison, The",
-      "venue_url": "https://www.wwoz.org/organizations/maison",
-      "event_url": "https://www.wwoz.org/events/1393391",
-      "date_text": "Saturday, October 17",
-      "time_text": "11:00pm",
-      "start": "2026-10-17T23:00:00+00:00",
-      "description": "Venue: Maison, The | Date: Saturday, October 17 | Time: 11:00pm"
-    },
-    {
       "id": "975b917c6d76f14e755709aa890a44134ec023b6",
       "source": "wwoz",
       "title": "DJ B Dot (Dot Dunnie)",
       "venue": "Maison, The",
       "venue_url": "https://www.wwoz.org/organizations/maison",
       "event_url": "https://www.wwoz.org/events/1397996",
+      "date_text": "Saturday, October 17",
+      "time_text": "11:00pm",
+      "start": "2026-10-17T23:00:00+00:00",
+      "description": "Venue: Maison, The | Date: Saturday, October 17 | Time: 11:00pm"
+    },
+    {
+      "id": "4aa0443f955ed2e8395535a0a6c6900d76a909f1",
+      "source": "wwoz",
+      "title": "Groovy\u2019s House Party ft. DJ Groovy Smooth",
+      "venue": "Maison, The",
+      "venue_url": "https://www.wwoz.org/organizations/maison",
+      "event_url": "https://www.wwoz.org/events/1393391",
       "date_text": "Saturday, October 17",
       "time_text": "11:00pm",
       "start": "2026-10-17T23:00:00+00:00",
