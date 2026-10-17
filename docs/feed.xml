@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 17 Oct 2026 20:35:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 23:07:02 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>David Doucet — .Streaming Only</title>
@@ -442,16 +442,16 @@
 <pubDate>Sat, 17 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Groovy’s House Party ft. DJ Groovy Smooth — Maison, The</title>
-<link>https://www.wwoz.org/events/1393391</link>
-<guid isPermaLink="false">4aa0443f955ed2e8395535a0a6c6900d76a909f1</guid>
+<title>DJ B Dot (Dot Dunnie) — Maison, The</title>
+<link>https://www.wwoz.org/events/1397996</link>
+<guid isPermaLink="false">975b917c6d76f14e755709aa890a44134ec023b6</guid>
 <description>Venue: Maison, The | Date: Saturday, October 17 | Time: 11:00pm</description>
 <pubDate>Sat, 17 Oct 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>DJ B Dot (Dot Dunnie) — Maison, The</title>
-<link>https://www.wwoz.org/events/1397996</link>
-<guid isPermaLink="false">975b917c6d76f14e755709aa890a44134ec023b6</guid>
+<title>Groovy’s House Party ft. DJ Groovy Smooth — Maison, The</title>
+<link>https://www.wwoz.org/events/1393391</link>
+<guid isPermaLink="false">4aa0443f955ed2e8395535a0a6c6900d76a909f1</guid>
 <description>Venue: Maison, The | Date: Saturday, October 17 | Time: 11:00pm</description>
 <pubDate>Sat, 17 Oct 2026 23:00:00 +0000</pubDate>
 </item>
