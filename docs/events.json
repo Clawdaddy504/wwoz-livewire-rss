@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-10-19T13:12:50.071208+00:00",
-  "count": 55,
+  "generated_at": "2026-10-19T20:34:27.832360+00:00",
+  "count": 54,
   "events": [
     {
       "id": "1c19a652a4285bedb51a8cbca872552b1a6e6c21",
@@ -123,18 +123,6 @@
       "time_text": "7:00pm",
       "start": "2026-10-19T19:00:00+00:00",
       "description": "Venue: Broadside, The | Date: Monday, October 19 | Time: 7:00pm"
-    },
-    {
-      "id": "e9bd741db413bb22ec6d25596ff6415c0278eff3",
-      "source": "wwoz",
-      "title": "(Cancelled) David Doucet",
-      "venue": "Buffa's",
-      "venue_url": "https://www.wwoz.org/organizations/buffas",
-      "event_url": "https://www.wwoz.org/events/1398686",
-      "date_text": "Monday, October 19",
-      "time_text": "7:00pm",
-      "start": "2026-10-19T19:00:00+00:00",
-      "description": "Venue: Buffa's | Date: Monday, October 19 | Time: 7:00pm"
     },
     {
       "id": "31176aa3593ff7b464b1fb62c7bf8ed9780d68a8",

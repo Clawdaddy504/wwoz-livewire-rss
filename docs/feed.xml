@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 19 Oct 2026 13:12:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 20:34:27 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>James Beaumont &amp; Coyote Duo — 21st Amendment</title>
@@ -75,13 +75,6 @@
 <link>https://www.wwoz.org/events/1391201</link>
 <guid isPermaLink="false">48788223b432b98a73c0761f8f532eb8dfc9fd3a</guid>
 <description>Venue: Broadside, The | Date: Monday, October 19 | Time: 7:00pm</description>
-<pubDate>Mon, 19 Oct 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>(Cancelled) David Doucet — Buffa's</title>
-<link>https://www.wwoz.org/events/1398686</link>
-<guid isPermaLink="false">e9bd741db413bb22ec6d25596ff6415c0278eff3</guid>
-<description>Venue: Buffa's | Date: Monday, October 19 | Time: 7:00pm</description>
 <pubDate>Mon, 19 Oct 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
