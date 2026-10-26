@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-10-26T13:00:42.190889+00:00",
-  "count": 54,
+  "generated_at": "2026-10-26T20:28:25.475316+00:00",
+  "count": 56,
   "events": [
     {
       "id": "5f8422df4e90ec97b15d039c1f9977ba1aaf63a7",
@@ -125,6 +125,18 @@
       "description": "Venue: Buffa's | Date: Monday, October 26 | Time: 7:00pm"
     },
     {
+      "id": "ccd29da1fcd98f0541ecf47ef87cc96743136482",
+      "source": "wwoz",
+      "title": "Maurice Cade Band",
+      "venue": "Caf\u00e9 Negril",
+      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
+      "event_url": "https://www.wwoz.org/events/1404766",
+      "date_text": "Monday, October 26",
+      "time_text": "6:00pm",
+      "start": "2026-10-26T18:00:00+00:00",
+      "description": "Venue: Caf\u00e9 Negril | Date: Monday, October 26 | Time: 6:00pm"
+    },
+    {
       "id": "b6136dcad7315e35f6f426ac4d8bcb71c1250912",
       "source": "wwoz",
       "title": "Brass Flavor",
@@ -219,6 +231,18 @@
       "time_text": "8:30pm",
       "start": "2026-10-26T20:30:00+00:00",
       "description": "Venue: Dos Jefes | Date: Monday, October 26 | Time: 8:30pm"
+    },
+    {
+      "id": "d8f3aebf1f4a31295edfeef001aa9af7036c4f7e",
+      "source": "wwoz",
+      "title": "Dead Men Don't Play Jazz",
+      "venue": "Favela Chic",
+      "venue_url": "https://www.wwoz.org/organizations/favela-chic",
+      "event_url": "https://www.wwoz.org/events/1404826",
+      "date_text": "Monday, October 26",
+      "time_text": "7:30pm",
+      "start": "2026-10-26T19:30:00+00:00",
+      "description": "Venue: Favela Chic | Date: Monday, October 26 | Time: 7:30pm"
     },
     {
       "id": "2f33e86969b21b00a5aa4f1112157065f212ea14",
