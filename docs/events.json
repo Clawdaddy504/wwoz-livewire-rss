@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-10-29T09:57:02.259495+00:00",
-  "count": 80,
+  "generated_at": "2026-10-29T18:27:26.587806+00:00",
+  "count": 81,
   "events": [
     {
       "id": "4862f93de9e0344614b007dcdf19c0b682130e4f",
@@ -591,6 +591,18 @@
       "time_text": "8:00pm",
       "start": "2026-10-29T20:00:00+00:00",
       "description": "Venue: Maple Leaf | Date: Thursday, October 29 | Time: 8:00pm"
+    },
+    {
+      "id": "6e9b608117bf1245544c69868a51d938c6a86963",
+      "source": "wwoz",
+      "title": "Bloodkin",
+      "venue": "Maple Leaf",
+      "venue_url": "https://www.wwoz.org/organizations/maple-leaf",
+      "event_url": "https://www.wwoz.org/events/1406726",
+      "date_text": "Thursday, October 29",
+      "time_text": "10:00pm",
+      "start": "2026-10-29T22:00:00+00:00",
+      "description": "Venue: Maple Leaf | Date: Thursday, October 29 | Time: 10:00pm"
     },
     {
       "id": "e228bacf2c502fa6dc98a0568b9fc145a411af65",
