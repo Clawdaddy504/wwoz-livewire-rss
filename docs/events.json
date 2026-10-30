@@ -1,7 +1,7 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-10-29T18:27:26.587806+00:00",
+  "generated_at": "2026-10-30T00:58:07.626108+00:00",
   "count": 81,
   "events": [
     {
@@ -209,16 +209,16 @@
       "description": "Venue: Broadside (Outdoor Stage) | Date: Thursday, October 29 | Time: 8:30pm"
     },
     {
-      "id": "8cd28c65352b15c45fb2f49270eb3b1f703f094f",
+      "id": "1e466d23f0377659015a4b1c6fb2fa74efb88441",
       "source": "wwoz",
       "title": "Tom McDermott with Aurora Nealand",
       "venue": "Buffa's",
       "venue_url": "https://www.wwoz.org/organizations/buffas",
       "event_url": "https://www.wwoz.org/events/1398641",
       "date_text": "Thursday, October 29",
-      "time_text": "7:00pm",
-      "start": "2026-10-29T19:00:00+00:00",
-      "description": "Venue: Buffa's | Date: Thursday, October 29 | Time: 7:00pm"
+      "time_text": "8:00pm",
+      "start": "2026-10-29T20:00:00+00:00",
+      "description": "Venue: Buffa's | Date: Thursday, October 29 | Time: 8:00pm"
     },
     {
       "id": "c06cd20162bd61571a329718e62974c7c2fc1d0c",
