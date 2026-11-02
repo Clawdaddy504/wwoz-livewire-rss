@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 02 Nov 2026 11:03:45 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 21:42:09 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>The Jelly Roll Stompers — 21st Amendment</title>
@@ -118,6 +118,13 @@
 <guid isPermaLink="false">232e935e0b6422ab4fabad463769266c2d1ccaeb</guid>
 <description>Venue: Gasa Gasa | Date: Monday, November 2 | Time: 8:00pm</description>
 <pubDate>Mon, 02 Nov 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Solo Piano Barbecue Party — Kermit's Tremé Mother-in-Law Lounge</title>
+<link>https://www.wwoz.org/events/1407426</link>
+<guid isPermaLink="false">2f830273ff6bc8477fe7cf8ba24ee6ad436761dd</guid>
+<description>Venue: Kermit's Tremé Mother-in-Law Lounge | Date: Monday, November 2 | Time: 3:00pm</description>
+<pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Tom Hook — Mahogany Jazz Hall</title>

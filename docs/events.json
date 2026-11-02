@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-11-02T11:03:45.016397+00:00",
-  "count": 36,
+  "generated_at": "2026-11-02T21:42:09.694571+00:00",
+  "count": 37,
   "events": [
     {
       "id": "dc0ad8cc734349330cb3585fb8e1492d1faf79da",
@@ -195,6 +195,18 @@
       "time_text": "8:00pm",
       "start": "2026-11-02T20:00:00+00:00",
       "description": "Venue: Gasa Gasa | Date: Monday, November 2 | Time: 8:00pm"
+    },
+    {
+      "id": "2f830273ff6bc8477fe7cf8ba24ee6ad436761dd",
+      "source": "wwoz",
+      "title": "Solo Piano Barbecue Party",
+      "venue": "Kermit's Trem\u00e9 Mother-in-Law Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/kermits-treme-mother-law-lounge",
+      "event_url": "https://www.wwoz.org/events/1407426",
+      "date_text": "Monday, November 2",
+      "time_text": "3:00pm",
+      "start": "2026-11-02T15:00:00+00:00",
+      "description": "Venue: Kermit's Trem\u00e9 Mother-in-Law Lounge | Date: Monday, November 2 | Time: 3:00pm"
     },
     {
       "id": "de966af246cf4f7c9c7ec6d49d948a5a7cd6618f",
