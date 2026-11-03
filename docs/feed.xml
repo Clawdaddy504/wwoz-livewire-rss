@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 03 Nov 2026 17:01:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 23:21:52 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dave Hammer — 21st Amendment</title>
@@ -104,6 +104,13 @@
 <guid isPermaLink="false">68ed28c60184c5542331b7dbfdb56f2b9c0b0dd2</guid>
 <description>Venue: Ellis Marsalis Center for Music | Date: Tuesday, November 3 | Time: 6:30pm</description>
 <pubDate>Tue, 03 Nov 2026 18:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Christian Coleman Band — Favela Chic</title>
+<link>https://www.wwoz.org/events/1408756</link>
+<guid isPermaLink="false">2857ef41e1db578382a73287ec042f872ede7739</guid>
+<description>Venue: Favela Chic | Date: Tuesday, November 3 | Time: 8:00pm</description>
+<pubDate>Tue, 03 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Richard "Piano" Scott — Fritzel's Jazz Club</title>

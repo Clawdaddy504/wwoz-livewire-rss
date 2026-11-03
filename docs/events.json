@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-11-03T17:01:21.192717+00:00",
-  "count": 41,
+  "generated_at": "2026-11-03T23:21:52.360839+00:00",
+  "count": 42,
   "events": [
     {
       "id": "c1629d9a7ed487442dccd019d9f30fe06c2b845d",
@@ -171,6 +171,18 @@
       "time_text": "6:30pm",
       "start": "2026-11-03T18:30:00+00:00",
       "description": "Venue: Ellis Marsalis Center for Music | Date: Tuesday, November 3 | Time: 6:30pm"
+    },
+    {
+      "id": "2857ef41e1db578382a73287ec042f872ede7739",
+      "source": "wwoz",
+      "title": "Christian Coleman Band",
+      "venue": "Favela Chic",
+      "venue_url": "https://www.wwoz.org/organizations/favela-chic",
+      "event_url": "https://www.wwoz.org/events/1408756",
+      "date_text": "Tuesday, November 3",
+      "time_text": "8:00pm",
+      "start": "2026-11-03T20:00:00+00:00",
+      "description": "Venue: Favela Chic | Date: Tuesday, November 3 | Time: 8:00pm"
     },
     {
       "id": "6f5792d689d79b4bea29e9095a098e6aeed796ca",
