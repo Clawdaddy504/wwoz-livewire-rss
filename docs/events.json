@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-11-04T17:13:43.555065+00:00",
-  "count": 63,
+  "generated_at": "2026-11-04T23:39:08.124616+00:00",
+  "count": 64,
   "events": [
     {
       "id": "076f94b1167e0df81c5a270779cec9a3008e92db",
@@ -197,6 +197,18 @@
       "description": "Venue: d.b.a. | Date: Wednesday, November 4 | Time: 9:00pm"
     },
     {
+      "id": "c958b9e854d0919e9f3adc7e3bfbe701f969811f",
+      "source": "wwoz",
+      "title": "Jeremy Davenport",
+      "venue": "Davenport Lounge at The Ritz-Carlton",
+      "venue_url": "https://www.wwoz.org/organizations/davenport-lounge-ritz-carlton",
+      "event_url": "https://www.wwoz.org/events/1410201",
+      "date_text": "Wednesday, November 4",
+      "time_text": "5:30pm",
+      "start": "2026-11-04T17:30:00+00:00",
+      "description": "Venue: Davenport Lounge at The Ritz-Carlton | Date: Wednesday, November 4 | Time: 5:30pm"
+    },
+    {
       "id": "9a7f62634525aa52dc20cadbbbcb11f0c13bfc53",
       "source": "wwoz",
       "title": "The Drop Inn Jam Session ft. Taijan",
@@ -319,7 +331,7 @@
     {
       "id": "990cb6c377cd2841647be535ec5f209b6a2647dd",
       "source": "wwoz",
-      "title": "Solo Piano Barbecue Party",
+      "title": "Solo Piano Barbecue Party with D.R.",
       "venue": "Kermit's Trem\u00e9 Mother-in-Law Lounge",
       "venue_url": "https://www.wwoz.org/organizations/kermits-treme-mother-law-lounge",
       "event_url": "https://www.wwoz.org/events/1407436",
