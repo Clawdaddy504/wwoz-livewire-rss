@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 05 Nov 2026 06:43:59 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 17:23:06 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy — 21st Amendment</title>
@@ -97,6 +97,20 @@
 <guid isPermaLink="false">73f2da4df394980f3a180950dae37a868a6f4043</guid>
 <description>Venue: B Mac's (OUTDOORS) | Date: Thursday, November 5 | Time: 7:00pm</description>
 <pubDate>Thu, 05 Nov 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Rumpshakers — BMC</title>
+<link>https://www.wwoz.org/events/1410611</link>
+<guid isPermaLink="false">ba9a9571c29515b43be6a277edb897f0ef4526e8</guid>
+<description>Venue: BMC | Date: Thursday, November 5 | Time: 6:00pm</description>
+<pubDate>Thu, 05 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Kat Kiley Experience — BMC</title>
+<link>https://www.wwoz.org/events/1410606</link>
+<guid isPermaLink="false">4267b14652d4e12c399ca75a792e80190eb91733</guid>
+<description>Venue: BMC | Date: Thursday, November 5 | Time: 9:00pm</description>
+<pubDate>Thu, 05 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>The Maggie Belle Band + The Itchy Stitches — Broadside, The</title>
@@ -258,6 +272,13 @@
 <guid isPermaLink="false">c60741b4c537807d70fb729bb6c9476b203f0382</guid>
 <description>Venue: Gretna Tavern | Date: Thursday, November 5 | Time: 8:30pm</description>
 <pubDate>Thu, 05 Nov 2026 20:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Skinman, Fiend &amp; Days of Grief — Holy Diver</title>
+<link>https://www.wwoz.org/events/1410596</link>
+<guid isPermaLink="false">3ba055f16b0b3cff4187e0cc90dd1a101bcba989</guid>
+<description>Venue: Holy Diver | Date: Thursday, November 5 | Time: 9:00pm</description>
+<pubDate>Thu, 05 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Solo Piano Barbecue Party — Kermit's Tremé Mother-in-Law Lounge</title>

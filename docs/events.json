@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-11-05T06:43:59.624478+00:00",
-  "count": 68,
+  "generated_at": "2026-11-05T17:23:06.806355+00:00",
+  "count": 71,
   "events": [
     {
       "id": "f8476914bb5346242d2f9297028d910bdf7613d4",
@@ -159,6 +159,30 @@
       "time_text": "7:00pm",
       "start": "2026-11-05T19:00:00+00:00",
       "description": "Venue: B Mac's (OUTDOORS) | Date: Thursday, November 5 | Time: 7:00pm"
+    },
+    {
+      "id": "ba9a9571c29515b43be6a277edb897f0ef4526e8",
+      "source": "wwoz",
+      "title": "The Rumpshakers",
+      "venue": "BMC",
+      "venue_url": "https://www.wwoz.org/organizations/bmc",
+      "event_url": "https://www.wwoz.org/events/1410611",
+      "date_text": "Thursday, November 5",
+      "time_text": "6:00pm",
+      "start": "2026-11-05T18:00:00+00:00",
+      "description": "Venue: BMC | Date: Thursday, November 5 | Time: 6:00pm"
+    },
+    {
+      "id": "4267b14652d4e12c399ca75a792e80190eb91733",
+      "source": "wwoz",
+      "title": "The Kat Kiley Experience",
+      "venue": "BMC",
+      "venue_url": "https://www.wwoz.org/organizations/bmc",
+      "event_url": "https://www.wwoz.org/events/1410606",
+      "date_text": "Thursday, November 5",
+      "time_text": "9:00pm",
+      "start": "2026-11-05T21:00:00+00:00",
+      "description": "Venue: BMC | Date: Thursday, November 5 | Time: 9:00pm"
     },
     {
       "id": "c90490e637cd58c91402dc22dfb1ff007ebb0404",
@@ -435,6 +459,18 @@
       "time_text": "8:30pm",
       "start": "2026-11-05T20:30:00+00:00",
       "description": "Venue: Gretna Tavern | Date: Thursday, November 5 | Time: 8:30pm"
+    },
+    {
+      "id": "3ba055f16b0b3cff4187e0cc90dd1a101bcba989",
+      "source": "wwoz",
+      "title": "Skinman, Fiend & Days of Grief",
+      "venue": "Holy Diver",
+      "venue_url": "https://www.wwoz.org/organizations/holy-diver",
+      "event_url": "https://www.wwoz.org/events/1410596",
+      "date_text": "Thursday, November 5",
+      "time_text": "9:00pm",
+      "start": "2026-11-05T21:00:00+00:00",
+      "description": "Venue: Holy Diver | Date: Thursday, November 5 | Time: 9:00pm"
     },
     {
       "id": "0c478c131858ec2cb92c1e34fcb5baee17ff8bb2",
