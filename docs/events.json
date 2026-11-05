@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-11-05T17:23:06.806355+00:00",
-  "count": 71,
+  "generated_at": "2026-11-05T23:37:38.710019+00:00",
+  "count": 73,
   "events": [
     {
       "id": "f8476914bb5346242d2f9297028d910bdf7613d4",
@@ -31,7 +31,7 @@
     {
       "id": "57964f93c22f0afc7bc2cf5d865abea6a3f219b3",
       "source": "wwoz",
-      "title": "Zydeco legend Jeffery Broussard & The Creole Cowboys",
+      "title": "(CANCELLED) Zydeco legend Jeffery Broussard & The Creole Cowboys",
       "venue": "100 Men Hall - Bay St. Louis",
       "venue_url": "https://www.wwoz.org/organizations/100-men-hall-bay-st-louis",
       "event_url": "https://www.wwoz.org/events/1390061",
@@ -665,6 +665,18 @@
       "description": "Venue: Paulie's | Date: Thursday, November 5 | Time: 11:30am"
     },
     {
+      "id": "581fa30ee7b44a926ea4f37d65fe91458fc1c235",
+      "source": "wwoz",
+      "title": "John Fohl",
+      "venue": "Paulie's",
+      "venue_url": "https://www.wwoz.org/organizations/paulies",
+      "event_url": "https://www.wwoz.org/events/1411371",
+      "date_text": "Thursday, November 5",
+      "time_text": "6:00pm",
+      "start": "2026-11-05T18:00:00+00:00",
+      "description": "Venue: Paulie's | Date: Thursday, November 5 | Time: 6:00pm"
+    },
+    {
       "id": "998efae5aecab221900e5ad33ac01852554a32d9",
       "source": "wwoz",
       "title": "Da Lovebirds: Robin Barnes & Pat Casey",
@@ -747,6 +759,18 @@
       "time_text": "7:30pm",
       "start": "2026-11-05T19:30:00+00:00",
       "description": "Venue: Saenger Theatre | Date: Thursday, November 5 | Time: 7:30pm"
+    },
+    {
+      "id": "21e777768b58336acf5bf9a74182132a5dc84899",
+      "source": "wwoz",
+      "title": "Geovane Santos",
+      "venue": "Salon Salon",
+      "venue_url": "https://www.wwoz.org/organizations/salon-salon",
+      "event_url": "https://www.wwoz.org/events/1411231",
+      "date_text": "Thursday, November 5",
+      "time_text": "7:00pm",
+      "start": "2026-11-05T19:00:00+00:00",
+      "description": "Venue: Salon Salon | Date: Thursday, November 5 | Time: 7:00pm"
     },
     {
       "id": "d78db0ab029c9f91097cb5c9fc86aec8d2236c1a",

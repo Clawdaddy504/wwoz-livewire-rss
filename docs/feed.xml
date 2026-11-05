@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 05 Nov 2026 17:23:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 23:37:38 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy — 21st Amendment</title>
@@ -22,7 +22,7 @@
 <pubDate>Thu, 05 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Zydeco legend Jeffery Broussard &amp; The Creole Cowboys — 100 Men Hall - Bay St. Louis</title>
+<title>(CANCELLED) Zydeco legend Jeffery Broussard &amp; The Creole Cowboys — 100 Men Hall - Bay St. Louis</title>
 <link>https://www.wwoz.org/events/1390061</link>
 <guid isPermaLink="false">57964f93c22f0afc7bc2cf5d865abea6a3f219b3</guid>
 <description>Venue: 100 Men Hall - Bay St. Louis | Date: Thursday, November 5 | Time: 7:00pm</description>
@@ -393,6 +393,13 @@
 <pubDate>Thu, 05 Nov 2026 11:30:00 +0000</pubDate>
 </item>
 <item>
+<title>John Fohl — Paulie's</title>
+<link>https://www.wwoz.org/events/1411371</link>
+<guid isPermaLink="false">581fa30ee7b44a926ea4f37d65fe91458fc1c235</guid>
+<description>Venue: Paulie's | Date: Thursday, November 5 | Time: 6:00pm</description>
+<pubDate>Thu, 05 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Da Lovebirds: Robin Barnes &amp; Pat Casey — Peacock Room at the Kimpton Hotel Fontenot</title>
 <link>https://www.wwoz.org/events/1320556</link>
 <guid isPermaLink="false">998efae5aecab221900e5ad33ac01852554a32d9</guid>
@@ -440,6 +447,13 @@
 <guid isPermaLink="false">802825dbcb42edcdd955702503b0c747ff408a78</guid>
 <description>Venue: Saenger Theatre | Date: Thursday, November 5 | Time: 7:30pm</description>
 <pubDate>Thu, 05 Nov 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Geovane Santos — Salon Salon</title>
+<link>https://www.wwoz.org/events/1411231</link>
+<guid isPermaLink="false">21e777768b58336acf5bf9a74182132a5dc84899</guid>
+<description>Venue: Salon Salon | Date: Thursday, November 5 | Time: 7:00pm</description>
+<pubDate>Thu, 05 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Valerie Sassyfras and Denton Hatcher — Saturn Bar</title>
