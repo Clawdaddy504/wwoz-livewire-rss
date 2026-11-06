@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 06 Nov 2026 06:41:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 16:44:56 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dimitri Hanafin Reyes Album Release Party — 3 One One 6</title>
@@ -454,6 +454,13 @@
 <guid isPermaLink="false">54e59f16de98baf42cdaa51750965abd10be8f6d</guid>
 <description>Venue: Mid-City Lanes Rock 'n' Bowl | Date: Friday, November 6 | Time: 8:30pm</description>
 <pubDate>Fri, 06 Nov 2026 20:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Watsky x Infinity — New Orleans Jazz &amp; Blues Market</title>
+<link>https://www.wwoz.org/events/1412036</link>
+<guid isPermaLink="false">e54ebf52a91468e4f1bc6ea062eb240933e1e8d3</guid>
+<description>Venue: New Orleans Jazz &amp; Blues Market | Date: Friday, November 6 | Time: 7:00pm</description>
+<pubDate>Fri, 06 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Gallatin Street Fridays ft. Mark Braud Jazz Orchestra — New Orleans Jazz Museum</title>

@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-11-06T06:41:48.404742+00:00",
-  "count": 94,
+  "generated_at": "2026-11-06T16:44:56.683292+00:00",
+  "count": 95,
   "events": [
     {
       "id": "f8cb81011fd8adaa63408faaa47cf9e5674054cc",
@@ -771,6 +771,18 @@
       "time_text": "8:30pm",
       "start": "2026-11-06T20:30:00+00:00",
       "description": "Venue: Mid-City Lanes Rock 'n' Bowl | Date: Friday, November 6 | Time: 8:30pm"
+    },
+    {
+      "id": "e54ebf52a91468e4f1bc6ea062eb240933e1e8d3",
+      "source": "wwoz",
+      "title": "Watsky x Infinity",
+      "venue": "New Orleans Jazz & Blues Market",
+      "venue_url": "https://www.wwoz.org/organizations/new-orleans-jazz-blues-market",
+      "event_url": "https://www.wwoz.org/events/1412036",
+      "date_text": "Friday, November 6",
+      "time_text": "7:00pm",
+      "start": "2026-11-06T19:00:00+00:00",
+      "description": "Venue: New Orleans Jazz & Blues Market | Date: Friday, November 6 | Time: 7:00pm"
     },
     {
       "id": "860adf9ad729de842d7b801d589b5670134b7482",
