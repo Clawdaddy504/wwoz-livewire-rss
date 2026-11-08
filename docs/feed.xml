@@ -5,728 +5,518 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 08 Nov 2026 00:34:18 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 10:20:00 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
-<title>John Lisi &amp; Delta Funk — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1410806</link>
-<guid isPermaLink="false">402ed3d4e9dbca8ce788fe3bd2a0f78c23d8d90d</guid>
-<description>Venue: 21st Amendment | Date: Saturday, November 7 | Time: 3:00pm</description>
-<pubDate>Sat, 07 Nov 2026 15:00:00 +0000</pubDate>
+<title>Matt Wilson &amp; Sinking City — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1410816</link>
+<guid isPermaLink="false">3fe0bfd4b989808d1341d8b04376fca164f5406c</guid>
+<description>Venue: 21st Amendment | Date: Sunday, November 8 | Time: 3:00pm</description>
+<pubDate>Sun, 08 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Jelly Roll Stompers — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1410811</link>
-<guid isPermaLink="false">35b6c18c56e79717f4620e3200ea38efdb500ef8</guid>
-<description>Venue: 21st Amendment | Date: Saturday, November 7 | Time: 8:00pm</description>
-<pubDate>Sat, 07 Nov 2026 20:00:00 +0000</pubDate>
+<title>Big Mike &amp; the R&amp;B Kings — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1410821</link>
+<guid isPermaLink="false">ec9243540a9c0924444b255a1460013103bd9e06</guid>
+<description>Venue: 21st Amendment | Date: Sunday, November 8 | Time: 8:00pm</description>
+<pubDate>Sun, 08 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mardi de Musique — Alliance Française de La Nouvelle-Orléans</title>
-<link>https://www.wwoz.org/events/1406756</link>
-<guid isPermaLink="false">8e97797202e7bd13ea48c510666d137da5dd31a7</guid>
-<description>Venue: Alliance Française de La Nouvelle-Orléans | Date: Saturday, November 7 | Time: 12:15pm</description>
-<pubDate>Sat, 07 Nov 2026 12:15:00 +0000</pubDate>
+<title>Red &amp; The Revelers - Cigars Under the Stars — 100 Men Hall - Bay St. Louis</title>
+<link>https://www.wwoz.org/events/1390066</link>
+<guid isPermaLink="false">e4e60e270a5afff824e2200de6d5b812b36dcd67</guid>
+<description>Venue: 100 Men Hall - Bay St. Louis | Date: Sunday, November 8 | Time: 6:00pm</description>
+<pubDate>Sun, 08 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>T’Monde with Drew &amp; Kel — Alliance Française de La Nouvelle-Orléans</title>
-<link>https://www.wwoz.org/events/1406761</link>
-<guid isPermaLink="false">c873c048b295e46c6012cdfbc7a46d1e9daddf86</guid>
-<description>Venue: Alliance Française de La Nouvelle-Orléans | Date: Saturday, November 7 | Time: 2:00pm</description>
-<pubDate>Sat, 07 Nov 2026 14:00:00 +0000</pubDate>
+<title>Sunday Swing with High Society Jazz Band — AllWays Lounge</title>
+<link>https://www.wwoz.org/events/1406916</link>
+<guid isPermaLink="false">dfc5cc6af9f8982c747f4b2901b54ef936d68724</guid>
+<description>Venue: AllWays Lounge | Date: Sunday, November 8 | Time: 8:00pm</description>
+<pubDate>Sun, 08 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Second Line Arts Collective End-of-Year Fundraiser ft. James Jordan &amp; The Situation + Dimitri Hanafin Reyes — André Cailloux Center</title>
-<link>https://www.wwoz.org/events/1411366</link>
-<guid isPermaLink="false">cf4644e5590da70e92b5148a3e38a46221ba0a74</guid>
-<description>Venue: André Cailloux Center | Date: Saturday, November 7 | Time: 7:00pm</description>
-<pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
+<title>Juan Tigre — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1403576</link>
+<guid isPermaLink="false">5695f6be2a5721a4ffa287f65ab554bc2da2dcb5</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Sunday, November 8 | Time: 1:00pm</description>
+<pubDate>Sun, 08 Nov 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Miles Berry — Bacchanal (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1403551</link>
-<guid isPermaLink="false">067f57c1ff955e05e2e64c0a87fbe22fe3dba42b</guid>
-<description>Venue: Bacchanal (OUTDOORS) | Date: Saturday, November 7 | Time: 1:00pm</description>
-<pubDate>Sat, 07 Nov 2026 13:00:00 +0000</pubDate>
+<title>Noah Young — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1403401</link>
+<guid isPermaLink="false">1dcd2cb57605f1fa6deca6ac594e1df271ea3238</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Sunday, November 8 | Time: 7:00pm</description>
+<pubDate>Sun, 08 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Nahum Zdybel — Bacchanal (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1403571</link>
-<guid isPermaLink="false">fcdcb3efc6f4dfc3d691b08b142ab2a840b2eb70</guid>
-<description>Venue: Bacchanal (OUTDOORS) | Date: Saturday, November 7 | Time: 7:00pm</description>
-<pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
+<title>All-Day Cajun Music Party ft. The Holiday Playgirls, The Gina Forsyth Trio with Effie Michot &amp; Jan Boney + More! — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1407696</link>
+<guid isPermaLink="false">abc8502b3a3f66d0275fd0eb03c8fadaa5e04533</guid>
+<description>Venue: BJ's Lounge | Date: Sunday, November 8 | Time: 3:00pm</description>
+<pubDate>Sun, 08 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dana Abbott Band — Batture, The (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1408236</link>
-<guid isPermaLink="false">3bf076bdafb4012c3bb9b626acc1b0362a7365c4</guid>
-<description>Venue: Batture, The (OUTDOORS) | Date: Saturday, November 7 | Time: 4:00pm</description>
-<pubDate>Sat, 07 Nov 2026 16:00:00 +0000</pubDate>
+<title>James McClaskey &amp; the Rhythm Band — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1408291</link>
+<guid isPermaLink="false">d14fea202f4b9d081d89dafab6547a4bf4f85b4d</guid>
+<description>Venue: BJ's Lounge | Date: Sunday, November 8 | Time: 9:30pm</description>
+<pubDate>Sun, 08 Nov 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Jordan Anderson — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1407306</link>
-<guid isPermaLink="false">062487e0240c66eb9b256e6a0224e3440f896d23</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Saturday, November 7 | Time: 8:00pm</description>
-<pubDate>Sat, 07 Nov 2026 20:00:00 +0000</pubDate>
+<title>Juice presents Sypher Sundays — Blue Nile</title>
+<link>https://www.wwoz.org/events/1408141</link>
+<guid isPermaLink="false">4f18f1feaaf5773822fef1fbe418426df1d05faf</guid>
+<description>Venue: Blue Nile | Date: Sunday, November 8 | Time: 9:00pm</description>
+<pubDate>Sun, 08 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jordan Anderson — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1407286</link>
-<guid isPermaLink="false">506c73983bdd85fdaf9dfa76c6722c7bb8bde2c1</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Saturday, November 7 | Time: 10:00pm</description>
-<pubDate>Sat, 07 Nov 2026 22:00:00 +0000</pubDate>
+<title>Street Legends Brass Band — Blue Nile</title>
+<link>https://www.wwoz.org/events/1408161</link>
+<guid isPermaLink="false">4bd85f4495018c7b29bd4db11d3278043241f66a</guid>
+<description>Venue: Blue Nile | Date: Sunday, November 8 | Time: 10:30pm</description>
+<pubDate>Sun, 08 Nov 2026 22:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Dat Mighty 9 ft. Big Chief Romeo — BJ's Lounge</title>
-<link>https://www.wwoz.org/events/1408286</link>
-<guid isPermaLink="false">87b0679bf1b80cef57b9f8dd21ae994c8e2328db</guid>
-<description>Venue: BJ's Lounge | Date: Saturday, November 7 | Time: 9:00pm</description>
-<pubDate>Sat, 07 Nov 2026 21:00:00 +0000</pubDate>
+<title>Deej Flava &amp; Mother Ruckus — BMC</title>
+<link>https://www.wwoz.org/events/1411571</link>
+<guid isPermaLink="false">d23a40d2ab6db7df7423d9d8d2821aa5ea809bd8</guid>
+<description>Venue: BMC | Date: Sunday, November 8 | Time: 3:00pm</description>
+<pubDate>Sun, 08 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jonas Risin' Double Reunion Extravaganza with Special Guests Cyril Neville, Ben Jaffe, Corey Henry &amp; More! — Blue Nile</title>
-<link>https://www.wwoz.org/events/1394771</link>
-<guid isPermaLink="false">db3c423a1e794b007cb4bb2134a43d0dcba2e58a</guid>
-<description>Venue: Blue Nile | Date: Saturday, November 7 | Time: 7:30pm</description>
-<pubDate>Sat, 07 Nov 2026 19:30:00 +0000</pubDate>
+<title>J.A.M Brass Band — BMC</title>
+<link>https://www.wwoz.org/events/1411576</link>
+<guid isPermaLink="false">1d4e223cbb1250689999b1cb9424d5907d553a76</guid>
+<description>Venue: BMC | Date: Sunday, November 8 | Time: 6:00pm</description>
+<pubDate>Sun, 08 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Afrobeat NOLA — Blue Nile - Balcony Room</title>
-<link>https://www.wwoz.org/events/1408116</link>
-<guid isPermaLink="false">3a84c3765ed97ca8243b43fe9a12a332e5a15dd2</guid>
-<description>Venue: Blue Nile - Balcony Room | Date: Saturday, November 7 | Time: 10:00pm</description>
-<pubDate>Sat, 07 Nov 2026 22:00:00 +0000</pubDate>
+<title>The Funky Soles — BMC</title>
+<link>https://www.wwoz.org/events/1411581</link>
+<guid isPermaLink="false">27d1f6c67a2a5bf3663892ad19f4529d97ccf034</guid>
+<description>Venue: BMC | Date: Sunday, November 8 | Time: 9:00pm</description>
+<pubDate>Sun, 08 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Bradley Love — B Mac's (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1407646</link>
-<guid isPermaLink="false">a6a03a3a1f75ff6cdb2c6c011367f5445540b660</guid>
-<description>Venue: B Mac's (OUTDOORS) | Date: Saturday, November 7 | Time: 7:00pm</description>
-<pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
+<title>Bennaroo ft. Sweet Crude, Sally Baby's Silver Dollars, Margie Perez &amp; Muévelo + More! — Broadside (Outdoor Stage)</title>
+<link>https://www.wwoz.org/events/1406036</link>
+<guid isPermaLink="false">eb7607ee05d3b8caaa5f62328cafbbfd4d427c80</guid>
+<description>Venue: Broadside (Outdoor Stage) | Date: Sunday, November 8 | Time: 3:00pm</description>
+<pubDate>Sun, 08 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Andre Lovett Band — BMC</title>
-<link>https://www.wwoz.org/events/1411556</link>
-<guid isPermaLink="false">5c25d34b68ead4289a0dcf3671a8360b43a7bf69</guid>
-<description>Venue: BMC | Date: Saturday, November 7 | Time: 3:00pm</description>
-<pubDate>Sat, 07 Nov 2026 15:00:00 +0000</pubDate>
+<title>Traditional Jazz Brunch with Some Like it Hot! — Buffa's</title>
+<link>https://www.wwoz.org/events/1407871</link>
+<guid isPermaLink="false">aed798eace4e62b10697947c299715791f67f254</guid>
+<description>Venue: Buffa's | Date: Sunday, November 8 | Time: 11:00am</description>
+<pubDate>Sun, 08 Nov 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Maurice Cade &amp; The E.S.S. Band — BMC</title>
-<link>https://www.wwoz.org/events/1411561</link>
-<guid isPermaLink="false">0ed7649abbfd62c550abe7d9833c70525d016fde</guid>
-<description>Venue: BMC | Date: Saturday, November 7 | Time: 6:00pm</description>
-<pubDate>Sat, 07 Nov 2026 18:00:00 +0000</pubDate>
+<title>Charlie Wooton — Buffa's</title>
+<link>https://www.wwoz.org/events/1407891</link>
+<guid isPermaLink="false">850d98b07ea51b89445782a26d740650a49207a8</guid>
+<description>Venue: Buffa's | Date: Sunday, November 8 | Time: 7:00pm</description>
+<pubDate>Sun, 08 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Keep It Rolling Brass Band — BMC</title>
-<link>https://www.wwoz.org/events/1411566</link>
-<guid isPermaLink="false">a165ae3c47ef14497a939bd6cdc029c5e7e35678</guid>
-<description>Venue: BMC | Date: Saturday, November 7 | Time: 9:00pm</description>
-<pubDate>Sat, 07 Nov 2026 21:00:00 +0000</pubDate>
+<title>Sunday N The Red Zone• Live Reggae Jam Hosted by Preach &amp; Righteous Wrong Band — Café Negril</title>
+<link>https://www.wwoz.org/events/1410976</link>
+<guid isPermaLink="false">3a686cd871a72b2ba69e34030f06c0f65d0fc7ee</guid>
+<description>Venue: Café Negril | Date: Sunday, November 8 | Time: 12:00pm</description>
+<pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Aaron Burns + Steele Creek + Tom Andes — Bourrée (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1409926</link>
-<guid isPermaLink="false">8a8d2d93d17eada8223a1c5077b61fc0a7327f52</guid>
-<description>Venue: Bourrée (OUTDOORS) | Date: Saturday, November 7 | Time: 5:00pm</description>
-<pubDate>Sat, 07 Nov 2026 17:00:00 +0000</pubDate>
+<title>John Lisi &amp; Delta Funk — Café Negril</title>
+<link>https://www.wwoz.org/events/1410981</link>
+<guid isPermaLink="false">da3ce87b12e809b68fee831bf10f82aa3ff9180e</guid>
+<description>Venue: Café Negril | Date: Sunday, November 8 | Time: 4:30pm</description>
+<pubDate>Sun, 08 Nov 2026 16:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Daniel Louis ft. Chad Oliver — Buffa's</title>
-<link>https://www.wwoz.org/events/1407866</link>
-<guid isPermaLink="false">46e3701c160edeef1455cf9eed7b7230e37e85bc</guid>
-<description>Venue: Buffa's | Date: Saturday, November 7 | Time: 8:00pm</description>
-<pubDate>Sat, 07 Nov 2026 20:00:00 +0000</pubDate>
+<title>Ado Soul &amp; the Tribe — Café Negril</title>
+<link>https://www.wwoz.org/events/1410986</link>
+<guid isPermaLink="false">35e8d309364a8b09ee711e0e832e41eef9d9d496</guid>
+<description>Venue: Café Negril | Date: Sunday, November 8 | Time: 9:00pm</description>
+<pubDate>Sun, 08 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Rumpshakers — Café Negril</title>
-<link>https://www.wwoz.org/events/1410946</link>
-<guid isPermaLink="false">24ac53ede4d34209e7c1050d5c915335a647d48e</guid>
-<description>Venue: Café Negril | Date: Saturday, November 7 | Time: 1:30pm</description>
-<pubDate>Sat, 07 Nov 2026 13:30:00 +0000</pubDate>
+<title>Ross Hoppe — Chemin à la Mer at Four Seasons Hotel</title>
+<link>https://www.wwoz.org/events/1403901</link>
+<guid isPermaLink="false">49f2883d5534c48bf3a46307e4b64ecb0096a8ca</guid>
+<description>Venue: Chemin à la Mer at Four Seasons Hotel | Date: Sunday, November 8 | Time: 10:00am</description>
+<pubDate>Sun, 08 Nov 2026 10:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sunny Side Jazz Band — Café Negril</title>
-<link>https://www.wwoz.org/events/1410966</link>
-<guid isPermaLink="false">4af38d18a55e96fddd6e44947809bded805bb81b</guid>
-<description>Venue: Café Negril | Date: Saturday, November 7 | Time: 6:00pm</description>
-<pubDate>Sat, 07 Nov 2026 18:00:00 +0000</pubDate>
+<title>Rhett Miller with Paul Sanchez — Chickie Wah Wah</title>
+<link>https://www.wwoz.org/events/1401141</link>
+<guid isPermaLink="false">c584676e0f153706ccb4a8dfab32204ff9c9e413</guid>
+<description>Venue: Chickie Wah Wah | Date: Sunday, November 8 | Time: 8:00pm</description>
+<pubDate>Sun, 08 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Zena Moses &amp; Rue Fiya — Café Negril</title>
-<link>https://www.wwoz.org/events/1410971</link>
-<guid isPermaLink="false">52689c9b30740c3f70ea074e512dfa6637d3e030</guid>
-<description>Venue: Café Negril | Date: Saturday, November 7 | Time: 10:00pm</description>
-<pubDate>Sat, 07 Nov 2026 22:00:00 +0000</pubDate>
+<title>Emily Mikesell’s Ambient Orchestra — Church at Hotel Peter &amp; Paul, The</title>
+<link>https://www.wwoz.org/events/1408691</link>
+<guid isPermaLink="false">734e16027666f7242162b9545090528f535046e7</guid>
+<description>Venue: Church at Hotel Peter &amp; Paul, The | Date: Sunday, November 8 | Time: 7:30pm</description>
+<pubDate>Sun, 08 Nov 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Just Kidding &amp; Friends — Carrollton Station</title>
-<link>https://www.wwoz.org/events/1407036</link>
-<guid isPermaLink="false">eaa9aa87a5d2a7be32d8150c96bab7e9ce90c36f</guid>
-<description>Venue: Carrollton Station | Date: Saturday, November 7 | Time: 8:00pm</description>
-<pubDate>Sat, 07 Nov 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>The Satin Strings — Chemin à la Mer at Four Seasons Hotel</title>
-<link>https://www.wwoz.org/events/1403856</link>
-<guid isPermaLink="false">eaf6974811c3f468616fc79903c6572ba7277018</guid>
-<description>Venue: Chemin à la Mer at Four Seasons Hotel | Date: Saturday, November 7 | Time: 10:00am</description>
-<pubDate>Sat, 07 Nov 2026 10:00:00 +0000</pubDate>
-</item>
-<item>
-<title>David Nail: Down To The Studs — Chickie Wah Wah</title>
-<link>https://www.wwoz.org/events/1361681</link>
-<guid isPermaLink="false">e188357a8acabf0e905bbe30da56025216a7ff77</guid>
-<description>Venue: Chickie Wah Wah | Date: Saturday, November 7 | Time: 9:00pm</description>
-<pubDate>Sat, 07 Nov 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Beignet Fest ft. Imagination Movers, Amanda Shaw, Maggie Koerner &amp; More! — City Park - Festival Grounds (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1401806</link>
-<guid isPermaLink="false">a0b9a56cc6972777b25bfe86883f5f59a53bc848</guid>
-<description>Venue: City Park - Festival Grounds (OUTDOORS) | Date: Saturday, November 7 | Time: 10:00am</description>
-<pubDate>Sat, 07 Nov 2026 10:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Ashley Beach — Community Farmers Market - Marigny (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1406561</link>
-<guid isPermaLink="false">4a1f9bab2e9dbdea0f3a9912bb14886b87c9860b</guid>
-<description>Venue: Community Farmers Market - Marigny (OUTDOORS) | Date: Saturday, November 7 | Time: 12:00pm</description>
-<pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Ozone Songwriter Festival ft. Performances by Song Contest Finalists — Covington Trailhead (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1392516</link>
-<guid isPermaLink="false">d190ac3a54abac0e3b391f307a7c27b659181143</guid>
-<description>Venue: Covington Trailhead (OUTDOORS) | Date: Saturday, November 7 | Time: 6:00pm</description>
-<pubDate>Sat, 07 Nov 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Ozone Songwriter Festival ft. Dave Jordan &amp; The N.I.A. — Covington Trailhead (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1392511</link>
-<guid isPermaLink="false">2cf9e612ec6ceb695d92ea96b555607f0bcf1a71</guid>
-<description>Venue: Covington Trailhead (OUTDOORS) | Date: Saturday, November 7 | Time: 7:30pm</description>
-<pubDate>Sat, 07 Nov 2026 19:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Gene’s Mini Music Machine — Crescent City Brewhouse</title>
-<link>https://www.wwoz.org/events/1408626</link>
-<guid isPermaLink="false">955eb7ec7dce8c6185ad4ef74ad93784448ddd3c</guid>
-<description>Venue: Crescent City Brewhouse | Date: Saturday, November 7 | Time: 12:00pm</description>
-<pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+<title>Jamey St. Pierre — Constantinople Stage (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1390636</link>
+<guid isPermaLink="false">a623edb198fff9104b48a9523c518c6baf1831cd</guid>
+<description>Venue: Constantinople Stage (OUTDOORS) | Date: Sunday, November 8 | Time: 5:00pm</description>
+<pubDate>Sun, 08 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
 <title>The Andrew Salow Jazz Quartet — Crescent City Brewhouse</title>
-<link>https://www.wwoz.org/events/1408641</link>
-<guid isPermaLink="false">2e0d8df2aec21c4d131985dd1a9b687047a761a3</guid>
-<description>Venue: Crescent City Brewhouse | Date: Saturday, November 7 | Time: 6:00pm</description>
-<pubDate>Sat, 07 Nov 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1408656</link>
+<guid isPermaLink="false">6cb20ba6f494f0539f9a332a58909cd023c04b41</guid>
+<description>Venue: Crescent City Brewhouse | Date: Sunday, November 8 | Time: 12:00pm</description>
+<pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Young Lion Showcase — d.b.a.</title>
-<link>https://www.wwoz.org/events/1409051</link>
-<guid isPermaLink="false">2487756643b1c3d219013aec72c16de8cb23a46a</guid>
-<description>Venue: d.b.a. | Date: Saturday, November 7 | Time: 2:30pm</description>
-<pubDate>Sat, 07 Nov 2026 14:30:00 +0000</pubDate>
+<title>The Anna Helms Jazz Trio — Crescent City Brewhouse</title>
+<link>https://www.wwoz.org/events/1408671</link>
+<guid isPermaLink="false">ca13818010ee84e0e2dfca203369ea2de85b32a9</guid>
+<description>Venue: Crescent City Brewhouse | Date: Sunday, November 8 | Time: 6:00pm</description>
+<pubDate>Sun, 08 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Tuba Skinny — d.b.a.</title>
-<link>https://www.wwoz.org/events/1409071</link>
-<guid isPermaLink="false">665a250cb204e3649e97dddad24dc05efe87d218</guid>
-<description>Venue: d.b.a. | Date: Saturday, November 7 | Time: 6:00pm</description>
-<pubDate>Sat, 07 Nov 2026 18:00:00 +0000</pubDate>
+<title>Paradise Jazz Band — d.b.a.</title>
+<link>https://www.wwoz.org/events/1401036</link>
+<guid isPermaLink="false">81220847e72476c11dbd48a091cd18ca80857aa8</guid>
+<description>Venue: d.b.a. | Date: Sunday, November 8 | Time: 6:00pm</description>
+<pubDate>Sun, 08 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jeremy Davenport — Davenport Lounge at The Ritz-Carlton</title>
-<link>https://www.wwoz.org/events/1410346</link>
-<guid isPermaLink="false">355917f117f09a2107f46d8905709a4c9176504f</guid>
-<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Saturday, November 7 | Time: 8:00pm</description>
-<pubDate>Sat, 07 Nov 2026 20:00:00 +0000</pubDate>
+<title>The Jump Hounds — d.b.a.</title>
+<link>https://www.wwoz.org/events/1401051</link>
+<guid isPermaLink="false">1a0d8fd35ac719b886498156e2bc0414d6d9135e</guid>
+<description>Venue: d.b.a. | Date: Sunday, November 8 | Time: 9:30pm</description>
+<pubDate>Sun, 08 Nov 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>The Afrodiziac's Jazz — Dos Jefes</title>
-<link>https://www.wwoz.org/events/1406676</link>
-<guid isPermaLink="false">389c86fbe952e7b65177cd08c2428273f79afc5a</guid>
-<description>Venue: Dos Jefes | Date: Saturday, November 7 | Time: 9:00pm</description>
-<pubDate>Sat, 07 Nov 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>The Satin Strings — Double Dealer at the Orpheum Theater</title>
-<link>https://www.wwoz.org/events/1404626</link>
-<guid isPermaLink="false">e1914cd3e8784400874c91703bfd8c1cdef65b1a</guid>
-<description>Venue: Double Dealer at the Orpheum Theater | Date: Saturday, November 7 | Time: 9:30pm</description>
-<pubDate>Sat, 07 Nov 2026 21:30:00 +0000</pubDate>
+<title>Mikayla Braun — Dos Jefes</title>
+<link>https://www.wwoz.org/events/1406581</link>
+<guid isPermaLink="false">92dfea1266f6cd00f65c356895fc693e3d7b47d4</guid>
+<description>Venue: Dos Jefes | Date: Sunday, November 8 | Time: 8:00pm</description>
+<pubDate>Sun, 08 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Ozone Songwriter Festival — Downtown Covington (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1392501</link>
-<guid isPermaLink="false">37d999a1d563915350c639e9a988c439ae442664</guid>
-<description>Venue: Downtown Covington (OUTDOORS) | Date: Saturday, November 7 | Time: 11:00am</description>
-<pubDate>Sat, 07 Nov 2026 11:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1392506</link>
+<guid isPermaLink="false">e3fb65f48c585265498a51f4886c6e41fb7a35d7</guid>
+<description>Venue: Downtown Covington (OUTDOORS) | Date: Sunday, November 8 | Time: 11:00am</description>
+<pubDate>Sun, 08 Nov 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dead Men Don't Play Jazz — Favela Chic</title>
-<link>https://www.wwoz.org/events/1406986</link>
-<guid isPermaLink="false">85bb58300f489959a27e1780aed5241970152d75</guid>
-<description>Venue: Favela Chic | Date: Saturday, November 7 | Time: 4:00pm</description>
-<pubDate>Sat, 07 Nov 2026 16:00:00 +0000</pubDate>
+<title>Hypno Nun — Favela Chic</title>
+<link>https://www.wwoz.org/events/1408896</link>
+<guid isPermaLink="false">184e7ef8a3fbafbc1f08b45f3029f32a3c5d6a58</guid>
+<description>Venue: Favela Chic | Date: Sunday, November 8 | Time: 6:30pm</description>
+<pubDate>Sun, 08 Nov 2026 18:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Shorty &amp; The Giants — Favela Chic</title>
-<link>https://www.wwoz.org/events/1408866</link>
-<guid isPermaLink="false">1398c715a5c34b39a08116bb6429305f364f295f</guid>
-<description>Venue: Favela Chic | Date: Saturday, November 7 | Time: 7:00pm</description>
-<pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
+<title>Piper &amp; The Pickled Peppers — Favela Chic</title>
+<link>https://www.wwoz.org/events/1408931</link>
+<guid isPermaLink="false">6bd4e4e4a683e8caeb5e44e6c475e2ef5a8c9213</guid>
+<description>Venue: Favela Chic | Date: Sunday, November 8 | Time: 9:30pm</description>
+<pubDate>Sun, 08 Nov 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Thee Tim Brown Arrangement — Favela Chic</title>
-<link>https://www.wwoz.org/events/1408791</link>
-<guid isPermaLink="false">b6234ca8815da51685fe07ad91c9b1a7c2b9bbb1</guid>
-<description>Venue: Favela Chic | Date: Saturday, November 7 | Time: 10:00pm</description>
-<pubDate>Sat, 07 Nov 2026 22:00:00 +0000</pubDate>
+<title>Doyle Cooper Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1405416</link>
+<guid isPermaLink="false">b084ed7d81fbb29bf261e98e37dee2278096b605</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Sunday, November 8 | Time: 1:00pm</description>
+<pubDate>Sun, 08 Nov 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Steve DeTroy Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1405861</link>
-<guid isPermaLink="false">13e0f340b06950cc94743590c6acfe4666a8d059</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Saturday, November 7 | Time: 1:00pm</description>
-<pubDate>Sat, 07 Nov 2026 13:00:00 +0000</pubDate>
+<title>Sazerac Jazz Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1405476</link>
+<guid isPermaLink="false">4ed20ba08f323b6aca62fee6daf5e3a800429efe</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Sunday, November 8 | Time: 5:00pm</description>
+<pubDate>Sun, 08 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Bourbon Matinee Jazz Band with Chuck Brackman — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1405896</link>
-<guid isPermaLink="false">991ba9c70709ded8c4d2af48b5fda8d5a2af68ca</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Saturday, November 7 | Time: 5:00pm</description>
-<pubDate>Sat, 07 Nov 2026 17:00:00 +0000</pubDate>
+<title>Fritzel's All Star Band with Mike Fulton — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1405486</link>
+<guid isPermaLink="false">a39aa34109c73865f35e6156dc48ae0e183596d3</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Sunday, November 8 | Time: 8:00pm</description>
+<pubDate>Sun, 08 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Fritzel's All Star Band with Jamil Sharif — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1405696</link>
-<guid isPermaLink="false">1e4170386eebefc1cf951852db9cd847d185680a</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Saturday, November 7 | Time: 9:00pm</description>
-<pubDate>Sat, 07 Nov 2026 21:00:00 +0000</pubDate>
+<title>Hawthorne Heights - 20th Anniversary of If Only You Were Lonely — House of Blues</title>
+<link>https://www.wwoz.org/events/1343716</link>
+<guid isPermaLink="false">f0fe063f95f2fab6638018e3694f9625bfd505b6</guid>
+<description>Venue: House of Blues | Date: Sunday, November 8 | Time: 6:00pm</description>
+<pubDate>Sun, 08 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Them Ol' Ghosts + War Bunnies — Gasa Gasa</title>
-<link>https://www.wwoz.org/events/1409026</link>
-<guid isPermaLink="false">9d901fe9e923234816e42f64984ebd6c9ef7dc7e</guid>
-<description>Venue: Gasa Gasa | Date: Saturday, November 7 | Time: 9:00pm</description>
-<pubDate>Sat, 07 Nov 2026 21:00:00 +0000</pubDate>
+<title>Hot 8 Brass Band — Howlin' Wolf</title>
+<link>https://www.wwoz.org/events/1389176</link>
+<guid isPermaLink="false">79b215a4a97147414be5dc8ca7ebe86546c01c35</guid>
+<description>Venue: Howlin' Wolf | Date: Sunday, November 8 | Time: 10:30pm</description>
+<pubDate>Sun, 08 Nov 2026 22:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Jake Ryan — Gasa Gasa</title>
-<link>https://www.wwoz.org/events/1409031</link>
-<guid isPermaLink="false">4c1129563d285417fdd460ace99aaf95b7794d9f</guid>
-<description>Venue: Gasa Gasa | Date: Saturday, November 7 | Time: 11:30pm</description>
-<pubDate>Sat, 07 Nov 2026 23:30:00 +0000</pubDate>
+<title>Ten Spencer Quintet — Land of Dreams</title>
+<link>https://www.wwoz.org/events/1408456</link>
+<guid isPermaLink="false">53ed98206f9015fd03e187e13d9c008edd1bfd47</guid>
+<description>Venue: Land of Dreams | Date: Sunday, November 8 | Time: 7:00pm</description>
+<pubDate>Sun, 08 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Ado Soul &amp; The Tribe — Good Measure at The Barnett</title>
-<link>https://www.wwoz.org/events/1402066</link>
-<guid isPermaLink="false">af062d09f3f775e6a1ddc9180c47c6157e2cb0e6</guid>
-<description>Venue: Good Measure at The Barnett | Date: Saturday, November 7 | Time: 8:00pm</description>
-<pubDate>Sat, 07 Nov 2026 20:00:00 +0000</pubDate>
+<title>2nd Annual Big Easy Band Fest Finale Concert ft. The Bourgeois Honor Band — Loyola University - Louis J. Roussel Performance Hall</title>
+<link>https://www.wwoz.org/events/1409931</link>
+<guid isPermaLink="false">1a99272bf39a8fe87a66fb6fe48ce70b2ea9cc8e</guid>
+<description>Venue: Loyola University - Louis J. Roussel Performance Hall | Date: Sunday, November 8 | Time: 3:00pm</description>
+<pubDate>Sun, 08 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Devil Master + Ninth Circle + Pale Misery + Dracula — Holy Diver</title>
-<link>https://www.wwoz.org/events/1411486</link>
-<guid isPermaLink="false">df50890f142120c0e07a36f0b54dda0d10e19947</guid>
-<description>Venue: Holy Diver | Date: Saturday, November 7 | Time: 9:00pm</description>
-<pubDate>Sat, 07 Nov 2026 21:00:00 +0000</pubDate>
+<title>Carpenters Songbook: A Live Celebration — Mahalia Jackson Theater for the Performing Arts</title>
+<link>https://www.wwoz.org/events/1389946</link>
+<guid isPermaLink="false">6d67c8b8126cac6b61d4f7d8edcc86895d42dc0e</guid>
+<description>Venue: Mahalia Jackson Theater for the Performing Arts | Date: Sunday, November 8 | Time: 7:30pm</description>
+<pubDate>Sun, 08 Nov 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Kermit Ruffins &amp; The BBQ Swingers — Kermit's Tremé Mother-in-Law Lounge</title>
-<link>https://www.wwoz.org/events/1407441</link>
-<guid isPermaLink="false">0074b1e5434b26c218487dfa9da28993f2912863</guid>
-<description>Venue: Kermit's Tremé Mother-in-Law Lounge | Date: Saturday, November 7 | Time: 6:00pm</description>
-<pubDate>Sat, 07 Nov 2026 18:00:00 +0000</pubDate>
+<title>Smoking Time Jazz Club — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1405401</link>
+<guid isPermaLink="false">7cb46b71a4ba527a3cc489f6b0d00d78b63b3605</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Sunday, November 8 | Time: 2:30pm</description>
+<pubDate>Sun, 08 Nov 2026 14:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Patrick Cooper — Kerry Irish Pub</title>
-<link>https://www.wwoz.org/events/1406106</link>
-<guid isPermaLink="false">30eb492efbb9ed27b275bec956b8eba7d17e4d26</guid>
-<description>Venue: Kerry Irish Pub | Date: Saturday, November 7 | Time: 5:00pm</description>
-<pubDate>Sat, 07 Nov 2026 17:00:00 +0000</pubDate>
+<title>Big Joe Kennedy — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1405146</link>
+<guid isPermaLink="false">ca8417b00b04f43ad73ce53abf527590d0b81b11</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Sunday, November 8 | Time: 6:00pm</description>
+<pubDate>Sun, 08 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sonny Gullage &amp; the Blues Groovers — Land of Dreams</title>
-<link>https://www.wwoz.org/events/1408446</link>
-<guid isPermaLink="false">358bdeea6b5f15a88a02c69b4c1904168bb82b4d</guid>
-<description>Venue: Land of Dreams | Date: Saturday, November 7 | Time: 8:30pm</description>
-<pubDate>Sat, 07 Nov 2026 20:30:00 +0000</pubDate>
+<title>Mahogany Hall Swingsters ft. Roderick Paulin — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1405071</link>
+<guid isPermaLink="false">1f82bebd4c3af9d03eca3b3a0fd44ca869a7861b</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Sunday, November 8 | Time: 8:00pm</description>
+<pubDate>Sun, 08 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>(12am) 110 Brass Band — Land of Dreams</title>
-<link>https://www.wwoz.org/events/1408451</link>
-<guid isPermaLink="false">aeb7071f18622bb7d127b76596473e39ae8ef3bf</guid>
-<description>Venue: Land of Dreams | Date: Saturday, November 7 | Time: 11:45pm</description>
-<pubDate>Sat, 07 Nov 2026 23:45:00 +0000</pubDate>
+<title>Eight Dice Cloth — Maison, The</title>
+<link>https://www.wwoz.org/events/1407551</link>
+<guid isPermaLink="false">d00efefb8a37f154c87edf151569b0e1cd3b0e2c</guid>
+<description>Venue: Maison, The | Date: Sunday, November 8 | Time: 3:00pm</description>
+<pubDate>Sun, 08 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jeremy Short — Le Bon Temps Roulé</title>
-<link>https://www.wwoz.org/events/1383426</link>
-<guid isPermaLink="false">34ed90312137b259f5565fb241f2cbd7672014a7</guid>
-<description>Venue: Le Bon Temps Roulé | Date: Saturday, November 7 | Time: 11:00pm</description>
-<pubDate>Sat, 07 Nov 2026 23:00:00 +0000</pubDate>
+<title>Jenavieve &amp; The Winding Boys — Maison, The</title>
+<link>https://www.wwoz.org/events/1407556</link>
+<guid isPermaLink="false">4f8e018e8c3a97459b59c768c4fda08a4cb0b984</guid>
+<description>Venue: Maison, The | Date: Sunday, November 8 | Time: 6:00pm</description>
+<pubDate>Sun, 08 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Stephen Walker N'em — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1405356</link>
-<guid isPermaLink="false">5965e000206bfb27d7acf1834df60a2cc65a1f27</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Saturday, November 7 | Time: 3:00pm</description>
-<pubDate>Sat, 07 Nov 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Gerald French Trio — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1405376</link>
-<guid isPermaLink="false">c8e8f348cdf5767fbe6759e4afbe29d801e7caff</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Saturday, November 7 | Time: 7:00pm</description>
-<pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Mahogany Hall All Stars ft. Andrew Baham — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1405396</link>
-<guid isPermaLink="false">0c03df6ae5657e5d32792204e23cedaf9f0e8fe4</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Saturday, November 7 | Time: 9:30pm</description>
-<pubDate>Sat, 07 Nov 2026 21:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Clare McKinley — Maison, The</title>
-<link>https://www.wwoz.org/events/1407531</link>
-<guid isPermaLink="false">e9d412866ead4742f52d60705cdc1d73fd4915fd</guid>
-<description>Venue: Maison, The | Date: Saturday, November 7 | Time: 1:00pm</description>
-<pubDate>Sat, 07 Nov 2026 13:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Smoking Time Jazz Club — Maison, The</title>
-<link>https://www.wwoz.org/events/1407536</link>
-<guid isPermaLink="false">ac9329e4a7d32750f4c16e01e89ed8628515a3a9</guid>
-<description>Venue: Maison, The | Date: Saturday, November 7 | Time: 4:00pm</description>
-<pubDate>Sat, 07 Nov 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>The Feral House Cats — Maison, The</title>
-<link>https://www.wwoz.org/events/1407541</link>
-<guid isPermaLink="false">388d0c4f34d4a5b4cdd547c39d5976e17305c71a</guid>
-<description>Venue: Maison, The | Date: Saturday, November 7 | Time: 8:00pm</description>
-<pubDate>Sat, 07 Nov 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>DJ B Dot (Dot Dunnie) — Maison, The</title>
-<link>https://www.wwoz.org/events/1407546</link>
-<guid isPermaLink="false">46c906725b3a0f82efaa94172f0e5fe23a348687</guid>
-<description>Venue: Maison, The | Date: Saturday, November 7 | Time: 11:00pm</description>
-<pubDate>Sat, 07 Nov 2026 23:00:00 +0000</pubDate>
+<title>Higher Heights — Maison, The</title>
+<link>https://www.wwoz.org/events/1407561</link>
+<guid isPermaLink="false">bef3330f019ee2636ba027faaba7b870e4a31ce7</guid>
+<description>Venue: Maison, The | Date: Sunday, November 8 | Time: 9:00pm</description>
+<pubDate>Sun, 08 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>The Leroy Marshall Band — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1400546</link>
-<guid isPermaLink="false">5dcd235e91446d42917537a942744bd2034b809d</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Saturday, November 7 | Time: 3:15pm</description>
-<pubDate>Sat, 07 Nov 2026 15:15:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1400566</link>
+<guid isPermaLink="false">4f2be79a24b75f62834ab7618db7eeaf645e133a</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Sunday, November 8 | Time: 7:15pm</description>
+<pubDate>Sun, 08 Nov 2026 19:15:00 +0000</pubDate>
 </item>
 <item>
-<title>Danny Rubio &amp; the Catahoula Music Company — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1404616</link>
-<guid isPermaLink="false">8accd5d78b2a8d517054a042a6081b60469bd6aa</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Saturday, November 7 | Time: 8:00pm</description>
-<pubDate>Sat, 07 Nov 2026 20:00:00 +0000</pubDate>
+<title>Dave Jordan's Almost Acoustic — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1409661</link>
+<guid isPermaLink="false">227391a09658da671d6df77fdb296731e23c0560</guid>
+<description>Venue: Maple Leaf | Date: Sunday, November 8 | Time: 10:30am</description>
+<pubDate>Sun, 08 Nov 2026 10:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Soul Project — Maple Leaf</title>
-<link>https://www.wwoz.org/events/1407396</link>
-<guid isPermaLink="false">1634e0a1ef787597664644c5c20ccc0ac87a54ca</guid>
-<description>Venue: Maple Leaf | Date: Saturday, November 7 | Time: 8:00pm</description>
-<pubDate>Sat, 07 Nov 2026 20:00:00 +0000</pubDate>
+<title>Alvin Ford &amp; Friends ft. Jelly Joseph — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1409666</link>
+<guid isPermaLink="false">2a14755983747ce5314c017ed966651ee2e598ac</guid>
+<description>Venue: Maple Leaf | Date: Sunday, November 8 | Time: 3:30pm</description>
+<pubDate>Sun, 08 Nov 2026 15:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Russell Welch Gypsy Jazz — May Baily's Place</title>
-<link>https://www.wwoz.org/events/1408706</link>
-<guid isPermaLink="false">d2b2bd03335325c09283041682f5f0330c1be7b2</guid>
-<description>Venue: May Baily's Place | Date: Saturday, November 7 | Time: 8:30pm</description>
-<pubDate>Sat, 07 Nov 2026 20:30:00 +0000</pubDate>
+<title>Compulsion Trio with Stanton Moore, Skerik, Brian Hass — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1409671</link>
+<guid isPermaLink="false">5a735ddc42b48ee411007c9554c56ed01b28d2f5</guid>
+<description>Venue: Maple Leaf | Date: Sunday, November 8 | Time: 6:00pm</description>
+<pubDate>Sun, 08 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Contraflow — Mid-City Lanes Rock 'n' Bowl</title>
-<link>https://www.wwoz.org/events/1402501</link>
-<guid isPermaLink="false">9f9436cf99da8d28f1073bd55d50853086545c2a</guid>
-<description>Venue: Mid-City Lanes Rock 'n' Bowl | Date: Saturday, November 7 | Time: 8:30pm</description>
-<pubDate>Sat, 07 Nov 2026 20:30:00 +0000</pubDate>
+<title>Open Mic Night Hosted by Aleah Hyer — Neutral Ground Coffeehouse</title>
+<link>https://www.wwoz.org/events/1408001</link>
+<guid isPermaLink="false">24d57fc928a68259951a35e9217794134ddd1ee4</guid>
+<description>Venue: Neutral Ground Coffeehouse | Date: Sunday, November 8 | Time: 6:00pm</description>
+<pubDate>Sun, 08 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>2nd Annual Jazz Brunch ft. Kimchisoop Jazz Band — Mount Olivet Episcopal Church - Algiers</title>
-<link>https://www.wwoz.org/events/1394916</link>
-<guid isPermaLink="false">0c56281d8c9438fc8e9be473f06448ade19226d3</guid>
-<description>Venue: Mount Olivet Episcopal Church - Algiers | Date: Saturday, November 7 | Time: 11:00am</description>
-<pubDate>Sat, 07 Nov 2026 11:00:00 +0000</pubDate>
+<title>Oak Street Po-Boy Festival ft. Douggie's All-Star Band, George Porter Jr. &amp; His Runnin' Pardners, Keiko Komaki &amp; More! — Oak Street (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1376871</link>
+<guid isPermaLink="false">ba6bc571acdb870d680e7e7813871e6e71f82f13</guid>
+<description>Venue: Oak Street (OUTDOORS) | Date: Sunday, November 8 | Time: 10:00am</description>
+<pubDate>Sun, 08 Nov 2026 10:00:00 +0000</pubDate>
 </item>
 <item>
-<title>LPO Market Nights ft. Alexis &amp; The Sanity — New Orleans Jazz &amp; Blues Market</title>
-<link>https://www.wwoz.org/events/1393281</link>
-<guid isPermaLink="false">f2419314b7ef912078d63cdf096f190a594124ed</guid>
-<description>Venue: New Orleans Jazz &amp; Blues Market | Date: Saturday, November 7 | Time: 7:00pm</description>
-<pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
+<title>Irish Folk Jam &amp; Coffee — Okay Bar</title>
+<link>https://www.wwoz.org/events/1404961</link>
+<guid isPermaLink="false">df6c218cd5e1dbc525b8009fc5677a299b8b6cdd</guid>
+<description>Venue: Okay Bar | Date: Sunday, November 8 | Time: 3:00pm</description>
+<pubDate>Sun, 08 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sábado Gigante Hosted by Don Sevilla with VDJ Emotion &amp; DJ Danny — New Orleans Jazz &amp; Blues Market</title>
-<link>https://www.wwoz.org/events/1410546</link>
-<guid isPermaLink="false">22185c54d6a4cdf2e8af3c535d3bf933bf7ff5e1</guid>
-<description>Venue: New Orleans Jazz &amp; Blues Market | Date: Saturday, November 7 | Time: 11:00pm</description>
-<pubDate>Sat, 07 Nov 2026 23:00:00 +0000</pubDate>
+<title>Moon Soda + Scally + Mira Lazuli — Okay Bar</title>
+<link>https://www.wwoz.org/events/1406386</link>
+<guid isPermaLink="false">b6a168a8693901a04d1aa5ed685f44877d8ef85c</guid>
+<description>Venue: Okay Bar | Date: Sunday, November 8 | Time: 8:00pm</description>
+<pubDate>Sun, 08 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Drum Circle with Tim Brown, II — New Orleans Jazz National Historical Park</title>
-<link>https://www.wwoz.org/events/1406271</link>
-<guid isPermaLink="false">aca7a7218dd85fc9a8c06fa101139e600edfbe76</guid>
-<description>Venue: New Orleans Jazz National Historical Park | Date: Saturday, November 7 | Time: 10:30am</description>
-<pubDate>Sat, 07 Nov 2026 10:30:00 +0000</pubDate>
+<title>Open Mic Night with host Tom Andes — Old Arabi Lighthouse Records &amp; Books</title>
+<link>https://www.wwoz.org/events/1409841</link>
+<guid isPermaLink="false">033880051a37bb0eeb772189f003d2fba2c441b0</guid>
+<description>Venue: Old Arabi Lighthouse Records &amp; Books | Date: Sunday, November 8 | Time: 6:00pm</description>
+<pubDate>Sun, 08 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Maroons — New Orleans Jazz National Historical Park</title>
-<link>https://www.wwoz.org/events/1406286</link>
-<guid isPermaLink="false">ae5ade87830145af4be900a2d66d0ded5a0e9905</guid>
-<description>Venue: New Orleans Jazz National Historical Park | Date: Saturday, November 7 | Time: 3:00pm</description>
-<pubDate>Sat, 07 Nov 2026 15:00:00 +0000</pubDate>
+<title>Freudian Slips — Old Point Bar</title>
+<link>https://www.wwoz.org/events/1407591</link>
+<guid isPermaLink="false">302acdb22272df4124616089ab375453308d0691</guid>
+<description>Venue: Old Point Bar | Date: Sunday, November 8 | Time: 3:00pm</description>
+<pubDate>Sun, 08 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Big Sam’s Funky Nation — NOLA Brewing</title>
-<link>https://www.wwoz.org/events/1410561</link>
-<guid isPermaLink="false">8459ca4732ac1a8d704c0f6d72bb688c0ff111d6</guid>
-<description>Venue: NOLA Brewing | Date: Saturday, November 7 | Time: 9:30pm</description>
-<pubDate>Sat, 07 Nov 2026 21:30:00 +0000</pubDate>
+<title>Hannah Krieger-Benson, Lisa Bittick-Lowe &amp; Matt Hayden — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1410661</link>
+<guid isPermaLink="false">d00198effe5062d8bc8255e0cf6aacde4f667154</guid>
+<description>Venue: Pat O'Brien's | Date: Sunday, November 8 | Time: 5:30pm</description>
+<pubDate>Sun, 08 Nov 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Gal Holiday &amp; The Honky Tonk Revue — Old Point Bar</title>
-<link>https://www.wwoz.org/events/1407586</link>
-<guid isPermaLink="false">8f6168479d9462a1fec59ce70f579d4338d37fac</guid>
-<description>Venue: Old Point Bar | Date: Saturday, November 7 | Time: 9:00pm</description>
-<pubDate>Sat, 07 Nov 2026 21:00:00 +0000</pubDate>
+<title>Leroy Jones &amp; the Preservation Jazz Masters — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1403241</link>
+<guid isPermaLink="false">dc21556c97d5a428a75eebcaee3030b5f3154cba</guid>
+<description>Venue: Preservation Hall | Date: Sunday, November 8 | Time: 2:30pm</description>
+<pubDate>Sun, 08 Nov 2026 14:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Emelie Guidry + Jim Lockwood — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1410656</link>
-<guid isPermaLink="false">0cc61f2f870b3c59e0b25483c9aa8f9715510477</guid>
-<description>Venue: Pat O'Brien's | Date: Saturday, November 7 | Time: 1:00pm</description>
-<pubDate>Sat, 07 Nov 2026 13:00:00 +0000</pubDate>
+<title>Leroy Jones &amp; The Preservation Jazz Masters — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1404356</link>
+<guid isPermaLink="false">8b827ce81820b2a17fd00931ff9f0ffc469d4199</guid>
+<description>Venue: Preservation Hall | Date: Sunday, November 8 | Time: 3:45pm</description>
+<pubDate>Sun, 08 Nov 2026 15:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Matt Hayden &amp; Natalie Mae + Ben Michaels &amp; Lisa Bittick-Lowe — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1410651</link>
-<guid isPermaLink="false">e9ce8c8092949212f8cbf90db479647b9c21869b</guid>
-<description>Venue: Pat O'Brien's | Date: Saturday, November 7 | Time: 6:00pm</description>
-<pubDate>Sat, 07 Nov 2026 18:00:00 +0000</pubDate>
+<title>Preservation Legacy Band ft. Gregg Stafford — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1404261</link>
+<guid isPermaLink="false">900c7fbad025ed813c1c8532c63e4fc7b585c6ae</guid>
+<description>Venue: Preservation Hall | Date: Sunday, November 8 | Time: 5:00pm</description>
+<pubDate>Sun, 08 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Christian Coleman &amp; His Band — Paulie's</title>
-<link>https://www.wwoz.org/events/1411376</link>
-<guid isPermaLink="false">2ec64d6f114065fb36732299ed65d36ac56f1565</guid>
-<description>Venue: Paulie's | Date: Saturday, November 7 | Time: 11:30am</description>
-<pubDate>Sat, 07 Nov 2026 11:30:00 +0000</pubDate>
+<title>Preservation Legacy Band ft. Gregg Stafford — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1404266</link>
+<guid isPermaLink="false">0cdbeacc1d07eac725b537f997dc7fec5dc14bad</guid>
+<description>Venue: Preservation Hall | Date: Sunday, November 8 | Time: 6:15pm</description>
+<pubDate>Sun, 08 Nov 2026 18:15:00 +0000</pubDate>
 </item>
 <item>
-<title>Dusky Waters Release Party with Leyla McCalla — Pitot House</title>
-<link>https://www.wwoz.org/events/1410551</link>
-<guid isPermaLink="false">98c4e9bf50d8b030538f81010b3d6023f59af444</guid>
-<description>Venue: Pitot House | Date: Saturday, November 7 | Time: 5:00pm</description>
-<pubDate>Sat, 07 Nov 2026 17:00:00 +0000</pubDate>
+<title>Preservation Legacy Band ft. Gregg Stafford — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1404271</link>
+<guid isPermaLink="false">e217873d7575c0eea3f335bad12eafebc458f1df</guid>
+<description>Venue: Preservation Hall | Date: Sunday, November 8 | Time: 7:30pm</description>
+<pubDate>Sun, 08 Nov 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Wendell Brunious &amp; The Preservation Legacy Band — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1404391</link>
-<guid isPermaLink="false">416b4e91eb7f2f6eb2365c297fa5221cc795f084</guid>
-<description>Venue: Preservation Hall | Date: Saturday, November 7 | Time: 2:30pm</description>
-<pubDate>Sat, 07 Nov 2026 14:30:00 +0000</pubDate>
+<title>Ozone Songwriter Festival Wrap Party ft. Spoonfed Jr. + Open Mic — Ruby's Roadhouse</title>
+<link>https://www.wwoz.org/events/1392521</link>
+<guid isPermaLink="false">b5dec38a936fa8ab98222215b12446030b36242e</guid>
+<description>Venue: Ruby's Roadhouse | Date: Sunday, November 8 | Time: 5:00pm</description>
+<pubDate>Sun, 08 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Wendell Brunious &amp; The Preservation Legacy Band — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1404426</link>
-<guid isPermaLink="false">33fd84dbd160cb0ae2f0ac94a07800b81a6d13ad</guid>
-<description>Venue: Preservation Hall | Date: Saturday, November 7 | Time: 3:45pm</description>
-<pubDate>Sat, 07 Nov 2026 15:45:00 +0000</pubDate>
+<title>Drop That Beat feat. DJ Kidd — Santos Bar</title>
+<link>https://www.wwoz.org/events/1411426</link>
+<guid isPermaLink="false">cef9c96f9514581cdb83064fb396262c73dec4bf</guid>
+<description>Venue: Santos Bar | Date: Sunday, November 8 | Time: 8:00pm</description>
+<pubDate>Sun, 08 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1403071</link>
-<guid isPermaLink="false">3ed502bd4c64755648498bb89982a5b26f7b147f</guid>
-<description>Venue: Preservation Hall | Date: Saturday, November 7 | Time: 5:00pm</description>
-<pubDate>Sat, 07 Nov 2026 17:00:00 +0000</pubDate>
+<title>Bayou Manouche — Seawitch Restaurant &amp; Oyster Bar (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1407076</link>
+<guid isPermaLink="false">1f55e0bdcb1815aaacf7b5c43f0cb0c4bfb83268</guid>
+<description>Venue: Seawitch Restaurant &amp; Oyster Bar (OUTDOORS) | Date: Sunday, November 8 | Time: 12:00pm</description>
+<pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1403076</link>
-<guid isPermaLink="false">05bc5f87542593baf2d104c2c1a110434c0cb1b5</guid>
-<description>Venue: Preservation Hall | Date: Saturday, November 7 | Time: 6:15pm</description>
-<pubDate>Sat, 07 Nov 2026 18:15:00 +0000</pubDate>
+<title>Brad Walker &amp; Willis Delony — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1408506</link>
+<guid isPermaLink="false">6ef49c1efb1a85306381eecec8b2c3a8983cf177</guid>
+<description>Venue: Snug Harbor | Date: Sunday, November 8 | Time: 4:00pm</description>
+<pubDate>Sun, 08 Nov 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1403081</link>
-<guid isPermaLink="false">bacb7f9c34e71ef1d4f725ee3ffc3a0095f76ab0</guid>
-<description>Venue: Preservation Hall | Date: Saturday, November 7 | Time: 7:30pm</description>
-<pubDate>Sat, 07 Nov 2026 19:30:00 +0000</pubDate>
+<title>Charlie &amp; the Tropicales — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1408511</link>
+<guid isPermaLink="false">201303371c5adacc1d4e69e50157c90ba5c87796</guid>
+<description>Venue: Snug Harbor | Date: Sunday, November 8 | Time: 7:00pm</description>
+<pubDate>Sun, 08 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1403086</link>
-<guid isPermaLink="false">e16088f924a3d7cdf81f84951a9562d5af7b24ec</guid>
-<description>Venue: Preservation Hall | Date: Saturday, November 7 | Time: 8:45pm</description>
-<pubDate>Sat, 07 Nov 2026 20:45:00 +0000</pubDate>
+<title>Charlie &amp; the Tropicales — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1408516</link>
+<guid isPermaLink="false">e871d372ca79a70b5ddb5d968d823f5eb6b15a5c</guid>
+<description>Venue: Snug Harbor | Date: Sunday, November 8 | Time: 9:00pm</description>
+<pubDate>Sun, 08 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Après Ski with Sunday Scaries — Rabbit Hole, The</title>
-<link>https://www.wwoz.org/events/1402036</link>
-<guid isPermaLink="false">2988da32534c230d62c20ee58e907f2c7aceee03</guid>
-<description>Venue: Rabbit Hole, The | Date: Saturday, November 7 | Time: 3:00pm</description>
-<pubDate>Sat, 07 Nov 2026 15:00:00 +0000</pubDate>
+<title>Jacky Blaire &amp; The Hot Biscuits — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1409436</link>
+<guid isPermaLink="false">6d6110ee5442ebd84c79ca65a03c838d1d2bb909</guid>
+<description>Venue: Spotted Cat | Date: Sunday, November 8 | Time: 2:00pm</description>
+<pubDate>Sun, 08 Nov 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Punchis Banda Rave : Where Banda Meets EDM — Republic New Orleans</title>
-<link>https://www.wwoz.org/events/1401721</link>
-<guid isPermaLink="false">c115f570893f746d32a8d93e23fa088f2c86d6ac</guid>
-<description>Venue: Republic New Orleans | Date: Saturday, November 7 | Time: 10:00pm</description>
-<pubDate>Sat, 07 Nov 2026 22:00:00 +0000</pubDate>
+<title>Treme Brass Band — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1409441</link>
+<guid isPermaLink="false">1846e5b1400af9f714f4fccb4aaf1839024c6ab8</guid>
+<description>Venue: Spotted Cat | Date: Sunday, November 8 | Time: 6:00pm</description>
+<pubDate>Sun, 08 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Disney's The Lion King : The Musical — Saenger Theatre</title>
-<link>https://www.wwoz.org/events/1389921</link>
-<guid isPermaLink="false">fbca604f9cd4bc6e40cd021f90d2f0721b08da2c</guid>
-<description>Venue: Saenger Theatre | Date: Saturday, November 7 | Time: 2:00pm</description>
-<pubDate>Sat, 07 Nov 2026 14:00:00 +0000</pubDate>
+<title>Pat Casey &amp; The New Sound — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1409476</link>
+<guid isPermaLink="false">dd773f3664aebaca941d5078ef8caced35a23ff1</guid>
+<description>Venue: Spotted Cat | Date: Sunday, November 8 | Time: 9:00pm</description>
+<pubDate>Sun, 08 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Disney's The Lion King : The Musical — Saenger Theatre</title>
-<link>https://www.wwoz.org/events/1389926</link>
-<guid isPermaLink="false">445f085edb215c6020a38efb814d7e17871b7645</guid>
-<description>Venue: Saenger Theatre | Date: Saturday, November 7 | Time: 7:30pm</description>
-<pubDate>Sat, 07 Nov 2026 19:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Valparaiso Men's Chorus — Saturn Bar</title>
-<link>https://www.wwoz.org/events/1406336</link>
-<guid isPermaLink="false">e35eb4584ace2452f576716e9055fbd1c222d52e</guid>
-<description>Venue: Saturn Bar | Date: Saturday, November 7 | Time: 10:00pm</description>
-<pubDate>Sat, 07 Nov 2026 22:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Autumn Dominguez &amp; Seth Finch — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1408491</link>
-<guid isPermaLink="false">d4a6f883a1448856d57aec437024ef2c8719b524</guid>
-<description>Venue: Snug Harbor | Date: Saturday, November 7 | Time: 4:00pm</description>
-<pubDate>Sat, 07 Nov 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Alvin Batiste Birthday Tribute with the Wess Anderson Quintet — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1408501</link>
-<guid isPermaLink="false">a17da823b6446c02e302c15f742835ab83b9cf3b</guid>
-<description>Venue: Snug Harbor | Date: Saturday, November 7 | Time: 7:00pm</description>
-<pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Alvin Batiste Birthday Tribute with the Wess Anderson Quintet — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1408496</link>
-<guid isPermaLink="false">18ef15e07d975ddf19f2168f676c0f33d5d5133d</guid>
-<description>Venue: Snug Harbor | Date: Saturday, November 7 | Time: 9:00pm</description>
-<pubDate>Sat, 07 Nov 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Tulane University Pregame Homecoming Party ft. Uncle Mo — Special Venue</title>
-<link>https://www.wwoz.org/events/1412046</link>
-<guid isPermaLink="false">8094bc44216b1d1d4ddb7547066aeed54b44a7f9</guid>
-<description>Venue: Special Venue | Date: Saturday, November 7 | Time: 9:00am</description>
-<pubDate>Sat, 07 Nov 2026 09:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Sally Baby’s Silver Dollars — Special Venue</title>
-<link>https://www.wwoz.org/events/1400191</link>
-<guid isPermaLink="false">84ab13c0480592897f21ade5d11db1efbc54ab83</guid>
-<description>Venue: Special Venue | Date: Saturday, November 7 | Time: 4:00pm</description>
-<pubDate>Sat, 07 Nov 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Raymond Douillet Exhibition Closing with Live Music by the Freddie Lonzo Jazz Ensemble — Special Venue</title>
-<link>https://www.wwoz.org/events/1411301</link>
-<guid isPermaLink="false">1f56074a3eeec74b87f5751f166abc1671aa72a5</guid>
-<description>Venue: Special Venue | Date: Saturday, November 7 | Time: 7:00pm</description>
-<pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Twerk Thomson Band — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1409421</link>
-<guid isPermaLink="false">53017d3880d008d1a153d21f5842b1b71976e826</guid>
-<description>Venue: Spotted Cat | Date: Saturday, November 7 | Time: 2:00pm</description>
-<pubDate>Sat, 07 Nov 2026 14:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Amber Rachelle &amp; the Sweet Potatoes — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1409431</link>
-<guid isPermaLink="false">ebce619530c332917d7c319f962fe79ee9ade190</guid>
-<description>Venue: Spotted Cat | Date: Saturday, November 7 | Time: 6:00pm</description>
-<pubDate>Sat, 07 Nov 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Kid Chocolate &amp; The Free POC — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1409526</link>
-<guid isPermaLink="false">a6beeb84e8076a5e610747846052a4fd257aac8a</guid>
-<description>Venue: Spotted Cat | Date: Saturday, November 7 | Time: 10:00pm</description>
-<pubDate>Sat, 07 Nov 2026 22:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Jenavieve &amp; The Winding Boys — Three Muses</title>
-<link>https://www.wwoz.org/events/1407711</link>
-<guid isPermaLink="false">9d0ab313496efc13998637d2c769b9f979dcf1da</guid>
-<description>Venue: Three Muses | Date: Saturday, November 7 | Time: 7:30pm</description>
-<pubDate>Sat, 07 Nov 2026 19:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Dinosaur Jr. with Special Guest Stef Chura — Tipitina's</title>
-<link>https://www.wwoz.org/events/1365476</link>
-<guid isPermaLink="false">559f67f20df6484c5e354fc66dc55f718ac462c4</guid>
-<description>Venue: Tipitina's | Date: Saturday, November 7 | Time: 8:00pm</description>
-<pubDate>Sat, 07 Nov 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Mark Barrett &amp; The First Calls — Tropical Isle Bourbon</title>
-<link>https://www.wwoz.org/events/1406081</link>
-<guid isPermaLink="false">2138e6cc1f292f1fce01ce5326974477cf1fd071</guid>
-<description>Venue: Tropical Isle Bourbon | Date: Saturday, November 7 | Time: 7:00pm</description>
-<pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Krewe of Callas Opera Night — Trumpet &amp; Drum Coffee House</title>
-<link>https://www.wwoz.org/events/1407061</link>
-<guid isPermaLink="false">b50e126b0806a66e1121a91b5ed8aa4093c5be9f</guid>
-<description>Venue: Trumpet &amp; Drum Coffee House | Date: Saturday, November 7 | Time: 5:30pm</description>
-<pubDate>Sat, 07 Nov 2026 17:30:00 +0000</pubDate>
+<title>Perry Gordon — Three Muses</title>
+<link>https://www.wwoz.org/events/1407716</link>
+<guid isPermaLink="false">7e8bbc028d44c944fb1df9cbd855eb91b51083b9</guid>
+<description>Venue: Three Muses | Date: Sunday, November 8 | Time: 7:30pm</description>
+<pubDate>Sun, 08 Nov 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>The Van Ella Bordella: A Storyville Burlesque Musical — Twilight Room at The Allways Lounge</title>
-<link>https://www.wwoz.org/events/1402886</link>
-<guid isPermaLink="false">492ce30c006a516c7e26f6367f8dda55256d2601</guid>
-<description>Venue: Twilight Room at The Allways Lounge | Date: Saturday, November 7 | Time: 7:00pm</description>
-<pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1402891</link>
+<guid isPermaLink="false">a2c2593f8fea9b6fdf9bafb32c306cba9bed6136</guid>
+<description>Venue: Twilight Room at The Allways Lounge | Date: Sunday, November 8 | Time: 7:00pm</description>
+<pubDate>Sun, 08 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Brian Toval &amp; the Vision ft. Don Vappie — Venue Vapaille</title>
-<link>https://www.wwoz.org/events/1411206</link>
-<guid isPermaLink="false">537f5c4c77a6a9f486aff5c8a6a89f366c154c91</guid>
-<description>Venue: Venue Vapaille | Date: Saturday, November 7 | Time: 6:00pm</description>
-<pubDate>Sat, 07 Nov 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Marigny Hemenway + Beach Angel + Melissa Virginia &amp; Co. — Venusian Gardens Gallery</title>
-<link>https://www.wwoz.org/events/1399906</link>
-<guid isPermaLink="false">635ad428dc3582f428999d12543bf443207435dd</guid>
-<description>Venue: Venusian Gardens Gallery | Date: Saturday, November 7 | Time: 7:00pm</description>
-<pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Chris Alford, Stephanie Nilles, Jesse Morrow, Irina Kruchinina &amp; More! — Zeitgeist Multi-Disciplinary Arts Center</title>
-<link>https://www.wwoz.org/events/1404786</link>
-<guid isPermaLink="false">dbae5c1c43202a60147869f0d90013360a2a6aa7</guid>
-<description>Venue: Zeitgeist Multi-Disciplinary Arts Center | Date: Saturday, November 7 | Time: 8:00pm</description>
-<pubDate>Sat, 07 Nov 2026 20:00:00 +0000</pubDate>
+<title>Silent Movie Sunday : "The Bat" with a Live Piano Soundtrack by David Bradley — Zeitgeist Multi-Disciplinary Arts Center</title>
+<link>https://www.wwoz.org/events/1407841</link>
+<guid isPermaLink="false">78b40800ebb0fc65441288236a6ba7745c5d44c4</guid>
+<description>Venue: Zeitgeist Multi-Disciplinary Arts Center | Date: Sunday, November 8 | Time: 7:00pm</description>
+<pubDate>Sun, 08 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
