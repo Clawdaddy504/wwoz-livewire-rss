@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-11-09T06:24:49.851867+00:00",
-  "count": 50,
+  "generated_at": "2026-11-09T19:47:59.559925+00:00",
+  "count": 53,
   "events": [
     {
       "id": "9995da595d5c6c38c1e4ae470eb232b1623e2c85",
@@ -15,6 +15,30 @@
       "time_text": "8:00pm",
       "start": "2026-11-09T20:00:00+00:00",
       "description": "Venue: 21st Amendment | Date: Monday, November 9 | Time: 8:00pm"
+    },
+    {
+      "id": "5b3497b30b49bf489f1b93ea734f66128fce1c88",
+      "source": "wwoz",
+      "title": "The Dapper Dandies",
+      "venue": "30/90",
+      "venue_url": "https://www.wwoz.org/organizations/30-90",
+      "event_url": "https://www.wwoz.org/events/1412141",
+      "date_text": "Monday, November 9",
+      "time_text": "6:00pm",
+      "start": "2026-11-09T18:00:00+00:00",
+      "description": "Venue: 30/90 | Date: Monday, November 9 | Time: 6:00pm"
+    },
+    {
+      "id": "26fe22654f23bd33ff297e6d80ef0a47fe1351c3",
+      "source": "wwoz",
+      "title": "The Litt Band",
+      "venue": "30/90",
+      "venue_url": "https://www.wwoz.org/organizations/30-90",
+      "event_url": "https://www.wwoz.org/events/1412146",
+      "date_text": "Monday, November 9",
+      "time_text": "9:00pm",
+      "start": "2026-11-09T21:00:00+00:00",
+      "description": "Venue: 30/90 | Date: Monday, November 9 | Time: 9:00pm"
     },
     {
       "id": "c82ea63b068923a65273e033be1f7f447a260f2e",
@@ -183,6 +207,18 @@
       "time_text": "9:30pm",
       "start": "2026-11-09T21:30:00+00:00",
       "description": "Venue: d.b.a. | Date: Monday, November 9 | Time: 9:30pm"
+    },
+    {
+      "id": "9115533ac11ed6548120719bbc68ea523c16c68f",
+      "source": "wwoz",
+      "title": "Sporty's Brass Band",
+      "venue": "Da Jump Off Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/da-jump-lounge",
+      "event_url": "https://www.wwoz.org/events/1412221",
+      "date_text": "Monday, November 9",
+      "time_text": "9:30pm",
+      "start": "2026-11-09T21:30:00+00:00",
+      "description": "Venue: Da Jump Off Lounge | Date: Monday, November 9 | Time: 9:30pm"
     },
     {
       "id": "978fe86ca4a08061a75b925d2f38c33f8221f142",

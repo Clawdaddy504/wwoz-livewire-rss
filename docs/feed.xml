@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 09 Nov 2026 06:24:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 19:47:59 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>The Jelly Roll Stompers — 21st Amendment</title>
@@ -13,6 +13,20 @@
 <guid isPermaLink="false">9995da595d5c6c38c1e4ae470eb232b1623e2c85</guid>
 <description>Venue: 21st Amendment | Date: Monday, November 9 | Time: 8:00pm</description>
 <pubDate>Mon, 09 Nov 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Dapper Dandies — 30/90</title>
+<link>https://www.wwoz.org/events/1412141</link>
+<guid isPermaLink="false">5b3497b30b49bf489f1b93ea734f66128fce1c88</guid>
+<description>Venue: 30/90 | Date: Monday, November 9 | Time: 6:00pm</description>
+<pubDate>Mon, 09 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Litt Band — 30/90</title>
+<link>https://www.wwoz.org/events/1412146</link>
+<guid isPermaLink="false">26fe22654f23bd33ff297e6d80ef0a47fe1351c3</guid>
+<description>Venue: 30/90 | Date: Monday, November 9 | Time: 9:00pm</description>
+<pubDate>Mon, 09 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Betsy Propane's Smoke Show Cabaret — AllWays Lounge</title>
@@ -110,6 +124,13 @@
 <link>https://www.wwoz.org/events/1400856</link>
 <guid isPermaLink="false">078b309a3fe572d1d43acfad7182a97596d7a61b</guid>
 <description>Venue: d.b.a. | Date: Monday, November 9 | Time: 9:30pm</description>
+<pubDate>Mon, 09 Nov 2026 21:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Sporty's Brass Band — Da Jump Off Lounge</title>
+<link>https://www.wwoz.org/events/1412221</link>
+<guid isPermaLink="false">9115533ac11ed6548120719bbc68ea523c16c68f</guid>
+<description>Venue: Da Jump Off Lounge | Date: Monday, November 9 | Time: 9:30pm</description>
 <pubDate>Mon, 09 Nov 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
