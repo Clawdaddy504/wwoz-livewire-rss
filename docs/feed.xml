@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 09 Nov 2026 19:47:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 03:32:59 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>The Jelly Roll Stompers — 21st Amendment</title>
@@ -99,7 +99,7 @@
 <pubDate>Mon, 09 Nov 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Lou Barlow &amp; Bobby Bare Jr. with Hoist the King — Chickie Wah Wah</title>
+<title>Lou Barlow (of Dinosaur Jr.) &amp; Bobby Bare Jr. (of Guided by Voices) + Hoist the King — Chickie Wah Wah</title>
 <link>https://www.wwoz.org/events/1401146</link>
 <guid isPermaLink="false">b814422254749982710987d6339d8a763b79ffc9</guid>
 <description>Venue: Chickie Wah Wah | Date: Monday, November 9 | Time: 8:00pm</description>
@@ -316,7 +316,7 @@
 <pubDate>Mon, 09 Nov 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Scoochie Boochie — Siberia</title>
+<title>Scoochie Boochie + Alfred Banks + Groovebox — Siberia</title>
 <link>https://www.wwoz.org/events/1391746</link>
 <guid isPermaLink="false">ab1646ff27cca1f7b7c6e3c178121075c6ce019f</guid>
 <description>Venue: Siberia | Date: Monday, November 9 | Time: 9:00pm</description>
