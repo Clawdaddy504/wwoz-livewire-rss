@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-11-11T14:28:56.701292+00:00",
-  "count": 57,
+  "generated_at": "2026-11-11T21:56:41.025371+00:00",
+  "count": 60,
   "events": [
     {
       "id": "dfe479f03ee1c83e54ecee7bc6b77971884f628f",
@@ -101,6 +101,30 @@
       "description": "Venue: Blue Nile | Date: Wednesday, November 11 | Time: 9:00pm"
     },
     {
+      "id": "4b10e351df5aea1fb0fc3527b678ff1af918e14d",
+      "source": "wwoz",
+      "title": "The Blues Masters",
+      "venue": "Bourbon O Bar at The Bourbon Orleans Hotel",
+      "venue_url": "https://www.wwoz.org/organizations/bourbon-o-bar-bourbon-orleans-hotel",
+      "event_url": "https://www.wwoz.org/events/1413781",
+      "date_text": "Wednesday, November 11",
+      "time_text": "4:00pm",
+      "start": "2026-11-11T16:00:00+00:00",
+      "description": "Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Wednesday, November 11 | Time: 4:00pm"
+    },
+    {
+      "id": "09cabbab3c9c7f83aec3752cfb5b49d8f180690b",
+      "source": "wwoz",
+      "title": "Nina Hungerland",
+      "venue": "Bourbon O Bar at The Bourbon Orleans Hotel",
+      "venue_url": "https://www.wwoz.org/organizations/bourbon-o-bar-bourbon-orleans-hotel",
+      "event_url": "https://www.wwoz.org/events/1413786",
+      "date_text": "Wednesday, November 11",
+      "time_text": "8:00pm",
+      "start": "2026-11-11T20:00:00+00:00",
+      "description": "Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Wednesday, November 11 | Time: 8:00pm"
+    },
+    {
       "id": "d7e916e565c1fb85427d4c9637c5d20815804c18",
       "source": "wwoz",
       "title": "Gizinti Trio",
@@ -113,28 +137,16 @@
       "description": "Venue: Caf\u00e9 Degas | Date: Wednesday, November 11 | Time: 6:00pm"
     },
     {
-      "id": "b5dad9bee6e6ab10c29e9847f8c008c85545ca3c",
+      "id": "473f86b5e235bbd1975646da86750ad41b354bb1",
       "source": "wwoz",
       "title": "Jam-ilton",
       "venue": "Caf\u00e9 Negril",
       "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
       "event_url": "https://www.wwoz.org/events/1410996",
       "date_text": "Wednesday, November 11",
-      "time_text": "6:00pm",
-      "start": "2026-11-11T18:00:00+00:00",
-      "description": "Venue: Caf\u00e9 Negril | Date: Wednesday, November 11 | Time: 6:00pm"
-    },
-    {
-      "id": "a6768c2fa0138b786c33a69b35086e52d7870824",
-      "source": "wwoz",
-      "title": "Typically Booked",
-      "venue": "Caf\u00e9 Negril",
-      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
-      "event_url": "https://www.wwoz.org/events/1411001",
-      "date_text": "Wednesday, November 11",
-      "time_text": "9:30pm",
-      "start": "2026-11-11T21:30:00+00:00",
-      "description": "Venue: Caf\u00e9 Negril | Date: Wednesday, November 11 | Time: 9:30pm"
+      "time_text": "7:00pm",
+      "start": "2026-11-11T19:00:00+00:00",
+      "description": "Venue: Caf\u00e9 Negril | Date: Wednesday, November 11 | Time: 7:00pm"
     },
     {
       "id": "7909b9051bc5ce13c4b317d0d157124a7085fe75",
@@ -147,6 +159,18 @@
       "time_text": "4:00pm",
       "start": "2026-11-11T16:00:00+00:00",
       "description": "Venue: Cajun Boil House | Date: Wednesday, November 11 | Time: 4:00pm"
+    },
+    {
+      "id": "f7016218ae84f2b2824d6e26522a4652f23e0f42",
+      "source": "wwoz",
+      "title": "James Martin Band",
+      "venue": "Carousel Bar & Lounge at Hotel Monteleone",
+      "venue_url": "https://www.wwoz.org/organizations/carousel-bar-lounge-hotel-monteleone",
+      "event_url": "https://www.wwoz.org/events/1412986",
+      "date_text": "Wednesday, November 11",
+      "time_text": "8:00pm",
+      "start": "2026-11-11T20:00:00+00:00",
+      "description": "Venue: Carousel Bar & Lounge at Hotel Monteleone | Date: Wednesday, November 11 | Time: 8:00pm"
     },
     {
       "id": "50aeacb97bfb0be31adc8ec7b0e664aa210c9390",
@@ -223,7 +247,7 @@
     {
       "id": "f4632cf7466ac39c8d96d3071bfd29203f1fae44",
       "source": "wwoz",
-      "title": "Drop Inn Jam Session ft. Brandon Tarrel",
+      "title": "Drop Inn Jam Session ft. Brandon Tarell",
       "venue": "Dew Drop Inn Hotel & Lounge",
       "venue_url": "https://www.wwoz.org/organizations/dew-drop-inn-hotel-lounge",
       "event_url": "https://www.wwoz.org/events/1412396",
@@ -351,6 +375,18 @@
       "time_text": "7:00pm",
       "start": "2026-11-11T19:00:00+00:00",
       "description": "Venue: Howlin' Wolf - The Den | Date: Wednesday, November 11 | Time: 7:00pm"
+    },
+    {
+      "id": "52f7cb5cea8296a8b5950de097bdec05f0990fb8",
+      "source": "wwoz",
+      "title": "Funkin\u2019 it up with Big Sam",
+      "venue": "Jazz Playhouse",
+      "venue_url": "https://www.wwoz.org/organizations/jazz-playhouse",
+      "event_url": "https://www.wwoz.org/events/1413406",
+      "date_text": "Wednesday, November 11",
+      "time_text": "7:30pm",
+      "start": "2026-11-11T19:30:00+00:00",
+      "description": "Venue: Jazz Playhouse | Date: Wednesday, November 11 | Time: 7:30pm"
     },
     {
       "id": "034f4f150570c3f6bdac6d02a0fffdcc9d896823",

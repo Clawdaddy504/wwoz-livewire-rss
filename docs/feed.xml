@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 11 Nov 2026 14:28:56 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 21:56:41 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dr. Sick — 21st Amendment</title>
@@ -64,6 +64,20 @@
 <pubDate>Wed, 11 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
+<title>The Blues Masters — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1413781</link>
+<guid isPermaLink="false">4b10e351df5aea1fb0fc3527b678ff1af918e14d</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Wednesday, November 11 | Time: 4:00pm</description>
+<pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Nina Hungerland — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1413786</link>
+<guid isPermaLink="false">09cabbab3c9c7f83aec3752cfb5b49d8f180690b</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Wednesday, November 11 | Time: 8:00pm</description>
+<pubDate>Wed, 11 Nov 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Gizinti Trio — Café Degas</title>
 <link>https://www.wwoz.org/events/1391516</link>
 <guid isPermaLink="false">d7e916e565c1fb85427d4c9637c5d20815804c18</guid>
@@ -73,16 +87,9 @@
 <item>
 <title>Jam-ilton — Café Negril</title>
 <link>https://www.wwoz.org/events/1410996</link>
-<guid isPermaLink="false">b5dad9bee6e6ab10c29e9847f8c008c85545ca3c</guid>
-<description>Venue: Café Negril | Date: Wednesday, November 11 | Time: 6:00pm</description>
-<pubDate>Wed, 11 Nov 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Typically Booked — Café Negril</title>
-<link>https://www.wwoz.org/events/1411001</link>
-<guid isPermaLink="false">a6768c2fa0138b786c33a69b35086e52d7870824</guid>
-<description>Venue: Café Negril | Date: Wednesday, November 11 | Time: 9:30pm</description>
-<pubDate>Wed, 11 Nov 2026 21:30:00 +0000</pubDate>
+<guid isPermaLink="false">473f86b5e235bbd1975646da86750ad41b354bb1</guid>
+<description>Venue: Café Negril | Date: Wednesday, November 11 | Time: 7:00pm</description>
+<pubDate>Wed, 11 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Les Getrex — Cajun Boil House</title>
@@ -90,6 +97,13 @@
 <guid isPermaLink="false">7909b9051bc5ce13c4b317d0d157124a7085fe75</guid>
 <description>Venue: Cajun Boil House | Date: Wednesday, November 11 | Time: 4:00pm</description>
 <pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>James Martin Band — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1412986</link>
+<guid isPermaLink="false">f7016218ae84f2b2824d6e26522a4652f23e0f42</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Wednesday, November 11 | Time: 8:00pm</description>
+<pubDate>Wed, 11 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Cory Branan — Chickie Wah Wah</title>
@@ -134,7 +148,7 @@
 <pubDate>Wed, 11 Nov 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Drop Inn Jam Session ft. Brandon Tarrel — Dew Drop Inn Hotel &amp; Lounge</title>
+<title>Drop Inn Jam Session ft. Brandon Tarell — Dew Drop Inn Hotel &amp; Lounge</title>
 <link>https://www.wwoz.org/events/1412396</link>
 <guid isPermaLink="false">f4632cf7466ac39c8d96d3071bfd29203f1fae44</guid>
 <description>Venue: Dew Drop Inn Hotel &amp; Lounge | Date: Wednesday, November 11 | Time: 8:00pm</description>
@@ -209,6 +223,13 @@
 <guid isPermaLink="false">4bd46d82d8d2246d07a63e3293d4ea1ba0f58a71</guid>
 <description>Venue: Howlin' Wolf - The Den | Date: Wednesday, November 11 | Time: 7:00pm</description>
 <pubDate>Wed, 11 Nov 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Funkin’ it up with Big Sam — Jazz Playhouse</title>
+<link>https://www.wwoz.org/events/1413406</link>
+<guid isPermaLink="false">52f7cb5cea8296a8b5950de097bdec05f0990fb8</guid>
+<description>Venue: Jazz Playhouse | Date: Wednesday, November 11 | Time: 7:30pm</description>
+<pubDate>Wed, 11 Nov 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Solo Piano Barbecue Party with D.R. — Kermit's Tremé Mother-in-Law Lounge</title>
