@@ -5,420 +5,490 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 18 Nov 2026 00:56:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 11:39:58 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
-<title>Dave Hammer — 21st Amendment</title>
-<link>https://www.wwoz.org/events/1410926</link>
-<guid isPermaLink="false">36b0367a1dcc32f26d82233b55d88a410367788d</guid>
-<description>Venue: 21st Amendment | Date: Tuesday, November 17 | Time: 8:00pm</description>
-<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<title>Dr. Sick — 21st Amendment</title>
+<link>https://www.wwoz.org/events/1410841</link>
+<guid isPermaLink="false">eae8da55d63b89c22908adf9c5721708da666f1d</guid>
+<description>Venue: 21st Amendment | Date: Wednesday, November 18 | Time: 8:00pm</description>
+<pubDate>Wed, 18 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Hoz Effect — 30/90</title>
-<link>https://www.wwoz.org/events/1412516</link>
-<guid isPermaLink="false">84e419acf6bd28e3d5897747aa02338ac56b5298</guid>
-<description>Venue: 30/90 | Date: Tuesday, November 17 | Time: 6:00pm</description>
-<pubDate>Tue, 17 Nov 2026 18:00:00 +0000</pubDate>
+<title>The Joey Houck Band — 30/90</title>
+<link>https://www.wwoz.org/events/1412526</link>
+<guid isPermaLink="false">7d946b2b7bb0f08b771b0dffac81d571eebdc372</guid>
+<description>Venue: 30/90 | Date: Wednesday, November 18 | Time: 6:00pm</description>
+<pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Higher Heights — 30/90</title>
-<link>https://www.wwoz.org/events/1412521</link>
-<guid isPermaLink="false">946cf97c1571d8f8b1b49598c2f05d56aa3bbdbb</guid>
-<description>Venue: 30/90 | Date: Tuesday, November 17 | Time: 9:00pm</description>
-<pubDate>Tue, 17 Nov 2026 21:00:00 +0000</pubDate>
+<title>The Budz — 30/90</title>
+<link>https://www.wwoz.org/events/1412531</link>
+<guid isPermaLink="false">b189142b2e7ff0039e252ae06901622ff77b2cc1</guid>
+<description>Venue: 30/90 | Date: Wednesday, November 18 | Time: 9:00pm</description>
+<pubDate>Wed, 18 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jackson's Flying Circus ft. Mike Doussan — Apple Barrel</title>
-<link>https://www.wwoz.org/events/1414246</link>
-<guid isPermaLink="false">cb0b260f99ae0c837efeace69294331990671f9f</guid>
-<description>Venue: Apple Barrel | Date: Tuesday, November 17 | Time: 10:30pm</description>
-<pubDate>Tue, 17 Nov 2026 22:30:00 +0000</pubDate>
+<title>Jesse Morrow — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1403471</link>
+<guid isPermaLink="false">a5e4277561c24a35aaee93bd59029ce78bb4179f</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Wednesday, November 18 | Time: 6:00pm</description>
+<pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Blake Amos — Audubon Clubhouse by Dickie Brennan</title>
-<link>https://www.wwoz.org/events/1389781</link>
-<guid isPermaLink="false">ff86e0a14b124209693e489e459c6cccb1b4197b</guid>
-<description>Venue: Audubon Clubhouse by Dickie Brennan | Date: Tuesday, November 17 | Time: 4:30pm</description>
-<pubDate>Tue, 17 Nov 2026 16:30:00 +0000</pubDate>
+<title>Firm Roots ft. Peter Harris, Derek Douget, Dwight Fitch Jr. &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1407221</link>
+<guid isPermaLink="false">f135046a57e3ab31efe12453c20432ecdd64f672</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Wednesday, November 18 | Time: 8:00pm</description>
+<pubDate>Wed, 18 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Tangiers Combo — Bacchanal (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1403451</link>
-<guid isPermaLink="false">0397c4cd5a880322ec0525612bca9dd421631581</guid>
-<description>Venue: Bacchanal (OUTDOORS) | Date: Tuesday, November 17 | Time: 6:00pm</description>
-<pubDate>Tue, 17 Nov 2026 18:00:00 +0000</pubDate>
+<title>Firm Roots ft. Peter Harris, Derek Douget, Dwight Fitch Jr. &amp; More! — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1407216</link>
+<guid isPermaLink="false">f379ff94707b30557244e29abe92f0ff106fee54</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Wednesday, November 18 | Time: 10:00pm</description>
+<pubDate>Wed, 18 Nov 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Double Bird ft. Peter Harris, David Torkanowsky, Ashlin Parker &amp; Nygel Anderson — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1407336</link>
-<guid isPermaLink="false">75b85730dae8730e10b18c7622465857e306c54b</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Tuesday, November 17 | Time: 8:00pm</description>
-<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<title>Leonie Evans &amp; Friends — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1408386</link>
+<guid isPermaLink="false">c075635976791046f27723deafea6b636d482ca9</guid>
+<description>Venue: BJ's Lounge | Date: Wednesday, November 18 | Time: 9:00pm</description>
+<pubDate>Wed, 18 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Double Bird ft. Peter Harris, David Torkanowsky, Ashlin Parker &amp; Nygel Anderson — Bayou Bar at the Pontchartrain</title>
-<link>https://www.wwoz.org/events/1407341</link>
-<guid isPermaLink="false">48290d6cbdc84d97a3d60bf676efa21a8654da49</guid>
-<description>Venue: Bayou Bar at the Pontchartrain | Date: Tuesday, November 17 | Time: 10:00pm</description>
-<pubDate>Tue, 17 Nov 2026 22:00:00 +0000</pubDate>
+<title>Kota Dosa — Blue Nile</title>
+<link>https://www.wwoz.org/events/1408026</link>
+<guid isPermaLink="false">a6d5f20bf7f295d91dfe1c660690e83956df1a43</guid>
+<description>Venue: Blue Nile | Date: Wednesday, November 18 | Time: 9:00pm</description>
+<pubDate>Wed, 18 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Bruisey's Bottoms Up Open Mic — BJ's Lounge</title>
-<link>https://www.wwoz.org/events/1408256</link>
-<guid isPermaLink="false">39ee00d06859d0058ad623beaec2ecd8e2ea1c61</guid>
-<description>Venue: BJ's Lounge | Date: Tuesday, November 17 | Time: 9:00pm</description>
-<pubDate>Tue, 17 Nov 2026 21:00:00 +0000</pubDate>
+<title>Giselle Anguizola — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1413841</link>
+<guid isPermaLink="false">0a50a9761dbe35d0445d4d3c7b369bdc9b9ae253</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Wednesday, November 18 | Time: 4:00pm</description>
+<pubDate>Wed, 18 Nov 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Shawan Rice — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1413836</link>
-<guid isPermaLink="false">ab9b425c5ad84ff968d309290c495fb369490b0f</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Tuesday, November 17 | Time: 8:00pm</description>
-<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<title>Nina Hungerland — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1413846</link>
+<guid isPermaLink="false">55bd6e022a459d10752a20106efd6b4c25177883</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Wednesday, November 18 | Time: 8:00pm</description>
+<pubDate>Wed, 18 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Karen Stachel, Norbert Stachel &amp; LehCats — Café Istanbul</title>
-<link>https://www.wwoz.org/events/1406051</link>
-<guid isPermaLink="false">e6fce543d5bb9e7b8bd65fe1dbcf7136da73af8e</guid>
-<description>Venue: Café Istanbul | Date: Tuesday, November 17 | Time: 8:00pm</description>
-<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<title>Spoonfed Jr. — Buffa's</title>
+<link>https://www.wwoz.org/events/1407936</link>
+<guid isPermaLink="false">d80acf73abd1d84a9f6f87a3e669b243523f7827</guid>
+<description>Venue: Buffa's | Date: Wednesday, November 18 | Time: 7:00pm</description>
+<pubDate>Wed, 18 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Super-Most-Fantastic-Blues-N-Such Jam — Café Negril</title>
-<link>https://www.wwoz.org/events/1406866</link>
-<guid isPermaLink="false">547df1a37d365218523f5b5a1d98ebda3c3dd4de</guid>
-<description>Venue: Café Negril | Date: Tuesday, November 17 | Time: 7:00pm</description>
-<pubDate>Tue, 17 Nov 2026 19:00:00 +0000</pubDate>
+<title>Gizinti Trio — Café Degas</title>
+<link>https://www.wwoz.org/events/1391521</link>
+<guid isPermaLink="false">ca7a06e8e795e1e88452c9152cf2b297403c6403</guid>
+<description>Venue: Café Degas | Date: Wednesday, November 18 | Time: 6:00pm</description>
+<pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Dulce Ritmo — Café Negril</title>
+<link>https://www.wwoz.org/events/1411066</link>
+<guid isPermaLink="false">53d2bc6c0b01991912ce137f66d64dc3f62ef9be</guid>
+<description>Venue: Café Negril | Date: Wednesday, November 18 | Time: 6:00pm</description>
+<pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jam-ilton — Café Negril</title>
+<link>https://www.wwoz.org/events/1411071</link>
+<guid isPermaLink="false">265dfb8526defd95cedefe412056d550fe782839</guid>
+<description>Venue: Café Negril | Date: Wednesday, November 18 | Time: 9:30pm</description>
+<pubDate>Wed, 18 Nov 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Les Getrex — Cajun Boil House</title>
-<link>https://www.wwoz.org/events/1396926</link>
-<guid isPermaLink="false">78cfff68950e6ba1c8a3434a6b986071a7d5dac5</guid>
-<description>Venue: Cajun Boil House | Date: Tuesday, November 17 | Time: 4:00pm</description>
-<pubDate>Tue, 17 Nov 2026 16:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1396951</link>
+<guid isPermaLink="false">c8098e2a3250143b95b3653ac22c37abdd66c4e2</guid>
+<description>Venue: Cajun Boil House | Date: Wednesday, November 18 | Time: 4:00pm</description>
+<pubDate>Wed, 18 Nov 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Naomie April — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
-<link>https://www.wwoz.org/events/1413141</link>
-<guid isPermaLink="false">947f8eeb65ea356beab2a0c065fd277d35deecc8</guid>
-<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Tuesday, November 17 | Time: 8:00pm</description>
-<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<title>James Martin Band — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1412991</link>
+<guid isPermaLink="false">5b3d29e0c3b569ee97be0df9766102014f5dfb1d</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Wednesday, November 18 | Time: 8:00pm</description>
+<pubDate>Wed, 18 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Square Dance NOLA with Bogue Chitto — Church at Hotel Peter &amp; Paul, The</title>
-<link>https://www.wwoz.org/events/1410371</link>
-<guid isPermaLink="false">39966dd36d75a73a41d05641518c601fb9161927</guid>
-<description>Venue: Church at Hotel Peter &amp; Paul, The | Date: Tuesday, November 17 | Time: 7:30pm</description>
-<pubDate>Tue, 17 Nov 2026 19:30:00 +0000</pubDate>
+<title>Geovane Santos — Commons Club at Virgin Hotels New Orleans</title>
+<link>https://www.wwoz.org/events/1412106</link>
+<guid isPermaLink="false">1dba835eccef3cfb830065943b01974060073965</guid>
+<description>Venue: Commons Club at Virgin Hotels New Orleans | Date: Wednesday, November 18 | Time: 6:00pm</description>
+<pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Hot Mulligan with One Step Closer, Riley! &amp; Wakelee — Civic Theatre</title>
-<link>https://www.wwoz.org/events/1376911</link>
-<guid isPermaLink="false">cf0090232579a0ef38d19daa344b1c09821311d8</guid>
-<description>Venue: Civic Theatre | Date: Tuesday, November 17 | Time: 7:00pm</description>
-<pubDate>Tue, 17 Nov 2026 19:00:00 +0000</pubDate>
+<title>Silent Knight and Friends ft. Manny Faces — Courtyard Brewery</title>
+<link>https://www.wwoz.org/events/1414066</link>
+<guid isPermaLink="false">6fbf46af518eb137c8d19878520f55db6e05ebeb</guid>
+<description>Venue: Courtyard Brewery | Date: Wednesday, November 18 | Time: 6:00pm</description>
+<pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Ricky Knight Jazz Trio — Crescent City Brewhouse</title>
-<link>https://www.wwoz.org/events/1408531</link>
-<guid isPermaLink="false">afb6c21ec2c8a8f32b9bc25ab99eb81b8f8893b0</guid>
-<description>Venue: Crescent City Brewhouse | Date: Tuesday, November 17 | Time: 6:00pm</description>
-<pubDate>Tue, 17 Nov 2026 18:00:00 +0000</pubDate>
+<title>The Thomas Dunford Jazz Trio — Crescent City Brewhouse</title>
+<link>https://www.wwoz.org/events/1408586</link>
+<guid isPermaLink="false">0028aaf90ed8091735f203b5d59ed519f284935f</guid>
+<description>Venue: Crescent City Brewhouse | Date: Wednesday, November 18 | Time: 6:00pm</description>
+<pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>T Marie &amp; Bayou Juju — d.b.a.</title>
-<link>https://www.wwoz.org/events/1400646</link>
-<guid isPermaLink="false">6bb8bd21c90cdb1d17b0daecfc38f96909222dba</guid>
-<description>Venue: d.b.a. | Date: Tuesday, November 17 | Time: 6:00pm</description>
-<pubDate>Tue, 17 Nov 2026 18:00:00 +0000</pubDate>
+<title>Jenavieve &amp; The Winding Boys — d.b.a.</title>
+<link>https://www.wwoz.org/events/1409086</link>
+<guid isPermaLink="false">8b3ed7357ed677cbbc43b5d85639888e501c7bc2</guid>
+<description>Venue: d.b.a. | Date: Wednesday, November 18 | Time: 6:00pm</description>
+<pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Bras Band Brass Band — d.b.a.</title>
-<link>https://www.wwoz.org/events/1401071</link>
-<guid isPermaLink="false">e04f19c9f67784d314ef7804bfb17de54213c4ce</guid>
-<description>Venue: d.b.a. | Date: Tuesday, November 17 | Time: 9:00pm</description>
-<pubDate>Tue, 17 Nov 2026 21:00:00 +0000</pubDate>
+<title>The Next Level Band — d.b.a.</title>
+<link>https://www.wwoz.org/events/1400916</link>
+<guid isPermaLink="false">65e7f03fd3301865fd4be2bb7e4ce027b82504f9</guid>
+<description>Venue: d.b.a. | Date: Wednesday, November 18 | Time: 9:00pm</description>
+<pubDate>Wed, 18 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Toni Romiti — Dew Drop Inn Hotel &amp; Lounge</title>
-<link>https://www.wwoz.org/events/1414121</link>
-<guid isPermaLink="false">c116c523388519e9d71c978ab1c374982b951eae</guid>
-<description>Venue: Dew Drop Inn Hotel &amp; Lounge | Date: Tuesday, November 17 | Time: 6:00pm</description>
-<pubDate>Tue, 17 Nov 2026 18:00:00 +0000</pubDate>
+<title>Jeremy Davenport — Davenport Lounge at The Ritz-Carlton</title>
+<link>https://www.wwoz.org/events/1410211</link>
+<guid isPermaLink="false">18420b06677bb673ad61319913a83902a35c6840</guid>
+<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Wednesday, November 18 | Time: 5:30pm</description>
+<pubDate>Wed, 18 Nov 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Raphael Bas — Dos Jefes</title>
-<link>https://www.wwoz.org/events/1406631</link>
-<guid isPermaLink="false">76f888de461985d925f681329426800d92221401</guid>
-<description>Venue: Dos Jefes | Date: Tuesday, November 17 | Time: 8:30pm</description>
-<pubDate>Tue, 17 Nov 2026 20:30:00 +0000</pubDate>
+<title>Alex McMurray &amp; John Rankin — Deutsches Haus</title>
+<link>https://www.wwoz.org/events/1402826</link>
+<guid isPermaLink="false">0a753a309a2ca026dc7ee0a28063511b5c0931fa</guid>
+<description>Venue: Deutsches Haus | Date: Wednesday, November 18 | Time: 7:00pm</description>
+<pubDate>Wed, 18 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Booker &amp; Beyond: Cameron Watson — Ellis Marsalis Center for Music</title>
-<link>https://www.wwoz.org/events/1262581</link>
-<guid isPermaLink="false">6e9285642dd8e7636bdaa21ff5fd25e09b8a7132</guid>
-<description>Venue: Ellis Marsalis Center for Music | Date: Tuesday, November 17 | Time: 6:30pm</description>
-<pubDate>Tue, 17 Nov 2026 18:30:00 +0000</pubDate>
+<title>The Drop Inn Jam Session ft. Mississippi Rob — Dew Drop Inn Hotel &amp; Lounge</title>
+<link>https://www.wwoz.org/events/1414126</link>
+<guid isPermaLink="false">fe1fca5cbd961c7527bdff74f0a4d14f9f0366ba</guid>
+<description>Venue: Dew Drop Inn Hotel &amp; Lounge | Date: Wednesday, November 18 | Time: 8:00pm</description>
+<pubDate>Wed, 18 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Christian Coleman Band — Favela Chic</title>
-<link>https://www.wwoz.org/events/1408766</link>
-<guid isPermaLink="false">a3bdd1ce5e2f69b4a6ee5d22fadc8b43e569c139</guid>
-<description>Venue: Favela Chic | Date: Tuesday, November 17 | Time: 8:00pm</description>
-<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<title>Kris Tokarski — Dos Jefes</title>
+<link>https://www.wwoz.org/events/1406706</link>
+<guid isPermaLink="false">ada2940dc57849d856cb6aa1ad730175aadc5e29</guid>
+<description>Venue: Dos Jefes | Date: Wednesday, November 18 | Time: 8:30pm</description>
+<pubDate>Wed, 18 Nov 2026 20:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Better Late Than Jake — Favela Chic</title>
+<link>https://www.wwoz.org/events/1408781</link>
+<guid isPermaLink="false">b756629980a2b93256a21badea47bf0997160063</guid>
+<description>Venue: Favela Chic | Date: Wednesday, November 18 | Time: 8:00pm</description>
+<pubDate>Wed, 18 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Richard "Piano" Scott — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1405591</link>
-<guid isPermaLink="false">1ff9147573743e8367abfe4ce74cfa3cf30fbf49</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Tuesday, November 17 | Time: 1:00pm</description>
-<pubDate>Tue, 17 Nov 2026 13:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1405606</link>
+<guid isPermaLink="false">4f07fe9939af2e2edf674d0ec003d31437f1642e</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Wednesday, November 18 | Time: 1:00pm</description>
+<pubDate>Wed, 18 Nov 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Colin Myers Orchestra — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1405671</link>
-<guid isPermaLink="false">6e9ca0fb247ab9877d8e00c8bf83b9ebaa4eae43</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Tuesday, November 17 | Time: 5:00pm</description>
-<pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
+<title>Bourbon Street Stars — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1405781</link>
+<guid isPermaLink="false">5be21a8f97cff3ea918175a9e60eeb1ef7e25b59</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Wednesday, November 18 | Time: 5:00pm</description>
+<pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Fritzel's All Star Band with Jamil Sharif — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1405716</link>
-<guid isPermaLink="false">cccc8cc1d3638fc6953094baaf0d82ee06de7572</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Tuesday, November 17 | Time: 8:00pm</description>
-<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<title>Fritzel's All Star Band with Kevin Ray Clark — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1405731</link>
+<guid isPermaLink="false">f5589ed17f76b70e715c2fef522d2634c3a742e8</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Wednesday, November 18 | Time: 8:00pm</description>
+<pubDate>Wed, 18 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Rockin’ 1000 Jam — Hard Rock Cafe</title>
-<link>https://www.wwoz.org/events/1409936</link>
-<guid isPermaLink="false">7526b3a297852a67771bddb5d9186ea089d1939c</guid>
-<description>Venue: Hard Rock Cafe | Date: Tuesday, November 17 | Time: 8:00pm</description>
-<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<title>FIZZY + Gavin Eckler Organ Trio — Gasa Gasa</title>
+<link>https://www.wwoz.org/events/1409876</link>
+<guid isPermaLink="false">fed1a5af1a716c2e667c2d3d7ce08528ecc26bbe</guid>
+<description>Venue: Gasa Gasa | Date: Wednesday, November 18 | Time: 8:00pm</description>
+<pubDate>Wed, 18 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Sam Lobley Trio — Jazz Playhouse</title>
-<link>https://www.wwoz.org/events/1413516</link>
-<guid isPermaLink="false">bd2a461bcabd805ec15ca93ee6d24fb6cc302581</guid>
-<description>Venue: Jazz Playhouse | Date: Tuesday, November 17 | Time: 7:30pm</description>
-<pubDate>Tue, 17 Nov 2026 19:30:00 +0000</pubDate>
+<title>Commander Agares + Utuk Xul + Avernal Moon + Serpent Shrine — Holy Diver</title>
+<link>https://www.wwoz.org/events/1411531</link>
+<guid isPermaLink="false">0e7b17f2ec387e8062bcc5309f1dcd1fa20eb159</guid>
+<description>Venue: Holy Diver | Date: Wednesday, November 18 | Time: 10:00pm</description>
+<pubDate>Wed, 18 Nov 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Solo Piano Barbecue Party with Mike Jones — Kermit's Tremé Mother-in-Law Lounge</title>
-<link>https://www.wwoz.org/events/1410461</link>
-<guid isPermaLink="false">1a22731b742fe0328d88f22c7d3c02afe4e26dc6</guid>
-<description>Venue: Kermit's Tremé Mother-in-Law Lounge | Date: Tuesday, November 17 | Time: 3:00pm</description>
-<pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
+<title>Funkin’ it up with Big Sam — Jazz Playhouse</title>
+<link>https://www.wwoz.org/events/1413411</link>
+<guid isPermaLink="false">993da0300ec46f2f5f000cbff2dd79bdf64c1b99</guid>
+<description>Venue: Jazz Playhouse | Date: Wednesday, November 18 | Time: 7:30pm</description>
+<pubDate>Wed, 18 Nov 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Mojo Trio — Louie's Roadhouse at Creole Gardens</title>
-<link>https://www.wwoz.org/events/1412081</link>
-<guid isPermaLink="false">7fe27d001e2dc3b9aa78fc2ad2fec58600c3dbd5</guid>
-<description>Venue: Louie's Roadhouse at Creole Gardens | Date: Tuesday, November 17 | Time: 6:30pm</description>
-<pubDate>Tue, 17 Nov 2026 18:30:00 +0000</pubDate>
+<title>Kurt Vile &amp; The Violators — Joy Theater</title>
+<link>https://www.wwoz.org/events/1390011</link>
+<guid isPermaLink="false">33f9c0a8aa85f2a131cb71705350c6db7f793649</guid>
+<description>Venue: Joy Theater | Date: Wednesday, November 18 | Time: 7:30pm</description>
+<pubDate>Wed, 18 Nov 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Big Joe Kennedy — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1405161</link>
-<guid isPermaLink="false">4d219a013b1a731e0fa9ada8126ea70509fcec3a</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Tuesday, November 17 | Time: 6:00pm</description>
-<pubDate>Tue, 17 Nov 2026 18:00:00 +0000</pubDate>
+<title>Solo Piano Barbecue Party with D.R. — Kermit's Tremé Mother-in-Law Lounge</title>
+<link>https://www.wwoz.org/events/1410446</link>
+<guid isPermaLink="false">587535c5cfc92a2a73ab749e8f97dc9ab264673e</guid>
+<description>Venue: Kermit's Tremé Mother-in-Law Lounge | Date: Wednesday, November 18 | Time: 3:00pm</description>
+<pubDate>Wed, 18 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Joe Lastie's New Orleans Sound ft. Gregg Stafford — Mahogany Jazz Hall</title>
-<link>https://www.wwoz.org/events/1405191</link>
-<guid isPermaLink="false">aaa975d720fb63cce570032221dad9ad4dbadcb2</guid>
-<description>Venue: Mahogany Jazz Hall | Date: Tuesday, November 17 | Time: 8:00pm</description>
-<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<title>Tyler Thomson Septet — Land of Dreams</title>
+<link>https://www.wwoz.org/events/1412796</link>
+<guid isPermaLink="false">11f5437d6e668914b15957fe210d67d65b0cb357</guid>
+<description>Venue: Land of Dreams | Date: Wednesday, November 18 | Time: 7:00pm</description>
+<pubDate>Wed, 18 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jacky Blaire &amp; the Hot Biscuits — Maison, The</title>
-<link>https://www.wwoz.org/events/1411786</link>
-<guid isPermaLink="false">6f35e478993b73b599206c12a3aca7e269d27ab9</guid>
-<description>Venue: Maison, The | Date: Tuesday, November 17 | Time: 5:00pm</description>
-<pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
+<title>Raphael Bas — Lobby Lounge at JW Marriott</title>
+<link>https://www.wwoz.org/events/1361836</link>
+<guid isPermaLink="false">4b936d97b3cb108cbf15b959eecd84dfeb3fc492</guid>
+<description>Venue: Lobby Lounge at JW Marriott | Date: Wednesday, November 18 | Time: 6:00pm</description>
+<pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Paradise Jazz Band — Maison, The</title>
-<link>https://www.wwoz.org/events/1411816</link>
-<guid isPermaLink="false">79583763d642cfc3b39f4f0973cfc0f96a3cce2d</guid>
-<description>Venue: Maison, The | Date: Tuesday, November 17 | Time: 8:00pm</description>
-<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<title>Jazz at the Sandbar: Oscar Rossignoli — LSU New Orleans - The Sandbar at The Cove</title>
+<link>https://www.wwoz.org/events/1394856</link>
+<guid isPermaLink="false">b9c3a8240c04c5d80242cb692d640fd00c296b9b</guid>
+<description>Venue: LSU New Orleans - The Sandbar at The Cove | Date: Wednesday, November 18 | Time: 7:00pm</description>
+<pubDate>Wed, 18 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Danny Rubio &amp; the Catahoula Music Company — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1404566</link>
-<guid isPermaLink="false">af55892c89632c79ca1b2551dd46f3f4037c1437</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Tuesday, November 17 | Time: 8:00pm</description>
-<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<title>Paul Longstreth — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1405206</link>
+<guid isPermaLink="false">b4145c87d20a1674c3894b55e05024d60e20b396</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Wednesday, November 18 | Time: 6:00pm</description>
+<pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Very Good Tuesdays ft. Alex Wasily, Ari Teitel, Tony Hall &amp; More! — Maple Leaf</title>
-<link>https://www.wwoz.org/events/1409721</link>
-<guid isPermaLink="false">05e6cb41c706093dbc5001240d9cbcfc1224b4db</guid>
-<description>Venue: Maple Leaf | Date: Tuesday, November 17 | Time: 8:00pm</description>
-<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<title>Mahogany Hall All Stars ft. Tom Fischer — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1405241</link>
+<guid isPermaLink="false">87bdb69de7f57cf7f55748f4b3b27765f07af6c4</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Wednesday, November 18 | Time: 8:00pm</description>
+<pubDate>Wed, 18 Nov 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The New Orleans Rug Cutters — Maison, The</title>
+<link>https://www.wwoz.org/events/1411806</link>
+<guid isPermaLink="false">47d36e0272e520dbb0bfb86e9458a9e2a6801219</guid>
+<description>Venue: Maison, The | Date: Wednesday, November 18 | Time: 5:00pm</description>
+<pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Gene's Music Machine — Maison, The</title>
+<link>https://www.wwoz.org/events/1411836</link>
+<guid isPermaLink="false">3b5b81f4cf4db70471fa4b925dc66fb140f2ca72</guid>
+<description>Venue: Maison, The | Date: Wednesday, November 18 | Time: 7:00pm</description>
+<pubDate>Wed, 18 Nov 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Leroy Marshall Band — Maison Bourbon Jazz Club</title>
+<link>https://www.wwoz.org/events/1400516</link>
+<guid isPermaLink="false">956785db1c3d6ab30d0695e0cfed82f4db1ee1b7</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Wednesday, November 18 | Time: 8:00pm</description>
+<pubDate>Wed, 18 Nov 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Ashlar Organ Time ft. Chris Adkins &amp; Nygel Anderson — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1409736</link>
+<guid isPermaLink="false">996e991d207556380752158068cd66f2ca3b87c9</guid>
+<description>Venue: Maple Leaf | Date: Wednesday, November 18 | Time: 8:00pm</description>
+<pubDate>Wed, 18 Nov 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>ARÉNAS: Neta Elkayam &amp; the New Orleans Band — Marigny Opera House</title>
+<link>https://www.wwoz.org/events/1412376</link>
+<guid isPermaLink="false">4d1bb1322ea477537fdc6c0c8a160c331ff8bd54</guid>
+<description>Venue: Marigny Opera House | Date: Wednesday, November 18 | Time: 7:30pm</description>
+<pubDate>Wed, 18 Nov 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Irvin Mayfield ft. Kermit Ruffins — Mayfield's 208 Bourbon presented by Felix's</title>
-<link>https://www.wwoz.org/events/1402601</link>
-<guid isPermaLink="false">e3c431faca37be585bd4da0a5f5596e0a5b28679</guid>
-<description>Venue: Mayfield's 208 Bourbon presented by Felix's | Date: Tuesday, November 17 | Time: 6:00pm</description>
-<pubDate>Tue, 17 Nov 2026 18:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1402736</link>
+<guid isPermaLink="false">7015b179923bcfc51cae6a999f6d664e1ccb3ac9</guid>
+<description>Venue: Mayfield's 208 Bourbon presented by Felix's | Date: Wednesday, November 18 | Time: 6:00pm</description>
+<pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Javier Olando &amp; AsheSon — Mid-City Lanes Rock 'n' Bowl</title>
-<link>https://www.wwoz.org/events/1402436</link>
-<guid isPermaLink="false">19de79ba2ab8f2834993332c161cc02d4aaba07f</guid>
-<description>Venue: Mid-City Lanes Rock 'n' Bowl | Date: Tuesday, November 17 | Time: 8:00pm</description>
-<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<title>Sally Baby's Silver Dollars — New Orleans Jazz &amp; Blues Market</title>
+<link>https://www.wwoz.org/events/1414181</link>
+<guid isPermaLink="false">36d162259223af4990e15c1d30ad26d5c5a2850a</guid>
+<description>Venue: New Orleans Jazz &amp; Blues Market | Date: Wednesday, November 18 | Time: 7:30pm</description>
+<pubDate>Wed, 18 Nov 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>An Evening with Brian King &amp; Phil DeGruy — New Marigny Theatre</title>
-<link>https://www.wwoz.org/events/1412291</link>
-<guid isPermaLink="false">471c4554c03d47e2888c9cb91328c239fbe20a4c</guid>
-<description>Venue: New Marigny Theatre | Date: Tuesday, November 17 | Time: 7:00pm</description>
-<pubDate>Tue, 17 Nov 2026 19:00:00 +0000</pubDate>
+<title>JFA Concert: Karen Stachel, Norbert Stachel, and LehCats — New Orleans Jazz Museum</title>
+<link>https://www.wwoz.org/events/1403006</link>
+<guid isPermaLink="false">2f93f3d50f7991349bb530fe0a7e3816c811b4f5</guid>
+<description>Venue: New Orleans Jazz Museum | Date: Wednesday, November 18 | Time: 2:00pm</description>
+<pubDate>Wed, 18 Nov 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Tim Brown, II — New Orleans Jazz National Historical Park</title>
-<link>https://www.wwoz.org/events/1406191</link>
-<guid isPermaLink="false">34f25a99c7a090a05fe1809f7ddaf62daab91a50</guid>
-<description>Venue: New Orleans Jazz National Historical Park | Date: Tuesday, November 17 | Time: 1:00pm</description>
-<pubDate>Tue, 17 Nov 2026 13:00:00 +0000</pubDate>
+<title>Keiko Komaki Duo — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1406296</link>
+<guid isPermaLink="false">0c4b379d788b5c7c51deb61459a3a54ffca70c76</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Wednesday, November 18 | Time: 3:00pm</description>
+<pubDate>Wed, 18 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Arrowhead Jazz Band with Tim Brown II, Simon Lott &amp; Doyle Cooper — New Orleans Jazz National Historical Park</title>
-<link>https://www.wwoz.org/events/1406211</link>
-<guid isPermaLink="false">a7055acd454b92e068655ed79ccfa15293150ad4</guid>
-<description>Venue: New Orleans Jazz National Historical Park | Date: Tuesday, November 17 | Time: 3:00pm</description>
-<pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
+<title>Under the Canopy + Larrissa + Patrick Cooper &amp; More! — NOLA 'Nacular Art Gallery</title>
+<link>https://www.wwoz.org/events/1402301</link>
+<guid isPermaLink="false">5413a2f3601fd8ca6c2dae99844fa1e2ef605589</guid>
+<description>Venue: NOLA 'Nacular Art Gallery | Date: Wednesday, November 18 | Time: 7:00pm</description>
+<pubDate>Wed, 18 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Big Easy Stompers Line Dancing &amp; Lessons — Okay Bar</title>
-<link>https://www.wwoz.org/events/1404891</link>
-<guid isPermaLink="false">1a8c9b149b63cdf5229e70a6bfb2f81c3bcbfaae</guid>
-<description>Venue: Okay Bar | Date: Tuesday, November 17 | Time: 8:00pm</description>
-<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<title>Victoria Amato &amp; Jim Lockwood + Sydney McMath &amp; Ben Michaels — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1410701</link>
+<guid isPermaLink="false">ed91de2f66931be541b6621dbd002847a8b93b07</guid>
+<description>Venue: Pat O'Brien's | Date: Wednesday, November 18 | Time: 4:00pm</description>
+<pubDate>Wed, 18 Nov 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1403091</link>
-<guid isPermaLink="false">d0c62c3d0dc0305dd4b85b400b84c74dab8e57f8</guid>
-<description>Venue: Preservation Hall | Date: Tuesday, November 17 | Time: 5:00pm</description>
-<pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
+<title>(Cancelled) Ian Cunningham — Paulie's</title>
+<link>https://www.wwoz.org/events/1411396</link>
+<guid isPermaLink="false">029c42e3b81f0682ab06af162c056044663704c2</guid>
+<description>Venue: Paulie's | Date: Wednesday, November 18 | Time: 6:00pm</description>
+<pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1403096</link>
-<guid isPermaLink="false">3f85afdf62508b1b8e3071cb7708cdea51f26f3d</guid>
-<description>Venue: Preservation Hall | Date: Tuesday, November 17 | Time: 6:15pm</description>
-<pubDate>Tue, 17 Nov 2026 18:15:00 +0000</pubDate>
+<title>Mikayla Braun — Picnic Provisions &amp; Whiskey (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1382206</link>
+<guid isPermaLink="false">edf3607ae32cd9d6934ab262c9bf1c25bc251b60</guid>
+<description>Venue: Picnic Provisions &amp; Whiskey (OUTDOORS) | Date: Wednesday, November 18 | Time: 5:00pm</description>
+<pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1403101</link>
-<guid isPermaLink="false">ba7afa3c5619b1030a1000961b0411010ada3c0c</guid>
-<description>Venue: Preservation Hall | Date: Tuesday, November 17 | Time: 7:30pm</description>
-<pubDate>Tue, 17 Nov 2026 19:30:00 +0000</pubDate>
+<title>Preservation All-Stars ft. Branden Lewis — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1414281</link>
+<guid isPermaLink="false">703d421bfcfc466c1762500b7e3c0f47f117922d</guid>
+<description>Venue: Preservation Hall | Date: Wednesday, November 18 | Time: 5:00pm</description>
+<pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1403106</link>
-<guid isPermaLink="false">8c4df4784f8e4106fa5f570061c9aa41cdcd2423</guid>
-<description>Venue: Preservation Hall | Date: Tuesday, November 17 | Time: 8:45pm</description>
-<pubDate>Tue, 17 Nov 2026 20:45:00 +0000</pubDate>
+<title>Preservation All-Stars ft. Branden Lewis — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1414306</link>
+<guid isPermaLink="false">fb90b5141f875666e07a2a796a4d52395c007ca3</guid>
+<description>Venue: Preservation Hall | Date: Wednesday, November 18 | Time: 6:15pm</description>
+<pubDate>Wed, 18 Nov 2026 18:15:00 +0000</pubDate>
 </item>
 <item>
-<title>Rebirth Brass Band — Rabbit Hole, The</title>
-<link>https://www.wwoz.org/events/1389446</link>
-<guid isPermaLink="false">d77749d779328fbf88c922f95fca1d7550a441b8</guid>
-<description>Venue: Rabbit Hole, The | Date: Tuesday, November 17 | Time: 10:00pm</description>
-<pubDate>Tue, 17 Nov 2026 22:00:00 +0000</pubDate>
+<title>Preservation All-Stars ft. Branden Lewis — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1414311</link>
+<guid isPermaLink="false">ed9ec4325007c7357e1622a1eadf399467655443</guid>
+<description>Venue: Preservation Hall | Date: Wednesday, November 18 | Time: 7:30pm</description>
+<pubDate>Wed, 18 Nov 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Daisy Grenade + Boyish — Republic New Orleans</title>
-<link>https://www.wwoz.org/events/1391571</link>
-<guid isPermaLink="false">1481206a4a82b830142d4814cb2b3c9c1c9acc74</guid>
-<description>Venue: Republic New Orleans | Date: Tuesday, November 17 | Time: 8:00pm</description>
-<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<title>Preservation All-Stars ft. Branden Lewis — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1414316</link>
+<guid isPermaLink="false">294054631c33cb37cd90e609842a5be69b1ca138</guid>
+<description>Venue: Preservation Hall | Date: Wednesday, November 18 | Time: 8:45pm</description>
+<pubDate>Wed, 18 Nov 2026 20:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Rocky in Concert — Saenger Theatre</title>
-<link>https://www.wwoz.org/events/1389931</link>
-<guid isPermaLink="false">4aa19fa6fd8032d31caad5368c76a2ec842b7e16</guid>
-<description>Venue: Saenger Theatre | Date: Tuesday, November 17 | Time: 7:30pm</description>
-<pubDate>Tue, 17 Nov 2026 19:30:00 +0000</pubDate>
+<title>Chambre Noir with PACO — Santos Bar</title>
+<link>https://www.wwoz.org/events/1411436</link>
+<guid isPermaLink="false">9c25b841f2560ea986a19cc02abe58af1087e7e9</guid>
+<description>Venue: Santos Bar | Date: Wednesday, November 18 | Time: 10:00pm</description>
+<pubDate>Wed, 18 Nov 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Silver Lining Serenaders — Salon Salon</title>
-<link>https://www.wwoz.org/events/1411256</link>
-<guid isPermaLink="false">36815c6029e156457b24b5cdd2264fd2d83ccdb2</guid>
-<description>Venue: Salon Salon | Date: Tuesday, November 17 | Time: 7:00pm</description>
-<pubDate>Tue, 17 Nov 2026 19:00:00 +0000</pubDate>
+<title>Fiddler's Green + Toothbug &amp; Friends — Saturn Bar</title>
+<link>https://www.wwoz.org/events/1406361</link>
+<guid isPermaLink="false">5501bd88ffcc5d1938747d95f359cc1762a0e92b</guid>
+<description>Venue: Saturn Bar | Date: Wednesday, November 18 | Time: 9:00pm</description>
+<pubDate>Wed, 18 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Fatplastik Tape Release with Nail Club, Shining Fields &amp; More! — Siberia</title>
-<link>https://www.wwoz.org/events/1400276</link>
-<guid isPermaLink="false">d99dbd3a56aaa106ea2defcd9c1537bc7e5358ae</guid>
-<description>Venue: Siberia | Date: Tuesday, November 17 | Time: 8:00pm</description>
-<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<title>Blue &amp; Nickelus F — Siberia</title>
+<link>https://www.wwoz.org/events/1412326</link>
+<guid isPermaLink="false">6f36c5c5906c98bac38a9b930b70b1cf73845fd4</guid>
+<description>Venue: Siberia | Date: Wednesday, November 18 | Time: 9:00pm</description>
+<pubDate>Wed, 18 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Karen Shiraishi - Quintet Album Release — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1410076</link>
-<guid isPermaLink="false">96ad64924cee99bca188724af7c561d2477249ea</guid>
-<description>Venue: Snug Harbor | Date: Tuesday, November 17 | Time: 7:00pm</description>
-<pubDate>Tue, 17 Nov 2026 19:00:00 +0000</pubDate>
+<title>Martin Krusche — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1410081</link>
+<guid isPermaLink="false">f6b9152ec24aa4f58af8f4e8817bfb8add54a063</guid>
+<description>Venue: Snug Harbor | Date: Wednesday, November 18 | Time: 4:30pm</description>
+<pubDate>Wed, 18 Nov 2026 16:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Karen Shiraishi - Quintet Album Release — Snug Harbor</title>
-<link>https://www.wwoz.org/events/1410071</link>
-<guid isPermaLink="false">ad9966214dcabcc905d30483a674c71ff05bbe06</guid>
-<description>Venue: Snug Harbor | Date: Tuesday, November 17 | Time: 9:00pm</description>
-<pubDate>Tue, 17 Nov 2026 21:00:00 +0000</pubDate>
+<title>Uptown Jazz Orchestra with Terrance Taplin — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1410091</link>
+<guid isPermaLink="false">e63ce84e627aa429857fe653a9cb57f8b0a368ae</guid>
+<description>Venue: Snug Harbor | Date: Wednesday, November 18 | Time: 7:00pm</description>
+<pubDate>Wed, 18 Nov 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Uptown Jazz Orchestra with Terrance Taplin — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1410086</link>
+<guid isPermaLink="false">9dd9a760c18a583c748fa5b20160892b02ba29a6</guid>
+<description>Venue: Snug Harbor | Date: Wednesday, November 18 | Time: 9:00pm</description>
+<pubDate>Wed, 18 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Chris Christy Band — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1409191</link>
-<guid isPermaLink="false">b35cd674c83787747b9c839c924f4f8a2460884e</guid>
-<description>Venue: Spotted Cat | Date: Tuesday, November 17 | Time: 2:00pm</description>
-<pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1409211</link>
+<guid isPermaLink="false">925500e75493aa08aea4b4f5104d8bd087972ecf</guid>
+<description>Venue: Spotted Cat | Date: Wednesday, November 18 | Time: 2:00pm</description>
+<pubDate>Wed, 18 Nov 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Sweetie Pies of New Orleans — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1409251</link>
-<guid isPermaLink="false">58a4e5ba046e345218a659ded7bba1bd493b11eb</guid>
-<description>Venue: Spotted Cat | Date: Tuesday, November 17 | Time: 6:00pm</description>
-<pubDate>Tue, 17 Nov 2026 18:00:00 +0000</pubDate>
+<title>Shotgun Jazz Band — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1409291</link>
+<guid isPermaLink="false">b964555f12c9e262fbf1b419b812aad0f2c5de45</guid>
+<description>Venue: Spotted Cat | Date: Wednesday, November 18 | Time: 6:00pm</description>
+<pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Smoking Time Jazz Club — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1409271</link>
-<guid isPermaLink="false">6d5254659b5c113696ba816a10e7ce2c85af1190</guid>
-<description>Venue: Spotted Cat | Date: Tuesday, November 17 | Time: 9:30pm</description>
-<pubDate>Tue, 17 Nov 2026 21:30:00 +0000</pubDate>
+<title>Marty Peters &amp; The Party Meters — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1409311</link>
+<guid isPermaLink="false">32e7ac6482dcd324f32d68bdf764bc0446fe0a16</guid>
+<description>Venue: Spotted Cat | Date: Wednesday, November 18 | Time: 9:30pm</description>
+<pubDate>Wed, 18 Nov 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Tif Lamson, James Singleton, Brian Haas &amp; Dr. Sick — Tigermen Den</title>
-<link>https://www.wwoz.org/events/1406741</link>
-<guid isPermaLink="false">bb2f628945eac6734a0de44ba381081ffe986be5</guid>
-<description>Venue: Tigermen Den | Date: Tuesday, November 17 | Time: 8:00pm</description>
-<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<title>Loyola's Uptown Threauxdown — Tipitina's</title>
+<link>https://www.wwoz.org/events/1412911</link>
+<guid isPermaLink="false">0feaa5f193710036ca5ac102fd4d8f1f7ae04679</guid>
+<description>Venue: Tipitina's | Date: Wednesday, November 18 | Time: 7:00pm</description>
+<pubDate>Wed, 18 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dave Ferrato — Tropical Isle Original</title>
-<link>https://www.wwoz.org/events/1409621</link>
-<guid isPermaLink="false">95ad7d95fd1b4c9658912b30f319a3c171bf2113</guid>
-<description>Venue: Tropical Isle Original | Date: Tuesday, November 17 | Time: 7:00pm</description>
-<pubDate>Tue, 17 Nov 2026 19:00:00 +0000</pubDate>
+<title>Dave Ferrato — Tropical Isle Bourbon</title>
+<link>https://www.wwoz.org/events/1409651</link>
+<guid isPermaLink="false">a974e58fb43ba63465bbc6eb67210be270f5b483</guid>
+<description>Venue: Tropical Isle Bourbon | Date: Wednesday, November 18 | Time: 7:00pm</description>
+<pubDate>Wed, 18 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Cuttin' Up with the Youngbloods Release Show Afterparty — Vaughan's Lounge</title>
-<link>https://www.wwoz.org/events/1407801</link>
-<guid isPermaLink="false">fa48bd7e32e16a1104ddb1e83b5e0c27929b19bc</guid>
-<description>Venue: Vaughan's Lounge | Date: Tuesday, November 17 | Time: 11:00pm</description>
-<pubDate>Tue, 17 Nov 2026 23:00:00 +0000</pubDate>
+<title>Ugly Rumors — True South</title>
+<link>https://www.wwoz.org/events/1401576</link>
+<guid isPermaLink="false">00b31cebab98a17046880c1ebc0cbabaed284f30</guid>
+<description>Venue: True South | Date: Wednesday, November 18 | Time: 7:30pm</description>
+<pubDate>Wed, 18 Nov 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Robin Rapuzzi's Glo Worm Trio — Vaughan's Lounge</title>
+<link>https://www.wwoz.org/events/1407661</link>
+<guid isPermaLink="false">456516c164af5b2d609e714ba4a3f4e0fdbe19ea</guid>
+<description>Venue: Vaughan's Lounge | Date: Wednesday, November 18 | Time: 8:30pm</description>
+<pubDate>Wed, 18 Nov 2026 20:30:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
