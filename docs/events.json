@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-11-19T11:38:12.950703+00:00",
-  "count": 78,
+  "generated_at": "2026-11-19T20:35:01.149824+00:00",
+  "count": 80,
   "events": [
     {
       "id": "17a2934ff0f9e51733ebf778dbdc84e9ca4ca56b",
@@ -75,6 +75,18 @@
       "time_text": "10:30pm",
       "start": "2026-11-19T22:30:00+00:00",
       "description": "Venue: Apple Barrel | Date: Thursday, November 19 | Time: 10:30pm"
+    },
+    {
+      "id": "a32f2b7fa8a66f20fa819ed0c8fe8fa25e436a17",
+      "source": "wwoz",
+      "title": "Dusting Gaspard + Nether Hour",
+      "venue": "Avenue Pub",
+      "venue_url": "https://www.wwoz.org/organizations/avenue-pub",
+      "event_url": "https://www.wwoz.org/events/1414436",
+      "date_text": "Thursday, November 19",
+      "time_text": "7:30pm",
+      "start": "2026-11-19T19:30:00+00:00",
+      "description": "Venue: Avenue Pub | Date: Thursday, November 19 | Time: 7:30pm"
     },
     {
       "id": "71af283ad96b48bb4075685301cc984f87404e99",
@@ -879,6 +891,18 @@
       "time_text": "8:00pm",
       "start": "2026-11-19T20:00:00+00:00",
       "description": "Venue: Three Muses | Date: Thursday, November 19 | Time: 8:00pm"
+    },
+    {
+      "id": "94802de86eef9b6e71b9c0091e0da5c4b6e9176e",
+      "source": "wwoz",
+      "title": "Helen Gillet",
+      "venue": "Tigermen Den",
+      "venue_url": "https://www.wwoz.org/organizations/tigermen-den",
+      "event_url": "https://www.wwoz.org/events/1414451",
+      "date_text": "Thursday, November 19",
+      "time_text": "8:00pm",
+      "start": "2026-11-19T20:00:00+00:00",
+      "description": "Venue: Tigermen Den | Date: Thursday, November 19 | Time: 8:00pm"
     },
     {
       "id": "bab3d7ac397c1610455c4436f31339a7cfa939ff",

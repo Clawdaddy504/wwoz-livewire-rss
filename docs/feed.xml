@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 19 Nov 2026 11:38:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 20:35:01 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Big Joe Kennedy — 21st Amendment</title>
@@ -48,6 +48,13 @@
 <guid isPermaLink="false">a8ed7ddfbe4b7d4a38a60f45d28cd41ba217ea00</guid>
 <description>Venue: Apple Barrel | Date: Thursday, November 19 | Time: 10:30pm</description>
 <pubDate>Thu, 19 Nov 2026 22:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Dusting Gaspard + Nether Hour — Avenue Pub</title>
+<link>https://www.wwoz.org/events/1414436</link>
+<guid isPermaLink="false">a32f2b7fa8a66f20fa819ed0c8fe8fa25e436a17</guid>
+<description>Venue: Avenue Pub | Date: Thursday, November 19 | Time: 7:30pm</description>
+<pubDate>Thu, 19 Nov 2026 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Raphael Bas — Bacchanal (OUTDOORS)</title>
@@ -516,6 +523,13 @@
 <link>https://www.wwoz.org/events/1412471</link>
 <guid isPermaLink="false">80508b6fa77814e89b16b3c7b73e5b7bddcf244c</guid>
 <description>Venue: Three Muses | Date: Thursday, November 19 | Time: 8:00pm</description>
+<pubDate>Thu, 19 Nov 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Helen Gillet — Tigermen Den</title>
+<link>https://www.wwoz.org/events/1414451</link>
+<guid isPermaLink="false">94802de86eef9b6e71b9c0091e0da5c4b6e9176e</guid>
+<description>Venue: Tigermen Den | Date: Thursday, November 19 | Time: 8:00pm</description>
 <pubDate>Thu, 19 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
