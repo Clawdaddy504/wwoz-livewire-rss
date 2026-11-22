@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-11-21T19:14:17.767389+00:00",
-  "count": 108,
+  "generated_at": "2026-11-22T01:17:28.821284+00:00",
+  "count": 109,
   "events": [
     {
       "id": "6cec7ffd05abcf24e81d9973d707a046b927dd15",
@@ -487,7 +487,7 @@
     {
       "id": "f2d4178c3eda029acb359c4bb556fc83d189073e",
       "source": "wwoz",
-      "title": "Young Lion Showcase",
+      "title": "A Little Lagniappe ft. Deuce Brown & The Young Lions & More!",
       "venue": "d.b.a.",
       "venue_url": "https://www.wwoz.org/organizations/dba",
       "event_url": "https://www.wwoz.org/events/1409061",
@@ -595,7 +595,7 @@
     {
       "id": "01d24270ebfbcd82d0076e522b598685000547e5",
       "source": "wwoz",
-      "title": "Thee Tim Brown Arrangement",
+      "title": "DJ Tymonie",
       "venue": "Favela Chic",
       "venue_url": "https://www.wwoz.org/organizations/favela-chic",
       "event_url": "https://www.wwoz.org/events/1408811",
@@ -939,6 +939,18 @@
       "time_text": "11:00am",
       "start": "2026-11-21T11:00:00+00:00",
       "description": "Venue: New Orleans African American Museum | Date: Saturday, November 21 | Time: 11:00am"
+    },
+    {
+      "id": "f0ec2e4b611e3640fefaab5984424eff55f1683d",
+      "source": "wwoz",
+      "title": "S\u00e1bado Gigante Hosted by Don Sevilla with VDJ Emotion & DJ Danny",
+      "venue": "New Orleans Jazz & Blues Market",
+      "venue_url": "https://www.wwoz.org/organizations/new-orleans-jazz-blues-market",
+      "event_url": "https://www.wwoz.org/events/1414771",
+      "date_text": "Saturday, November 21",
+      "time_text": "11:00pm",
+      "start": "2026-11-21T23:00:00+00:00",
+      "description": "Venue: New Orleans Jazz & Blues Market | Date: Saturday, November 21 | Time: 11:00pm"
     },
     {
       "id": "298f373a76d90a749456a8a8d89e2aeb1710ef98",

@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 21 Nov 2026 19:14:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 01:17:28 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>John Lisi &amp; Delta Funk — 21st Amendment</title>
@@ -288,7 +288,7 @@
 <pubDate>Sat, 21 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Young Lion Showcase — d.b.a.</title>
+<title>A Little Lagniappe ft. Deuce Brown &amp; The Young Lions &amp; More! — d.b.a.</title>
 <link>https://www.wwoz.org/events/1409061</link>
 <guid isPermaLink="false">f2d4178c3eda029acb359c4bb556fc83d189073e</guid>
 <description>Venue: d.b.a. | Date: Saturday, November 21 | Time: 2:30pm</description>
@@ -351,7 +351,7 @@
 <pubDate>Sat, 21 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Thee Tim Brown Arrangement — Favela Chic</title>
+<title>DJ Tymonie — Favela Chic</title>
 <link>https://www.wwoz.org/events/1408811</link>
 <guid isPermaLink="false">01d24270ebfbcd82d0076e522b598685000547e5</guid>
 <description>Venue: Favela Chic | Date: Saturday, November 21 | Time: 10:00pm</description>
@@ -552,6 +552,13 @@
 <guid isPermaLink="false">61006b97b99b1ba47304ae675ae364192df75263</guid>
 <description>Venue: New Orleans African American Museum | Date: Saturday, November 21 | Time: 11:00am</description>
 <pubDate>Sat, 21 Nov 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Sábado Gigante Hosted by Don Sevilla with VDJ Emotion &amp; DJ Danny — New Orleans Jazz &amp; Blues Market</title>
+<link>https://www.wwoz.org/events/1414771</link>
+<guid isPermaLink="false">f0ec2e4b611e3640fefaab5984424eff55f1683d</guid>
+<description>Venue: New Orleans Jazz &amp; Blues Market | Date: Saturday, November 21 | Time: 11:00pm</description>
+<pubDate>Sat, 21 Nov 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Drum Circle with Tim Brown, II — New Orleans Jazz National Historical Park</title>
