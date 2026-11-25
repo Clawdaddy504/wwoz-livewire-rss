@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-11-25T08:31:38.657713+00:00",
-  "count": 66,
+  "generated_at": "2026-11-25T19:14:34.133759+00:00",
+  "count": 67,
   "events": [
     {
       "id": "c7b17819dcfeefe8ce326971021c40f6fca3fc62",
@@ -507,6 +507,18 @@
       "time_text": "8:30pm",
       "start": "2026-11-25T20:30:00+00:00",
       "description": "Venue: Mid-City Lanes Rock 'n' Bowl | Date: Wednesday, November 25 | Time: 8:30pm"
+    },
+    {
+      "id": "c461e9946410b6fb1c04478462a22fc3755a8849",
+      "source": "wwoz",
+      "title": "Lynn Drury Original Music Only",
+      "venue": "MRB",
+      "venue_url": "https://www.wwoz.org/organizations/mrb",
+      "event_url": "https://www.wwoz.org/events/1415796",
+      "date_text": "Wednesday, November 25",
+      "time_text": "7:00pm",
+      "start": "2026-11-25T19:00:00+00:00",
+      "description": "Venue: MRB | Date: Wednesday, November 25 | Time: 7:00pm"
     },
     {
       "id": "8bf5395b0ac318a8ade139472a762dbb63b5c6e6",

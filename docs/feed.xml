@@ -5,7 +5,7 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 25 Nov 2026 08:31:38 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 19:14:34 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
 <title>Dr. Sick — 21st Amendment</title>
@@ -300,6 +300,13 @@
 <guid isPermaLink="false">cc8e6a6f45b0248445f1a7b66790b64ebb3b2a63</guid>
 <description>Venue: Mid-City Lanes Rock 'n' Bowl | Date: Wednesday, November 25 | Time: 8:30pm</description>
 <pubDate>Wed, 25 Nov 2026 20:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Lynn Drury Original Music Only — MRB</title>
+<link>https://www.wwoz.org/events/1415796</link>
+<guid isPermaLink="false">c461e9946410b6fb1c04478462a22fc3755a8849</guid>
+<description>Venue: MRB | Date: Wednesday, November 25 | Time: 7:00pm</description>
+<pubDate>Wed, 25 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Adam Rogers — New Orleans Jazz National Historical Park</title>
