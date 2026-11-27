@@ -1,8 +1,8 @@
 {
   "source": "wwoz",
   "source_url": "https://www.wwoz.org/calendar/livewire-music",
-  "generated_at": "2026-11-26T16:52:39.210291+00:00",
-  "count": 38,
+  "generated_at": "2026-11-27T01:42:51.816368+00:00",
+  "count": 37,
   "events": [
     {
       "id": "55a5ef657d1f214c10f9158ff09c7bdeaf55767e",
@@ -291,18 +291,6 @@
       "time_text": "8:00pm",
       "start": "2026-11-26T20:00:00+00:00",
       "description": "Venue: Maison Bourbon Jazz Club | Date: Thursday, November 26 | Time: 8:00pm"
-    },
-    {
-      "id": "0927b07fc6d8794cb04d02a2384cd34331b6e00f",
-      "source": "wwoz",
-      "title": "Turkey Jam ft. The New Orleans Suspects with George Porter Jr, River Eckert & More!",
-      "venue": "Maple Leaf",
-      "venue_url": "https://www.wwoz.org/organizations/maple-leaf",
-      "event_url": "https://www.wwoz.org/events/1414666",
-      "date_text": "Thursday, November 26",
-      "time_text": "9:00pm",
-      "start": "2026-11-26T21:00:00+00:00",
-      "description": "Venue: Maple Leaf | Date: Thursday, November 26 | Time: 9:00pm"
     },
     {
       "id": "ebb16d1cdd69e95f71bb527f192d4c7f55037db8",
