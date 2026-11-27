@@ -5,266 +5,693 @@
 <link>https://www.wwoz.org/calendar/livewire-music</link>
 <description>Unofficial RSS feed generated from the WWOZ Livewire Music Calendar page.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 27 Nov 2026 01:42:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 12:16:28 +0000</lastBuildDate>
 <generator>OpenClaw / wwoz_livewire_to_rss.py</generator>
 <item>
-<title>Bubbles Brown — Apple Barrel</title>
-<link>https://www.wwoz.org/events/1415776</link>
-<guid isPermaLink="false">55a5ef657d1f214c10f9158ff09c7bdeaf55767e</guid>
-<description>Venue: Apple Barrel | Date: Thursday, November 26 | Time: 6:00pm</description>
-<pubDate>Thu, 26 Nov 2026 18:00:00 +0000</pubDate>
+<title>The Red Clovers — 30/90</title>
+<link>https://www.wwoz.org/events/1412626</link>
+<guid isPermaLink="false">8accf2808dcb4bdb6bde7eebbeef7cbc759711a6</guid>
+<description>Venue: 30/90 | Date: Friday, November 27 | Time: 2:00pm</description>
+<pubDate>Fri, 27 Nov 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Johnny B — Apple Barrel</title>
-<link>https://www.wwoz.org/events/1415781</link>
-<guid isPermaLink="false">0ed9d3ce0cefc161c2751c9c417340fe35b28408</guid>
-<description>Venue: Apple Barrel | Date: Thursday, November 26 | Time: 10:00pm</description>
-<pubDate>Thu, 26 Nov 2026 22:00:00 +0000</pubDate>
+<title>KreweDeBauchery — 30/90</title>
+<link>https://www.wwoz.org/events/1412631</link>
+<guid isPermaLink="false">1a41a52c9496e250059b12cac81af9529a645613</guid>
+<description>Venue: 30/90 | Date: Friday, November 27 | Time: 5:00pm</description>
+<pubDate>Fri, 27 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>JJ &amp; the A-OKs — Bamboula's</title>
-<link>https://www.wwoz.org/events/1415786</link>
-<guid isPermaLink="false">65c7c267bdd24c2ea52ed8a3441caf9c3b9162d5</guid>
-<description>Venue: Bamboula's | Date: Thursday, November 26 | Time: 4:30pm</description>
-<pubDate>Thu, 26 Nov 2026 16:30:00 +0000</pubDate>
+<title>OTRA — 30/90</title>
+<link>https://www.wwoz.org/events/1399776</link>
+<guid isPermaLink="false">b60217097ad87f1332ed4f0d6b0102dc10ad477d</guid>
+<description>Venue: 30/90 | Date: Friday, November 27 | Time: 8:00pm</description>
+<pubDate>Fri, 27 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Wolfe Johns Band — Bamboula's</title>
-<link>https://www.wwoz.org/events/1415791</link>
-<guid isPermaLink="false">cd904f9f99190538076502a4830d860bef4ad238</guid>
-<description>Venue: Bamboula's | Date: Thursday, November 26 | Time: 9:00pm</description>
-<pubDate>Thu, 26 Nov 2026 21:00:00 +0000</pubDate>
+<title>The Soulcial Club — 30/90</title>
+<link>https://www.wwoz.org/events/1412641</link>
+<guid isPermaLink="false">71d1b0e1acd1f570e2d537cd38b37d05ce1c331d</guid>
+<description>Venue: 30/90 | Date: Friday, November 27 | Time: 11:00pm</description>
+<pubDate>Fri, 27 Nov 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Reggae Night with DJ T-Roy — Blue Nile</title>
-<link>https://www.wwoz.org/events/1408196</link>
-<guid isPermaLink="false">04771e6b566644f384cfaddf668d2955fdf65d01</guid>
-<description>Venue: Blue Nile | Date: Thursday, November 26 | Time: 11:00pm</description>
-<pubDate>Thu, 26 Nov 2026 23:00:00 +0000</pubDate>
+<title>Bayou Blues Burlesque ft. Live Music by The Delta Revues — AllWays Lounge</title>
+<link>https://www.wwoz.org/events/1415016</link>
+<guid isPermaLink="false">c3aa3797f3b597c3bcad7b105a779fdcb153f9cc</guid>
+<description>Venue: AllWays Lounge | Date: Friday, November 27 | Time: 8:00pm</description>
+<pubDate>Fri, 27 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Big Mike — Bourbon O Bar at The Bourbon Orleans Hotel</title>
-<link>https://www.wwoz.org/events/1413911</link>
-<guid isPermaLink="false">9d1715bb021f7bf6e9e3a92088bb40e555b8e8ab</guid>
-<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Thursday, November 26 | Time: 8:00pm</description>
-<pubDate>Thu, 26 Nov 2026 20:00:00 +0000</pubDate>
+<title>The New Orleans High Society (Live Jazz &amp; Burlesque) — AllWays Lounge</title>
+<link>https://www.wwoz.org/events/1415011</link>
+<guid isPermaLink="false">4bd7bbe01a6bdb4400b9395ea03c5123619a7945</guid>
+<description>Venue: AllWays Lounge | Date: Friday, November 27 | Time: 8:00pm</description>
+<pubDate>Fri, 27 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>A Very Neville Thanksgiving Dinner and a Show! — Café Negril</title>
-<link>https://www.wwoz.org/events/1411171</link>
-<guid isPermaLink="false">aed3e55896cfb1c56d5c7981daeadfdfbe3ec647</guid>
-<description>Venue: Café Negril | Date: Thursday, November 26 | Time: 4:00pm</description>
-<pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
+<title>Le Vampyre Cabaret presents: Vamp Lounge — AllWays Lounge</title>
+<link>https://www.wwoz.org/events/1415021</link>
+<guid isPermaLink="false">4eac926a4c5d63fbca8a7b1117e1852acb9a40a1</guid>
+<description>Venue: AllWays Lounge | Date: Friday, November 27 | Time: 11:00pm</description>
+<pubDate>Fri, 27 Nov 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Ado Soul &amp; the Tribe — Café Negril</title>
-<link>https://www.wwoz.org/events/1411176</link>
-<guid isPermaLink="false">da7b228ad5b887bc3a976a1f5612ffa855d3fe77</guid>
-<description>Venue: Café Negril | Date: Thursday, November 26 | Time: 9:00pm</description>
-<pubDate>Thu, 26 Nov 2026 21:00:00 +0000</pubDate>
+<title>David Sigler — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1403511</link>
+<guid isPermaLink="false">f5abcdf5276c8ed751dfdcd47bf5d2e155d1790f</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Friday, November 27 | Time: 1:00pm</description>
+<pubDate>Fri, 27 Nov 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Leslie Martin — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
-<link>https://www.wwoz.org/events/1413016</link>
-<guid isPermaLink="false">7da8358ce24abd40d52ef4550a483610e4ff5a91</guid>
-<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Thursday, November 26 | Time: 5:30pm</description>
-<pubDate>Thu, 26 Nov 2026 17:30:00 +0000</pubDate>
+<title>Willie Green III — Bacchanal (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1403546</link>
+<guid isPermaLink="false">66c63b8ac8f8a05b27e13c185216186902f109b2</guid>
+<description>Venue: Bacchanal (OUTDOORS) | Date: Friday, November 27 | Time: 7:00pm</description>
+<pubDate>Fri, 27 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Ed Wills Blues For Sale — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
-<link>https://www.wwoz.org/events/1413021</link>
-<guid isPermaLink="false">f29b8e0d72497bdb6350cd18bef304b88d0ad7df</guid>
-<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Thursday, November 26 | Time: 9:00pm</description>
-<pubDate>Thu, 26 Nov 2026 21:00:00 +0000</pubDate>
+<title>The New Orleans Rug Cutters — Bamboula's</title>
+<link>https://www.wwoz.org/events/1411336</link>
+<guid isPermaLink="false">e3135f38e30d08ce9bcca7cecbcf32c90423efbc</guid>
+<description>Venue: Bamboula's | Date: Friday, November 27 | Time: 11:00am</description>
+<pubDate>Fri, 27 Nov 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>David Torkanowsky — Chandelier Bar at Four Seasons Hotel</title>
-<link>https://www.wwoz.org/events/1414966</link>
-<guid isPermaLink="false">4e0017b4aba063d68c459f619d2be749a91ff975</guid>
-<description>Venue: Chandelier Bar at Four Seasons Hotel | Date: Thursday, November 26 | Time: 5:00pm</description>
-<pubDate>Thu, 26 Nov 2026 17:00:00 +0000</pubDate>
+<title>Les Getrex — Bamboula's</title>
+<link>https://www.wwoz.org/events/1405991</link>
+<guid isPermaLink="false">038b489a294f66e0083f43dd718c0ff7be3ccbaa</guid>
+<description>Venue: Bamboula's | Date: Friday, November 27 | Time: 6:30pm</description>
+<pubDate>Fri, 27 Nov 2026 18:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Caitie B.'s Funky Black Friday — Bamboula's</title>
+<link>https://www.wwoz.org/events/1415141</link>
+<guid isPermaLink="false">184d37cbe96fc4ea6507b8c9d256da3956a85a0f</guid>
+<description>Venue: Bamboula's | Date: Friday, November 27 | Time: 10:00pm</description>
+<pubDate>Fri, 27 Nov 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Honest Man Happy Hour with Domenic Fusca — Banks Street Bar</title>
+<link>https://www.wwoz.org/events/1415031</link>
+<guid isPermaLink="false">8946171de83e74302d28aa1b1bee93153881ae11</guid>
+<description>Venue: Banks Street Bar | Date: Friday, November 27 | Time: 4:00pm</description>
+<pubDate>Fri, 27 Nov 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Psydonia + Closur + All In The Family — Banks Street Bar</title>
+<link>https://www.wwoz.org/events/1415041</link>
+<guid isPermaLink="false">8f728273e5e2815b74b2eb6bd2fb90348e8001de</guid>
+<description>Venue: Banks Street Bar | Date: Friday, November 27 | Time: 8:00pm</description>
+<pubDate>Fri, 27 Nov 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Willie Mae’s Black Friday Classic Block Party ft. Brass-A-Holics + More! — Baronne Street (OUTDOORS), 800 Block</title>
+<link>https://www.wwoz.org/events/1414881</link>
+<guid isPermaLink="false">6b3073b40eb84c87564c8e12f93316cd917c9ae8</guid>
+<description>Venue: Baronne Street (OUTDOORS), 800 Block | Date: Friday, November 27 | Time: 12:00pm</description>
+<pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Hobo Gadget Junk Band — Bar Redux</title>
+<link>https://www.wwoz.org/events/1414416</link>
+<guid isPermaLink="false">d09fbe1f4af3448d1c47cb7196e2a696701da795</guid>
+<description>Venue: Bar Redux | Date: Friday, November 27 | Time: 9:00pm</description>
+<pubDate>Fri, 27 Nov 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Oh Yeah! ft. Peter Harris, Ed Perkins, Wes "Warmdaddy" Anderson, Joe Ashlar &amp; Gerald Watkins — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1407281</link>
+<guid isPermaLink="false">0d0323f9d7d127b0a4f6e8946d743408ec2f0dda</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Friday, November 27 | Time: 8:00pm</description>
+<pubDate>Fri, 27 Nov 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Oh Yeah! ft. Peter Harris, Ed Perkins, Wes "Warmdaddy" Anderson, Joe Ashlar &amp; Gerald Watkins — Bayou Bar at the Pontchartrain</title>
+<link>https://www.wwoz.org/events/1407256</link>
+<guid isPermaLink="false">8dad31209f7c54777761dbca3a7364d289786f3b</guid>
+<description>Venue: Bayou Bar at the Pontchartrain | Date: Friday, November 27 | Time: 10:00pm</description>
+<pubDate>Fri, 27 Nov 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Horace Trahan &amp; the Ossun Express — BJ's Lounge</title>
+<link>https://www.wwoz.org/events/1408321</link>
+<guid isPermaLink="false">6bd6091b791331b2be7599483644d6a0043654f7</guid>
+<description>Venue: BJ's Lounge | Date: Friday, November 27 | Time: 9:00pm</description>
+<pubDate>Fri, 27 Nov 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Redline — Blue Crab Restaurant &amp; Oyster Bar, The</title>
+<link>https://www.wwoz.org/events/1413241</link>
+<guid isPermaLink="false">a4e8756189cd47350409a85a15645e1d370ccc0e</guid>
+<description>Venue: Blue Crab Restaurant &amp; Oyster Bar, The | Date: Friday, November 27 | Time: 5:00pm</description>
+<pubDate>Fri, 27 Nov 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Free Agents Brass Band — Blue Crawfish, The</title>
+<link>https://www.wwoz.org/events/1388531</link>
+<guid isPermaLink="false">8e2e2ad87f22f8037b247ba70563e63c5a3ab524</guid>
+<description>Venue: Blue Crawfish, The | Date: Friday, November 27 | Time: 6:30pm</description>
+<pubDate>Fri, 27 Nov 2026 18:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Afrobeat NOLA — Blue Nile</title>
+<link>https://www.wwoz.org/events/1408131</link>
+<guid isPermaLink="false">ae16c9dd19519e4f890c06b2b04f7829ba67ebd8</guid>
+<description>Venue: Blue Nile | Date: Friday, November 27 | Time: 10:00pm</description>
+<pubDate>Fri, 27 Nov 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>DJ WestBankRed — Blue Nile - Balcony Room</title>
+<link>https://www.wwoz.org/events/1408106</link>
+<guid isPermaLink="false">0b3caad008c002a420f5fd7f7574c505c3e79d97</guid>
+<description>Venue: Blue Nile - Balcony Room | Date: Friday, November 27 | Time: 10:00pm</description>
+<pubDate>Fri, 27 Nov 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Danny Ray &amp; the Electric Barrelhouse — BMC</title>
+<link>https://www.wwoz.org/events/1411746</link>
+<guid isPermaLink="false">3be8274bcb1b1dec2a092cf9eb3f9d995a6a12c8</guid>
+<description>Venue: BMC | Date: Friday, November 27 | Time: 6:00pm</description>
+<pubDate>Fri, 27 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Keep it Rolling Brass Band — BMC</title>
+<link>https://www.wwoz.org/events/1411751</link>
+<guid isPermaLink="false">a747d7e12302145b8a9e53a9684a71fcf27a9ee6</guid>
+<description>Venue: BMC | Date: Friday, November 27 | Time: 9:00pm</description>
+<pubDate>Fri, 27 Nov 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>April Spain — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1413916</link>
+<guid isPermaLink="false">2af5f3b30e8741e8268c41210bd87d4e8c4f916e</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Friday, November 27 | Time: 4:00pm</description>
+<pubDate>Fri, 27 Nov 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Kid Merv — Bourbon O Bar at The Bourbon Orleans Hotel</title>
+<link>https://www.wwoz.org/events/1413921</link>
+<guid isPermaLink="false">4866b89df97c0239f9ebdcb9a337ec3bef2f83da</guid>
+<description>Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Friday, November 27 | Time: 8:00pm</description>
+<pubDate>Fri, 27 Nov 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Big In The 90's — Broadside, The</title>
+<link>https://www.wwoz.org/events/1406446</link>
+<guid isPermaLink="false">545c2073e99a4b35df8402a5fe400f6233ae7932</guid>
+<description>Venue: Broadside, The | Date: Friday, November 27 | Time: 9:00pm</description>
+<pubDate>Fri, 27 Nov 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Washboard Chaz — Buffa's</title>
+<link>https://www.wwoz.org/events/1407971</link>
+<guid isPermaLink="false">96272a67c22fb8f936ba57507434654ebdbb5f34</guid>
+<description>Venue: Buffa's | Date: Friday, November 27 | Time: 8:00pm</description>
+<pubDate>Fri, 27 Nov 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Blackdog — Café Negril</title>
+<link>https://www.wwoz.org/events/1411186</link>
+<guid isPermaLink="false">bc677f25b3e191fc15ca99c4fca4ba2f46c0d5c8</guid>
+<description>Venue: Café Negril | Date: Friday, November 27 | Time: 2:30pm</description>
+<pubDate>Fri, 27 Nov 2026 14:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Jamey St. Pierre &amp; The Honeycreepers — Café Negril</title>
+<link>https://www.wwoz.org/events/1411091</link>
+<guid isPermaLink="false">dc61cb30d439706857358488b57e4e1cfc200bdf</guid>
+<description>Venue: Café Negril | Date: Friday, November 27 | Time: 6:00pm</description>
+<pubDate>Fri, 27 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Higher Heights Reggae Band — Café Negril</title>
+<link>https://www.wwoz.org/events/1411106</link>
+<guid isPermaLink="false">44e4b450c4f632b8b4b7d4fb7651686c9a40cc57</guid>
+<description>Venue: Café Negril | Date: Friday, November 27 | Time: 10:00pm</description>
+<pubDate>Fri, 27 Nov 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Royal Caravan Brass Band — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1413071</link>
+<guid isPermaLink="false">9492e0ea1019148a7ec9cd7ab7681fd5c8e2100b</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Friday, November 27 | Time: 12:30pm</description>
+<pubDate>Fri, 27 Nov 2026 12:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Richard Scott Trio — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1413086</link>
+<guid isPermaLink="false">6e8e7d8eb69cc15fa470b616a4a88b1d8606f7f9</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Friday, November 27 | Time: 4:00pm</description>
+<pubDate>Fri, 27 Nov 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Nayo Jones Experience — Carousel Bar &amp; Lounge at Hotel Monteleone</title>
+<link>https://www.wwoz.org/events/1413091</link>
+<guid isPermaLink="false">2a221e8c1cd0e421a873d14c5c0b9ee8841141fb</guid>
+<description>Venue: Carousel Bar &amp; Lounge at Hotel Monteleone | Date: Friday, November 27 | Time: 9:00pm</description>
+<pubDate>Fri, 27 Nov 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Kristin Diable + Cally Cole &amp; The Cosmos — Chickie Wah Wah</title>
+<link>https://www.wwoz.org/events/1388766</link>
+<guid isPermaLink="false">a8f22664cada6e528f13889de62d97ac29ce7dcc</guid>
+<description>Venue: Chickie Wah Wah | Date: Friday, November 27 | Time: 9:00pm</description>
+<pubDate>Fri, 27 Nov 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Ricky Knight Jazz Quartet — Crescent City Brewhouse</title>
+<link>https://www.wwoz.org/events/1408571</link>
+<guid isPermaLink="false">a61f35153a31b9bb6e532b9aa0f02838ebe31eed</guid>
+<description>Venue: Crescent City Brewhouse | Date: Friday, November 27 | Time: 6:00pm</description>
+<pubDate>Fri, 27 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Michael Watson &amp; the Alchemy — d.b.a.</title>
+<link>https://www.wwoz.org/events/1409121</link>
+<guid isPermaLink="false">103f2c3e086e5559a109017957343a665ae7a951</guid>
+<description>Venue: d.b.a. | Date: Friday, November 27 | Time: 6:00pm</description>
+<pubDate>Fri, 27 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Ado Soul &amp; the Tribe — d.b.a.</title>
+<link>https://www.wwoz.org/events/1409116</link>
+<guid isPermaLink="false">9ca5cf11016c0ab24804e4836f061cd2ee7f96c2</guid>
+<description>Venue: d.b.a. | Date: Friday, November 27 | Time: 10:00pm</description>
+<pubDate>Fri, 27 Nov 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Jeremy Davenport — Davenport Lounge at The Ritz-Carlton</title>
-<link>https://www.wwoz.org/events/1410261</link>
-<guid isPermaLink="false">19d7b8518d58cea1e3be852913acf44b3428258c</guid>
-<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Thursday, November 26 | Time: 5:30pm</description>
-<pubDate>Thu, 26 Nov 2026 17:30:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1410366</link>
+<guid isPermaLink="false">214b9194f16dc9cfe7444250ac8b712a5d1b24c6</guid>
+<description>Venue: Davenport Lounge at The Ritz-Carlton | Date: Friday, November 27 | Time: 8:00pm</description>
+<pubDate>Fri, 27 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Jay Dufour &amp; the Strange Gang — Dos Jefes</title>
-<link>https://www.wwoz.org/events/1412071</link>
-<guid isPermaLink="false">ce1be22c5955e8c6eb383e37fb481a603a2702ac</guid>
-<description>Venue: Dos Jefes | Date: Thursday, November 26 | Time: 8:30pm</description>
-<pubDate>Thu, 26 Nov 2026 20:30:00 +0000</pubDate>
+<title>Ratchet Jazz: The Classic Edition ft. Shamarr Allen + More! — Dew Drop Inn Hotel &amp; Lounge</title>
+<link>https://www.wwoz.org/events/1415096</link>
+<guid isPermaLink="false">5ebd5c7b343a22db585f530ad984d55819d83f32</guid>
+<description>Venue: Dew Drop Inn Hotel &amp; Lounge | Date: Friday, November 27 | Time: 9:00pm</description>
+<pubDate>Fri, 27 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Human Horse Races with Live Music by Mira Lazuli — Easton Park Playground (OUTDOORS)</title>
-<link>https://www.wwoz.org/events/1414976</link>
-<guid isPermaLink="false">a0864b00cfcb5aa0919047c4af52528778b08b58</guid>
-<description>Venue: Easton Park Playground (OUTDOORS) | Date: Thursday, November 26 | Time: 11:00am</description>
-<pubDate>Thu, 26 Nov 2026 11:00:00 +0000</pubDate>
+<title>¡Vivaz! — Dos Jefes</title>
+<link>https://www.wwoz.org/events/1406646</link>
+<guid isPermaLink="false">0eb634415e2e404188904927132693376296258f</guid>
+<description>Venue: Dos Jefes | Date: Friday, November 27 | Time: 9:00pm</description>
+<pubDate>Fri, 27 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>BWalker Entertainment presents the Cosmic Kannection Band — Fat Catz</title>
-<link>https://www.wwoz.org/events/1415091</link>
-<guid isPermaLink="false">1069c40986f2a4e6c3c6c6e7770b8224529f0934</guid>
-<description>Venue: Fat Catz | Date: Thursday, November 26 | Time: 7:00pm</description>
-<pubDate>Thu, 26 Nov 2026 19:00:00 +0000</pubDate>
+<title>Pell's Disco Party — Double Dealer at the Orpheum Theater</title>
+<link>https://www.wwoz.org/events/1404656</link>
+<guid isPermaLink="false">6cdf221c2d620120524ed2acb7e1455f0dc32827</guid>
+<description>Venue: Double Dealer at the Orpheum Theater | Date: Friday, November 27 | Time: 9:00pm</description>
+<pubDate>Fri, 27 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Thee Tim Brown Arrangement — Favela Chic</title>
-<link>https://www.wwoz.org/events/1408821</link>
-<guid isPermaLink="false">470a0cc84e53a6473c0461891550b3b5deb51304</guid>
-<description>Venue: Favela Chic | Date: Thursday, November 26 | Time: 7:00pm</description>
-<pubDate>Thu, 26 Nov 2026 19:00:00 +0000</pubDate>
+<title>Jass Hysteria — Favela Chic</title>
+<link>https://www.wwoz.org/events/1406956</link>
+<guid isPermaLink="false">b80d2872e48e34e767aaf50022b25f44e940b0b9</guid>
+<description>Venue: Favela Chic | Date: Friday, November 27 | Time: 4:00pm</description>
+<pubDate>Fri, 27 Nov 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>J.A.M. Brass Band — Favela Chic</title>
+<link>https://www.wwoz.org/events/1408856</link>
+<guid isPermaLink="false">7ecb95f8a7a6a954ef33f907b6efdb6857584ae9</guid>
+<description>Venue: Favela Chic | Date: Friday, November 27 | Time: 7:00pm</description>
+<pubDate>Fri, 27 Nov 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Shorty &amp; The Giants — Favela Chic</title>
+<link>https://www.wwoz.org/events/1408886</link>
+<guid isPermaLink="false">c5bf398e0bc2ef8ae316f9060b52355560d416b7</guid>
+<description>Venue: Favela Chic | Date: Friday, November 27 | Time: 10:00pm</description>
+<pubDate>Fri, 27 Nov 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Richard "Piano" Scott — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1405636</link>
-<guid isPermaLink="false">5d835db3ab5e40466930e6cc30b45a7d1adc2841</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Thursday, November 26 | Time: 12:00pm</description>
-<pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+<link>https://www.wwoz.org/events/1405656</link>
+<guid isPermaLink="false">5b2955f127ed3667f674e598af59e9513e5a28b3</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Friday, November 27 | Time: 1:00pm</description>
+<pubDate>Fri, 27 Nov 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Doyle Cooper Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1405441</link>
-<guid isPermaLink="false">f0dcb624321908554f1b2e5a1b10a9504c7ef687</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Thursday, November 26 | Time: 2:00pm</description>
-<pubDate>Thu, 26 Nov 2026 14:00:00 +0000</pubDate>
+<title>Sam Friend Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1405836</link>
+<guid isPermaLink="false">512cd6085a5d6521ac4322ea0929bfdf28f735e0</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Friday, November 27 | Time: 3:00pm</description>
+<pubDate>Fri, 27 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>John Saavedra Band — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1405816</link>
-<guid isPermaLink="false">1a484bb520632a9862356794b3b68acae4ad179b</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Thursday, November 26 | Time: 5:00pm</description>
-<pubDate>Thu, 26 Nov 2026 17:00:00 +0000</pubDate>
+<title>Sazarac Jazz Band — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1405841</link>
+<guid isPermaLink="false">7fb659cd4afa7bd9c05f20929bfd055a7a51a6d4</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Friday, November 27 | Time: 6:00pm</description>
+<pubDate>Fri, 27 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Fritzel's All Star Band with John Zarsky — Fritzel's Jazz Club</title>
-<link>https://www.wwoz.org/events/1405776</link>
-<guid isPermaLink="false">ba0201a23b33d21e576bfad72e46d82a7c735bd4</guid>
-<description>Venue: Fritzel's Jazz Club | Date: Thursday, November 26 | Time: 8:00pm</description>
-<pubDate>Thu, 26 Nov 2026 20:00:00 +0000</pubDate>
+<title>Fritzel's All Star Band with Kevin Ray Clark — Fritzel's Jazz Club</title>
+<link>https://www.wwoz.org/events/1405756</link>
+<guid isPermaLink="false">9c68b94bd234e165ada718051832cdec213497a2</guid>
+<description>Venue: Fritzel's Jazz Club | Date: Friday, November 27 | Time: 9:00pm</description>
+<pubDate>Fri, 27 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Tail-Gators — Gretna Tavern</title>
-<link>https://www.wwoz.org/events/1401561</link>
-<guid isPermaLink="false">81da158a7971064f011d2893d96f731a426db2f0</guid>
-<description>Venue: Gretna Tavern | Date: Thursday, November 26 | Time: 8:30pm</description>
-<pubDate>Thu, 26 Nov 2026 20:30:00 +0000</pubDate>
+<title>Cortland Burke &amp; His Close Company + Gal Holiday and the Honky Tonk Revue — Gasa Gasa</title>
+<link>https://www.wwoz.org/events/1409891</link>
+<guid isPermaLink="false">594da69567626806fdc9078d57afa1a30aab2783</guid>
+<description>Venue: Gasa Gasa | Date: Friday, November 27 | Time: 9:00pm</description>
+<pubDate>Fri, 27 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Brass-A-Holics — Jazz Playhouse</title>
-<link>https://www.wwoz.org/events/1413456</link>
-<guid isPermaLink="false">e997be3860971b76f3abc5a7293c28d4b2fd8ef2</guid>
-<description>Venue: Jazz Playhouse | Date: Thursday, November 26 | Time: 7:30pm</description>
-<pubDate>Thu, 26 Nov 2026 19:30:00 +0000</pubDate>
+<title>Night Sesh — Gasa Gasa</title>
+<link>https://www.wwoz.org/events/1409901</link>
+<guid isPermaLink="false">1eba64a85c7e417a8415e556efbf5fd87a17bd75</guid>
+<description>Venue: Gasa Gasa | Date: Friday, November 27 | Time: 11:45pm</description>
+<pubDate>Fri, 27 Nov 2026 23:45:00 +0000</pubDate>
 </item>
 <item>
-<title>The Soul Rebels — Le Bon Temps Roulé</title>
-<link>https://www.wwoz.org/events/1393216</link>
-<guid isPermaLink="false">bee1d20cc249ef4b2000c4f9736c113864fea06f</guid>
-<description>Venue: Le Bon Temps Roulé | Date: Thursday, November 26 | Time: 11:00pm</description>
-<pubDate>Thu, 26 Nov 2026 23:00:00 +0000</pubDate>
+<title>Justin Garner — Good Measure at The Barnett</title>
+<link>https://www.wwoz.org/events/1402101</link>
+<guid isPermaLink="false">b62ba71e1e6500f1e55802105be5d11dc97db375</guid>
+<description>Venue: Good Measure at The Barnett | Date: Friday, November 27 | Time: 9:00pm</description>
+<pubDate>Fri, 27 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Danny Rubio &amp; the Catahoula Music Company ft. Jack Pritchett — Maison Bourbon Jazz Club</title>
-<link>https://www.wwoz.org/events/1404481</link>
-<guid isPermaLink="false">339b7334d431d32df04a07c0270ea7b63a281462</guid>
-<description>Venue: Maison Bourbon Jazz Club | Date: Thursday, November 26 | Time: 8:00pm</description>
-<pubDate>Thu, 26 Nov 2026 20:00:00 +0000</pubDate>
+<title>Neighborhood Indigo Watch Party with Bugga, Xhriiisplain &amp; More! — Hi Ho Lounge</title>
+<link>https://www.wwoz.org/events/1410541</link>
+<guid isPermaLink="false">880b4d2051494b75910beec2493057c4142d3e14</guid>
+<description>Venue: Hi Ho Lounge | Date: Friday, November 27 | Time: 7:00pm</description>
+<pubDate>Fri, 27 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Giselle Anguizola Trio — May Baily's Place</title>
-<link>https://www.wwoz.org/events/1408746</link>
-<guid isPermaLink="false">ebb16d1cdd69e95f71bb527f192d4c7f55037db8</guid>
-<description>Venue: May Baily's Place | Date: Thursday, November 26 | Time: 8:30pm</description>
-<pubDate>Thu, 26 Nov 2026 20:30:00 +0000</pubDate>
+<title>Rik Slave’s DarkLounge Ministries — Holy Diver</title>
+<link>https://www.wwoz.org/events/1411541</link>
+<guid isPermaLink="false">c5eda149253f4d2fed6d5d7b636e35845d072ced</guid>
+<description>Venue: Holy Diver | Date: Friday, November 27 | Time: 8:00pm</description>
+<pubDate>Fri, 27 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Victoria Amato, Lisa Bittick-Lowe &amp; Hannah Krieger-Benson — Pat O'Brien's</title>
-<link>https://www.wwoz.org/events/1410741</link>
-<guid isPermaLink="false">a923e98b718339b4efa933b5e8ab99273f5c82fe</guid>
-<description>Venue: Pat O'Brien's | Date: Thursday, November 26 | Time: 5:30pm</description>
-<pubDate>Thu, 26 Nov 2026 17:30:00 +0000</pubDate>
+<title>James Hall (Solo) — Holy Diver</title>
+<link>https://www.wwoz.org/events/1415846</link>
+<guid isPermaLink="false">29e5c613dbc0e4dbb545195a66bf56b9325e5ac2</guid>
+<description>Venue: Holy Diver | Date: Friday, November 27 | Time: 10:00pm</description>
+<pubDate>Fri, 27 Nov 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1404081</link>
-<guid isPermaLink="false">08b5f658a8257b7b86f09feb1e5ce445f74d3707</guid>
-<description>Venue: Preservation Hall | Date: Thursday, November 26 | Time: 5:00pm</description>
-<pubDate>Thu, 26 Nov 2026 17:00:00 +0000</pubDate>
+<title>Trixie Minx’s Burlesque Ballroom ft. Romy Kaye &amp; the Mercy Buckets — Jazz Playhouse</title>
+<link>https://www.wwoz.org/events/1413531</link>
+<guid isPermaLink="false">b96f52677bf7bfb68e09f3c358d692a72c46f670</guid>
+<description>Venue: Jazz Playhouse | Date: Friday, November 27 | Time: 8:00pm</description>
+<pubDate>Fri, 27 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1404086</link>
-<guid isPermaLink="false">0784c84448b896a5d0d720181e9a15d07e1ced69</guid>
-<description>Venue: Preservation Hall | Date: Thursday, November 26 | Time: 6:15pm</description>
-<pubDate>Thu, 26 Nov 2026 18:15:00 +0000</pubDate>
+<title>Trixie Minx’s Burlesque Ballroom ft. Romy Kaye &amp; the Mercy Buckets — Jazz Playhouse</title>
+<link>https://www.wwoz.org/events/1413566</link>
+<guid isPermaLink="false">087861c2a8a3362c5a1cffb3824c160dd2a56b69</guid>
+<description>Venue: Jazz Playhouse | Date: Friday, November 27 | Time: 9:30pm</description>
+<pubDate>Fri, 27 Nov 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1404091</link>
-<guid isPermaLink="false">47427aada2af3939a461c27aea748cdb60c42aa9</guid>
-<description>Venue: Preservation Hall | Date: Thursday, November 26 | Time: 7:30pm</description>
-<pubDate>Thu, 26 Nov 2026 19:30:00 +0000</pubDate>
+<title>Bearded Chieftains — Le Bon Temps Roulé</title>
+<link>https://www.wwoz.org/events/1389601</link>
+<guid isPermaLink="false">42c8180a5adf14108e9416076f692a6f755d8135</guid>
+<description>Venue: Le Bon Temps Roulé | Date: Friday, November 27 | Time: 11:00pm</description>
+<pubDate>Fri, 27 Nov 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Preservation All-Stars ft. Wendell Brunious — Preservation Hall</title>
-<link>https://www.wwoz.org/events/1404096</link>
-<guid isPermaLink="false">bf3731d98bd49d4ee5ccda1900d0ceaf6490adfd</guid>
-<description>Venue: Preservation Hall | Date: Thursday, November 26 | Time: 8:45pm</description>
-<pubDate>Thu, 26 Nov 2026 20:45:00 +0000</pubDate>
+<title>Raphael Bas — Lobby Lounge at JW Marriott</title>
+<link>https://www.wwoz.org/events/1361861</link>
+<guid isPermaLink="false">bef35d32e727b75905c39addfe34b79c8ad5eeb8</guid>
+<description>Venue: Lobby Lounge at JW Marriott | Date: Friday, November 27 | Time: 6:00pm</description>
+<pubDate>Fri, 27 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Belinda Moody — Salon Salon</title>
-<link>https://www.wwoz.org/events/1411286</link>
-<guid isPermaLink="false">88a5c463bcd92ede38a5aa66b41fcb7659b095a0</guid>
-<description>Venue: Salon Salon | Date: Thursday, November 26 | Time: 7:00pm</description>
-<pubDate>Thu, 26 Nov 2026 19:00:00 +0000</pubDate>
+<title>Mojo Jazz Trio — Louie's Roadhouse at Creole Gardens</title>
+<link>https://www.wwoz.org/events/1414936</link>
+<guid isPermaLink="false">2cd21a777416fdc2254875cdee6f925a312a7c48</guid>
+<description>Venue: Louie's Roadhouse at Creole Gardens | Date: Friday, November 27 | Time: 5:30pm</description>
+<pubDate>Fri, 27 Nov 2026 17:30:00 +0000</pubDate>
 </item>
 <item>
-<title>IT'S GIVING with DJs Abuelita, Otto &amp; Elliot from Earth — Saturn Bar</title>
-<link>https://www.wwoz.org/events/1414971</link>
-<guid isPermaLink="false">4386c0726856aa581840a9671f7e98d3a6cd2125</guid>
-<description>Venue: Saturn Bar | Date: Thursday, November 26 | Time: 10:00pm</description>
-<pubDate>Thu, 26 Nov 2026 22:00:00 +0000</pubDate>
+<title>Kid Chocolate &amp; the Free P.O.C Trio — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1405351</link>
+<guid isPermaLink="false">681784005909247e3fe3bacc35bc0e6c92f56319</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Friday, November 27 | Time: 3:00pm</description>
+<pubDate>Fri, 27 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Thanksgiving Shrimp Boil Cabaret ft. The Delta Revues — Shrimp Boil Cabaret</title>
-<link>https://www.wwoz.org/events/1414961</link>
-<guid isPermaLink="false">b24bd4ea62c6f286cb6896d3bb6565556520f650</guid>
-<description>Venue: Shrimp Boil Cabaret | Date: Thursday, November 26 | Time: 6:00pm</description>
-<pubDate>Thu, 26 Nov 2026 18:00:00 +0000</pubDate>
+<title>Leroy Jones &amp; Paul Longstreth — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1405216</link>
+<guid isPermaLink="false">c6421ebc718b3d049cf5c55c8c88e4cac0dd9c55</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Friday, November 27 | Time: 7:00pm</description>
+<pubDate>Fri, 27 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Tom Saunders &amp; The Hot Cats — Spotted Cat</title>
-<link>https://www.wwoz.org/events/1409236</link>
-<guid isPermaLink="false">0f47d2d159b577a31b055e6491679ab3d9fd6869</guid>
-<description>Venue: Spotted Cat | Date: Thursday, November 26 | Time: 6:00pm</description>
-<pubDate>Thu, 26 Nov 2026 18:00:00 +0000</pubDate>
+<title>Mahogany Hall Jazz Band ft. Mike Fulton with Midnight Burlesque — Mahogany Jazz Hall</title>
+<link>https://www.wwoz.org/events/1405326</link>
+<guid isPermaLink="false">cb339565079bd2111f390175d4f4638302e257bc</guid>
+<description>Venue: Mahogany Jazz Hall | Date: Friday, November 27 | Time: 9:30pm</description>
+<pubDate>Fri, 27 Nov 2026 21:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Dulce Ritmo — Three Muses</title>
-<link>https://www.wwoz.org/events/1412486</link>
-<guid isPermaLink="false">e1434a13718a5a295e9bb2c77a2eb7aea0ec353c</guid>
-<description>Venue: Three Muses | Date: Thursday, November 26 | Time: 8:30pm</description>
-<pubDate>Thu, 26 Nov 2026 20:30:00 +0000</pubDate>
+<title>Eight Dice Cloth — Maison, The</title>
+<link>https://www.wwoz.org/events/1411886</link>
+<guid isPermaLink="false">ce74bfd8e14e809d28760f4f5d7ba120b62661b6</guid>
+<description>Venue: Maison, The | Date: Friday, November 27 | Time: 3:00pm</description>
+<pubDate>Fri, 27 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mark Barrett &amp; The First Calls — Tropical Isle Bourbon</title>
-<link>https://www.wwoz.org/events/1406076</link>
-<guid isPermaLink="false">8cddebe5d07760bd82507a8fbc415f42ee847111</guid>
-<description>Venue: Tropical Isle Bourbon | Date: Thursday, November 26 | Time: 5:00pm</description>
-<pubDate>Thu, 26 Nov 2026 17:00:00 +0000</pubDate>
+<title>Shotgun Jazz Band — Maison, The</title>
+<link>https://www.wwoz.org/events/1411916</link>
+<guid isPermaLink="false">9a61a7e01885763d001d28b0f5589bc7aa187b8f</guid>
+<description>Venue: Maison, The | Date: Friday, November 27 | Time: 5:00pm</description>
+<pubDate>Fri, 27 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Thanksgiving with Corey Henry &amp; the Treme Funktet — Vaughan's Lounge</title>
-<link>https://www.wwoz.org/events/1415841</link>
-<guid isPermaLink="false">fd7fc05281d79a954d4cef4e062ff7989289492d</guid>
-<description>Venue: Vaughan's Lounge | Date: Thursday, November 26 | Time: 10:30pm</description>
-<pubDate>Thu, 26 Nov 2026 22:30:00 +0000</pubDate>
+<title>Bra's Band Brass Band — Maison, The</title>
+<link>https://www.wwoz.org/events/1411891</link>
+<guid isPermaLink="false">52904288761def57fd6c2bcd631246976a711257</guid>
+<description>Venue: Maison, The | Date: Friday, November 27 | Time: 8:00pm</description>
+<pubDate>Fri, 27 Nov 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>DJ KVng Fred — Maison, The</title>
+<link>https://www.wwoz.org/events/1411901</link>
+<guid isPermaLink="false">1661bed4ea0493430db5e0ff8bec33aa3fadba26</guid>
+<description>Venue: Maison, The | Date: Friday, November 27 | Time: 11:00pm</description>
+<pubDate>Fri, 27 Nov 2026 23:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Leroy Marshall Band — Maison Bourbon Jazz Club</title>
+<link>https://www.wwoz.org/events/1400541</link>
+<guid isPermaLink="false">15efa01f1ecad09941e1956cf48a51bbe795e335</guid>
+<description>Venue: Maison Bourbon Jazz Club | Date: Friday, November 27 | Time: 8:15pm</description>
+<pubDate>Fri, 27 Nov 2026 20:15:00 +0000</pubDate>
+</item>
+<item>
+<title>(FRIDAY SHOW) Turkey Jam ft. The New Orleans Suspects with George Porter Jr, River Eckert &amp; More! — Maple Leaf</title>
+<link>https://www.wwoz.org/events/1414666</link>
+<guid isPermaLink="false">0927b07fc6d8794cb04d02a2384cd34331b6e00f</guid>
+<description>Venue: Maple Leaf | Date: Friday, November 27 | Time: 9:00pm</description>
+<pubDate>Fri, 27 Nov 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Silver Lining Serenaders — May Baily's Place</title>
+<link>https://www.wwoz.org/events/1408741</link>
+<guid isPermaLink="false">ef98438499e32a6d8e350ddcf30a6f69848f46bb</guid>
+<description>Venue: May Baily's Place | Date: Friday, November 27 | Time: 8:30pm</description>
+<pubDate>Fri, 27 Nov 2026 20:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Bucktown Allstars — Mid-City Lanes Rock 'n' Bowl</title>
+<link>https://www.wwoz.org/events/1402541</link>
+<guid isPermaLink="false">d6965e5504895e5768f9bf9d67e207b9e44830e9</guid>
+<description>Venue: Mid-City Lanes Rock 'n' Bowl | Date: Friday, November 27 | Time: 8:30pm</description>
+<pubDate>Fri, 27 Nov 2026 20:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Zoë de Priester Duo — New Orleans Jazz National Historical Park</title>
+<link>https://www.wwoz.org/events/1406246</link>
+<guid isPermaLink="false">192bc5bf5e9c07a6488dbe3931f81bf8ce06becb</guid>
+<description>Venue: New Orleans Jazz National Historical Park | Date: Friday, November 27 | Time: 3:00pm</description>
+<pubDate>Fri, 27 Nov 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jai Alai Reunion &amp; Re-Release Party with Hogtown Creek Bluegrass Band — NOLA 'Nacular Art Gallery</title>
+<link>https://www.wwoz.org/events/1402306</link>
+<guid isPermaLink="false">aa8ef02552fbc11114111eec9345f41ee92f71ba</guid>
+<description>Venue: NOLA 'Nacular Art Gallery | Date: Friday, November 27 | Time: 7:00pm</description>
+<pubDate>Fri, 27 Nov 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Mullitt — NOLA Brewing</title>
+<link>https://www.wwoz.org/events/1410586</link>
+<guid isPermaLink="false">c065387d849069a20fa42ecd554bd378c418e79e</guid>
+<description>Venue: NOLA Brewing | Date: Friday, November 27 | Time: 7:00pm</description>
+<pubDate>Fri, 27 Nov 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Outta Nowhere — Old Point Bar</title>
+<link>https://www.wwoz.org/events/1407616</link>
+<guid isPermaLink="false">211eb8fd2eeadfe63e5a5435c436b25f51d020a4</guid>
+<description>Venue: Old Point Bar | Date: Friday, November 27 | Time: 9:00pm</description>
+<pubDate>Fri, 27 Nov 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>PJ Morton: Annual Black Friday Show — Orpheum Theater</title>
+<link>https://www.wwoz.org/events/1357606</link>
+<guid isPermaLink="false">13e9e854f61ba5621c2dceedbcdeb3969320555c</guid>
+<description>Venue: Orpheum Theater | Date: Friday, November 27 | Time: 8:00pm</description>
+<pubDate>Fri, 27 Nov 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Victoria Amato &amp; Jim Lockwood — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1410746</link>
+<guid isPermaLink="false">49e365cbe222c9ae112c843f40ef2f40c6b391c3</guid>
+<description>Venue: Pat O'Brien's | Date: Friday, November 27 | Time: 1:00pm</description>
+<pubDate>Fri, 27 Nov 2026 13:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Lisa Bittick-Lowe, Matt Hayden &amp; Ben Michaels — Pat O'Brien's</title>
+<link>https://www.wwoz.org/events/1410751</link>
+<guid isPermaLink="false">3fbe5ebfcb1edcd658f0fa8146df2667b74d1269</guid>
+<description>Venue: Pat O'Brien's | Date: Friday, November 27 | Time: 6:00pm</description>
+<pubDate>Fri, 27 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>John Renshaw — Pirogue's Whiskey Bayou (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1391251</link>
+<guid isPermaLink="false">142d3aa64b627d805e8b56d183202ab6acfcbc7e</guid>
+<description>Venue: Pirogue's Whiskey Bayou (OUTDOORS) | Date: Friday, November 27 | Time: 7:00pm</description>
+<pubDate>Fri, 27 Nov 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1404191</link>
+<guid isPermaLink="false">b9512a962c0e5d6b2cae8f6029896d2f0c598b9d</guid>
+<description>Venue: Preservation Hall | Date: Friday, November 27 | Time: 5:00pm</description>
+<pubDate>Fri, 27 Nov 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1404196</link>
+<guid isPermaLink="false">e65e188ef056ffaaac29ea3302dbcce4d47d7103</guid>
+<description>Venue: Preservation Hall | Date: Friday, November 27 | Time: 6:15pm</description>
+<pubDate>Fri, 27 Nov 2026 18:15:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1404201</link>
+<guid isPermaLink="false">33f2d93c68ff7c34f08bab7ab6ad3f515b5f8b82</guid>
+<description>Venue: Preservation Hall | Date: Friday, November 27 | Time: 7:30pm</description>
+<pubDate>Fri, 27 Nov 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Preservation All-Stars ft. Mark Braud — Preservation Hall</title>
+<link>https://www.wwoz.org/events/1404206</link>
+<guid isPermaLink="false">05f59386783b6313f5f78092fd794685aa1f0821</guid>
+<description>Venue: Preservation Hall | Date: Friday, November 27 | Time: 8:45pm</description>
+<pubDate>Fri, 27 Nov 2026 20:45:00 +0000</pubDate>
+</item>
+<item>
+<title>RAVE ft. Space Disco &amp; Local Riffs — Santos Bar</title>
+<link>https://www.wwoz.org/events/1411476</link>
+<guid isPermaLink="false">e7cf805029e17f3e5826d7230ae0834044274477</guid>
+<description>Venue: Santos Bar | Date: Friday, November 27 | Time: 9:00pm</description>
+<pubDate>Fri, 27 Nov 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Bayou Manouche — Seawitch Restaurant &amp; Oyster Bar (OUTDOORS)</title>
+<link>https://www.wwoz.org/events/1407096</link>
+<guid isPermaLink="false">e4dd372d1caba903170a9706c2f5a1b7d65bd045</guid>
+<description>Venue: Seawitch Restaurant &amp; Oyster Bar (OUTDOORS) | Date: Friday, November 27 | Time: 5:00pm</description>
+<pubDate>Fri, 27 Nov 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Big Bill + Vinny's Mirror + Chalant — Siberia</title>
+<link>https://www.wwoz.org/events/1391761</link>
+<guid isPermaLink="false">89dc1d4fa351c76416a9b2949b1eac7f1290e0c3</guid>
+<description>Venue: Siberia | Date: Friday, November 27 | Time: 9:00pm</description>
+<pubDate>Fri, 27 Nov 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Living Room: A Songwriter Showcase ft. Paul Faith — Skeeta Hawk Brewing</title>
+<link>https://www.wwoz.org/events/1402681</link>
+<guid isPermaLink="false">81e0157d9cadfe79dca4b6f01831505c0faf1307</guid>
+<description>Venue: Skeeta Hawk Brewing | Date: Friday, November 27 | Time: 6:00pm</description>
+<pubDate>Fri, 27 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Oscar Rossignoli Record Release Party — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1410176</link>
+<guid isPermaLink="false">8dd781ec4c55dc13e35a9b35049f15b798269004</guid>
+<description>Venue: Snug Harbor | Date: Friday, November 27 | Time: 7:00pm</description>
+<pubDate>Fri, 27 Nov 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Oscar Rossignoli Record Release Party — Snug Harbor</title>
+<link>https://www.wwoz.org/events/1410171</link>
+<guid isPermaLink="false">40ff565c45d5c01e42e2c41c3d1b75ac6556bcea</guid>
+<description>Venue: Snug Harbor | Date: Friday, November 27 | Time: 9:00pm</description>
+<pubDate>Fri, 27 Nov 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Paradise Jazz Band — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1409391</link>
+<guid isPermaLink="false">b9a5f30e55fe2488b254480f636f04d2248825a7</guid>
+<description>Venue: Spotted Cat | Date: Friday, November 27 | Time: 2:00pm</description>
+<pubDate>Fri, 27 Nov 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>New Orleans Cottonmouth Kings — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1409396</link>
+<guid isPermaLink="false">c3a02096e77ba91af270578f4d7581dc62bbb185</guid>
+<description>Venue: Spotted Cat | Date: Friday, November 27 | Time: 6:00pm</description>
+<pubDate>Fri, 27 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Ashton Hines &amp; The Big Easy Brawlers — Spotted Cat</title>
+<link>https://www.wwoz.org/events/1409541</link>
+<guid isPermaLink="false">5fafb0d1c48ac3e1e6bb6d7200d35ce9427336f0</guid>
+<description>Venue: Spotted Cat | Date: Friday, November 27 | Time: 10:00pm</description>
+<pubDate>Fri, 27 Nov 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Steamboat Stompers — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1415246</link>
+<guid isPermaLink="false">cc2b3405d9ca70e79cbe518ad5cb2e69f60a8761</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, November 27 | Time: 11:00am</description>
+<pubDate>Fri, 27 Nov 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Steamboat Stompers — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1415286</link>
+<guid isPermaLink="false">0cc3590aed7f0ae15a9bf2dc49dbc9caec7e7fa4</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, November 27 | Time: 2:00pm</description>
+<pubDate>Fri, 27 Nov 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Dukes of Dixieland — Steamboat Natchez</title>
+<link>https://www.wwoz.org/events/1415321</link>
+<guid isPermaLink="false">5959920f24074e0251e60d2f2bb6aac90bdacfdd</guid>
+<description>Venue: Steamboat Natchez | Date: Friday, November 27 | Time: 6:00pm</description>
+<pubDate>Fri, 27 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Bad Penny Pleasuremakers — Three Muses</title>
+<link>https://www.wwoz.org/events/1412446</link>
+<guid isPermaLink="false">497f05b83d8812ad5888dfe38d8813088bc543f5</guid>
+<description>Venue: Three Muses | Date: Friday, November 27 | Time: 7:30pm</description>
+<pubDate>Fri, 27 Nov 2026 19:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Love In The Club: 2000's Hip-Hop &amp; R&amp;B Dance Party ft. DJ New Era — Tipitina's</title>
+<link>https://www.wwoz.org/events/1412926</link>
+<guid isPermaLink="false">ebbdf593d4e6ba668cf25381a3cdaffc29d52ae0</guid>
+<description>Venue: Tipitina's | Date: Friday, November 27 | Time: 9:00pm</description>
+<pubDate>Fri, 27 Nov 2026 21:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
